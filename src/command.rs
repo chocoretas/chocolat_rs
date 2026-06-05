@@ -4,6 +4,7 @@ use async_trait::async_trait;
 pub struct CommandInfo {
     pub name: &'static str,
     pub description: &'static str,
+    pub category: &'static str,
 }
 
 #[async_trait]

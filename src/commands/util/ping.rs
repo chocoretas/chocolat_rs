@@ -23,6 +23,7 @@ impl Command for Ping {
         CommandInfo {
             name: "ping",
             description: "Responde con pong",
+            category: "Util",
         }
     }
 
