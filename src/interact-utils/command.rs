@@ -1,7 +1,6 @@
 use serenity::all::{Context, Message};
 use async_trait::async_trait;
 
-#[derive(Clone, Copy)]  // Podemos clonar la struct para interactions
 pub struct CommandInfo {
     pub name: &'static str,
     pub description: &'static str,

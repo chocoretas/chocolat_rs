@@ -2,6 +2,7 @@
 pub mod fun;
 pub mod info;
 pub mod interact;
+pub mod interaction;
 pub mod music;
 pub mod react;
 pub mod util;
