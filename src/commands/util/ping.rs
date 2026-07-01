@@ -1,6 +1,6 @@
 use crate::command::*;
 
-pub struct Ping;
+pub struct PING;
 
 use std::time::Instant;
 
@@ -18,7 +18,7 @@ use crate::command::{
 };
 
 #[async_trait::async_trait]
-impl Command for Ping {
+impl Command for PING {
     fn info(&self) -> CommandInfo {
         CommandInfo {
             name: "ping",
@@ -73,6 +73,6 @@ impl Command for Ping {
 
 inventory::submit! {
     CommandRegistration {
-        command: &Ping
+        command: &PING
     }
 }

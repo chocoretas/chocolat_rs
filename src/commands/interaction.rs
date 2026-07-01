@@ -73,19 +73,18 @@ impl Command for InteractionCommand {
             self.text_with_mention
                 .replace("$User", username)
                 .replace("$Target", t)
-                .replace("$mencionado", t)
         } else {
             self.text_without_mention.replace("$User", username)
         };
 
-        // Imagen de interaccion random
+        // Imagen de innteraccion random
         let file_path = self.random_file()
-            .unwrap_or_else(|| format!("{}/default.gif", self.media_folder())); // fallback seguro
+            .expect(&format!("No se encontraron archivos en {}", self.media_folder()));
 
         let filename = std::path::Path::new(&file_path)
             .file_name()
             .and_then(|s| s.to_str())
-            .unwrap_or("image.gif");
+            .expect("Nombre de archivo inválido");
 
         let embed = CreateEmbed::new()
             //.color(self.color) not implemented yet
