@@ -1,0 +1,1 @@
+about, botinfo, bugreport, donate, help, invite, ping, release, support, vote.
