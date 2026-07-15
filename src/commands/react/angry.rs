@@ -4,11 +4,11 @@ use serenity::all::Colour;
 
 pub static ANGRY: InteractionCommand = InteractionCommand::new(
     "angry",
-    "abraza a otro usuario",
+    "Muestra tu enfado o enfádate con alguien",
     "Interacción",
     false,
-    "**$User** se ha enfadado >:C",
-    "**$User** se ha enfadado >:C" // Este code es basura pero soy muy flojo para decirle q no :wilted_rose:
+    "**$User** se ha enfadado con **$Target** >:C",
+    "**$User** se ha enfadado >:C"
 );
 
 inventory::submit! {

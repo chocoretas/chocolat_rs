@@ -1,19 +1,18 @@
-// src/commands/feed.rs
 use crate::commands::interaction::InteractionCommand;
 use crate::command::CommandRegistration;
 use serenity::all::Colour;
 
-pub static FEED: InteractionCommand = InteractionCommand::new(
-    "feed",
-    "Dale de comer a un usuario, o deja que Chocolat te dé de comer.",
+pub static CHEEKS: InteractionCommand = InteractionCommand::new(
+    "cheeks",
+    "Pellizca las mejillas de un usuario",
     "Interacción",
     false,
-    "**$User** le dio de comer a **$Target** con mucho cariño",
-    "**$User** está comiendo algo delicioso"
+    "**$User** pellizca las mejillas de **$Target**",
+    "**Chocolat** pellizca las mejillas de **$User**"
 );
 
 inventory::submit! {
     CommandRegistration {
-        command: &FEED
+        command: &CHEEKS
     }
 }
