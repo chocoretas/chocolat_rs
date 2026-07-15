@@ -1,0 +1,61 @@
+[
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2019-01-02T11:29:48.039000-08:00",
+    "comando_completo": "ch!tempmute",
+    "respuesta_bot": {
+      "fecha": "2019-01-02T11:29:48.266000-08:00",
+      "contenido": "**Modo de uso:** `ch!tempmute < @usuario > <tiempo> (hours, minutes, seconds, miliseconds)`\n**Ejemplo:** ch!tempmute @SomeUser 10 minutes",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2019-01-02T11:31:20.720000-08:00",
+    "comando_completo": "ch!tempmute @Arcus 5 seconds",
+    "respuesta_bot": {
+      "fecha": "2019-01-02T11:31:25.078000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":mute: Usuario silenciado",
+          "url": null,
+          "timestamp": "2019-01-02T11:31:25-08:00",
+          "description": "El usuario **☀Ðαяиεl♚** fue silenciado temporalmente (5 segundos).",
+          "color": "#FFB400",
+          "images": [],
+          "fields": [
+            {
+              "name": "Admin/mod responsable:",
+              "value": "Noname7612#5043",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.358
+    }
+  },
+  {
+    "usuario": "nxthing7744",
+    "usuario_id": "503398680187895818",
+    "fecha_comando": "2019-01-06T19:18:28.745000-08:00",
+    "comando_completo": "ch!tempmute",
+    "respuesta_bot": {
+      "fecha": "2019-01-06T19:18:28.826000-08:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.081
+    }
+  }
+]

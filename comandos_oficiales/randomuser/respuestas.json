@@ -1,0 +1,2151 @@
+[
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-02T11:58:38.198000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-01-02T11:58:38.457000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Cuervo**",
+          "color": "#FD4AF9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "leandro03856",
+    "usuario_id": "488189886839390218",
+    "fecha_comando": "2019-02-04T13:58:02.671000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-02-04T13:58:02.881000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@_charlios_**",
+          "color": "#F0EC22",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "leandro03856",
+    "usuario_id": "488189886839390218",
+    "fecha_comando": "2019-02-04T13:58:07.059000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-02-04T13:58:07.209000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Kai**",
+          "color": "#B83698",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "leandro03856",
+    "usuario_id": "488189886839390218",
+    "fecha_comando": "2019-02-04T13:58:11.551000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-02-04T13:58:11.860000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@XxGOKUxX**",
+          "color": "#47D450",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "zack041801",
+    "usuario_id": "524963375596306452",
+    "fecha_comando": "2019-03-20T09:42:30.249000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-03-20T09:42:30.355000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#3F59F4",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.106
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T22:00:48.586000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T22:00:48.765000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#EA11D8",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.179
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-20T09:09:08.100000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-05-20T09:09:08.153000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@[yu!] Yukihira**",
+          "color": "#C5B113",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.053
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-20T09:09:27.281000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-05-20T09:09:27.514000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#A54834",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-27T13:00:29.067000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-05-27T13:00:29.222000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#55AD95",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-11T17:23:44.321000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-06-11T17:23:44.486000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#0E7626",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-25T17:26:39.593000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:26:39.655000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#74FDA0",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.062
+    }
+  },
+  {
+    "usuario": "duck.a",
+    "usuario_id": "510948675321593886",
+    "fecha_comando": "2019-08-25T17:27:06.584000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:27:06.744000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#D6054B",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "danono4",
+    "usuario_id": "265976736770949120",
+    "fecha_comando": "2019-09-16T14:44:03.234000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-09-16T14:44:03.493000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Galleta**",
+          "color": "#DD7106",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "danono4",
+    "usuario_id": "265976736770949120",
+    "fecha_comando": "2019-09-27T14:58:23.280000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-09-27T14:58:23.494000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Chichu**",
+          "color": "#2F9069",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-10-05T15:56:32.561000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-10-05T15:56:33.016000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#FA1CF4",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.455
+    }
+  },
+  {
+    "usuario": "danono4",
+    "usuario_id": "265976736770949120",
+    "fecha_comando": "2019-11-05T14:24:56.113000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-11-05T14:24:56.414000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@asitrooon**",
+          "color": "#3008E9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.301
+    }
+  },
+  {
+    "usuario": "danono4",
+    "usuario_id": "265976736770949120",
+    "fecha_comando": "2019-11-21T17:40:55.986000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2019-11-21T17:40:56.193000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@! 族 ❥๖ۣۜℓιии**",
+          "color": "#C596E1",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2020-02-05T12:29:02.797000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:29:03.103000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#108BD4",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.306
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2020-02-05T12:29:11.085000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:29:11.434000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#CEBC54",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.349
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2020-02-05T12:29:22.021000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:29:22.354000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@yodigol**",
+          "color": "#7E6CFE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.333
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2020-02-05T12:29:33.756000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:29:34.057000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Maga ✨**",
+          "color": "#95B69D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.301
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:29:45.141000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:29:45.399000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@!EZE👑💎 💙💛💙**",
+          "color": "#4F28E8",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.258
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:31:34.450000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:31:34.697000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Boomhello xD**",
+          "color": "#EAC4CE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.247
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:31:38.691000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:31:38.907000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#08EBC9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:31:43.501000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:31:43.717000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#F59D28",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:31:48.476000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:31:48.743000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#A257AA",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:31:54.052000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:31:54.284000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#B1781B",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:31:58.234000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:31:58.463000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#C5939E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:00.623000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:00.901000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#2F767D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.278
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:03.799000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:04.274000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#63740A",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.475
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:32:05.886000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:06.135000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Mabeast User, Meili**",
+          "color": "#C01B11",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:08.051000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:08.221000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@negro judio**",
+          "color": "#4C7FD7",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:12.440000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:13.764000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Jesu**",
+          "color": "#44CD38",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.324
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:32:12.962000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:13.764000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Jesu**",
+          "color": "#44CD38",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.802
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:32:15.707000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:16.006000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@roro**",
+          "color": "#1EF9DF",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.299
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:16.518000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:16.760000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#6CBD6E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-05T12:32:18.329000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:18.475000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#5E3554",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:20.011000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:20.278000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#5A805E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-05T12:32:24.488000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-05T12:32:24.865000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#3F1C75",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.377
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:51:17.706000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:51:17.919000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Unknown**",
+          "color": "#1A4302",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2020-04-14T14:19:31.223000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-04-14T14:19:31.464000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **@Mr.Casilla**",
+          "color": "#3CEA39",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-05-29T16:02:59.790000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T16:02:59.973000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **MuTen_09#6789**",
+          "color": "#EBBD3D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.183
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-05-29T16:48:07.995000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T16:48:08.134000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Juan456ツ#8373**",
+          "color": "#8AB141",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-05-30T17:25:24.994000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-05-30T17:25:25.207000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Chelsea#6528**",
+          "color": "#D7A36E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "princessezequiel",
+    "usuario_id": "664903308636586023",
+    "fecha_comando": "2020-06-28T10:31:53.531000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-06-28T10:31:53.717000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Camarada968#7166**",
+          "color": "#3E8489",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-07-01T14:31:20.595000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:31:21.265000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **kota#9946**",
+          "color": "#42399A",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.67
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-07-01T14:31:36.693000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:31:37.286000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **∆¶FoXy¶∆ 🌟(CODIGO EN ROBLOX)🌟#7551**",
+          "color": "#6616F0",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌟",
+              "code": "star2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f31f.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.593
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:31:55.026000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:31:55.604000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Daniela#1111**",
+          "color": "#594CC4",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.578
+    }
+  },
+  {
+    "usuario": "parther_p",
+    "usuario_id": "550451103813337115",
+    "fecha_comando": "2020-07-01T14:33:23.968000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:33:24.330000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Result: Dealer bust 🍫100",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Nikolozsal#7181",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/a0iP0jYoX60fDQXM6GB_cI-7HbFd4CPOW0NcQGw6vCA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/614611759361163264/5a69edfaf4970b34d6ac266a476f5fa5.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/614611759361163264/5a69edfaf4970b34d6ac266a476f5fa5.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "**Your Hand**",
+              "value": ":kS: :4D:\n\nValue: 14",
+              "isInline": true
+            },
+            {
+              "name": "**Dealer Hand**",
+              "value": ":qC: :3D: :qD:\n\nValue: 23",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.362
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:50:02.999000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:50:03.883000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **𝓶𝓪𝓻𝓬𝓮𝓵𝓸🥺#5251**",
+          "color": "#E8397C",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🥺",
+              "code": "pleading_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f97a.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.884
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:51:08.814000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:51:09.052000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **AmiguitoCE#3973**",
+          "color": "#24D321",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:51:54.793000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:51:55.068000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **baile de sans#1065**",
+          "color": "#F6D357",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.275
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:53:11.894000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:53:12.381000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **spidey3021#3071**",
+          "color": "#2CF66E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.487
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:54:54.990000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:54:55.186000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **carson#4451**",
+          "color": "#DA4B4B",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:55:43.909000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:55:44.350000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Lovely_ Fⱥke ❤#7025**",
+          "color": "#4C0508",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.441
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:56:53.426000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:56:53.714000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **➵ \"AshDean,, ✰🌿#5950**",
+          "color": "#2883EE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌿",
+              "code": "herb",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f33f.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.288
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-07-01T14:57:26.751000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:57:27.084000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **zenk#9791**",
+          "color": "#2E3338",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.333
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:57:30.837000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:57:30.996000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Mamanisawa Alexander#5074**",
+          "color": "#63219C",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "parther_p",
+    "usuario_id": "550451103813337115",
+    "fecha_comando": "2020-07-01T14:57:33.348000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:57:33.765000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **ender785#4906**",
+          "color": "#36FE92",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.417
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-07-01T14:57:50.726000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:57:50.942000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Sultan Üday Abudhçinapal#2703**",
+          "color": "#B7C1EE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-07-01T14:58:04.548000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:58:04.776000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **ꪶ࿋྄ིᤢꫂ ｈｏｌａ .ｓｏｙ .ｕｎ .ｎｉｃｋᴳᴸ#7708**",
+          "color": "#AABFF8",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-07-01T14:58:13.558000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:58:13.962000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **DeathKnight#1104**",
+          "color": "#88518E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.404
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:58:31.328000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:58:31.968000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **caritogap#9384**",
+          "color": "#14CE63",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.64
+    }
+  },
+  {
+    "usuario": "parther_p",
+    "usuario_id": "550451103813337115",
+    "fecha_comando": "2020-07-01T14:58:35.449000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:58:35.610000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **16KevinJh#3897**",
+          "color": "#F2AC08",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-02T14:55:24.471000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-02T14:55:24.735000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Andy23#7823**",
+          "color": "#528D42",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-07-05T15:08:36.051000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T15:08:36.426000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Mr.Chancleta#5703**",
+          "color": "#4D1F1F",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.375
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-07-05T15:08:51.851000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T15:08:52.358000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **DanyTheCat#2266**",
+          "color": "#88AB59",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.507
+    }
+  },
+  {
+    "usuario": "edu_js",
+    "usuario_id": "698148065051279360",
+    "fecha_comando": "2020-07-23T10:05:21.180000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-07-23T10:05:21.489000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **sirpokerface69#8673**",
+          "color": "#F60D7C",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-08-12T08:09:45.579000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-08-12T08:09:48.384000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Gry™#0490**",
+          "color": "#4A7530",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.805
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-25T21:44:20.459000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-08-25T21:44:20.745000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **yaleri__#3089**",
+          "color": "#2B9388",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.286
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2020-08-25T22:34:59.497000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-08-25T22:34:59.975000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Hibachii#3811**",
+          "color": "#95DDA7",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.478
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-09-13T09:25:35.439000-07:00",
+    "comando_completo": "ch!randomuser 2",
+    "respuesta_bot": {
+      "fecha": "2020-09-13T09:25:36.125000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Nibaay#0338**",
+          "color": "#DC580D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.686
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-09-18T20:22:45.727000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-09-18T20:22:47.268000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **maurrohh#9973**",
+          "color": "#B4B805",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.541
+    }
+  },
+  {
+    "usuario": "justjonatan",
+    "usuario_id": "703446820088447027",
+    "fecha_comando": "2020-09-18T21:15:27.811000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-09-18T21:15:28.507000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **NAOFUMI-KUN#4824**",
+          "color": "#E4624A",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.696
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-28T09:21:17.691000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-09-28T09:21:18.596000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Agusien04#5045**",
+          "color": "#484DAE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.905
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-10-02T07:42:37.996000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-10-02T07:42:38.410000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **WinnerLast#2868**",
+          "color": "#724F51",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.414
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-10-02T07:42:43.954000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-10-02T07:42:44.894000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **shu_sakamaki#7078**",
+          "color": "#0D800D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.94
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-10-02T07:42:49.084000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-10-02T07:42:49.511000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Abaddon#8171**",
+          "color": "#DB9BDA",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.427
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-10-02T07:42:53.785000-07:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-10-02T07:42:54.070000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **KaiserNull#4856**",
+          "color": "#7D7A6C",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.285
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-11-01T14:50:38.493000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T14:50:38.880000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Shinzun#9203**",
+          "color": "#E271D9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.387
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-09T07:53:39.839000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T07:53:41.166000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **emiliozx#0672**",
+          "color": "#C2FE2E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.327
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-12-09T15:23:54.243000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T15:23:54.773000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **maty2123#4811**",
+          "color": "#93A4FD",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.53
+    }
+  },
+  {
+    "usuario": "jeanpy.",
+    "usuario_id": "657394073438650402",
+    "fecha_comando": "2020-12-09T15:24:07.794000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T15:24:08.772000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **Cinthia Yuzuru <3#6601**",
+          "color": "#804BA3",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.978
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-12-09T15:24:26.850000-08:00",
+    "comando_completo": "ch!randomuser",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T15:24:29.558000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Selección aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "El usuario seleccionado es: **slapY#4853**",
+          "color": "#70D7C2",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.708
+    }
+  }
+]

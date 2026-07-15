@@ -4,7 +4,7 @@ use serenity::all::Colour;
 
 pub static BAKA: InteractionCommand = InteractionCommand::new(
     "baka",
-    "erm le dices baka a alguien creo",
+    "Dile al usuario mencionado que es un completo Baka (idiota)",
     "Interacción",
     true,
     "¡¡B-BAAAKAAAA, **$Target**!!",

@@ -1,0 +1,16 @@
+[
+  {
+    "usuario": "henochlophobia",
+    "usuario_id": "375396155762278422",
+    "fecha_comando": "2019-04-16T18:02:32.882000-07:00",
+    "comando_completo": "ch!editembed 567877460130005032 Test",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T18:02:32.977000-07:00",
+      "contenido": "No tienes permisos suficientes para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.095
+    }
+  }
+]

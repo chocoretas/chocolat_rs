@@ -1,0 +1,1436 @@
+[
+  {
+    "usuario": "buho234",
+    "usuario_id": "471523256713740298",
+    "fecha_comando": "2019-02-09T10:56:26.858000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-02-09T10:56:27.138000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A continuación las novedades de la actualización. ¡Únete a nuestro servidor de discord si gustas saber más cosas, hay eventos y un Staff activo que contestará tus dudas! (https://discord.gg/TKTGm69).",
+          "color": "#CED8A5",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/RLPOUcUV0uGyf8PLU-ilyDm2MLg3OTzvi_WXMfSJk4U/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/2fa00426223078106dcee4f7caf1197c.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/2fa00426223078106dcee4f7caf1197c.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.2.6. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Versión del bot:",
+              "value": "`3.2.6`.",
+              "isInline": false
+            },
+            {
+              "name": "Comandos:",
+              "value": "`160`.",
+              "isInline": false
+            },
+            {
+              "name": "Comandos editados:",
+              "value": "`cookie` `botsuggestion` `help & nodmhelp`.",
+              "isInline": false
+            },
+            {
+              "name": "cookie",
+              "value": "*Se añadió una excepción a un donador del bot, el podrá dar avocados en lugar de galletas.*",
+              "isInline": false
+            },
+            {
+              "name": "botsuggestion",
+              "value": "*En lugar de ser `suggestion`, el comando se cambió a `botsuggestion` para evitar confusiones con el comando: `suggest`.*",
+              "isInline": false
+            },
+            {
+              "name": "help & nodmhelp",
+              "value": "*Ambos comandos se les añadió la opción de mostrar comandos NSFW o no mostrarlos, esto dependerá de en qué canal uses el comando. Por ejemplo: Al usar el comando en un canal NSFW saldrán los comandos en el mensaje, pero si los usas en un canal normal, estos se les dará censura.*",
+              "isInline": false
+            },
+            {
+              "name": "Nuevos comandos",
+              "value": "`run` `vomit` `fbi` `kickbutts` `addcoloroles` `release`.",
+              "isInline": false
+            },
+            {
+              "name": "run",
+              "value": "*Con este comando puedes salir corriendo de una persona. Prueba usando `ch!run @user`*.",
+              "isInline": false
+            },
+            {
+              "name": "vomit",
+              "value": "*Vomita de algo desagradable. Prueba usando `ch!vomit`.*",
+              "isInline": false
+            },
+            {
+              "name": "fbi",
+              "value": "*Al usar este comando deberías correr... ¡Porque la FBI ya viene por ti!. Prueba usando `ch!fbi`*.",
+              "isInline": false
+            },
+            {
+              "name": "kickbutts",
+              "value": "*Patéale el trasero a alguien usando este comando, desahógate contra esa persona que te enoja. Prueba usando `ch!kickbutts @user`*.",
+              "isInline": false
+            },
+            {
+              "name": "addcoloroles",
+              "value": "*Este comando te servirá para añadir 21 roles de colores en un servidor, así de simple como suena, se recomienda para servidores nuevos. Prueba usando `ch!addcoloroles`. Necesitarás el permiso de manipular roles al igual que el bot.*",
+              "isInline": false
+            },
+            {
+              "name": "release",
+              "value": "*Este comando mandará una nota de actualización donde estes. Prueba usando `ch!release`*.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-02-09T10:58:06.074000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-02-09T10:58:06.221000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A continuación las novedades de la actualización. ¡Únete a nuestro servidor de discord si gustas saber más cosas, hay eventos y un Staff activo que contestará tus dudas! (https://discord.gg/TKTGm69).",
+          "color": "#E9FF44",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/RLPOUcUV0uGyf8PLU-ilyDm2MLg3OTzvi_WXMfSJk4U/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/2fa00426223078106dcee4f7caf1197c.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/2fa00426223078106dcee4f7caf1197c.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.2.6. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Versión del bot:",
+              "value": "`3.2.6`.",
+              "isInline": false
+            },
+            {
+              "name": "Comandos:",
+              "value": "`160`.",
+              "isInline": false
+            },
+            {
+              "name": "Comandos editados:",
+              "value": "`cookie` `botsuggestion` `help & nodmhelp`.",
+              "isInline": false
+            },
+            {
+              "name": "cookie",
+              "value": "*Se añadió una excepción a un donador del bot, el podrá dar avocados en lugar de galletas.*",
+              "isInline": false
+            },
+            {
+              "name": "botsuggestion",
+              "value": "*En lugar de ser `suggestion`, el comando se cambió a `botsuggestion` para evitar confusiones con el comando: `suggest`.*",
+              "isInline": false
+            },
+            {
+              "name": "help & nodmhelp",
+              "value": "*Ambos comandos se les añadió la opción de mostrar comandos NSFW o no mostrarlos, esto dependerá de en qué canal uses el comando. Por ejemplo: Al usar el comando en un canal NSFW saldrán los comandos en el mensaje, pero si los usas en un canal normal, estos se les dará censura.*",
+              "isInline": false
+            },
+            {
+              "name": "Nuevos comandos",
+              "value": "`run` `vomit` `fbi` `kickbutts` `addcoloroles` `release`.",
+              "isInline": false
+            },
+            {
+              "name": "run",
+              "value": "*Con este comando puedes salir corriendo de una persona. Prueba usando `ch!run @user`*.",
+              "isInline": false
+            },
+            {
+              "name": "vomit",
+              "value": "*Vomita de algo desagradable. Prueba usando `ch!vomit`.*",
+              "isInline": false
+            },
+            {
+              "name": "fbi",
+              "value": "*Al usar este comando deberías correr... ¡Porque la FBI ya viene por ti!. Prueba usando `ch!fbi`*.",
+              "isInline": false
+            },
+            {
+              "name": "kickbutts",
+              "value": "*Patéale el trasero a alguien usando este comando, desahógate contra esa persona que te enoja. Prueba usando `ch!kickbutts @user`*.",
+              "isInline": false
+            },
+            {
+              "name": "addcoloroles",
+              "value": "*Este comando te servirá para añadir 21 roles de colores en un servidor, así de simple como suena, se recomienda para servidores nuevos. Prueba usando `ch!addcoloroles`. Necesitarás el permiso de manipular roles al igual que el bot.*",
+              "isInline": false
+            },
+            {
+              "name": "release",
+              "value": "*Este comando mandará una nota de actualización donde estes. Prueba usando `ch!release`*.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "nami07129",
+    "usuario_id": "435211946086629386",
+    "fecha_comando": "2019-03-04T08:37:01.237000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-03-04T08:37:01.364000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A continuación las novedades de la actualización. ¡Únete a nuestro servidor de discord si gustas saber más cosas, hay eventos y un Staff activo que contestará tus dudas! (https://discord.gg/TKTGm69).",
+          "color": "#A864B0",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.2.6. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Versión del bot:",
+              "value": "`3.2.6`.",
+              "isInline": false
+            },
+            {
+              "name": "Comandos:",
+              "value": "`160`.",
+              "isInline": false
+            },
+            {
+              "name": "Comandos editados:",
+              "value": "`cookie` `botsuggestion` `help & nodmhelp`.",
+              "isInline": false
+            },
+            {
+              "name": "cookie",
+              "value": "*Se añadió una excepción a un donador del bot, el podrá dar avocados en lugar de galletas.*",
+              "isInline": false
+            },
+            {
+              "name": "botsuggestion",
+              "value": "*En lugar de ser `suggestion`, el comando se cambió a `botsuggestion` para evitar confusiones con el comando: `suggest`.*",
+              "isInline": false
+            },
+            {
+              "name": "help & nodmhelp",
+              "value": "*Ambos comandos se les añadió la opción de mostrar comandos NSFW o no mostrarlos, esto dependerá de en qué canal uses el comando. Por ejemplo: Al usar el comando en un canal NSFW saldrán los comandos en el mensaje, pero si los usas en un canal normal, estos se les dará censura.*",
+              "isInline": false
+            },
+            {
+              "name": "Nuevos comandos",
+              "value": "`run` `vomit` `fbi` `kickbutts` `addcoloroles` `release`.",
+              "isInline": false
+            },
+            {
+              "name": "run",
+              "value": "*Con este comando puedes salir corriendo de una persona. Prueba usando `ch!run @user`*.",
+              "isInline": false
+            },
+            {
+              "name": "vomit",
+              "value": "*Vomita de algo desagradable. Prueba usando `ch!vomit`.*",
+              "isInline": false
+            },
+            {
+              "name": "fbi",
+              "value": "*Al usar este comando deberías correr... ¡Porque la FBI ya viene por ti!. Prueba usando `ch!fbi`*.",
+              "isInline": false
+            },
+            {
+              "name": "kickbutts",
+              "value": "*Patéale el trasero a alguien usando este comando, desahógate contra esa persona que te enoja. Prueba usando `ch!kickbutts @user`*.",
+              "isInline": false
+            },
+            {
+              "name": "addcoloroles",
+              "value": "*Este comando te servirá para añadir 21 roles de colores en un servidor, así de simple como suena, se recomienda para servidores nuevos. Prueba usando `ch!addcoloroles`. Necesitarás el permiso de manipular roles al igual que el bot.*",
+              "isInline": false
+            },
+            {
+              "name": "release",
+              "value": "*Este comando mandará una nota de actualización donde estes. Prueba usando `ch!release`*.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.127
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-12T16:14:17.779000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-05-12T16:14:17.947000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Comandos nuevos**\n-> `setconfessions`: *Con este comando podrás configurar un canal en donde la gente confesará cosas de manera anónima o normal.*\n-> `confession`: *Confesa algo en tu servidor, ya sea anónima o normal.*\n-> `rate`: *Se restauró este comando a petición de los usuarios.*\n-> `jumbo`: *Se restauró el comando a petición de los usuarios.*\n-> **Cooldown**: *Se añadió cooldown a variedad de comandos, la mayoría de imágenes/gifs.*\n:underage:> ||`happyend`: *Vente en una persona que selecciones o expresa que te haz venido.*||\n:underage:> ||`blowjob`: *Hazle una rusa a un usuario seleccionado.*||\n\n**Comandos editados**\n-> `machievement`: *-1 bug.*\n-> `ping`: *Se añadió un :ping_pong:*\n-> `sleep`: *Ahora puedes dormir junto a alguien.*\n-> `dance`: *Podrás bailarle o bailar con alguien.*\n-> `warn`: *-1 bug y optimizado.*\n-> `meme`: *Más memes de parte de la comunidad del bot.*\n-> `say, esay & sdm`: *Ahora un usuario normal no podrá mandar contenido indeseable por este comando a no ser que pueda borrar mensajes en ese servidor.*\n-> `setautorole`: *-1 bug.*\n-> `waifu`: *Restaurados todos los links caídos y corrección de bugs.*\n-> `husbando`: *Más husbandos y corrección de un bug.*\n-> `jpose, handholding, dance, punch, kill, blush, feed, slap, run, kickbutts, cry, pat, disgust, sleep, happy, bored`: *Más Gifs.*\n:underage:> ||`konachan`: *Ahora te mostrará una pequeña lista de tags que puedes usar al usar el comando así; `ch!konachan tags`.*||",
+          "color": "#F09CB3",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.4.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043 y ☀Darnel♚#4295."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔞",
+              "code": "underage",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+            },
+            {
+              "id": "",
+              "name": "🏓",
+              "code": "ping_pong",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3d3.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-14T14:02:33.619000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-05-14T14:02:33.741000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Comandos nuevos**\n-> `setconfessions`: *Con este comando podrás configurar un canal en donde la gente confesará cosas de manera anónima o normal.*\n-> `confession`: *Confesa algo en tu servidor, ya sea anónima o normal.*\n-> `rate`: *Se restauró este comando a petición de los usuarios.*\n-> `jumbo`: *Se restauró el comando a petición de los usuarios.*\n-> **Cooldown**: *Se añadió cooldown a variedad de comandos, la mayoría de imágenes/gifs.*\n:underage:> ||`happyend`: *Vente en una persona que selecciones o expresa que te haz venido.*||\n:underage:> ||`blowjob`: *Hazle una rusa a un usuario seleccionado.*||\n\n**Comandos editados**\n-> `machievement`: *-1 bug.*\n-> `ping`: *Se añadió un :ping_pong:*\n-> `sleep`: *Ahora puedes dormir junto a alguien.*\n-> `dance`: *Podrás bailarle o bailar con alguien.*\n-> `warn`: *-1 bug y optimizado.*\n-> `meme`: *Más memes de parte de la comunidad del bot.*\n-> `say, esay & sdm`: *Ahora un usuario normal no podrá mandar contenido indeseable por este comando a no ser que pueda borrar mensajes en ese servidor.*\n-> `setautorole`: *-1 bug.*\n-> `waifu`: *Restaurados todos los links caídos y corrección de bugs.*\n-> `husbando`: *Más husbandos y corrección de un bug.*\n-> `jpose, handholding, dance, punch, kill, blush, feed, slap, run, kickbutts, cry, pat, disgust, sleep, happy, bored`: *Más Gifs.*\n:underage:> ||`konachan`: *Ahora te mostrará una pequeña lista de tags que puedes usar al usar el comando así; `ch!konachan tags`.*||",
+          "color": "#9CA10A",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.4.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043 y ☀Darnel♚#4295."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔞",
+              "code": "underage",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+            },
+            {
+              "id": "",
+              "name": "🏓",
+              "code": "ping_pong",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3d3.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.122
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-07T12:17:51.043000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T12:17:51.174000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Comandos nuevos**\n-> `setconfessions`: *Con este comando podrás configurar un canal en donde la gente confesará cosas de manera anónima o normal.*\n-> `confession`: *Confesa algo en tu servidor, ya sea anónima o normal.*\n-> `rate`: *Se restauró este comando a petición de los usuarios.*\n-> `jumbo`: *Se restauró el comando a petición de los usuarios.*\n-> **Cooldown**: *Se añadió cooldown a variedad de comandos, la mayoría de imágenes/gifs.*\n:underage:> ||`happyend`: *Vente en una persona que selecciones o expresa que te haz venido.*||\n:underage:> ||`blowjob`: *Hazle una rusa a un usuario seleccionado.*||\n\n**Comandos editados**\n-> `machievement`: *-1 bug.*\n-> `ping`: *Se añadió un :ping_pong:*\n-> `sleep`: *Ahora puedes dormir junto a alguien.*\n-> `dance`: *Podrás bailarle o bailar con alguien.*\n-> `warn`: *-1 bug y optimizado.*\n-> `meme`: *Más memes de parte de la comunidad del bot.*\n-> `say, esay & sdm`: *Ahora un usuario normal no podrá mandar contenido indeseable por este comando a no ser que pueda borrar mensajes en ese servidor.*\n-> `setautorole`: *-1 bug.*\n-> `waifu`: *Restaurados todos los links caídos y corrección de bugs.*\n-> `husbando`: *Más husbandos y corrección de un bug.*\n-> `jpose, handholding, dance, punch, kill, blush, feed, slap, run, kickbutts, cry, pat, disgust, sleep, happy, bored`: *Más Gifs.*\n:underage:> ||`konachan`: *Ahora te mostrará una pequeña lista de tags que puedes usar al usar el comando así; `ch!konachan tags`.*||",
+          "color": "#B5AFF4",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.4.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043 y ☀Darnel♚#4295."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔞",
+              "code": "underage",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+            },
+            {
+              "id": "",
+              "name": "🏓",
+              "code": "ping_pong",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3d3.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.131
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-13T03:45:53.104000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T03:45:53.192000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Comandos nuevos**\n:star:> Enable & Disable: Sistema de activar y desactivar comandos, muy recomendado de usar si ustedes consideran bloquear algún comando por alguna razón.\n-> Splash: Moja a una persona mencionada.\n-> Think: Ponte a pensar.\n-> Claps: Apláudele a una persona mencionada.\n-> Cheeks: Pellizca las mejillas de las personas.\n-> Sip: Bebe un poco de té u otra bebida de una forma peculiar.\n-> Scared: Muestra que tienes miedo.\n-> Laugh: Ríe o búrlate de una persona.\n-> Sing: Canta algo con este comando.\n-> Hi: Saluda a la persona mencionada.\n\n**Comandos editados**\n-> Osu!: Se resolvió un problema.\n-> Esay: Se añadió la posibilidad de seleccionar el color del embed.\n-> Editembed: Se añadió la posibilidad de seleccionar el color del embed.\n:underage:> ||Happyend: Se cambió su nombre a uno más corto: Cum.||\n\n**Comandos eliminados**\n-> Google: Como surgió un error con el API se decidió eliminar el comando.\n-> Raw: Como surgió un error con el API se decidió eliminar el comando.",
+          "color": "#AE77E2",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.4.2. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043 y Darnel。#4295. | Recuerda donar para poder seguir manteniendo al bot: `ch!donate`."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "🔞",
+              "code": "underage",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.088
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-09-19T13:07:05.067000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-09-19T13:07:05.270000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Comandos nuevos**\n:star:> Enable & Disable: Sistema de activar y desactivar comandos, muy recomendado de usar si ustedes consideran bloquear algún comando por alguna razón.\n-> Splash: Moja a una persona mencionada.\n-> Think: Ponte a pensar.\n-> Claps: Apláudele a una persona mencionada.\n-> Cheeks: Pellizca las mejillas de las personas.\n-> Sip: Bebe un poco de té u otra bebida de una forma peculiar.\n-> Scared: Muestra que tienes miedo.\n-> Laugh: Ríe o búrlate de una persona.\n-> Sing: Canta algo con este comando.\n-> Hi: Saluda a la persona mencionada.\n\n**Comandos editados**\n-> Osu!: Se resolvió un problema.\n-> Esay: Se añadió la posibilidad de seleccionar el color del embed.\n-> Editembed: Se añadió la posibilidad de seleccionar el color del embed.\n:underage:> ||Happyend: Se cambió su nombre a uno más corto: Cum.||\n\n**Comandos eliminados**\n-> Google: Como surgió un error con el API se decidió eliminar el comando.\n-> Raw: Como surgió un error con el API se decidió eliminar el comando.",
+          "color": "#71BCD7",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.4.2. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043 y Darnel。#4295. | Recuerda donar para poder seguir manteniendo al bot: `ch!donate`."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "🔞",
+              "code": "underage",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-28T21:47:56.461000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-09-28T21:47:56.646000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Comandos nuevos**\n:star:> Enable & Disable: Sistema de activar y desactivar comandos, muy recomendado de usar si ustedes consideran bloquear algún comando por alguna razón.\n-> Splash: Moja a una persona mencionada.\n-> Think: Ponte a pensar.\n-> Claps: Apláudele a una persona mencionada.\n-> Cheeks: Pellizca las mejillas de las personas.\n-> Sip: Bebe un poco de té u otra bebida de una forma peculiar.\n-> Scared: Muestra que tienes miedo.\n-> Laugh: Ríe o búrlate de una persona.\n-> Sing: Canta algo con este comando.\n-> Hi: Saluda a la persona mencionada.\n\n**Comandos editados**\n-> Osu!: Se resolvió un problema.\n-> Esay: Se añadió la posibilidad de seleccionar el color del embed.\n-> Editembed: Se añadió la posibilidad de seleccionar el color del embed.\n:underage:> ||Happyend: Se cambió su nombre a uno más corto: Cum.||\n\n**Comandos eliminados**\n-> Google: Como surgió un error con el API se decidió eliminar el comando.\n-> Raw: Como surgió un error con el API se decidió eliminar el comando.",
+          "color": "#BDB9AE",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión 3.4.2. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043 y Darnel。#4295. | Recuerda donar para poder seguir manteniendo al bot: `ch!donate`."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "🔞",
+              "code": "underage",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f51e.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-14T22:27:08.461000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-10-14T22:27:08.545000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Dessarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#A5A92C",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.084
+    }
+  },
+  {
+    "usuario": "intialts1873",
+    "usuario_id": "487409804919439370",
+    "fecha_comando": "2019-10-16T10:23:36.017000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T10:23:36.188000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Dessarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#BE3A0C",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.171
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-19T17:23:56.972000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-10-19T17:23:57.169000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#05377E",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.197
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-20T16:29:48.251000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-10-20T16:29:48.412000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#4ED175",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-21T07:10:26.326000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-10-21T07:10:26.494000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#DFE50F",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-10-27T11:38:32.001000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-10-27T11:38:32.056000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#42EC86",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.055
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-01T09:15:33.663000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-11-01T09:15:33.817000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#B5CEA2",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.0. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "iwanttetas",
+    "usuario_id": "577621049814810661",
+    "fecha_comando": "2019-12-02T14:34:58.937000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-12-02T14:34:59.076000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#1E5B22",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4toYdDmjz9u2io2L4qBKGEOczG3dUaCmlJgK2VxlnaM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/5ec55cb828aac740107a9f479685ed88.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/5ec55cb828aac740107a9f479685ed88.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.1. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-12-08T15:40:58.861000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-12-08T15:40:59.139000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#8E07D3",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4toYdDmjz9u2io2L4qBKGEOczG3dUaCmlJgK2VxlnaM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/5ec55cb828aac740107a9f479685ed88.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/5ec55cb828aac740107a9f479685ed88.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.1. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.278
+    }
+  },
+  {
+    "usuario": "ami007531",
+    "usuario_id": "471047288035213313",
+    "fecha_comando": "2019-12-11T13:35:22.442000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-12-11T13:35:22.667000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#93F423",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4toYdDmjz9u2io2L4qBKGEOczG3dUaCmlJgK2VxlnaM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/5ec55cb828aac740107a9f479685ed88.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/5ec55cb828aac740107a9f479685ed88.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.1. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.225
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-12-20T22:42:19.075000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2019-12-20T22:42:19.286000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":star:>**Servicio de traducción**: Regresó el comando `ch!translate`, de igual forma se recuperaron las traducciones de comandos que empleaban esta función, cabe mencionar que no es 100% preciso.\n->**Desarrollo**: El espacio de desarrollo del bot ha sido optimizado.\n->**Cooldown, Disable & Enable**: Estos comandos fueron mejorados significativamente, en el cooldown establecerá cierta cantidad perfeccionada de segundos antes de volver a usar un comando en específico, en cuanto al `ch!disable` & `ch!enable`, simplemente fueron optimizados.\n->**Addcoloroles**: Éste comando está preparado para recibir más paletas de colores en un futuro, por ahora sólo fue optimizado.\n->**Bugs**: Se corrigieron una cantidad significativa de errores en el bot, con el tiempo se irán corrigiendo aún más.\n->**Bugreport**: El comando sufrió una modificación que permite al desarrollador conocer más acerca del error reportado.\n->**Memes**: Nuevos memes y no más weez en ellos, pues los memes de weez eran ofensivos en la gran mayoría.\n->**Love**: El comando ahora calcula un valor preciso de porcentaje de amor.\n->**Más waifus, husbandos y gifs**: Se añadieron waifus, husbandos y gifs de comandos interactivos y reactivos a la base de datos.\n->**Hi**: Con el comando `ch!hi`, ahora podrás saludar a todo el mundo\n->**Búsqueda personalizada**: Ahora podrás buscar en waifus y husbandos mediante a sus nombres, será práctico para saber qué husbandos o waifus no están agregados.\n->**License**: Se creó el comando `ch!license` que te permitirá crear licencias de cualquier cosa que quieras certificadas por el bot.\n->**Loli**: Se eliminó pues se consideraba obsoleto.\n->**Kill**: Algunos gifs de este se eliminaron porque infringían con los ToS de discord.\n->**Suicide**: Este comando a pesar de ser material ficticio no era permitido por los ToS de discord porque los infringía, por ello se tuvo que eliminar.\n->**Discourage**: Se añadió a cambio de `ch!suicide`, puede ser útil como reemplazo.\n:question:>**Secretos** = 6.",
+          "color": "#8A3B0D",
+          "author": {
+            "name": "Novedades en Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048"
+          },
+          "footer": {
+            "text": "Estos son los cambios en la versión: 3.5.1. Puedes sugerir nuevos comandos dentro de nuestro servidor de Discord para que sean aceptadas por la comunidad. | Desarrollado por Noname7612#5043, Darnel#3871 y Avocado#0002 | Recuerda donar para poder seguir manteniendo al bot: ch!donate."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            },
+            {
+              "id": "",
+              "name": "❓",
+              "code": "question",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2753.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-03-25T17:30:41.208000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2020-03-25T17:30:41.949000-07:00",
+      "contenido": "**Versión: 3.5.3 (Versión actual)**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "692530936449073222",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/692530936449073222/3.5.3.txt?ex=6a582631&is=6a56d4b1&hm=f144671f0eb4c09d50eba967ff84fc5756d15ec4fc628efef745f18e2065d6d1&",
+          "fileName": "3.5.3.txt",
+          "fileSizeBytes": 1537
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.741
+    }
+  },
+  {
+    "usuario": "cuentanuevaluciferw6666",
+    "usuario_id": "589178336752697362",
+    "fecha_comando": "2020-03-30T09:55:38.633000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2020-03-30T09:55:38.929000-07:00",
+      "contenido": "**Versión: 3.5.3 (Versión actual)**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "694228358862602340",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/694228358862602340/3.5.3.txt?ex=6a57bb8a&is=6a566a0a&hm=f46f9f235fcfa15637212c0bad56bebec55aa16cc78d4fe2c0cfdbc1cbd1cf5e&",
+          "fileName": "3.5.3.txt",
+          "fileSizeBytes": 1537
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.296
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:20:47.251000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:20:47.493000-07:00",
+      "contenido": "**Versión: 3.5.3 (Versión actual)**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "694959462229737593",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/694959462229737593/3.5.3.txt?ex=6a57c16f&is=6a566fef&hm=b3b014a1acb8aeb14484d52be14808e1e5226f25a767d3507b4328baeb744f24&",
+          "fileName": "3.5.3.txt",
+          "fileSizeBytes": 1537
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:20:58.493000-07:00",
+    "comando_completo": "ch!release list",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:20:58.920000-07:00",
+      "contenido": "**Lista de versiones**\n> ○ 2.3.3\n> ○ 2.3.7\n> ○ 2.4.0\n> ○ 2.5.5\n> ○ 2.5.6\n> ○ 2.5.8\n> ○ 2.6.0\n> ○ 2.6.5\n> ○ 2.6.8\n> ○ 2.7.0\n> ○ 2.7.5\n> ○ 2.8.0\n> ○ 2.8.6\n> ○ 3.0.0\n> ○ 3.0.5\n> ○ 3.1.0\n> ○ 3.1.2\n> ○ 3.2.6\n> ○ 3.2.8\n> ○ 3.3.0\n> ○ 3.4.0\n> ○ 3.4.2\n> ○ 3.5.0\n> ○ 3.5.2\n> ○ 3.5.3\n Si desea ver una nota específica, use el comando como el siguiente ejemplo: `ch!release 3.0.0`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.427
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:21:39.711000-07:00",
+    "comando_completo": "ch!release 2.5.5",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:21:40.086000-07:00",
+      "contenido": "**Versión: 2.5.5**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "694959682502131742",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/694959682502131742/2.5.5.txt?ex=6a57c1a4&is=6a567024&hm=f662bf2e0b66f49c6bd4671c21e9daa0eded9d82dc559efbec6c78270c06b910&",
+          "fileName": "2.5.5.txt",
+          "fileSizeBytes": 3230
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.375
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:24:05.529000-07:00",
+    "comando_completo": "ch!release list",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:24:05.818000-07:00",
+      "contenido": "**Lista de versiones**\n> ○ 2.3.3\n> ○ 2.3.7\n> ○ 2.4.0\n> ○ 2.5.5\n> ○ 2.5.6\n> ○ 2.5.8\n> ○ 2.6.0\n> ○ 2.6.5\n> ○ 2.6.8\n> ○ 2.7.0\n> ○ 2.7.5\n> ○ 2.8.0\n> ○ 2.8.6\n> ○ 3.0.0\n> ○ 3.0.5\n> ○ 3.1.0\n> ○ 3.1.2\n> ○ 3.2.6\n> ○ 3.2.8\n> ○ 3.3.0\n> ○ 3.4.0\n> ○ 3.4.2\n> ○ 3.5.0\n> ○ 3.5.2\n> ○ 3.5.3\n Si desea ver una nota específica, use el comando como el siguiente ejemplo: `ch!release 3.0.0`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.289
+    }
+  },
+  {
+    "usuario": "akko3138",
+    "usuario_id": "589183856977117194",
+    "fecha_comando": "2020-04-01T10:24:24.001000-07:00",
+    "comando_completo": "ch!release 3.0.0",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:24:24.333000-07:00",
+      "contenido": "**Versión: 3.0.0**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "694960371504513154",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/694960371504513154/3.0.0.txt?ex=6a57c248&is=6a5670c8&hm=5ac7fbeef0cb93091b8ea470f1f3571cb33f156269e670dd6d8af0ba004285a2&",
+          "fileName": "3.0.0.txt",
+          "fileSizeBytes": 3634
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.332
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:24:38.697000-07:00",
+    "comando_completo": "ch!release 2.5.6",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:24:38.947000-07:00",
+      "contenido": "**Versión: 2.5.6**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "694960432779100241",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/694960432779100241/2.5.6.txt?ex=6a57c256&is=6a5670d6&hm=399a4e91a235b0bbbf9fdc9db859d676d6b6343166bf534038e2494474baf87d&",
+          "fileName": "2.5.6.txt",
+          "fileSizeBytes": 279
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:26:03.783000-07:00",
+    "comando_completo": "ch!release list",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:26:03.986000-07:00",
+      "contenido": "**Lista de versiones**\n> ○ 2.3.3\n> ○ 2.3.7\n> ○ 2.4.0\n> ○ 2.5.5\n> ○ 2.5.6\n> ○ 2.5.8\n> ○ 2.6.0\n> ○ 2.6.5\n> ○ 2.6.8\n> ○ 2.7.0\n> ○ 2.7.5\n> ○ 2.8.0\n> ○ 2.8.6\n> ○ 3.0.0\n> ○ 3.0.5\n> ○ 3.1.0\n> ○ 3.1.2\n> ○ 3.2.6\n> ○ 3.2.8\n> ○ 3.3.0\n> ○ 3.4.0\n> ○ 3.4.2\n> ○ 3.5.0\n> ○ 3.5.2\n> ○ 3.5.3\n Si desea ver una nota específica, use el comando como el siguiente ejemplo: `ch!release 3.0.0`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "otracuentaenelestado",
+    "usuario_id": "599707528284209153",
+    "fecha_comando": "2020-04-01T10:26:28.837000-07:00",
+    "comando_completo": "ch!release 3.0.5",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:26:29.101000-07:00",
+      "contenido": "**Versión: 3.0.5**\nSi desea ver otras versiones use: `ch!release list`.",
+      "attachments": [
+        {
+          "id": "694960894794399905",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/694960894794399905/3.0.5.txt?ex=6a57c2c5&is=6a567145&hm=d9d24d23e05525cc07f31c49ddfc0aae5772a8260590d123bcf8d681f44d2eb9&",
+          "fileName": "3.0.5.txt",
+          "fileSizeBytes": 554
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-17T15:07:58.103000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2020-09-17T15:07:58.670000-07:00",
+      "contenido": "**Versión: 3.6.2 (Versión actual)**\nSi desea ver otras versiones use: `ch!release list` y luego coloque la versión que desee ver.",
+      "attachments": [
+        {
+          "id": "756275283618955274",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/756275283618955274/3.6.2.txt?ex=6a5804be&is=6a56b33e&hm=bec375d87a0eddb502e5dba0a55f825793fffcb0309f209091da3a9472cd4af2&",
+          "fileName": "3.6.2.txt",
+          "fileSizeBytes": 2052
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.567
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-17T15:08:05.419000-07:00",
+    "comando_completo": "ch!release list",
+    "respuesta_bot": {
+      "fecha": "2020-09-17T15:08:09.020000-07:00",
+      "contenido": "**Lista de versiones**\n> ○ 2.3.3\n> ○ 2.3.7\n> ○ 2.4.0\n> ○ 2.5.5\n> ○ 2.5.6\n> ○ 2.5.8\n> ○ 2.6.0\n> ○ 2.6.5\n> ○ 2.6.8\n> ○ 2.7.0\n> ○ 2.7.5\n> ○ 2.8.0\n> ○ 2.8.6\n> ○ 3.0.0\n> ○ 3.0.5\n> ○ 3.1.0\n> ○ 3.1.2\n> ○ 3.2.6\n> ○ 3.2.8\n> ○ 3.3.0\n> ○ 3.4.0\n> ○ 3.4.2\n> ○ 3.5.0\n> ○ 3.5.2\n> ○ 3.5.3\n> ○ 3.6.0\n> ○ 3.6.1\n> ○ 3.6.2\n Si desea ver una nota específica, use el comando como el siguiente ejemplo: `ch!release 3.0.0`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.601
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-17T15:08:15.417000-07:00",
+    "comando_completo": "ch!release 2.3.3",
+    "respuesta_bot": {
+      "fecha": "2020-09-17T15:08:15.688000-07:00",
+      "contenido": "**Versión: 2.3.3**\nSi desea ver otras versiones use: `ch!release list` y luego coloque la versión que desee ver.",
+      "attachments": [
+        {
+          "id": "756275355756789820",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/756275355756789820/2.3.3.txt?ex=6a5804cf&is=6a56b34f&hm=5838a5788ad3f3b476349ae3fb9447f9edbe352a24d54dfc7ee87e374e6ad5ad&",
+          "fileName": "2.3.3.txt",
+          "fileSizeBytes": 424
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.271
+    }
+  },
+  {
+    "usuario": "arvnzu",
+    "usuario_id": "696561058856566784",
+    "fecha_comando": "2020-10-15T14:43:02.507000-07:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2020-10-15T14:43:02.934000-07:00",
+      "contenido": "**Versión: 3.6.2 (Versión actual)**\nSi desea ver otras versiones use: `ch!release list` y luego coloque la versión que desee ver.",
+      "attachments": [
+        {
+          "id": "766415870729388052",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/766415870729388052/3.6.2.txt?ex=6a57fee6&is=6a56ad66&hm=23ca7038a1adf00b5412851109afb2f156c5f7037558f158a06fff3a146f110c&",
+          "fileName": "3.6.2.txt",
+          "fileSizeBytes": 2052
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.427
+    }
+  },
+  {
+    "usuario": "aitorvailloo",
+    "usuario_id": "306787329975123969",
+    "fecha_comando": "2020-11-07T07:15:20.512000-08:00",
+    "comando_completo": "ch!release",
+    "respuesta_bot": {
+      "fecha": "2020-11-07T07:15:20.805000-08:00",
+      "contenido": "**Versión: 3.6.3 (Versión actual)**\nSi desea ver otras versiones use: `ch!release list` y luego coloque la versión que desee ver.",
+      "attachments": [
+        {
+          "id": "774653223222640660",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/774653223222640660/3.6.3.txt?ex=6a584cc8&is=6a56fb48&hm=5adc0da13911edd6dd563ffadbb3e080961fd9e3162aa3c3f7defba08bbafda1&",
+          "fileName": "3.6.3.txt",
+          "fileSizeBytes": 2274
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.293
+    }
+  },
+  {
+    "usuario": "frostdelx",
+    "usuario_id": "757248743744471050",
+    "fecha_comando": "2020-11-15T17:13:32.078000-08:00",
+    "comando_completo": "ch!release list",
+    "respuesta_bot": {
+      "fecha": "2020-11-15T17:13:32.345000-08:00",
+      "contenido": "**Lista de versiones**\n> ○ 2.3.3\n> ○ 2.3.7\n> ○ 2.4.0\n> ○ 2.5.5\n> ○ 2.5.6\n> ○ 2.5.8\n> ○ 2.6.0\n> ○ 2.6.5\n> ○ 2.6.8\n> ○ 2.7.0\n> ○ 2.7.5\n> ○ 2.8.0\n> ○ 2.8.6\n> ○ 3.0.0\n> ○ 3.0.5\n> ○ 3.1.0\n> ○ 3.1.2\n> ○ 3.2.6\n> ○ 3.2.8\n> ○ 3.3.0\n> ○ 3.4.0\n> ○ 3.4.2\n> ○ 3.5.0\n> ○ 3.5.2\n> ○ 3.5.3\n> ○ 3.6.0\n> ○ 3.6.1\n> ○ 3.6.2\n> ○ 3.6.3\n Si desea ver una nota específica, use el comando como el siguiente ejemplo: `ch!release 3.0.0`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  }
+]

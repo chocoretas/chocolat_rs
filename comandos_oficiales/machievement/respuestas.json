@@ -1,0 +1,238 @@
+[
+  {
+    "usuario": "vancreen",
+    "usuario_id": "429673922083160084",
+    "fecha_comando": "2019-11-03T09:11:22.974000-08:00",
+    "comando_completo": "ch!machievement Brayan Asalta hasta a tu vieja",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T09:11:23.212000-08:00",
+      "contenido": "Máximo 22 caracteres.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-21T13:14:41.316000-08:00",
+    "comando_completo": "ch!machievement :chAngry:",
+    "respuesta_bot": {
+      "fecha": "2019-11-21T13:14:41.566000-08:00",
+      "contenido": "Máximo 22 caracteres.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-21T13:15:03.730000-08:00",
+    "comando_completo": "ch!machievement He alcanzado la comedia",
+    "respuesta_bot": {
+      "fecha": "2019-11-21T13:15:03.940000-08:00",
+      "contenido": "Máximo 22 caracteres.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-12-07T14:40:59.586000-08:00",
+    "comando_completo": "ch!machievement",
+    "respuesta_bot": {
+      "fecha": "2019-12-07T14:40:59.820000-08:00",
+      "contenido": "@acibascsubcibciasubciuab, escriba una descripción corta del logro.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-08T20:55:34.074000-08:00",
+    "comando_completo": "ch!machievement",
+    "respuesta_bot": {
+      "fecha": "2019-12-08T20:55:34.302000-08:00",
+      "contenido": "@Deleted User, escriba una descripción corta del logro.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T14:01:51.218000-08:00",
+    "comando_completo": "ch!machievement",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:02:04.422000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "683433837581303834",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/683433837581303834/file.jpg?ex=6a58035c&is=6a56b1dc&hm=b0aa01ebac7603525ec7f0b1e0e6363d243310e0335268780b154409bd6b8ed8&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 42505
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 13.204
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T14:03:27.783000-08:00",
+    "comando_completo": "ch!machievement Rosalia, Rosalia, Rosalia",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:03:32.698000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**** **** pellizca las mejillas de **Ramiro**",
+          "color": "#7AAA65",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/577603936345784350/fa24a5f169b4686638566ce36b34cdeb7df7a89a_hq.gif?ex=6a57f795&is=6a56a615&hm=230ad64cf2149fd86615ab8e5d7342b03517c3ba3b205a2c174385fb7cc091e7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/577603936345784350/fa24a5f169b4686638566ce36b34cdeb7df7a89a_hq.gif?ex=6a57f795&is=6a56a615&hm=230ad64cf2149fd86615ab8e5d7342b03517c3ba3b205a2c174385fb7cc091e7&",
+            "width": 500,
+            "height": 285
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/577603936345784350/fa24a5f169b4686638566ce36b34cdeb7df7a89a_hq.gif?ex=6a57f795&is=6a56a615&hm=230ad64cf2149fd86615ab8e5d7342b03517c3ba3b205a2c174385fb7cc091e7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/577603936345784350/fa24a5f169b4686638566ce36b34cdeb7df7a89a_hq.gif?ex=6a57f795&is=6a56a615&hm=230ad64cf2149fd86615ab8e5d7342b03517c3ba3b205a2c174385fb7cc091e7&",
+              "width": 500,
+              "height": 285
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.915
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:42:40.952000-07:00",
+    "comando_completo": "ch!machievement Puedes ir al dia sin iva en colombia xd",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:42:49.291000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-07-01T14:42:49.174-07:00",
+          "description": "Leaderboard Rank: 112th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "PartherMr#9223",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/550451103813337115",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/qCz_ELh5IJjfbCA-YS9m_g8IVL1gx41UXx50Wa4ZVQ8/%3Fsize%3D128/https/cdn.discordapp.com/avatars/550451103813337115/a790e3c61dfcff0ba3f56cb540d02b77.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/550451103813337115/a790e3c61dfcff0ba3f56cb540d02b77.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫166,999",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫166,999",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.339
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-07-01T14:42:58.040000-07:00",
+    "comando_completo": "ch!machievement Puedes ir al dia sin iva en colombia",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T14:43:01.164000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Parece que **anto🐣** andaba con mucha sed...",
+          "color": "#13266B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/615268865642987662/sip9.gif?ex=6a57e1c8&is=6a569048&hm=6bb589a47d37ee8ea75da6d6684c2f1b4168e0374953a3fdffb18975f1b8ba81&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/615268865642987662/sip9.gif?ex=6a57e1c8&is=6a569048&hm=6bb589a47d37ee8ea75da6d6684c2f1b4168e0374953a3fdffb18975f1b8ba81&",
+            "width": 500,
+            "height": 275
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/615268865642987662/sip9.gif?ex=6a57e1c8&is=6a569048&hm=6bb589a47d37ee8ea75da6d6684c2f1b4168e0374953a3fdffb18975f1b8ba81&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/615268865642987662/sip9.gif?ex=6a57e1c8&is=6a569048&hm=6bb589a47d37ee8ea75da6d6684c2f1b4168e0374953a3fdffb18975f1b8ba81&",
+              "width": 500,
+              "height": 275
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐣",
+              "code": "hatching_chick",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f423.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.124
+    }
+  },
+  {
+    "usuario": "loquendo9.",
+    "usuario_id": "694415063729045565",
+    "fecha_comando": "2020-12-02T20:18:27.792000-08:00",
+    "comando_completo": "ch!machievement hacer la vida imposible a rorro",
+    "respuesta_bot": {
+      "fecha": "2020-12-02T20:18:29.541000-08:00",
+      "contenido": "🎣  **|**  **you caught: 🐟!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.749
+    }
+  }
+]

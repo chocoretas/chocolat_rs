@@ -1,0 +1,2509 @@
+[
+  {
+    "usuario": "qahanaarinalduin",
+    "usuario_id": "487380408434950184",
+    "fecha_comando": "2019-02-06T10:38:36.869000-08:00",
+    "comando_completo": "ch!ascii",
+    "respuesta_bot": {
+      "fecha": "2019-02-06T10:38:37.001000-08:00",
+      "contenido": "Escriba algo para transformar en ascii",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.132
+    }
+  },
+  {
+    "usuario": "qahanaarinalduin",
+    "usuario_id": "487380408434950184",
+    "fecha_comando": "2019-02-06T10:38:54.509000-08:00",
+    "comando_completo": "ch!ascii navajas katana",
+    "respuesta_bot": {
+      "fecha": "2019-02-06T10:38:54.853000-08:00",
+      "contenido": "```                         _             _         _                    \n                        (_)           | |       | |                   \n  _ __   __ ___   ____ _ _  __ _ ___  | | ____ _| |_ __ _ _ __   __ _ \n | '_ \\ / _` \\ \\ / / _` | |/ _` / __| | |/ / _` | __/ _` | '_ \\ / _` |\n | | | | (_| |\\ V / (_| | | (_| \\__ \\ |   < (_| | |_ (_| | | | | (_| |\n |_| |_|\\__,_| \\_/ \\__,_| |\\__,_|___/ |_|\\_\\__,_|\\__\\__,_|_| |_|\\__,_|\n                       _/ |                                           \n                      |__/                                            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-21T18:58:16.094000-07:00",
+    "comando_completo": "ch!ascii",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T18:58:16.218000-07:00",
+      "contenido": "Escriba algo para transformar en ascii",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.124
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-21T18:58:33.801000-07:00",
+    "comando_completo": "ch!ascii Mañana es miercoles",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T18:58:34.103000-07:00",
+      "contenido": "Ha ocurrido un error al convertir el texto. Es posible que hayas usado algún caracter especial.\nDetalles del error: `Error: 500 Internal Server Error`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.302
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-21T18:58:55.392000-07:00",
+    "comando_completo": "ch!ascii hola",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T18:58:55.635000-07:00",
+      "contenido": "```  _           _       \n | |         | |      \n | |__   ___ | | __ _ \n | '_ \\ / _ \\| |/ _` |\n | | | | (_) | | (_| |\n |_| |_|\\___/|_|\\__,_|\n                      \n                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.243
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-21T19:00:19.399000-07:00",
+    "comando_completo": "ch!ascii hola",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T19:00:19.600000-07:00",
+      "contenido": "```  _           _       \n | |         | |      \n | |__   ___ | | __ _ \n | '_ \\ / _ \\| |/ _` |\n | | | | (_) | | (_| |\n |_| |_|\\___/|_|\\__,_|\n                      \n                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "bigotes20_",
+    "usuario_id": "367816867248734209",
+    "fecha_comando": "2019-05-23T16:24:35.323000-07:00",
+    "comando_completo": "ch!ascii hola",
+    "respuesta_bot": {
+      "fecha": "2019-05-23T16:24:35.625000-07:00",
+      "contenido": "```  _           _       \n | |         | |      \n | |__   ___ | | __ _ \n | '_ \\ / _ \\| |/ _` |\n | | | | (_) | | (_| |\n |_| |_|\\___/|_|\\__,_|\n                      \n                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.302
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-01T09:58:25.633000-07:00",
+    "comando_completo": "ch!ascii felipe",
+    "respuesta_bot": {
+      "fecha": "2019-07-01T09:58:25.924000-07:00",
+      "contenido": "```   __     _ _            \n  / _|   | (_)           \n | |_ ___| |_ _ __   ___ \n |  _/ _ \\ | | '_ \\ / _ \\\n | ||  __/ | | |_) |  __/\n |_| \\___|_|_| .__/ \\___|\n             | |         \n             |_|         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.291
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2019-07-01T10:30:28.958000-07:00",
+    "comando_completo": "ch!ascii bu",
+    "respuesta_bot": {
+      "fecha": "2019-07-01T10:30:29.215000-07:00",
+      "contenido": "```  _           \n | |          \n | |__  _   _ \n | '_ \\| | | |\n | |_) | |_| |\n |_.__/ \\__,_|\n              \n              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.257
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2019-07-01T10:39:12.139000-07:00",
+    "comando_completo": "ch!ascii muerte y muerte",
+    "respuesta_bot": {
+      "fecha": "2019-07-01T10:39:15.294000-07:00",
+      "contenido": "```                            _                                           _       \n                           | |                                         | |      \n  _ __ ___  _   _  ___ _ __| |_ ___   _   _   _ __ ___  _   _  ___ _ __| |_ ___ \n | '_ ` _ \\| | | |/ _ \\ '__| __/ _ \\ | | | | | '_ ` _ \\| | | |/ _ \\ '__| __/ _ \\\n | | | | | | |_| |  __/ |  | |_  __/ | |_| | | | | | | | |_| |  __/ |  | |_  __/\n |_| |_| |_|\\__,_|\\___|_|   \\__\\___|  \\__, | |_| |_| |_|\\__,_|\\___|_|   \\__\\___|\n                                       __/ |                                    \n                                      |___/                                     ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.155
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-07-02T10:53:50.169000-07:00",
+    "comando_completo": "ch!ascii hola hola",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T10:53:50.446000-07:00",
+      "contenido": "```  _           _         _           _       \n | |         | |       | |         | |      \n | |__   ___ | | __ _  | |__   ___ | | __ _ \n | '_ \\ / _ \\| |/ _` | | '_ \\ / _ \\| |/ _` |\n | | | | (_) | | (_| | | | | | (_) | | (_| |\n |_| |_|\\___/|_|\\__,_| |_| |_|\\___/|_|\\__,_|\n                                            \n                                            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-07-02T10:53:58.875000-07:00",
+    "comando_completo": "ch!ascii hola papas",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T10:53:59.204000-07:00",
+      "contenido": "```  _           _                                     \n | |         | |                                    \n | |__   ___ | | __ _   _ __   __ _ _ __   __ _ ___ \n | '_ \\ / _ \\| |/ _` | | '_ \\ / _` | '_ \\ / _` / __|\n | | | | (_) | | (_| | | |_) | (_| | |_) | (_| \\__ \\\n |_| |_|\\___/|_|\\__,_| | .__/ \\__,_| .__/ \\__,_|___/\n                       | |         | |              \n                       |_|         |_|              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.329
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-07-02T10:54:31.613000-07:00",
+    "comando_completo": "ch!ascii como quieres que te quiera si el que quiero que me quiera no me quiere como quiero que me quiera",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T10:54:31.824000-07:00",
+      "contenido": "El mensaje excedió los 30 caracteres",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-07-02T10:56:17.726000-07:00",
+    "comando_completo": "ch!ascii como quieres que te quiera",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T10:56:18.102000-07:00",
+      "contenido": "```                                          _                                        _                     _                \n                                         (_)                                      | |                   (_)               \n   ___ ___  _ __ ___   ___     __ _ _   _ _  ___ _ __ ___ ___    __ _ _   _  ___  | |_ ___    __ _ _   _ _  ___ _ __ __ _ \n  / __/ _ \\| '_ ` _ \\ / _ \\   / _` | | | | |/ _ \\ '__/ _ \\ __|  / _` | | | |/ _ \\ | __/ _ \\  / _` | | | | |/ _ \\ '__/ _` |\n | (__ (_) | | | | | | (_) | | (_| | |_| | |  __/ | |  __\\__ \\ | (_| | |_| |  __/ | |_  __/ | (_| | |_| | |  __/ | | (_| |\n  \\___\\___/|_| |_| |_|\\___/   \\__, |\\__,_|_|\\___|_|  \\___|___/  \\__, |\\__,_|\\___|  \\__\\___|  \\__, |\\__,_|_|\\___|_|  \\__,_|\n                                 | |                               | |                          | |                       \n                                 |_|                               |_|                          |_|                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.376
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:01:31.810000-07:00",
+    "comando_completo": "ch!ascii Hola :v",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:01:32.340000-07:00",
+      "contenido": "```  _    _       _                 \n | |  | |     | |        _       \n | |__| | ___ | | __ _  (_)_   __\n |  __  |/ _ \\| |/ _` |   \\ \\ / /\n | |  | | (_) | | (_| |  _ \\ V / \n |_|  |_|\\___/|_|\\__,_| (_) \\_/  \n                                 \n                                 ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.53
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:01:50.619000-07:00",
+    "comando_completo": "ch!ascii Ascii",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:01:51.352000-07:00",
+      "contenido": "```                    _ _ \n     /\\            (_)_)\n    /  \\   ___  ___ _ _ \n   / /\\ \\ / __|/ __| | |\n  / ____ \\\\__ \\ (__| | |\n /_/    \\_\\___/\\___|_|_|\n                        \n                        ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.733
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-13T21:02:12.903000-07:00",
+    "comando_completo": "ch!ascii mamadisimo",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:02:13.099000-07:00",
+      "contenido": "```                                      _ _     _                 \n                                     | (_)   (_)                \n  _ __ ___   __ _ _ __ ___   __ _  __| |_ ___ _ _ __ ___   ___  \n | '_ ` _ \\ / _` | '_ ` _ \\ / _` |/ _` | / __| | '_ ` _ \\ / _ \\ \n | | | | | | (_| | | | | | | (_| | (_| | \\__ \\ | | | | | | (_) |\n |_| |_| |_|\\__,_|_| |_| |_|\\__,_|\\__,_|_|___/_|_| |_| |_|\\___/ \n                                                                \n                                                                ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:02:29.751000-07:00",
+    "comando_completo": "ch!ascii No me gusta :v",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:02:30.131000-07:00",
+      "contenido": "```  _   _                                          _                  \n | \\ | |                                        | |         _       \n |  \\| | ___    _ __ ___   ___    __ _ _   _ ___| |_ __ _  (_)_   __\n | . ` |/ _ \\  | '_ ` _ \\ / _ \\  / _` | | | / __| __/ _` |   \\ \\ / /\n | |\\  | (_) | | | | | | |  __/ | (_| | |_| \\__ \\ |_ (_| |  _ \\ V / \n |_| \\_|\\___/  |_| |_| |_|\\___|  \\__, |\\__,_|___/\\__\\__,_| (_) \\_/  \n                                  __/ |                             \n                                 |___/                              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.38
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:02:37.389000-07:00",
+    "comando_completo": "ch!ascii Me gusta el agua",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:02:39.970000-07:00",
+      "contenido": "```  __  __                        _               _                           \n |  \\/  |                      | |             | |                          \n | \\  / | ___    __ _ _   _ ___| |_ __ _    ___| |   __ _  __ _ _   _  __ _ \n | |\\/| |/ _ \\  / _` | | | / __| __/ _` |  / _ \\ |  / _` |/ _` | | | |/ _` |\n | |  | |  __/ | (_| | |_| \\__ \\ |_ (_| | |  __/ | | (_| | (_| | |_| | (_| |\n |_|  |_|\\___|  \\__, |\\__,_|___/\\__\\__,_|  \\___|_|  \\__,_|\\__, |\\__,_|\\__,_|\n                 __/ |                                     __/ |            \n                |___/                                     |___/             ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.581
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-13T21:03:01.320000-07:00",
+    "comando_completo": "ch!ascii :v",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:03:02.316000-07:00",
+      "contenido": "```          \n  _       \n (_)_   __\n   \\ \\ / /\n  _ \\ V / \n (_) \\_/  \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.996
+    }
+  },
+  {
+    "usuario": "butterfinger2998",
+    "usuario_id": "599832478638800916",
+    "fecha_comando": "2019-07-18T10:14:45.003000-07:00",
+    "comando_completo": "ch!ascii c mamo",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T10:14:45.204000-07:00",
+      "contenido": "```                                         \n                                         \n   ___   _ __ ___   __ _ _ __ ___   ___  \n  / __| | '_ ` _ \\ / _` | '_ ` _ \\ / _ \\ \n | (__  | | | | | | (_| | | | | | | (_) |\n  \\___| |_| |_| |_|\\__,_|_| |_| |_|\\___/ \n                                         \n                                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "butterfinger2998",
+    "usuario_id": "599832478638800916",
+    "fecha_comando": "2019-07-18T10:16:21.945000-07:00",
+    "comando_completo": "ch!ascii xd",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T10:16:22.262000-07:00",
+      "contenido": "```          _ \n         | |\n __  ____| |\n \\ \\/ / _` |\n  >  < (_| |\n /_/\\_\\__,_|\n            \n            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.317
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T15:57:26.917000-07:00",
+    "comando_completo": "ch!ascii xd",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T15:57:27.170000-07:00",
+      "contenido": "```          _ \n         | |\n __  ____| |\n \\ \\/ / _` |\n  >  < (_| |\n /_/\\_\\__,_|\n            \n            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.253
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-28T15:58:06.863000-07:00",
+    "comando_completo": "ch!ascii LOL",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T15:58:07.178000-07:00",
+      "contenido": "```  _      ____  _      \n | |    / __ \\| |     \n | |   | |  | | |     \n | |   | |  | | |     \n | |____ |__| | |____ \n |______\\____/|______|\n                      \n                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.315
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-19T20:40:27.433000-07:00",
+    "comando_completo": "ch!ascii :0",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T20:40:27.639000-07:00",
+      "contenido": "```     ___  \n  _ / _ \\ \n (_) | | |\n   | | | |\n  _| |_| |\n (_)\\___/ \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:09:46.269000-07:00",
+    "comando_completo": "ch!ascii ```hola```",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:09:46.546000-07:00",
+      "contenido": "```  _ _ _ _           _       _ _ _ \n ( ) ) ) |         | |     ( ) ) )\n  \\|\\|\\| |__   ___ | | __ _ \\|\\|\\|\n       | '_ \\ / _ \\| |/ _` |      \n       | | | | (_) | | (_| |      \n       |_| |_|\\___/|_|\\__,_|      \n                                  \n                                  ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T12:09:52.215000-07:00",
+    "comando_completo": "ch!ascii XD",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:09:54.693000-07:00",
+      "contenido": "``` __   _______  \n \\ \\ / /  __ \\ \n  \\ V /| |  | |\n   > < | |  | |\n  / . \\| |__| |\n /_/ \\_\\_____/ \n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.478
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T12:10:10.601000-07:00",
+    "comando_completo": "ch!ascii Me gusta el chocolate!",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:10:10.899000-07:00",
+      "contenido": "```  __  __                        _               _        _                     _       _       _ \n |  \\/  |                      | |             | |      | |                   | |     | |     | |\n | \\  / | ___    __ _ _   _ ___| |_ __ _    ___| |   ___| |__   ___   ___ ___ | | __ _| |_ ___| |\n | |\\/| |/ _ \\  / _` | | | / __| __/ _` |  / _ \\ |  / __| '_ \\ / _ \\ / __/ _ \\| |/ _` | __/ _ \\ |\n | |  | |  __/ | (_| | |_| \\__ \\ |_ (_| | |  __/ | | (__| | | | (_) | (__ (_) | | (_| | |_  __/_|\n |_|  |_|\\___|  \\__, |\\__,_|___/\\__\\__,_|  \\___|_|  \\___|_| |_|\\___/ \\___\\___/|_|\\__,_|\\__\\___(_)\n                 __/ |                                                                           \n                |___/                                                                            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.298
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:10:31.923000-07:00",
+    "comando_completo": "ch!ascii : )",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:10:41.997000-07:00",
+      "contenido": "```    ____  \n  _|___ \\ \n (_) __) |\n    |__ < \n  _ ___) |\n (_)____/ \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.074
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T12:10:41.669000-07:00",
+    "comando_completo": "ch!ascii :3",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:10:41.997000-07:00",
+      "contenido": "```    ____  \n  _|___ \\ \n (_) __) |\n    |__ < \n  _ ___) |\n (_)____/ \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.328
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T12:10:51.653000-07:00",
+    "comando_completo": "ch!ascii .w.",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:10:51.950000-07:00",
+      "contenido": "```           \n           \n __      __\n \\ \\ /\\ / /\n  _ V  V / \n (_)_/\\_(_)\n           \n           ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.297
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T12:10:59.603000-07:00",
+    "comando_completo": "ch!ascii AsCiI",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:10:59.951000-07:00",
+      "contenido": "```                _____ _ _____ \n     /\\        / ____(_)_   _|\n    /  \\   ___| |     _  | |  \n   / /\\ \\ / __| |    | | | |  \n  / ____ \\\\__ \\ |____| |_| |_ \n /_/    \\_\\___/\\_____|_|_____|\n                              \n                              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.348
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:11:01.294000-07:00",
+    "comando_completo": "ch!ascii : )",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:11:01.666000-07:00",
+      "contenido": "```     __  \n  _  \\ \\ \n (_)  | |\n      | |\n  _   | |\n (_)  | |\n     /_/ \n         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.372
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-27T08:25:31.063000-07:00",
+    "comando_completo": "ch!ascii Pa~",
+    "respuesta_bot": {
+      "fecha": "2019-10-27T08:25:31.518000-07:00",
+      "contenido": "```  _____       ___  \n |  __ \\     / _ \\ \n | |__) |_ _| | ) |\n |  ___/ _` | |< < \n | |  | (_| | | ) |\n |_|   \\__,_| ||_/ \n            |_|    \n                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.455
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T14:58:01.652000-08:00",
+    "comando_completo": "ch!ascii why?",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T14:58:02.113000-08:00",
+      "contenido": "```           _          ___  \n          | |        |__ \\ \n __      __ |__  _   _  ) |\n \\ \\ /\\ / / '_ \\| | | |/ / \n  \\ V  V /| | | | |_| |_|  \n   \\_/\\_/ |_| |_|\\__, (_)  \n                  __/ |    \n                 |___/     ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.461
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T14:58:29.310000-08:00",
+    "comando_completo": "ch!ascii .__.xd",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T14:58:29.757000-08:00",
+      "contenido": "```                       _ \n                      | |\n              __  ____| |\n              \\ \\/ / _` |\n  _          _ >  < (_| |\n (_)        (_)_/\\_\\__,_|\n ______ ______           \n|______|______|          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.447
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-14T14:59:04.713000-08:00",
+    "comando_completo": "ch!ascii .______. xd",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T14:59:05.153000-08:00",
+      "contenido": "```                                                     _ \n                                                    | |\n                                            __  ____| |\n                                            \\ \\/ / _` |\n  _                                      _   >  < (_| |\n (_)                                    (_) /_/\\_\\__,_|\n ______ ______ ______ ______ ______ ______             \n|______|______|______|______|______|______|            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.44
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-14T15:05:04.489000-08:00",
+    "comando_completo": "ch!ascii F",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T15:05:04.940000-08:00",
+      "contenido": "```  ______ \n |  ____|\n | |__   \n |  __|  \n | |     \n |_|     \n         \n         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.451
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-14T16:34:08.460000-08:00",
+    "comando_completo": "ch!ascii CHINOS",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T16:34:09.046000-08:00",
+      "contenido": "```   _____ _    _ _____ _   _  ____   _____ \n  / ____| |  | |_   _| \\ | |/ __ \\ / ____|\n | |    | |__| | | | |  \\| | |  | | (___  \n | |    |  __  | | | | . ` | |  | |\\___ \\ \n | |____| |  | |_| |_| |\\  | |__| |____) |\n  \\_____|_|  |_|_____|_| \\_|\\____/|_____/ \n                                          \n                                          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "🇨",
+            "code": "regional_indicator_c",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "299950616803803136",
+              "name": "aashura_",
+              "discriminator": "0000",
+              "nickname": "罰 | Juannn._",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299950616803803136/ee0131b0005316ec12ef8b6116e8f676.png?size=512"
+            },
+            {
+              "id": "484166571552538648",
+              "name": "deleted_user_1b4deed20c0f",
+              "discriminator": "0000",
+              "nickname": "deleted_user_1b4deed20c0f",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "502570366011441167",
+              "name": "jeanfranco24",
+              "discriminator": "0000",
+              "nickname": "Papelera de Reciclaje",
+              "color": "#F8FFA9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/502570366011441167/60b2508c8c3416e2285c945bc863808d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "🇭",
+            "code": "regional_indicator_h",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ed.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "299950616803803136",
+              "name": "aashura_",
+              "discriminator": "0000",
+              "nickname": "罰 | Juannn._",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299950616803803136/ee0131b0005316ec12ef8b6116e8f676.png?size=512"
+            },
+            {
+              "id": "484166571552538648",
+              "name": "deleted_user_1b4deed20c0f",
+              "discriminator": "0000",
+              "nickname": "deleted_user_1b4deed20c0f",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "502570366011441167",
+              "name": "jeanfranco24",
+              "discriminator": "0000",
+              "nickname": "Papelera de Reciclaje",
+              "color": "#F8FFA9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/502570366011441167/60b2508c8c3416e2285c945bc863808d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "🇮",
+            "code": "regional_indicator_i",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ee.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "299950616803803136",
+              "name": "aashura_",
+              "discriminator": "0000",
+              "nickname": "罰 | Juannn._",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299950616803803136/ee0131b0005316ec12ef8b6116e8f676.png?size=512"
+            },
+            {
+              "id": "484166571552538648",
+              "name": "deleted_user_1b4deed20c0f",
+              "discriminator": "0000",
+              "nickname": "deleted_user_1b4deed20c0f",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "502570366011441167",
+              "name": "jeanfranco24",
+              "discriminator": "0000",
+              "nickname": "Papelera de Reciclaje",
+              "color": "#F8FFA9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/502570366011441167/60b2508c8c3416e2285c945bc863808d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "🇳",
+            "code": "regional_indicator_n",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f3.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "299950616803803136",
+              "name": "aashura_",
+              "discriminator": "0000",
+              "nickname": "罰 | Juannn._",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299950616803803136/ee0131b0005316ec12ef8b6116e8f676.png?size=512"
+            },
+            {
+              "id": "484166571552538648",
+              "name": "deleted_user_1b4deed20c0f",
+              "discriminator": "0000",
+              "nickname": "deleted_user_1b4deed20c0f",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "502570366011441167",
+              "name": "jeanfranco24",
+              "discriminator": "0000",
+              "nickname": "Papelera de Reciclaje",
+              "color": "#F8FFA9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/502570366011441167/60b2508c8c3416e2285c945bc863808d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "🇴",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "299950616803803136",
+              "name": "aashura_",
+              "discriminator": "0000",
+              "nickname": "罰 | Juannn._",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299950616803803136/ee0131b0005316ec12ef8b6116e8f676.png?size=512"
+            },
+            {
+              "id": "484166571552538648",
+              "name": "deleted_user_1b4deed20c0f",
+              "discriminator": "0000",
+              "nickname": "deleted_user_1b4deed20c0f",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "502570366011441167",
+              "name": "jeanfranco24",
+              "discriminator": "0000",
+              "nickname": "Papelera de Reciclaje",
+              "color": "#F8FFA9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/502570366011441167/60b2508c8c3416e2285c945bc863808d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "🇸",
+            "code": "regional_indicator_s",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "299950616803803136",
+              "name": "aashura_",
+              "discriminator": "0000",
+              "nickname": "罰 | Juannn._",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/299950616803803136/ee0131b0005316ec12ef8b6116e8f676.png?size=512"
+            },
+            {
+              "id": "484166571552538648",
+              "name": "deleted_user_1b4deed20c0f",
+              "discriminator": "0000",
+              "nickname": "deleted_user_1b4deed20c0f",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+            },
+            {
+              "id": "502570366011441167",
+              "name": "jeanfranco24",
+              "discriminator": "0000",
+              "nickname": "Papelera de Reciclaje",
+              "color": "#F8FFA9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/502570366011441167/60b2508c8c3416e2285c945bc863808d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.586
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-15T15:24:36.123000-08:00",
+    "comando_completo": "ch!ascii Paca",
+    "respuesta_bot": {
+      "fecha": "2020-02-15T15:24:36.675000-08:00",
+      "contenido": "```  _____                \n |  __ \\               \n | |__) |_ _  ___ __ _ \n |  ___/ _` |/ __/ _` |\n | |  | (_| | (__ (_| |\n |_|   \\__,_|\\___\\__,_|\n                       \n                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.552
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-16T09:02:54.834000-08:00",
+    "comando_completo": "ch!ascii YEI",
+    "respuesta_bot": {
+      "fecha": "2020-02-16T09:02:55.312000-08:00",
+      "contenido": "``` __     ________ _____ \n \\ \\   / /  ____|_   _|\n  \\ \\_/ /| |__    | |  \n   \\   / |  __|   | |  \n    | |  | |____ _| |_ \n    |_|  |______|_____|\n                       \n                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.478
+    }
+  },
+  {
+    "usuario": "shai_firstacc",
+    "usuario_id": "667853434153730058",
+    "fecha_comando": "2020-03-05T15:19:44.915000-08:00",
+    "comando_completo": "ch!ascii jaja hola :v",
+    "respuesta_bot": {
+      "fecha": "2020-03-05T15:19:45.427000-08:00",
+      "contenido": "```    _       _         _           _                 \n   (_)     (_)       | |         | |        _       \n    _  __ _ _  __ _  | |__   ___ | | __ _  (_)_   __\n   | |/ _` | |/ _` | | '_ \\ / _ \\| |/ _` |   \\ \\ / /\n   | | (_| | | (_| | | | | | (_) | | (_| |  _ \\ V / \n   | |\\__,_| |\\__,_| |_| |_|\\___/|_|\\__,_| (_) \\_/  \n  _/ |    _/ |                                      \n |__/    |__/                                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.512
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-03-05T15:19:48.815000-08:00",
+    "comando_completo": "ch!ascii pepe",
+    "respuesta_bot": {
+      "fecha": "2020-03-05T15:19:49.392000-08:00",
+      "contenido": "```                        \n                        \n  _ __   ___ _ __   ___ \n | '_ \\ / _ \\ '_ \\ / _ \\\n | |_) |  __/ |_) |  __/\n | .__/ \\___| .__/ \\___|\n | |        | |         \n |_|        |_|         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.577
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-03-28T23:30:53.875000-07:00",
+    "comando_completo": "ch!ascii Hola me llamo Ernesto y me gusta la Pepsi",
+    "respuesta_bot": {
+      "fecha": "2020-03-28T23:31:05.894000-07:00",
+      "contenido": "```  __  __           _                    _                  _ _ _       \n |  \\/  |         | |                  (_)                (_) | |      \n | \\  / | __ _  __| |_ __ ___ _ __ ___  _  __ _  __      ___| | |_   _ \n | |\\/| |/ _` |/ _` | '__/ _ \\ '_ ` _ \\| |/ _` | \\ \\ /\\ / / | | | | | |\n | |  | | (_| | (_| | | |  __/ | | | | | | (_| |  \\ V  V /| | | | |_| |\n |_|  |_|\\__,_|\\__,_|_|  \\___|_| |_| |_|_|\\__,_|   \\_/\\_/ |_|_|_|\\__, |\n                                                                  __/ |\n                                                                 |___/ ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 12.019
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-03-28T23:31:05.426000-07:00",
+    "comando_completo": "ch!ascii Madremia willy",
+    "respuesta_bot": {
+      "fecha": "2020-03-28T23:31:05.894000-07:00",
+      "contenido": "```  __  __           _                    _                  _ _ _       \n |  \\/  |         | |                  (_)                (_) | |      \n | \\  / | __ _  __| |_ __ ___ _ __ ___  _  __ _  __      ___| | |_   _ \n | |\\/| |/ _` |/ _` | '__/ _ \\ '_ ` _ \\| |/ _` | \\ \\ /\\ / / | | | | | |\n | |  | | (_| | (_| | | |  __/ | | | | | | (_| |  \\ V  V /| | | | |_| |\n |_|  |_|\\__,_|\\__,_|_|  \\___|_| |_| |_|_|\\__,_|   \\_/\\_/ |_|_|_|\\__, |\n                                                                  __/ |\n                                                                 |___/ ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.468
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-03-28T23:31:36.212000-07:00",
+    "comando_completo": "ch!ascii pero que apasao",
+    "respuesta_bot": {
+      "fecha": "2020-03-28T23:31:36.750000-07:00",
+      "contenido": "```                                                                              \n                                                                              \n  _ __   ___ _ __ ___     __ _ _   _  ___    __ _ _ __   __ _ ___  __ _  ___  \n | '_ \\ / _ \\ '__/ _ \\   / _` | | | |/ _ \\  / _` | '_ \\ / _` / __|/ _` |/ _ \\ \n | |_) |  __/ | | (_) | | (_| | |_| |  __/ | (_| | |_) | (_| \\__ \\ (_| | (_) |\n | .__/ \\___|_|  \\___/   \\__, |\\__,_|\\___|  \\__,_| .__/ \\__,_|___/\\__,_|\\___/ \n | |                        | |                  | |                          \n |_|                        |_|                  |_|                          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.538
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-03-28T23:34:27.755000-07:00",
+    "comando_completo": "ch!ascii toque de queda",
+    "respuesta_bot": {
+      "fecha": "2020-03-28T23:34:28.262000-07:00",
+      "contenido": "```  _                               _                             _       \n | |                             | |                           | |      \n | |_ ___   __ _ _   _  ___    __| | ___    __ _ _   _  ___  __| | __ _ \n | __/ _ \\ / _` | | | |/ _ \\  / _` |/ _ \\  / _` | | | |/ _ \\/ _` |/ _` |\n | |_ (_) | (_| | |_| |  __/ | (_| |  __/ | (_| | |_| |  __/ (_| | (_| |\n  \\__\\___/ \\__, |\\__,_|\\___|  \\__,_|\\___|  \\__, |\\__,_|\\___|\\__,_|\\__,_|\n              | |                             | |                       \n              |_|                             |_|                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.507
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-03-28T23:35:30.074000-07:00",
+    "comando_completo": "ch!ascii toques de queda",
+    "respuesta_bot": {
+      "fecha": "2020-03-28T23:35:31.156000-07:00",
+      "contenido": "```  _                                   _                             _       \n | |                                 | |                           | |      \n | |_ ___   __ _ _   _  ___ ___    __| | ___    __ _ _   _  ___  __| | __ _ \n | __/ _ \\ / _` | | | |/ _ \\ __|  / _` |/ _ \\  / _` | | | |/ _ \\/ _` |/ _` |\n | |_ (_) | (_| | |_| |  __\\__ \\ | (_| |  __/ | (_| | |_| |  __/ (_| | (_| |\n  \\__\\___/ \\__, |\\__,_|\\___|___/  \\__,_|\\___|  \\__, |\\__,_|\\___|\\__,_|\\__,_|\n              | |                                 | |                       \n              |_|                                 |_|                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.082
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-03-29T00:56:35.862000-07:00",
+    "comando_completo": "ch!ascii pero bueno folagor",
+    "respuesta_bot": {
+      "fecha": "2020-03-29T00:56:36.408000-07:00",
+      "contenido": "```                         _                               __      _                        \n                        | |                             / _|    | |                       \n  _ __   ___ _ __ ___   | |__  _   _  ___ _ __   ___   | |_ ___ | | __ _  __ _  ___  _ __ \n | '_ \\ / _ \\ '__/ _ \\  | '_ \\| | | |/ _ \\ '_ \\ / _ \\  |  _/ _ \\| |/ _` |/ _` |/ _ \\| '__|\n | |_) |  __/ | | (_) | | |_) | |_| |  __/ | | | (_) | | || (_) | | (_| | (_| | (_) | |   \n | .__/ \\___|_|  \\___/  |_.__/ \\__,_|\\___|_| |_|\\___/  |_| \\___/|_|\\__,_|\\__, |\\___/|_|   \n | |                                                                      __/ |           \n |_|                                                                     |___/            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.546
+    }
+  },
+  {
+    "usuario": "6roro9",
+    "usuario_id": "394593371139866630",
+    "fecha_comando": "2020-04-01T10:20:41.158000-07:00",
+    "comando_completo": "ch!ascii Arcus no dijo una pista",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:20:41.664000-07:00",
+      "contenido": "```                                                  _ _ _                                   _     _        \n     /\\                                          | (_)_)                                 (_)   | |       \n    /  \\   _ __ ___ _   _ ___   _ __   ___     __| |_ _  ___    _   _ _ __   __ _   _ __  _ ___| |_ __ _ \n   / /\\ \\ | '__/ __| | | / __| | '_ \\ / _ \\   / _` | | |/ _ \\  | | | | '_ \\ / _` | | '_ \\| / __| __/ _` |\n  / ____ \\| | | (__| |_| \\__ \\ | | | | (_) | | (_| | | | (_) | | |_| | | | | (_| | | |_) | \\__ \\ |_ (_| |\n /_/    \\_\\_|  \\___|\\__,_|___/ |_| |_|\\___/   \\__,_|_| |\\___/   \\__,_|_| |_|\\__,_| | .__/|_|___/\\__\\__,_|\n                                                    _/ |                           | |                   \n                                                   |__/                            |_|                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.506
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-05-13T23:50:46.075000-07:00",
+    "comando_completo": "ch!ascii pq",
+    "respuesta_bot": {
+      "fecha": "2020-05-13T23:50:46.503000-07:00",
+      "contenido": "```              \n              \n  _ __   __ _ \n | '_ \\ / _` |\n | |_) | (_| |\n | .__/ \\__, |\n | |       | |\n |_|       |_|```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.428
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-23T11:12:53.055000-07:00",
+    "comando_completo": "ch!ascii A estudiar",
+    "respuesta_bot": {
+      "fecha": "2020-05-23T11:12:53.550000-07:00",
+      "contenido": "```                      _             _ _            \n     /\\              | |           | (_)           \n    /  \\      ___ ___| |_ _   _  __| |_  __ _ _ __ \n   / /\\ \\    / _ \\ __| __| | | |/ _` | |/ _` | '__|\n  / ____ \\  |  __\\__ \\ |_| |_| | (_| | | (_| | |   \n /_/    \\_\\  \\___|___/\\__|\\__,_|\\__,_|_|\\__,_|_|   \n                                                   \n                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.495
+    }
+  },
+  {
+    "usuario": "orainge.",
+    "usuario_id": "697468212161282129",
+    "fecha_comando": "2020-05-28T12:00:33.359000-07:00",
+    "comando_completo": "ch!ascii &",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:00:33.920000-07:00",
+      "contenido": "``````",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.561
+    }
+  },
+  {
+    "usuario": "orainge.",
+    "usuario_id": "697468212161282129",
+    "fecha_comando": "2020-05-28T12:01:04.542000-07:00",
+    "comando_completo": "ch!ascii &",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:01:05.111000-07:00",
+      "contenido": "``````",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.569
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-28T12:01:06.394000-07:00",
+    "comando_completo": "ch!ascii Baura",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:01:06.829000-07:00",
+      "contenido": "```  ____                        \n |  _ \\                       \n | |_) | __ _ _   _ _ __ __ _ \n |  _ < / _` | | | | '__/ _` |\n | |_) | (_| | |_| | | | (_| |\n |____/ \\__,_|\\__,_|_|  \\__,_|\n                              \n                              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.435
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-28T12:01:11.408000-07:00",
+    "comando_completo": "ch!ascii UwU",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:01:12.061000-07:00",
+      "contenido": "```  _    _          _    _ \n | |  | |        | |  | |\n | |  | |_      __ |  | |\n | |  | \\ \\ /\\ / / |  | |\n | |__| |\\ V  V /| |__| |\n  \\____/  \\_/\\_/  \\____/ \n                         \n                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.653
+    }
+  },
+  {
+    "usuario": "orainge.",
+    "usuario_id": "697468212161282129",
+    "fecha_comando": "2020-05-28T12:01:15.894000-07:00",
+    "comando_completo": "ch!ascii &",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:01:16.356000-07:00",
+      "contenido": "``````",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.462
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-28T12:01:29.126000-07:00",
+    "comando_completo": "ch!ascii Pan con buebito",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:01:29.627000-07:00",
+      "contenido": "```  _____                                _                _     _ _        \n |  __ \\                              | |              | |   (_) |       \n | |__) |_ _ _ __     ___ ___  _ __   | |__  _   _  ___| |__  _| |_ ___  \n |  ___/ _` | '_ \\   / __/ _ \\| '_ \\  | '_ \\| | | |/ _ \\ '_ \\| | __/ _ \\ \n | |  | (_| | | | | | (__ (_) | | | | | |_) | |_| |  __/ |_) | | |_ (_) |\n |_|   \\__,_|_| |_|  \\___\\___/|_| |_| |_.__/ \\__,_|\\___|_.__/|_|\\__\\___/ \n                                                                         \n                                                                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.501
+    }
+  },
+  {
+    "usuario": "orainge.",
+    "usuario_id": "697468212161282129",
+    "fecha_comando": "2020-05-28T12:03:00.891000-07:00",
+    "comando_completo": "ch!ascii &",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:03:01.687000-07:00",
+      "contenido": "``````",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.796
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-28T12:03:15.987000-07:00",
+    "comando_completo": "ch!ascii *-*",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:03:16.416000-07:00",
+      "contenido": "```     _              _    \n  /\\| |/\\        /\\| |/\\ \n  \\ ` ' / ______ \\ ` ' / \n |_     _|______|_     _|\n  / , . \\        / , . \\ \n  \\/|_|\\/        \\/|_|\\/ \n                         \n                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.429
+    }
+  },
+  {
+    "usuario": "orainge.",
+    "usuario_id": "697468212161282129",
+    "fecha_comando": "2020-05-28T12:03:29.972000-07:00",
+    "comando_completo": "ch!ascii watefok",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:03:30.504000-07:00",
+      "contenido": "```                _        __      _    \n               | |      / _|    | |   \n __      ____ _| |_ ___| |_ ___ | | __\n \\ \\ /\\ / / _` | __/ _ \\  _/ _ \\| |/ /\n  \\ V  V / (_| | |_  __/ || (_) |   < \n   \\_/\\_/ \\__,_|\\__\\___|_| \\___/|_|\\_\\\n                                      \n                                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.532
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-28T12:05:07.792000-07:00",
+    "comando_completo": "ch!ascii ._.xd",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T12:05:08.258000-07:00",
+      "contenido": "```                _ \n               | |\n       __  ____| |\n       \\ \\/ / _` |\n  _   _ >  < (_| |\n (_) (_)_/\\_\\__,_|\n ______           \n|______|          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.466
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-28T20:42:01.555000-07:00",
+    "comando_completo": "ch!ascii ._.",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T20:42:02.628000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: I will remind you in 20 hours",
+          "color": "#66BB6A",
+          "author": {
+            "name": "♥♣🇦 🇮 🇪 🇽🇺 🇼 🇺♠♣♥#0535",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/GGmg3XUznKlsME86hmJIxQ0m9Oyz2KV-9FTRFZgWK9Y/%3Fsize%3D128/https/cdn.discordapp.com/avatars/700854214837928117/07ff457ad323997f85d0417e1ca6d913.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/700854214837928117/07ff457ad323997f85d0417e1ca6d913.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.073
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T06:02:57.279000-07:00",
+    "comando_completo": "ch!ascii ._.",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T06:02:57.788000-07:00",
+      "contenido": "```        \n        \n        \n        \n  _   _ \n (_) (_)\n ______ \n|______|```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.509
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T06:03:19.960000-07:00",
+    "comando_completo": "ch!ascii .-.",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T06:03:20.436000-07:00",
+      "contenido": "```        \n        \n ______ \n|______|\n  _   _ \n (_) (_)\n        \n        ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.476
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T06:04:29.790000-07:00",
+    "comando_completo": "ch!ascii Bv",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T06:04:30.201000-07:00",
+      "contenido": "```  ____        \n |  _ \\       \n | |_) |_   __\n |  _ <\\ \\ / /\n | |_) |\\ V / \n |____/  \\_/  \n              \n              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.411
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T06:04:44.510000-07:00",
+    "comando_completo": "ch!ascii 7u7",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T06:04:44.953000-07:00",
+      "contenido": "```  ______    ______ \n |____  |  |____  |\n     / /   _   / / \n    / / | | | / /  \n   / /| |_| |/ /   \n  /_/  \\__,_/_/    \n                   \n                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.443
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T06:04:59.410000-07:00",
+    "comando_completo": "ch!ascii 😮",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T06:04:59.626000-07:00",
+      "contenido": "Ocurrió un error al intentar convertir el mensaje. Es posible que hayas usado algún caracter especial.\nDetalles del error: `TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T06:05:11.010000-07:00",
+    "comando_completo": "ch!ascii :0",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T06:05:11.354000-07:00",
+      "contenido": "```     ___  \n  _ / _ \\ \n (_) | | |\n   | | | |\n  _| |_| |\n (_)\\___/ \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-05-29T12:40:35.407000-07:00",
+    "comando_completo": "ch!ascii porquepobre",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T12:40:35.855000-07:00",
+      "contenido": "```                                               _              \n                                              | |             \n  _ __   ___  _ __ __ _ _   _  ___ _ __   ___ | |__  _ __ ___ \n | '_ \\ / _ \\| '__/ _` | | | |/ _ \\ '_ \\ / _ \\| '_ \\| '__/ _ \\\n | |_) | (_) | | | (_| | |_| |  __/ |_) | (_) | |_) | | |  __/\n | .__/ \\___/|_|  \\__, |\\__,_|\\___| .__/ \\___/|_.__/|_|  \\___|\n | |                 | |          | |                         \n |_|                 |_|          |_|                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.448
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-30T21:24:49.982000-07:00",
+    "comando_completo": "ch!ascii NO",
+    "respuesta_bot": {
+      "fecha": "2020-05-30T21:24:50.456000-07:00",
+      "contenido": "```  _   _  ____  \n | \\ | |/ __ \\ \n |  \\| | |  | |\n | . ` | |  | |\n | |\\  | |__| |\n |_| \\_|\\____/ \n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.474
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-01T14:50:04.073000-07:00",
+    "comando_completo": "ch!ascii A estudiar",
+    "respuesta_bot": {
+      "fecha": "2020-06-01T14:50:04.640000-07:00",
+      "contenido": "```                      _             _ _            \n     /\\              | |           | (_)           \n    /  \\      ___ ___| |_ _   _  __| |_  __ _ _ __ \n   / /\\ \\    / _ \\ __| __| | | |/ _` | |/ _` | '__|\n  / ____ \\  |  __\\__ \\ |_| |_| | (_| | | (_| | |   \n /_/    \\_\\  \\___|___/\\__|\\__,_|\\__,_|_|\\__,_|_|   \n                                                   \n                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.567
+    }
+  },
+  {
+    "usuario": "princessezequiel",
+    "usuario_id": "664903308636586023",
+    "fecha_comando": "2020-06-03T18:08:21.282000-07:00",
+    "comando_completo": "ch!ascii UwU",
+    "respuesta_bot": {
+      "fecha": "2020-06-03T18:08:21.712000-07:00",
+      "contenido": "```  _    _          _    _ \n | |  | |        | |  | |\n | |  | |_      __ |  | |\n | |  | \\ \\ /\\ / / |  | |\n | |__| |\\ V  V /| |__| |\n  \\____/  \\_/\\_/  \\____/ \n                         \n                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.43
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-16T09:31:11.030000-07:00",
+    "comando_completo": "ch!ascii 1millon",
+    "respuesta_bot": {
+      "fecha": "2020-06-16T09:31:11.474000-07:00",
+      "contenido": "```  __           _ _ _             \n /_ |         (_) | |            \n  | |_ __ ___  _| | | ___  _ __  \n  | | '_ ` _ \\| | | |/ _ \\| '_ \\ \n  | | | | | | | | | | (_) | | | |\n  |_|_| |_| |_|_|_|_|\\___/|_| |_|\n                                 \n                                 ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.444
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-16T17:32:11.335000-07:00",
+    "comando_completo": "ch!ascii CA-MI-NAR",
+    "respuesta_bot": {
+      "fecha": "2020-06-16T17:32:11.793000-07:00",
+      "contenido": "```   _____               __  __ _____      _   _          _____  \n  / ____|   /\\        |  \\/  |_   _|    | \\ | |   /\\   |  __ \\ \n | |       /  \\ ______| \\  / | | |______|  \\| |  /  \\  | |__) |\n | |      / /\\ \\______| |\\/| | | |______| . ` | / /\\ \\ |  _  / \n | |____ / ____ \\     | |  | |_| |_     | |\\  |/ ____ \\| | \\ \\ \n  \\_____/_/    \\_\\    |_|  |_|_____|    |_| \\_/_/    \\_\\_|  \\_\\\n                                                               \n                                                               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.458
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-06-20T09:53:25.782000-07:00",
+    "comando_completo": "ch!ascii Brutal",
+    "respuesta_bot": {
+      "fecha": "2020-06-20T09:53:26.276000-07:00",
+      "contenido": "```  ____             _        _ \n |  _ \\           | |      | |\n | |_) |_ __ _   _| |_ __ _| |\n |  _ <| '__| | | | __/ _` | |\n | |_) | |  | |_| | |_ (_| | |\n |____/|_|   \\__,_|\\__\\__,_|_|\n                              \n                              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.494
+    }
+  },
+  {
+    "usuario": "corneliosaavedra",
+    "usuario_id": "501471759762194443",
+    "fecha_comando": "2020-06-21T14:33:14.679000-07:00",
+    "comando_completo": "ch!ascii XD",
+    "respuesta_bot": {
+      "fecha": "2020-06-21T14:33:15.194000-07:00",
+      "contenido": "``` __   _______  \n \\ \\ / /  __ \\ \n  \\ V /| |  | |\n   > < | |  | |\n  / . \\| |__| |\n /_/ \\_\\_____/ \n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.515
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-21T15:11:13.782000-07:00",
+    "comando_completo": "ch!ascii venganza",
+    "respuesta_bot": {
+      "fecha": "2020-06-21T15:11:14.315000-07:00",
+      "contenido": "```                                             \n                                             \n __   _____ _ __   __ _  __ _ _ __  ______ _ \n \\ \\ / / _ \\ '_ \\ / _` |/ _` | '_ \\|_  / _` |\n  \\ V /  __/ | | | (_| | (_| | | | |/ / (_| |\n   \\_/ \\___|_| |_|\\__, |\\__,_|_| |_/___\\__,_|\n                   __/ |                     \n                  |___/                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.533
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-23T10:11:06.616000-07:00",
+    "comando_completo": "ch!ascii sweet",
+    "respuesta_bot": {
+      "fecha": "2020-06-23T10:11:07.198000-07:00",
+      "contenido": "```                        _   \n                       | |  \n  _____      _____  ___| |_ \n / __\\ \\ /\\ / / _ \\/ _ \\ __|\n \\__ \\\\ V  V /  __/  __/ |_ \n |___/ \\_/\\_/ \\___|\\___|\\__|\n                            \n                            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.582
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-23T16:49:44.602000-07:00",
+    "comando_completo": "ch!ascii nah",
+    "respuesta_bot": {
+      "fecha": "2020-06-23T16:49:45.036000-07:00",
+      "contenido": "```              _     \n             | |    \n  _ __   __ _| |__  \n | '_ \\ / _` | '_ \\ \n | | | | (_| | | | |\n |_| |_|\\__,_|_| |_|\n                    \n                    ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.434
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-24T08:18:51.951000-07:00",
+    "comando_completo": "ch!ascii reddo",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:18:52.370000-07:00",
+      "contenido": "```               _     _       \n              | |   | |      \n  _ __ ___  __| | __| | ___  \n | '__/ _ \\/ _` |/ _` |/ _ \\ \n | | |  __/ (_| | (_| | (_) |\n |_|  \\___|\\__,_|\\__,_|\\___/ \n                             \n                             ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.419
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-24T08:19:22.728000-07:00",
+    "comando_completo": "ch!ascii Reddit",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:19:23.185000-07:00",
+      "contenido": "```  _____          _     _ _ _   \n |  __ \\        | |   | (_) |  \n | |__) |___  __| | __| |_| |_ \n |  _  // _ \\/ _` |/ _` | | __|\n | | \\ \\  __/ (_| | (_| | | |_ \n |_|  \\_\\___|\\__,_|\\__,_|_|\\__|\n                               \n                               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.457
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-24T08:19:43.224000-07:00",
+    "comando_completo": "ch!ascii Ella",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:19:43.587000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 1 hour and 40 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Sergío Marquina#5465",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TqvjO5J_sw6KOTv7zOoByTz0LOxhgO29EvG33S7i9Qc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/704446288879681556/3a48d814d5a849e7f2fe8349b4e28c51.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/704446288879681556/3a48d814d5a849e7f2fe8349b4e28c51.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.363
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-24T08:19:51.908000-07:00",
+    "comando_completo": "ch!ascii te",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:19:52.328000-07:00",
+      "contenido": "```  _       \n | |      \n | |_ ___ \n | __/ _ \\\n | |_  __/\n  \\__\\___|\n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.42
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-24T08:20:05.426000-07:00",
+    "comando_completo": "ch!ascii engaña",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:20:05.887000-07:00",
+      "contenido": "```An error has occurred while asciifying.```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "645817527766745088",
+            "name": "chSayoriCry",
+            "code": "chSayoriCry",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/645817527766745088.png"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "418913677014466562",
+              "name": "deleted_user_11576d728a31",
+              "discriminator": "0000",
+              "nickname": "deleted_user_11576d728a31",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            },
+            {
+              "id": "526990106347831304",
+              "name": "paco_el_alpaco",
+              "discriminator": "0000",
+              "nickname": "Paco",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/526990106347831304/35e7ee72c1d9b82de85e0439d3573548.png?size=512"
+            },
+            {
+              "id": "664903308636586023",
+              "name": "princessezequiel",
+              "discriminator": "0000",
+              "nickname": "Ezequiel ~ 🩵",
+              "color": "#FFE1A9",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/664903308636586023/0c84eaa0fcea9d392fc41edab05fac17.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.461
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-06-24T08:20:28.258000-07:00",
+    "comando_completo": "ch!ascii asd",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:20:28.835000-07:00",
+      "contenido": "```                _ \n               | |\n   __ _ ___  __| |\n  / _` / __|/ _` |\n | (_| \\__ \\ (_| |\n  \\__,_|___/\\__,_|\n                  \n                  ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.577
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2020-06-24T08:20:37.595000-07:00",
+    "comando_completo": "ch!ascii Ñ",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:20:38.065000-07:00",
+      "contenido": "```An error has occurred while asciifying.```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.47
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2020-06-24T08:20:53.782000-07:00",
+    "comando_completo": "ch!ascii The Game",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:20:54.541000-07:00",
+      "contenido": "```  _______ _             _____                      \n |__   __| |           / ____|                     \n    | |  | |__   ___  | |  __  __ _ _ __ ___   ___ \n    | |  | '_ \\ / _ \\ | | |_ |/ _` | '_ ` _ \\ / _ \\\n    | |  | | | |  __/ | |__| | (_| | | | | | |  __/\n    |_|  |_| |_|\\___|  \\_____|\\__,_|_| |_| |_|\\___|\n                                                   \n                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.759
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-06-24T08:20:54.336000-07:00",
+    "comando_completo": "ch!ascii engana",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:20:54.541000-07:00",
+      "contenido": "```  _______ _             _____                      \n |__   __| |           / ____|                     \n    | |  | |__   ___  | |  __  __ _ _ __ ___   ___ \n    | |  | '_ \\ / _ \\ | | |_ |/ _` | '_ ` _ \\ / _ \\\n    | |  | | | |  __/ | |__| | (_| | | | | | |  __/\n    |_|  |_| |_|\\___|  \\_____|\\__,_|_| |_| |_|\\___|\n                                                   \n                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "12.jh",
+    "usuario_id": "652912217754435592",
+    "fecha_comando": "2020-07-04T14:12:57.394000-07:00",
+    "comando_completo": "ch!ascii ola soy men",
+    "respuesta_bot": {
+      "fecha": "2020-07-04T14:12:57.778000-07:00",
+      "contenido": "```        _                                                \n       | |                                               \n   ___ | | __ _   ___  ___  _   _   _ __ ___   ___ _ __  \n  / _ \\| |/ _` | / __|/ _ \\| | | | | '_ ` _ \\ / _ \\ '_ \\ \n | (_) | | (_| | \\__ \\ (_) | |_| | | | | | | |  __/ | | |\n  \\___/|_|\\__,_| |___/\\___/ \\__, | |_| |_| |_|\\___|_| |_|\n                             __/ |                       \n                            |___/                        ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.384
+    }
+  },
+  {
+    "usuario": "bemchota",
+    "usuario_id": "682411418884374641",
+    "fecha_comando": "2020-07-04T14:13:12.893000-07:00",
+    "comando_completo": "ch!ascii cual es?",
+    "respuesta_bot": {
+      "fecha": "2020-07-04T14:13:13.318000-07:00",
+      "contenido": "```                   _           ___  \n                  | |         |__ \\ \n   ___ _   _  __ _| |   ___ ___  ) |\n  / __| | | |/ _` | |  / _ \\ __|/ / \n | (__| |_| | (_| | | |  __\\__ \\_|  \n  \\___|\\__,_|\\__,_|_|  \\___|___(_)  \n                                    \n                                    ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.425
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T19:07:59.451000-07:00",
+    "comando_completo": "ch!ascii ._.",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T19:08:00.204000-07:00",
+      "contenido": "```        \n        \n        \n        \n  _   _ \n (_) (_)\n ______ \n|______|```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.753
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:22:51.799000-07:00",
+    "comando_completo": "ch!ascii Awuakate",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:22:53.325000-07:00",
+      "contenido": "```                              _         _       \n     /\\                      | |       | |      \n    /  \\__      ___   _  __ _| | ____ _| |_ ___ \n   / /\\ \\ \\ /\\ / / | | |/ _` | |/ / _` | __/ _ \\\n  / ____ \\ V  V /| |_| | (_| |   < (_| | |_  __/\n /_/    \\_\\_/\\_/  \\__,_|\\__,_|_|\\_\\__,_|\\__\\___|\n                                                \n                                                ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.526
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:23:48.346000-07:00",
+    "comando_completo": "ch!ascii Guanábana",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:23:48.758000-07:00",
+      "contenido": "```An error has occurred while asciifying.```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.412
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:24:00.113000-07:00",
+    "comando_completo": "ch!ascii Guanabana",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:24:00.584000-07:00",
+      "contenido": "```   _____                         _                       \n  / ____|                       | |                      \n | |  __ _   _  __ _ _ __   __ _| |__   __ _ _ __   __ _ \n | | |_ | | | |/ _` | '_ \\ / _` | '_ \\ / _` | '_ \\ / _` |\n | |__| | |_| | (_| | | | | (_| | |_) | (_| | | | | (_| |\n  \\_____|\\__,_|\\__,_|_| |_|\\__,_|_.__/ \\__,_|_| |_|\\__,_|\n                                                         \n                                                         ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.471
+    }
+  },
+  {
+    "usuario": "sprincito",
+    "usuario_id": "541388453708038165",
+    "fecha_comando": "2020-07-09T20:24:27.400000-07:00",
+    "comando_completo": "ch!ascii Amo su inocencia",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:24:28.812000-07:00",
+      "contenido": "```                                         _                                 _       \n     /\\                                 (_)                               (_)      \n    /  \\   _ __ ___   ___    ___ _   _   _ _ __   ___   ___ ___ _ __   ___ _  __ _ \n   / /\\ \\ | '_ ` _ \\ / _ \\  / __| | | | | | '_ \\ / _ \\ / __/ _ \\ '_ \\ / __| |/ _` |\n  / ____ \\| | | | | | (_) | \\__ \\ |_| | | | | | | (_) | (__  __/ | | | (__| | (_| |\n /_/    \\_\\_| |_| |_|\\___/  |___/\\__,_| |_|_| |_|\\___/ \\___\\___|_| |_|\\___|_|\\__,_|\n                                                                                   \n                                                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.412
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:25:09.009000-07:00",
+    "comando_completo": "ch!ascii &",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:25:09.510000-07:00",
+      "contenido": "``````",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.501
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:25:22.760000-07:00",
+    "comando_completo": "ch!ascii Sancocho",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:25:23.245000-07:00",
+      "contenido": "```   _____                            _           \n  / ____|                          | |          \n | (___   __ _ _ __   ___ ___   ___| |__   ___  \n  \\___ \\ / _` | '_ \\ / __/ _ \\ / __| '_ \\ / _ \\ \n  ____) | (_| | | | | (__ (_) | (__| | | | (_) |\n |_____/ \\__,_|_| |_|\\___\\___/ \\___|_| |_|\\___/ \n                                                \n                                                ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.485
+    }
+  },
+  {
+    "usuario": "sprincito",
+    "usuario_id": "541388453708038165",
+    "fecha_comando": "2020-07-09T20:25:31.241000-07:00",
+    "comando_completo": "ch!ascii Connor",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:25:31.634000-07:00",
+      "contenido": "```   _____                             \n  / ____|                            \n | |     ___  _ __  _ __   ___  _ __ \n | |    / _ \\| '_ \\| '_ \\ / _ \\| '__|\n | |____ (_) | | | | | | | (_) | |   \n  \\_____\\___/|_| |_|_| |_|\\___/|_|   \n                                     \n                                     ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.393
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:25:41.104000-07:00",
+    "comando_completo": "ch!ascii Chontaduro",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:25:41.571000-07:00",
+      "contenido": "```   _____ _                 _            _                 \n  / ____| |               | |          | |                \n | |    | |__   ___  _ __ | |_ __ _  __| |_   _ _ __ ___  \n | |    | '_ \\ / _ \\| '_ \\| __/ _` |/ _` | | | | '__/ _ \\ \n | |____| | | | (_) | | | | |_ (_| | (_| | |_| | | | (_) |\n  \\_____|_| |_|\\___/|_| |_|\\__\\__,_|\\__,_|\\__,_|_|  \\___/ \n                                                          \n                                                          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.467
+    }
+  },
+  {
+    "usuario": "sprincito",
+    "usuario_id": "541388453708038165",
+    "fecha_comando": "2020-07-09T20:25:43.508000-07:00",
+    "comando_completo": "ch!ascii rk 900",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:25:43.990000-07:00",
+      "contenido": "```       _       ___   ___   ___  \n      | |     / _ \\ / _ \\ / _ \\ \n  _ __| | __ | (_) | | | | | | |\n | '__| |/ /  \\__, | | | | | | |\n | |  |   <     / /| |_| | |_| |\n |_|  |_|\\_\\   /_/  \\___/ \\___/ \n                                \n                                ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.482
+    }
+  },
+  {
+    "usuario": "sprincito",
+    "usuario_id": "541388453708038165",
+    "fecha_comando": "2020-07-09T20:26:15.187000-07:00",
+    "comando_completo": "ch!ascii Connor rk 900",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:26:15.673000-07:00",
+      "contenido": "```   _____                                    _       ___   ___   ___  \n  / ____|                                  | |     / _ \\ / _ \\ / _ \\ \n | |     ___  _ __  _ __   ___  _ __   _ __| | __ | (_) | | | | | | |\n | |    / _ \\| '_ \\| '_ \\ / _ \\| '__| | '__| |/ /  \\__, | | | | | | |\n | |____ (_) | | | | | | | (_) | |    | |  |   <     / /| |_| | |_| |\n  \\_____\\___/|_| |_|_| |_|\\___/|_|    |_|  |_|\\_\\   /_/  \\___/ \\___/ \n                                                                     \n                                                                     ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.486
+    }
+  },
+  {
+    "usuario": "thetrueaccount_2",
+    "usuario_id": "585474371175317504",
+    "fecha_comando": "2020-07-09T20:26:20.043000-07:00",
+    "comando_completo": "ch!ascii seno venta",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:26:20.546000-07:00",
+      "contenido": "```                                         _        \n                                        | |       \n  ___  ___ _ __   ___   __   _____ _ __ | |_ __ _ \n / __|/ _ \\ '_ \\ / _ \\  \\ \\ / / _ \\ '_ \\| __/ _` |\n \\__ \\  __/ | | | (_) |  \\ V /  __/ | | | |_ (_| |\n |___/\\___|_| |_|\\___/    \\_/ \\___|_| |_|\\__\\__,_|\n                                                  \n                                                  ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.503
+    }
+  },
+  {
+    "usuario": "sprincito",
+    "usuario_id": "541388453708038165",
+    "fecha_comando": "2020-07-09T20:26:34.470000-07:00",
+    "comando_completo": "ch!ascii seno en venta",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:26:44.613000-07:00",
+      "contenido": "Ocurrió un error al intentar convertir el mensaje. Es posible que hayas usado algún caracter especial.\nDetalles del error: `FetchError: request to http://artii.herokuapp.com/make?text=seno%20en%20venta failed, reason: getaddrinfo ENOTFOUND artii.herokuapp.com`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.143
+    }
+  },
+  {
+    "usuario": "magnesferumlilith",
+    "usuario_id": "701896612401774713",
+    "fecha_comando": "2020-07-09T20:26:38.548000-07:00",
+    "comando_completo": "ch!ascii conejos",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:26:44.613000-07:00",
+      "contenido": "Ocurrió un error al intentar convertir el mensaje. Es posible que hayas usado algún caracter especial.\nDetalles del error: `FetchError: request to http://artii.herokuapp.com/make?text=seno%20en%20venta failed, reason: getaddrinfo ENOTFOUND artii.herokuapp.com`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 6.065
+    }
+  },
+  {
+    "usuario": "thetrueaccount_2",
+    "usuario_id": "585474371175317504",
+    "fecha_comando": "2020-07-09T20:26:59.283000-07:00",
+    "comando_completo": "ch!ascii c90",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:26:59.762000-07:00",
+      "contenido": "```       ___   ___  \n      / _ \\ / _ \\ \n   ___ (_) | | | |\n  / __\\__, | | | |\n | (__  / /| |_| |\n  \\___|/_/  \\___/ \n                  \n                  ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.479
+    }
+  },
+  {
+    "usuario": "magnesferumlilith",
+    "usuario_id": "701896612401774713",
+    "fecha_comando": "2020-07-09T20:27:37.833000-07:00",
+    "comando_completo": "ch!ascii denme chocolates sin nueces",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:27:39.260000-07:00",
+      "contenido": "```      _                                  _                     _       _                 _                                       \n     | |                                | |                   | |     | |               (_)                                      \n   __| | ___ _ __  _ __ ___   ___    ___| |__   ___   ___ ___ | | __ _| |_ ___ ___   ___ _ _ __    _ __  _   _  ___  ___ ___ ___ \n  / _` |/ _ \\ '_ \\| '_ ` _ \\ / _ \\  / __| '_ \\ / _ \\ / __/ _ \\| |/ _` | __/ _ \\ __| / __| | '_ \\  | '_ \\| | | |/ _ \\/ __/ _ \\ __|\n | (_| |  __/ | | | | | | | |  __/ | (__| | | | (_) | (__ (_) | | (_| | |_  __\\__ \\ \\__ \\ | | | | | | | | |_| |  __/ (__  __\\__ \\\n  \\__,_|\\___|_| |_|_| |_| |_|\\___|  \\___|_| |_|\\___/ \\___\\___/|_|\\__,_|\\__\\___|___/ |___/_|_| |_| |_| |_|\\__,_|\\___|\\___\\___|___/\n                                                                                                                                 \n                                                                                                                                 ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.427
+    }
+  },
+  {
+    "usuario": "lagatabaura3908",
+    "usuario_id": "714929052166651924",
+    "fecha_comando": "2020-07-09T20:28:06.499000-07:00",
+    "comando_completo": "ch!ascii ._.",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:28:06.951000-07:00",
+      "contenido": "```        \n        \n        \n        \n  _   _ \n (_) (_)\n ______ \n|______|```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.452
+    }
+  },
+  {
+    "usuario": "benjamin2146",
+    "usuario_id": "682454168082186240",
+    "fecha_comando": "2020-07-22T19:21:22.782000-07:00",
+    "comando_completo": "ch!ascii ;'o",
+    "respuesta_bot": {
+      "fecha": "2020-07-22T19:21:23.374000-07:00",
+      "contenido": "``````",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.592
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-03T11:50:56.140000-07:00",
+    "comando_completo": "ch!ascii XD",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T11:50:56.646000-07:00",
+      "contenido": "``` __   _______  \n \\ \\ / /  __ \\ \n  \\ V /| |  | |\n   > < | |  | |\n  / . \\| |__| |\n /_/ \\_\\_____/ \n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.506
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-03T11:51:21.164000-07:00",
+    "comando_completo": "ch!ascii no she xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T11:51:21.741000-07:00",
+      "contenido": "```                    _                    _ \n                   | |                  | |\n  _ __   ___    ___| |__   ___  __  ____| |\n | '_ \\ / _ \\  / __| '_ \\ / _ \\ \\ \\/ / _` |\n | | | | (_) | \\__ \\ | | |  __/  >  < (_| |\n |_| |_|\\___/  |___/_| |_|\\___| /_/\\_\\__,_|\n                                           \n                                           ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.577
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-08-03T11:51:46.844000-07:00",
+    "comando_completo": "ch!ascii hola",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T11:51:47.325000-07:00",
+      "contenido": "```  _           _       \n | |         | |      \n | |__   ___ | | __ _ \n | '_ \\ / _ \\| |/ _` |\n | | | | (_) | | (_| |\n |_| |_|\\___/|_|\\__,_|\n                      \n                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.481
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-03T12:04:20.995000-07:00",
+    "comando_completo": "ch!ascii pan xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T12:04:21.628000-07:00",
+      "contenido": "```                              _ \n                             | |\n  _ __   __ _ _ __   __  ____| |\n | '_ \\ / _` | '_ \\  \\ \\/ / _` |\n | |_) | (_| | | | |  >  < (_| |\n | .__/ \\__,_|_| |_| /_/\\_\\__,_|\n | |                            \n |_|                            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.633
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-08-03T12:05:43.572000-07:00",
+    "comando_completo": "ch!ascii alguien que me de chocolates?",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T12:05:44.458000-07:00",
+      "contenido": "```        _             _                                                      _             _                     _       _          ___  \n       | |           (_)                                                    | |           | |                   | |     | |        |__ \\ \n   __ _| | __ _ _   _ _  ___ _ __     __ _ _   _  ___   _ __ ___   ___    __| | ___    ___| |__   ___   ___ ___ | | __ _| |_ ___ ___  ) |\n  / _` | |/ _` | | | | |/ _ \\ '_ \\   / _` | | | |/ _ \\ | '_ ` _ \\ / _ \\  / _` |/ _ \\  / __| '_ \\ / _ \\ / __/ _ \\| |/ _` | __/ _ \\ __|/ / \n | (_| | | (_| | |_| | |  __/ | | | | (_| | |_| |  __/ | | | | | |  __/ | (_| |  __/ | (__| | | | (_) | (__ (_) | | (_| | |_  __\\__ \\_|  \n  \\__,_|_|\\__, |\\__,_|_|\\___|_| |_|  \\__, |\\__,_|\\___| |_| |_| |_|\\___|  \\__,_|\\___|  \\___|_| |_|\\___/ \\___\\___/|_|\\__,_|\\__\\___|___(_)  \n           __/ |                        | |                                                                                              \n          |___/                         |_|                                                                                              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.886
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-03T12:05:44.414000-07:00",
+    "comando_completo": "ch!ascii Shocolates xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T12:05:44.458000-07:00",
+      "contenido": "```        _             _                                                      _             _                     _       _          ___  \n       | |           (_)                                                    | |           | |                   | |     | |        |__ \\ \n   __ _| | __ _ _   _ _  ___ _ __     __ _ _   _  ___   _ __ ___   ___    __| | ___    ___| |__   ___   ___ ___ | | __ _| |_ ___ ___  ) |\n  / _` | |/ _` | | | | |/ _ \\ '_ \\   / _` | | | |/ _ \\ | '_ ` _ \\ / _ \\  / _` |/ _ \\  / __| '_ \\ / _ \\ / __/ _ \\| |/ _` | __/ _ \\ __|/ / \n | (_| | | (_| | |_| | |  __/ | | | | (_| | |_| |  __/ | | | | | |  __/ | (_| |  __/ | (__| | | | (_) | (__ (_) | | (_| | |_  __\\__ \\_|  \n  \\__,_|_|\\__, |\\__,_|_|\\___|_| |_|  \\__, |\\__,_|\\___| |_| |_| |_|\\___|  \\__,_|\\___|  \\___|_| |_|\\___/ \\___\\___/|_|\\__,_|\\__\\___|___(_)  \n           __/ |                        | |                                                                                              \n          |___/                         |_|                                                                                              ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.044
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-03T12:07:29.635000-07:00",
+    "comando_completo": "ch!ascii mermelada xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T12:07:30.166000-07:00",
+      "contenido": "```                                     _           _                 _ \n                                    | |         | |               | |\n  _ __ ___   ___ _ __ _ __ ___   ___| | __ _  __| | __ _  __  ____| |\n | '_ ` _ \\ / _ \\ '__| '_ ` _ \\ / _ \\ |/ _` |/ _` |/ _` | \\ \\/ / _` |\n | | | | | |  __/ |  | | | | | |  __/ | (_| | (_| | (_| |  >  < (_| |\n |_| |_| |_|\\___|_|  |_| |_| |_|\\___|_|\\__,_|\\__,_|\\__,_| /_/\\_\\__,_|\n                                                                     \n                                                                     ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.531
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-06T01:38:03.729000-07:00",
+    "comando_completo": "ch!ascii pan tostado uwu xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T01:38:04.369000-07:00",
+      "contenido": "```                      _            _            _                                        _ \n                     | |          | |          | |                                      | |\n  _ __   __ _ _ __   | |_ ___  ___| |_ __ _  __| | ___    _   ___      ___   _  __  ____| |\n | '_ \\ / _` | '_ \\  | __/ _ \\/ __| __/ _` |/ _` |/ _ \\  | | | \\ \\ /\\ / / | | | \\ \\/ / _` |\n | |_) | (_| | | | | | |_ (_) \\__ \\ |_ (_| | (_| | (_) | | |_| |\\ V  V /| |_| |  >  < (_| |\n | .__/ \\__,_|_| |_|  \\__\\___/|___/\\__\\__,_|\\__,_|\\___/   \\__,_| \\_/\\_/  \\__,_| /_/\\_\\__,_|\n | |                                                                                       \n |_|                                                                                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.64
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-06T02:29:46.248000-07:00",
+    "comando_completo": "ch!ascii pan uwu xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T02:29:46.802000-07:00",
+      "contenido": "```                                                     _ \n                                                    | |\n  _ __   __ _ _ __    _   ___      ___   _  __  ____| |\n | '_ \\ / _` | '_ \\  | | | \\ \\ /\\ / / | | | \\ \\/ / _` |\n | |_) | (_| | | | | | |_| |\\ V  V /| |_| |  >  < (_| |\n | .__/ \\__,_|_| |_|  \\__,_| \\_/\\_/  \\__,_| /_/\\_\\__,_|\n | |                                                   \n |_|                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.554
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-06T02:58:50.988000-07:00",
+    "comando_completo": "ch!ascii n0 xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T02:58:51.483000-07:00",
+      "contenido": "```         ___            _ \n        / _ \\          | |\n  _ __ | | | | __  ____| |\n | '_ \\| | | | \\ \\/ / _` |\n | | | | |_| |  >  < (_| |\n |_| |_|\\___/  /_/\\_\\__,_|\n                          \n                          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.495
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-06T02:59:19.760000-07:00",
+    "comando_completo": "ch!ascii tostado uwu xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T02:59:20.280000-07:00",
+      "contenido": "```  _            _            _                                        _ \n | |          | |          | |                                      | |\n | |_ ___  ___| |_ __ _  __| | ___    _   ___      ___   _  __  ____| |\n | __/ _ \\/ __| __/ _` |/ _` |/ _ \\  | | | \\ \\ /\\ / / | | | \\ \\/ / _` |\n | |_ (_) \\__ \\ |_ (_| | (_| | (_) | | |_| |\\ V  V /| |_| |  >  < (_| |\n  \\__\\___/|___/\\__\\__,_|\\__,_|\\___/   \\__,_| \\_/\\_/  \\__,_| /_/\\_\\__,_|\n                                                                       \n                                                                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.52
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-06T02:59:44.793000-07:00",
+    "comando_completo": "ch!ascii a xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T02:59:45.303000-07:00",
+      "contenido": "```                  _ \n                 | |\n   __ _  __  ____| |\n  / _` | \\ \\/ / _` |\n | (_| |  >  < (_| |\n  \\__,_| /_/\\_\\__,_|\n                    \n                    ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.51
+    }
+  },
+  {
+    "usuario": "zambra91",
+    "usuario_id": "694678192094445585",
+    "fecha_comando": "2020-09-14T18:11:14.686000-07:00",
+    "comando_completo": "ch!ascii NOROÑA 2024",
+    "respuesta_bot": {
+      "fecha": "2020-09-14T18:11:17.733000-07:00",
+      "contenido": "```An error has occurred while asciifying.```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.047
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-10-07T00:15:42.518000-07:00",
+    "comando_completo": "ch!ascii N0 xd",
+    "respuesta_bot": {
+      "fecha": "2020-10-07T00:15:43.433000-07:00",
+      "contenido": "```  _   _  ___            _ \n | \\ | |/ _ \\          | |\n |  \\| | | | | __  ____| |\n | . ` | | | | \\ \\/ / _` |\n | |\\  | |_| |  >  < (_| |\n |_| \\_|\\___/  /_/\\_\\__,_|\n                          \n                          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.915
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-10-07T00:16:24-07:00",
+    "comando_completo": "ch!ascii pan",
+    "respuesta_bot": {
+      "fecha": "2020-10-07T00:16:24.679000-07:00",
+      "contenido": "```                    \n                    \n  _ __   __ _ _ __  \n | '_ \\ / _` | '_ \\ \n | |_) | (_| | | | |\n | .__/ \\__,_|_| |_|\n | |                \n |_|                ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.679
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-10-07T00:16:36.080000-07:00",
+    "comando_completo": "ch!ascii Pandeugu",
+    "respuesta_bot": {
+      "fecha": "2020-10-07T00:16:37.511000-07:00",
+      "contenido": "```  _____                _                        \n |  __ \\              | |                       \n | |__) |_ _ _ __   __| | ___ _   _  __ _ _   _ \n |  ___/ _` | '_ \\ / _` |/ _ \\ | | |/ _` | | | |\n | |  | (_| | | | | (_| |  __/ |_| | (_| | |_| |\n |_|   \\__,_|_| |_|\\__,_|\\___|\\__,_|\\__, |\\__,_|\n                                     __/ |      \n                                    |___/       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.431
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-10-13T13:05:10.121000-07:00",
+    "comando_completo": "ch!ascii lol",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T13:05:11.632000-07:00",
+      "contenido": "```  _       _ \n | |     | |\n | | ___ | |\n | |/ _ \\| |\n | | (_) | |\n |_|\\___/|_|\n            \n            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.511
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-10-13T13:05:15.583000-07:00",
+    "comando_completo": "ch!ASCII xd",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T13:05:17.145000-07:00",
+      "contenido": "```          _ \n         | |\n __  ____| |\n \\ \\/ / _` |\n  >  < (_| |\n /_/\\_\\__,_|\n            \n            ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.562
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-10-13T13:05:35.689000-07:00",
+    "comando_completo": "ch!ASCII nais 👌",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T13:05:36.003000-07:00",
+      "contenido": "Ocurrió un error al intentar convertir el mensaje. Es posible que hayas usado algún caracter especial.\nEs posible que el texto no se haya logrado a generar correctamente.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.314
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-10-13T13:07:30.078000-07:00",
+    "comando_completo": "ch!ascii piola",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T13:07:30.617000-07:00",
+      "contenido": "```        _       _       \n       (_)     | |      \n  _ __  _  ___ | | __ _ \n | '_ \\| |/ _ \\| |/ _` |\n | |_) | | (_) | | (_| |\n | .__/|_|\\___/|_|\\__,_|\n | |                    \n |_|                    ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.539
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-10-18T03:48:00.761000-07:00",
+    "comando_completo": "ch!ascii bruh xd",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T03:48:01.247000-07:00",
+      "contenido": "```  _                _               _ \n | |              | |             | |\n | |__  _ __ _   _| |__   __  ____| |\n | '_ \\| '__| | | | '_ \\  \\ \\/ / _` |\n | |_) | |  | |_| | | | |  >  < (_| |\n |_.__/|_|   \\__,_|_| |_| /_/\\_\\__,_|\n                                     \n                                     ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.486
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-20T14:41:27.595000-07:00",
+    "comando_completo": "ch!ascii I LOVE YOU",
+    "respuesta_bot": {
+      "fecha": "2020-10-20T14:41:30.380000-07:00",
+      "contenido": "```  _____   _      ______      ________  __     ______  _    _ \n |_   _| | |    / __ \\ \\    / /  ____| \\ \\   / / __ \\| |  | |\n   | |   | |   | |  | \\ \\  / /| |__     \\ \\_/ / |  | | |  | |\n   | |   | |   | |  | |\\ \\/ / |  __|     \\   /| |  | | |  | |\n  _| |_  | |____ |__| | \\  /  | |____     | | | |__| | |__| |\n |_____| |______\\____/   \\/   |______|    |_|  \\____/ \\____/ \n                                                             \n                                                             ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.785
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-20T14:41:51.485000-07:00",
+    "comando_completo": "ch!ascii LOL",
+    "respuesta_bot": {
+      "fecha": "2020-10-20T14:41:52.199000-07:00",
+      "contenido": "```  _      ____  _      \n | |    / __ \\| |     \n | |   | |  | | |     \n | |   | |  | | |     \n | |____ |__| | |____ \n |______\\____/|______|\n                      \n                      ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.714
+    }
+  },
+  {
+    "usuario": "gyro0101",
+    "usuario_id": "752596443776286861",
+    "fecha_comando": "2020-10-24T07:34:36.794000-07:00",
+    "comando_completo": "ch!ascii T.T",
+    "respuesta_bot": {
+      "fecha": "2020-10-24T07:34:37.407000-07:00",
+      "contenido": "```  ______________ \n |__   __|__   __|\n    | |    | |   \n    | |    | |   \n    | |_   | |   \n    |_(_)  |_|   \n                 \n                 ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.613
+    }
+  },
+  {
+    "usuario": "gyro0101",
+    "usuario_id": "752596443776286861",
+    "fecha_comando": "2020-10-24T07:38:31.561000-07:00",
+    "comando_completo": "ch!ascii T.T",
+    "respuesta_bot": {
+      "fecha": "2020-10-24T07:38:32.568000-07:00",
+      "contenido": "```  ______________ \n |__   __|__   __|\n    | |    | |   \n    | |    | |   \n    | |_   | |   \n    |_(_)  |_|   \n                 \n                 ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.007
+    }
+  },
+  {
+    "usuario": "aldayrmendoza5828",
+    "usuario_id": "597109663330467840",
+    "fecha_comando": "2020-10-31T09:55:38.820000-07:00",
+    "comando_completo": "ch!ascii",
+    "respuesta_bot": {
+      "fecha": "2020-10-31T09:55:50.121000-07:00",
+      "contenido": "```        _             \n       | |            \n   __ _| | __ _  ___  \n  / _` | |/ _` |/ _ \\ \n | (_| | | (_| | (_) |\n  \\__,_|_|\\__, |\\___/ \n           __/ |      \n          |___/       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.301
+    }
+  },
+  {
+    "usuario": "aldayrmendoza5828",
+    "usuario_id": "597109663330467840",
+    "fecha_comando": "2020-10-31T09:55:49.583000-07:00",
+    "comando_completo": "ch!ascii algo",
+    "respuesta_bot": {
+      "fecha": "2020-10-31T09:55:50.121000-07:00",
+      "contenido": "```        _             \n       | |            \n   __ _| | __ _  ___  \n  / _` | |/ _` |/ _ \\ \n | (_| | | (_| | (_) |\n  \\__,_|_|\\__, |\\___/ \n           __/ |      \n          |___/       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.538
+    }
+  },
+  {
+    "usuario": "aldayrmendoza5828",
+    "usuario_id": "597109663330467840",
+    "fecha_comando": "2020-10-31T09:56:06.656000-07:00",
+    "comando_completo": "ch!ascii xddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+    "respuesta_bot": {
+      "fecha": "2020-10-31T09:56:16.077000-07:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  ༒丂тινєη.༒ﾂ#8762  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "You helped your pet to practice doing a front flip! Good job!",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/772141905840570369/pet.png?ex=6a57bbb0&is=6a566a30&hm=d68f86c4b16b2deb856dac2989824b80fc073ac88913df300c2eba8fa354f8b0&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/772141905840570369/pet.png?ex=6a57bbb0&is=6a566a30&hm=d68f86c4b16b2deb856dac2989824b80fc073ac88913df300c2eba8fa354f8b0&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "You can open capsules while having an active pet without getting it replaced!"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_xp: Exp: **285 / 1400** (`+10`)\n:pet_fatigue: Fatigue: **58 / 506** (`+3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.421
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-11-01T15:06:18.181000-08:00",
+    "comando_completo": "ch!ascii chess alguno?",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T15:06:18.972000-08:00",
+      "contenido": "```       _                          _                        ___  \n      | |                        | |                      |__ \\ \n   ___| |__   ___ ___ ___    __ _| | __ _ _   _ _ __   ___   ) |\n  / __| '_ \\ / _ \\ __/ __|  / _` | |/ _` | | | | '_ \\ / _ \\ / / \n | (__| | | |  __\\__ \\__ \\ | (_| | | (_| | |_| | | | | (_) |_|  \n  \\___|_| |_|\\___|___/___/  \\__,_|_|\\__, |\\__,_|_| |_|\\___/(_)  \n                                     __/ |                      \n                                    |___/                       ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.791
+    }
+  },
+  {
+    "usuario": "goonmatias10",
+    "usuario_id": "290997641301590017",
+    "fecha_comando": "2020-11-03T05:21:10.460000-08:00",
+    "comando_completo": "ch!ascii Que lluevan esas galletas",
+    "respuesta_bot": {
+      "fecha": "2020-11-03T05:21:11.110000-08:00",
+      "contenido": "```   ____               _ _                                                                _ _      _            \n  / __ \\             | | |                                                              | | |    | |           \n | |  | |_   _  ___  | | |_   _  _____   ____ _ _ __     ___ ___  __ _ ___    __ _  __ _| | | ___| |_ __ _ ___ \n | |  | | | | |/ _ \\ | | | | | |/ _ \\ \\ / / _` | '_ \\   / _ \\ __|/ _` / __|  / _` |/ _` | | |/ _ \\ __/ _` / __|\n | |__| | |_| |  __/ | | | |_| |  __/\\ V / (_| | | | | |  __\\__ \\ (_| \\__ \\ | (_| | (_| | | |  __/ |_ (_| \\__ \\\n  \\___\\_\\\\__,_|\\___| |_|_|\\__,_|\\___| \\_/ \\__,_|_| |_|  \\___|___/\\__,_|___/  \\__, |\\__,_|_|_|\\___|\\__\\__,_|___/\n                                                                              __/ |                            \n                                                                             |___/                             ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.65
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:26:07.771000-08:00",
+    "comando_completo": "ch!ascii :0",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:26:08.250000-08:00",
+      "contenido": "```     ___  \n  _ / _ \\ \n (_) | | |\n   | | | |\n  _| |_| |\n (_)\\___/ \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.479
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:26:26.065000-08:00",
+    "comando_completo": "ch!ascii .w.",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:26:26.535000-08:00",
+      "contenido": "```           \n           \n __      __\n \\ \\ /\\ / /\n  _ V  V / \n (_)_/\\_(_)\n           \n           ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.47
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:26:35.821000-08:00",
+    "comando_completo": "ch!ascii tengo sueño",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:26:36.392000-08:00",
+      "contenido": "```An error has occurred while asciifying.```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.571
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-03T06:26:39.192000-08:00",
+    "comando_completo": "ch!ascii depende",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:26:39.644000-08:00",
+      "contenido": "```      _                           _      \n     | |                         | |     \n   __| | ___ _ __   ___ _ __   __| | ___ \n  / _` |/ _ \\ '_ \\ / _ \\ '_ \\ / _` |/ _ \\\n | (_| |  __/ |_) |  __/ | | | (_| |  __/\n  \\__,_|\\___| .__/ \\___|_| |_|\\__,_|\\___|\n            | |                          \n            |_|                          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.452
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:26:45.483000-08:00",
+    "comando_completo": "ch!ascii poop",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:26:45.943000-08:00",
+      "contenido": "```                          \n                          \n  _ __   ___   ___  _ __  \n | '_ \\ / _ \\ / _ \\| '_ \\ \n | |_) | (_) | (_) | |_) |\n | .__/ \\___/ \\___/| .__/ \n | |               | |    \n |_|               |_|    ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.46
+    }
+  },
+  {
+    "usuario": "tigre_chill",
+    "usuario_id": "521100719408021505",
+    "fecha_comando": "2020-12-03T06:26:52.990000-08:00",
+    "comando_completo": "ch!ascii ^^",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:26:54.344000-08:00",
+      "contenido": "```  /\\ /\\ \n |/\\|/\\|\n        \n        \n        \n        \n        \n        ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.354
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-12-03T06:27:02.689000-08:00",
+    "comando_completo": "ch!ascii Eyeyey",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:27:03.398000-08:00",
+      "contenido": "```  ______                            \n |  ____|                           \n | |__  _   _  ___ _   _  ___ _   _ \n |  __|| | | |/ _ \\ | | |/ _ \\ | | |\n | |____ |_| |  __/ |_| |  __/ |_| |\n |______\\__, |\\___|\\__, |\\___|\\__, |\n         __/ |      __/ |      __/ |\n        |___/      |___/      |___/ ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.709
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-03T06:27:47.101000-08:00",
+    "comando_completo": "ch!ascii 3",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:27:48.184000-08:00",
+      "contenido": "```  ____  \n |___ \\ \n   __) |\n  |__ < \n  ___) |\n |____/ \n        \n        ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.083
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:28:03.440000-08:00",
+    "comando_completo": "ch!ascii :3",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:28:04.049000-08:00",
+      "contenido": "```    ____  \n  _|___ \\ \n (_) __) |\n    |__ < \n  _ ___) |\n (_)____/ \n          \n          ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.609
+    }
+  },
+  {
+    "usuario": "rosgon",
+    "usuario_id": "710924731947155488",
+    "fecha_comando": "2020-12-03T06:28:19.257000-08:00",
+    "comando_completo": "ch!ascii NO",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:28:19.673000-08:00",
+      "contenido": "```  _   _  ____  \n | \\ | |/ __ \\ \n |  \\| | |  | |\n | . ` | |  | |\n | |\\  | |__| |\n |_| \\_|\\____/ \n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.416
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:28:29.934000-08:00",
+    "comando_completo": "ch!ascii SI",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:28:30.399000-08:00",
+      "contenido": "```   _____ _____ \n  / ____|_   _|\n | (___   | |  \n  \\___ \\  | |  \n  ____) |_| |_ \n |_____/|_____|\n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.465
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:28:45.968000-08:00",
+    "comando_completo": "ch!ascii vale",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:28:46.522000-08:00",
+      "contenido": "```             _      \n            | |     \n __   ____ _| | ___ \n \\ \\ / / _` | |/ _ \\\n  \\ V / (_| | |  __/\n   \\_/ \\__,_|_|\\___|\n                    \n                    ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.554
+    }
+  },
+  {
+    "usuario": "rosgon",
+    "usuario_id": "710924731947155488",
+    "fecha_comando": "2020-12-03T06:28:55.551000-08:00",
+    "comando_completo": "ch!ascii XD",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:28:56.112000-08:00",
+      "contenido": "``` __   _______  \n \\ \\ / /  __ \\ \n  \\ V /| |  | |\n   > < | |  | |\n  / . \\| |__| |\n /_/ \\_\\_____/ \n               \n               ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.561
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-12-03T06:29:04.900000-08:00",
+    "comando_completo": "ch!ascii 123456789",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:29:05.508000-08:00",
+      "contenido": "```  __ ___  ____  _  _   _____   ________ ___   ___  \n /_ |__ \\|___ \\| || | | ____| / /____  / _ \\ / _ \\ \n  | |  ) | __) | || |_| |__  / /_   / / (_) | (_) |\n  | | / / |__ <|__   _|___ \\| '_ \\ / / > _ < \\__, |\n  | |/ /_ ___) |  | |  ___) | (_) / / | (_) |  / / \n  |_|____|____/   |_| |____/ \\___/_/   \\___/  /_/  \n                                                   \n                                                   ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.608
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-03T06:30:48.539000-08:00",
+    "comando_completo": "ch!ascii iwa",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T06:30:49.922000-08:00",
+      "contenido": "```  _               \n (_)              \n  ___      ____ _ \n | \\ \\ /\\ / / _` |\n | |\\ V  V / (_| |\n |_| \\_/\\_/ \\__,_|\n                  \n                  ```",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.383
+    }
+  }
+]

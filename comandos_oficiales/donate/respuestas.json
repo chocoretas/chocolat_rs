@@ -1,0 +1,1042 @@
+[
+  {
+    "usuario": "nami07129",
+    "usuario_id": "435211946086629386",
+    "fecha_comando": "2019-03-04T08:34:26.449000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-03-04T08:34:26.867000-08:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.418
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-04-07T11:18:54.375000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-04-07T11:18:56.085000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.71
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-04-23T11:38:31.857000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-04-23T11:38:32.391000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.534
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-23T11:38:38.165000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-04-23T11:38:38.552000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.387
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-23T12:33:57.300000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-04-23T12:33:57.829000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.529
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-24T21:43:10.263000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-04-24T21:43:10.633000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.37
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T07:17:27.280000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T07:17:27.763000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.483
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-21T20:02:25.077000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T20:02:25.543000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.466
+    }
+  },
+  {
+    "usuario": "deleteduser7399",
+    "usuario_id": "566001362979127296",
+    "fecha_comando": "2019-05-21T20:03:37.581000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T20:03:37.995000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.414
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T19:47:54.509000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:47:54.947000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.438
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-30T20:54:02.568000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-05-30T20:54:02.965000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.397
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-01T16:18:36.649000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-01T16:18:37.209000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.56
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-01T20:16:13.132000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-01T20:16:13.610000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.478
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-02T19:31:10.973000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-02T19:31:11.375000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.402
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-05T04:44:31.885000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-05T04:44:32.604000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.719
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2019-06-05T07:11:19.986000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-05T07:11:20.400000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.414
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-07T14:43:41.282000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T14:43:41.977000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.695
+    }
+  },
+  {
+    "usuario": "deleteduser7399",
+    "usuario_id": "566001362979127296",
+    "fecha_comando": "2019-06-07T14:47:32.463000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T14:47:32.975000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.512
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-08T10:03:47.021000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-08T10:03:47.711000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.69
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-06-24T08:46:24.853000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-06-24T08:46:25.445000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.592
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-01T13:07:22.757000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-01T13:07:23.431000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.674
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-02T06:02:28.609000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T06:02:29.072000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.463
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-02T16:25:52.290000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T16:25:53.031000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.741
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-04T17:39:24.774000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-04T17:39:25.500000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.726
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-18T15:39:32.470000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T15:39:33.596000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.126
+    }
+  },
+  {
+    "usuario": "null301",
+    "usuario_id": "425049320803270689",
+    "fecha_comando": "2019-07-27T10:43:37.468000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T10:43:37.855000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.387
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-27T10:45:27.753000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T10:45:28.047000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-08-27T02:48:52.603000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-08-27T02:48:52.787000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.184
+    }
+  },
+  {
+    "usuario": "yukito15_yt",
+    "usuario_id": "450287284307361803",
+    "fecha_comando": "2019-08-30T07:14:15.254000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T07:14:15.906000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.652
+    }
+  },
+  {
+    "usuario": "akko3138",
+    "usuario_id": "589183856977117194",
+    "fecha_comando": "2019-09-04T15:29:41.404000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-04T15:29:41.850000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.446
+    }
+  },
+  {
+    "usuario": "lumy._",
+    "usuario_id": "465179299964649495",
+    "fecha_comando": "2019-09-05T20:54:36.668000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T20:54:37.053000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.385
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-07T16:07:57.672000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T16:07:58.192000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.52
+    }
+  },
+  {
+    "usuario": "miguelsito23",
+    "usuario_id": "567376375821107218",
+    "fecha_comando": "2019-09-11T20:04:01.762000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T20:04:02.239000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.477
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-09-13T17:51:04.736000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-13T17:51:05.366000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.63
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-13T19:05:36.789000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-13T19:05:37.360000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.571
+    }
+  },
+  {
+    "usuario": "batidilla",
+    "usuario_id": "374271001158221834",
+    "fecha_comando": "2019-09-16T08:45:57.819000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-16T08:45:58.468000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.649
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-18T07:12:26.098000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T07:12:26.404000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.306
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-18T07:12:39.657000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T07:12:40.369000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.712
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-28T21:48:59.611000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-09-28T21:49:00.031000-07:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.42
+    }
+  },
+  {
+    "usuario": "hugobr54",
+    "usuario_id": "633389224598437898",
+    "fecha_comando": "2019-12-09T21:11:50.654000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-12-09T21:11:51.237000-08:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.583
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-20T08:57:27.054000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2019-12-20T08:57:27.555000-08:00",
+      "contenido": "Te he enviado el método de donación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.501
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-14T19:29:07.043000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-04-14T19:29:21.049000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi seems to be making progress! It is now paying attention to you.\n**+21 exp [2377/2844]**",
+          "color": "#FFDD2C",
+          "author": {
+            "name": "Success!",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uu-SutIaHPRaorSKDFiRC90ddMnwzosKWXBfy6fDfO8/%3Fsize%3D128/https/cdn.discordapp.com/avatars/462036618547691531/dccc8975fbb14753d4cddd33a2135e82.jpg",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/462036618547691531/dccc8975fbb14753d4cddd33a2135e82.jpg?size=128"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/q1ERL2ZotMu0j3-tw0mSBjFyxbl0NMPNE3QCm01oa_o/https/i-like.blue/emotes/14.png",
+            "canonicalUrl": "https://i-like.blue/emotes/14.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 14.006
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-04-14T22:28:39.772000-07:00",
+    "comando_completo": "ch!donate @Unknown",
+    "respuesta_bot": {
+      "fecha": "2020-04-14T22:28:41.038000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-04-14T22:28:46.378-07:00",
+          "description": "Leaderboard Rank: 1070th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Rex#8419",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/462036618547691531",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/xVYXgblRjcS94L2PekjdZoi-nDgL9ZA3TWOmeT75PcQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/462036618547691531/dccc8975fbb14753d4cddd33a2135e82.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/462036618547691531/dccc8975fbb14753d4cddd33a2135e82.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫1,007",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫1,007",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.266
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-05-02T20:44:03.666000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-05-02T20:44:05.535000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Oh my",
+          "url": null,
+          "timestamp": "2020-05-02T08:02:42-07:00",
+          "description": "https://i.redd.it/8cum7dym9dw41.jpg",
+          "color": "#FF1472",
+          "author": {
+            "name": "/r/meme/",
+            "url": "https://www.reddit.com/r/meme/comments/gc7vss/oh_my/"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/MZDIFAJ065kJTKLv0bDR_IgEXdUH6ZIEnXkAWFZATW8/https/i.redd.it/8cum7dym9dw41.jpg",
+            "canonicalUrl": "https://i.redd.it/8cum7dym9dw41.jpg",
+            "width": 700,
+            "height": 691
+          },
+          "footer": {
+            "text": "👍 1413 • 💬 15"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/MZDIFAJ065kJTKLv0bDR_IgEXdUH6ZIEnXkAWFZATW8/https/i.redd.it/8cum7dym9dw41.jpg",
+              "canonicalUrl": "https://i.redd.it/8cum7dym9dw41.jpg",
+              "width": 700,
+              "height": 691
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.869
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-08-12T11:19:10.516000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-08-12T11:19:20.332000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Te dan el cargo administrativo de la empresa en la que trabajas! Finalmente llegó el día de tu primer sueldo y obtienes 🍫478 por tu duro trabajo.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "PouffyDiamond96#5300",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2Fc4pMywxxHYjMHt9zv9V66aGVcgaJAipidb1KVzbeE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/583827320952061952/214fc5f76aae4dc8220eba9a8968f49f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/583827320952061952/214fc5f76aae4dc8220eba9a8968f49f.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161568"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.816
+    }
+  },
+  {
+    "usuario": "irickzx3382",
+    "usuario_id": "551514133170880517",
+    "fecha_comando": "2020-08-12T11:19:17.927000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-08-12T11:19:20.332000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Te dan el cargo administrativo de la empresa en la que trabajas! Finalmente llegó el día de tu primer sueldo y obtienes 🍫478 por tu duro trabajo.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "PouffyDiamond96#5300",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2Fc4pMywxxHYjMHt9zv9V66aGVcgaJAipidb1KVzbeE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/583827320952061952/214fc5f76aae4dc8220eba9a8968f49f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/583827320952061952/214fc5f76aae4dc8220eba9a8968f49f.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161568"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.405
+    }
+  },
+  {
+    "usuario": "kars1145",
+    "usuario_id": "679096568711872526",
+    "fecha_comando": "2020-08-12T11:19:26.805000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-08-12T11:19:28.941000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: @Luisa has received your 🍫478",
+          "color": "#66BB6A",
+          "author": {
+            "name": "PouffyDiamond96#5300",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2Fc4pMywxxHYjMHt9zv9V66aGVcgaJAipidb1KVzbeE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/583827320952061952/214fc5f76aae4dc8220eba9a8968f49f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/583827320952061952/214fc5f76aae4dc8220eba9a8968f49f.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.136
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-20T15:38:47.496000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T15:38:51.641000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You wonder why your Tatsugotchi won't listen. Maybe you should give it a few more tries.",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iIQHC3wQlKViRXHv-RM7wOedWqFPvbOXjsaTr0h8jhA/https/i-like.blue/emotes/9.png",
+            "canonicalUrl": "https://i-like.blue/emotes/9.png",
+            "width": 33,
+            "height": 29
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.145
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-08T15:54:00.053000-07:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-10-08T15:54:01.557000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫1,051 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "aKira#4053",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/NhypmpHJOKIoCyme2XBLt0J-rj6DE2QtdqeBF4GsXDE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/744495101245521930/1a93c60dc375e1aed839c2d1e6b965a0.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/744495101245521930/1a93c60dc375e1aed839c2d1e6b965a0.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.504
+    }
+  },
+  {
+    "usuario": "gabriel099104",
+    "usuario_id": "614518873059885090",
+    "fecha_comando": "2020-11-18T11:26:50.472000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T11:26:51.055000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You've already given a reputation point today! Please try again tomorrow.\n_Reputation point allowance resets at 00:00 UTC daily._",
+          "color": "#16A167",
+          "author": {
+            "name": "No reputation points!",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/736163626934861845/740421452540674138/Reputation_Icon4x.png?ex=6a5859b6&is=6a570836&hm=898102c6d4842d1beee14a42c375801f0dd1b24b574224d58c3bbc2723cd0c7d&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/736163626934861845/740421452540674138/Reputation_Icon4x.png?ex=6a5859b6&is=6a570836&hm=898102c6d4842d1beee14a42c375801f0dd1b24b574224d58c3bbc2723cd0c7d&"
+          },
+          "footer": {
+            "text": "Mr. Red#4444",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ZK0lcceZxWsM1Y-N2-G-k7jE-mxQA4gCL7iTuCXAKaU/%3Fsize%3D32/https/cdn.discordapp.com/avatars/635632669409148929/8de9f73891d8619a813edf05f862c879.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/635632669409148929/8de9f73891d8619a813edf05f862c879.png?size=32"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.583
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-12-05T21:55:26.342000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T21:55:37.145000-08:00",
+      "contenido": "🎣  **|**  **you caught: 🐟!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.803
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-06T14:14:12.677000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-12-06T14:14:18.441000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You obtained the following items: \n\n>>> :e: **`1x` Smooth Green Ornament • `Common`**:common:\n:e: **`1x` Snowball • `Common`**:common:\n:e: **`22x` Candy Cane • `Event`**:event:",
+          "color": "#DC4E4E",
+          "author": {
+            "name": "Thonk... Clunk.. Plop!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZwO5qkALqXNDkxh26cWAid4CcMGTfPWimZAAR-XQKjM/https/cdn.tatsu.gg/core/736bf405fa09fdf2860a04e3d5e903b7c9436986.gif",
+            "canonicalUrl": "https://cdn.tatsu.gg/core/736bf405fa09fdf2860a04e3d5e903b7c9436986.gif",
+            "width": 128,
+            "height": 128
+          },
+          "footer": {
+            "text": "Jeanpy ✝#5329 has opened a Sparkly Starlight Present!",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ZTtOFwEiNJBNj5VwDImqQIphi2Wv2-cNZn8tQOgk2NY/%3Fsize%3D256/https/cdn.discordapp.com/avatars/657394073438650402/ea10bcf6efb9c3ae268aebe58b77a1f5.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/657394073438650402/ea10bcf6efb9c3ae268aebe58b77a1f5.png?size=256"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "779657664330203156",
+              "name": "e",
+              "code": "e",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/779657664330203156.gif"
+            },
+            {
+              "id": "734441009810767883",
+              "name": "common",
+              "code": "common",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/734441009810767883.png"
+            },
+            {
+              "id": "734441009475223611",
+              "name": "event",
+              "code": "event",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/734441009475223611.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.764
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-31T15:59:19.858000-08:00",
+    "comando_completo": "ch!donate",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T15:59:23.400000-08:00",
+      "contenido": ":info:  **|**  Pong! - Time taken: **295ms**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.542
+    }
+  }
+]

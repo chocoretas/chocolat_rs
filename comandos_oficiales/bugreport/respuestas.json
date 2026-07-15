@@ -1,0 +1,58 @@
+[
+  {
+    "usuario": "miogtorresyt8173",
+    "usuario_id": "515674974334222387",
+    "fecha_comando": "2019-01-09T09:29:24.453000-08:00",
+    "comando_completo": "ch!bugreport",
+    "respuesta_bot": {
+      "fecha": "2019-01-09T09:29:24.475000-08:00",
+      "contenido": "Escriba el contenido del error que se enviará al Servidor de Soporte. Al momento de enviar, procura detallar el error.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.022
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-01-19T16:16:19.256000-08:00",
+    "comando_completo": "ch!bugreport",
+    "respuesta_bot": {
+      "fecha": "2019-01-19T16:16:19.501000-08:00",
+      "contenido": "Escriba el contenido del error que se enviará al Servidor de Soporte. Al momento de enviar, procura detallar el error.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.245
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-04-07T11:40:11.881000-07:00",
+    "comando_completo": "ch!bugreport",
+    "respuesta_bot": {
+      "fecha": "2019-04-07T11:40:11.993000-07:00",
+      "contenido": "Escriba el contenido del error que se enviará al Servidor de Soporte. Al momento de enviar, procura detallar el error.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.112
+    }
+  },
+  {
+    "usuario": "murvhix",
+    "usuario_id": "475555396610818058",
+    "fecha_comando": "2019-06-02T17:03:27.288000-07:00",
+    "comando_completo": "ch!bugreport",
+    "respuesta_bot": {
+      "fecha": "2019-06-02T17:03:27.417000-07:00",
+      "contenido": "Escriba el contenido del error que se enviará al Servidor de Soporte. Al momento de enviar, procura detallar el error.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  }
+]

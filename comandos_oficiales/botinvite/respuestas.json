@@ -1,0 +1,4392 @@
+[
+  {
+    "usuario": "destroyanx",
+    "usuario_id": "553912754587697162",
+    "fecha_comando": "2019-03-11T18:32:31.604000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-03-11T18:32:31.860000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/49qqpakVQRhhEejLzDJLDTn9-N-hWfp85kIqM7LbUiM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/e157a1a8d8e495fbdb1a6ad805af9f2e.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/e157a1a8d8e495fbdb1a6ad805af9f2e.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Destroyan X",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "destroyanx",
+    "usuario_id": "553912754587697162",
+    "fecha_comando": "2019-03-12T15:51:28.205000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2019-03-12T15:51:28.365000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-dleUUpkvSoWq-ueB4lvshG_PlBGf9OOlEQnaUNxK44/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Destroyan X",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "destroyanx",
+    "usuario_id": "553912754587697162",
+    "fecha_comando": "2019-03-14T14:48:03.394000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2019-03-14T14:48:03.491000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1zMo4dM_bVvMAeuZIimTqW9YanyZ8ggqomkW-sm5AfE/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=2048",
+            "width": 1000,
+            "height": 1000
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsumaki#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Destroyan X",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.097
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:57:07.553000-07:00",
+    "comando_completo": "ch!botinvite @Ouka",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:57:07.665000-07:00",
+      "contenido": "@Dante, no puedes sacar la invitación de este bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.112
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:57:14.296000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:57:14.425000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:57:38.798000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:57:38.921000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-dleUUpkvSoWq-ueB4lvshG_PlBGf9OOlEQnaUNxK44/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-04T18:44:47.254000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-06-04T18:44:47.467000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "hssebastian",
+    "usuario_id": "475498384569008148",
+    "fecha_comando": "2019-06-04T18:47:19.154000-07:00",
+    "comando_completo": "ch!botinvite @EdoFran 🎃",
+    "respuesta_bot": {
+      "fecha": "2019-06-04T18:47:19.275000-07:00",
+      "contenido": "El usuario mencionado no es un bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.121
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-04T18:48:01.664000-07:00",
+    "comando_completo": "ch!botinvite @EdoFran 🎃",
+    "respuesta_bot": {
+      "fecha": "2019-06-04T18:48:01.859000-07:00",
+      "contenido": "El usuario mencionado no es un bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-10T16:26:07.719000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2019-06-10T16:26:07.869000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-dleUUpkvSoWq-ueB4lvshG_PlBGf9OOlEQnaUNxK44/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-06-21T06:08:29.327000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-06-21T06:08:29.397000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.07
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-23T19:20:05.745000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-06-23T19:20:05.937000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.192
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-24T12:57:30.861000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-06-24T12:57:31.160000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.299
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-24T17:28:33.794000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-06-24T17:28:33.922000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "zaymika",
+    "usuario_id": "404672567031496749",
+    "fecha_comando": "2019-06-27T16:49:03.710000-07:00",
+    "comando_completo": "ch!botinvite @[!] Carl-bot",
+    "respuesta_bot": {
+      "fecha": "2019-06-27T16:49:03.871000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235148962103951360&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RLXYwvs8WQFiCJlM4a0Gn1CuKdCELBgAhQYdL9JKwGc/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/235148962103951360/cececd50fdc87b29929e65c768f24ad6.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/235148962103951360/cececd50fdc87b29929e65c768f24ad6.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Carl-bot#1536",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235148962103951360",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@zaymika",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-06-27T21:14:50.060000-07:00",
+    "comando_completo": "ch!botinvite @[/] GiveawayBot",
+    "respuesta_bot": {
+      "fecha": "2019-06-27T21:14:50.172000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=294882584201003009&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YzqOWiDkiM-fj9eXqDfhfalBlN4ka5UEPDxXegF4pnE/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/294882584201003009/4bfd18c35f26a86f2b5b4eb2ad81a1f7.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/294882584201003009/4bfd18c35f26a86f2b5b4eb2ad81a1f7.png?size=2048",
+            "width": 350,
+            "height": 350
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "GiveawayBot#2381",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "294882584201003009",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.112
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-12T14:37:23.692000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-07-12T14:37:23.859000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.167
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-13T20:43:01.167000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:43:01.318000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Dante",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  },
+  {
+    "usuario": "deleteduser7399",
+    "usuario_id": "566001362979127296",
+    "fecha_comando": "2019-07-19T16:59:44.050000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2019-07-19T16:59:44.113000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-dleUUpkvSoWq-ueB4lvshG_PlBGf9OOlEQnaUNxK44/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Marysita",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.063
+    }
+  },
+  {
+    "usuario": "null301",
+    "usuario_id": "425049320803270689",
+    "fecha_comando": "2019-08-04T14:56:39.280000-07:00",
+    "comando_completo": "ch!botinvite @SpikeyBot",
+    "respuesta_bot": {
+      "fecha": "2019-08-04T14:56:39.440000-07:00",
+      "contenido": "Debes mencionar a un bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "murvhix",
+    "usuario_id": "475555396610818058",
+    "fecha_comando": "2019-09-10T17:05:35.350000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T17:05:35.600000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Murvhix",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-10-30T10:33:14.086000-07:00",
+    "comando_completo": "ch!botinvite  @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-10-30T10:33:14.252000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@scor",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-11-12T11:50:31.277000-08:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-11-12T11:50:31.476000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@b r u k i",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.199
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-11-12T11:50:40.535000-08:00",
+    "comando_completo": "ch!botinvite @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2019-11-12T11:50:40.723000-08:00",
+      "contenido": "El usuario mencionado no es un bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.188
+    }
+  },
+  {
+    "usuario": "nerdo4790",
+    "usuario_id": "348240396482248704",
+    "fecha_comando": "2019-11-17T13:55:32.455000-08:00",
+    "comando_completo": "ch!botinvite",
+    "respuesta_bot": {
+      "fecha": "2019-11-17T13:55:32.629000-08:00",
+      "contenido": "Debes mencionar a un bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "null301",
+    "usuario_id": "425049320803270689",
+    "fecha_comando": "2019-12-03T08:52:35.279000-08:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T08:52:35.492000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-dleUUpkvSoWq-ueB4lvshG_PlBGf9OOlEQnaUNxK44/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/26db45ecd6bb37791071a0b46e77ca4b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@null301",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "devrenso",
+    "usuario_id": "591470897911824384",
+    "fecha_comando": "2019-12-03T08:56:19.999000-08:00",
+    "comando_completo": "ch!botinvite @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T08:56:20.202000-08:00",
+      "contenido": "El usuario mencionado no es un bot.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "devrenso",
+    "usuario_id": "591470897911824384",
+    "fecha_comando": "2019-12-03T08:56:42.254000-08:00",
+    "comando_completo": "ch!botinvite @[/] GiveawayBot",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T08:56:42.466000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=294882584201003009&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YzqOWiDkiM-fj9eXqDfhfalBlN4ka5UEPDxXegF4pnE/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/294882584201003009/4bfd18c35f26a86f2b5b4eb2ad81a1f7.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/294882584201003009/4bfd18c35f26a86f2b5b4eb2ad81a1f7.png?size=2048",
+            "width": 350,
+            "height": 350
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "GiveawayBot#2381",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "294882584201003009",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@DevRenso",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.212
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-03-10T15:59:47.008000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-03-10T15:59:47.212000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-03-10T16:07:57.311000-07:00",
+    "comando_completo": "ch!botinvite @Rythm",
+    "respuesta_bot": {
+      "fecha": "2020-03-10T16:07:57.651000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ioyqViaGEj98oqG8QktHHeeRoU3AYsQ4hIPNWdQPbnk/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Rythm#3722",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235088799074484224",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.34
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2020-03-24T22:40:53.153000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-03-24T22:40:53.399000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bc1de5SgYnTGNYWtlP4rRQFIGdUWeMSa05oTvsF_Ttw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Ram Ozora",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.246
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-03-24T22:41:19.507000-07:00",
+    "comando_completo": "ch!botinvite  @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-03-24T22:41:19.765000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.258
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-03-27T22:26:06.611000-07:00",
+    "comando_completo": "ch!botinvite",
+    "respuesta_bot": {
+      "fecha": "2020-03-27T22:26:14.130000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.519
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-03-27T22:26:13.889000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-03-27T22:26:14.130000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-04-04T17:25:08.978000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-04-04T17:25:09.322000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Paco",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-04-30T15:13:34.134000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-04-30T15:13:34.496000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sCCp0ypW7FSic_aRmeufET41TVD_1PDQm_eKpZTPP2g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=2048",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Limbo",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.362
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-05-05T08:36:38.843000-07:00",
+    "comando_completo": "ch!botinvite @[!] Carl-bot",
+    "respuesta_bot": {
+      "fecha": "2020-05-05T08:36:39.148000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235148962103951360&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RLXYwvs8WQFiCJlM4a0Gn1CuKdCELBgAhQYdL9JKwGc/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/235148962103951360/cececd50fdc87b29929e65c768f24ad6.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/235148962103951360/cececd50fdc87b29929e65c768f24ad6.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Carl-bot#1536",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235148962103951360",
+              "isInline": true
+            },
+            {
+              "name": "Permisos",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.305
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-05-13T19:43:10.339000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-05-13T19:43:11.149000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@cebolla",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.81
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-05-13T23:42:15.370000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-05-13T23:42:15.492000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@cebolla",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.122
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-05-17T12:53:08.127000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-05-17T12:53:08.408000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de UnbelievaBoat#1046",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.281
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-17T13:32:08.961000-07:00",
+    "comando_completo": "ch!botinvite @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-05-17T13:32:09.177000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chess#6768",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=366770566331629579&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chess#6768",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "366770566331629579",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-17T18:06:30.345000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-05-17T18:06:30.682000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.337
+    }
+  },
+  {
+    "usuario": "feguillas",
+    "usuario_id": "691201366777135146",
+    "fecha_comando": "2020-05-17T18:10:41.979000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-05-17T18:10:42.205000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Feguillas",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.226
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-05-22T19:30:23.854000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-05-22T19:30:24.129000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@cebolla",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.275
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-06-07T16:40:39.344000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-06-07T16:40:39.527000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de UnbelievaBoat#1046",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.183
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-06-07T16:40:49.822000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-06-07T16:40:50.078000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "nombre2888",
+    "usuario_id": "615656576090636359",
+    "fecha_comando": "2020-06-12T05:12:04.445000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-06-12T05:12:04.643000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@un conejo XD",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.198
+    }
+  },
+  {
+    "usuario": "peke5015",
+    "usuario_id": "658131567356411905",
+    "fecha_comando": "2020-06-13T00:06:58.069000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-06-13T00:06:58.228000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Peke✼",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-05T21:01:04.037000-07:00",
+    "comando_completo": "ch!botinvite @Rythm",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T21:01:04.269000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Rythm#3722",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Rythm#3722",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235088799074484224",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-05T21:01:39.358000-07:00",
+    "comando_completo": "ch!botinvite @Groovy",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T21:01:39.643000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Groovy#7254",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=234395307759108106&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Groovy#7254",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "234395307759108106",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.285
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-05T21:02:21.424000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T21:02:21.619000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-05T21:02:55.232000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T21:02:55.443000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de UnbelievaBoat#1046",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-21T21:56:22.099000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-07-21T21:56:22.282000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.183
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-07-28T13:38:21.530000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-07-28T13:38:21.778000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/n6IdT3kmVWgd_F9wrgPOnW-Q-oxLzZPER7mBlx-Thyk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=1024",
+            "width": 1000,
+            "height": 1000
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.248
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-30T09:51:48.343000-07:00",
+    "comando_completo": "ch!botinvite @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T09:51:48.494000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chess#6768",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=366770566331629579&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WekxN-lgEXvZ2J_jiga5MO9ajAlgFt27en8eLMWuhlw/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/366770566331629579/cab7c6253e91423e3fdf1410381d0261.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/366770566331629579/cab7c6253e91423e3fdf1410381d0261.png?size=1024",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chess#6768",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "366770566331629579",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Unknown",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-07-31T21:11:08.879000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-07-31T21:11:09.108000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Yukihira#2316",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/L3Q6KxryAmEhNMNNP04BxUDbfdGLdE0oelyKHC7JbAQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=1024",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-07-31T21:13:04.024000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-07-31T21:13:04.348000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.324
+    }
+  },
+  {
+    "usuario": "loptrs",
+    "usuario_id": "541757355075829760",
+    "fecha_comando": "2020-08-01T12:10:23.826000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-08-01T12:10:24.117000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/n6IdT3kmVWgd_F9wrgPOnW-Q-oxLzZPER7mBlx-Thyk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=1024",
+            "width": 1000,
+            "height": 1000
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Loptr",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.291
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-01T12:53:21.476000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-08-01T12:53:21.802000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.326
+    }
+  },
+  {
+    "usuario": "loptrs",
+    "usuario_id": "541757355075829760",
+    "fecha_comando": "2020-08-01T13:01:41.981000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-08-01T13:01:42.221000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Yukihira#2316",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/L3Q6KxryAmEhNMNNP04BxUDbfdGLdE0oelyKHC7JbAQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=1024",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Loptr",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.24
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-01T13:07:33.912000-07:00",
+    "comando_completo": "ch!botinvite @Rythm",
+    "respuesta_bot": {
+      "fecha": "2020-08-01T13:07:34.085000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Rythm#3722",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PJTwVhUS3vrtEje-V5EGyRqkdkxaF1Ek9xUIJPxfGCU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Rythm#3722",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235088799074484224",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.173
+    }
+  },
+  {
+    "usuario": "lexxus9390",
+    "usuario_id": "653343963729756175",
+    "fecha_comando": "2020-08-05T11:46:41.698000-07:00",
+    "comando_completo": "ch!botinvite @Rythm",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T11:46:42.164000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Rythm#3722",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PJTwVhUS3vrtEje-V5EGyRqkdkxaF1Ek9xUIJPxfGCU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Rythm#3722",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235088799074484224",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Lexxus",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.466
+    }
+  },
+  {
+    "usuario": "lexxus9390",
+    "usuario_id": "653343963729756175",
+    "fecha_comando": "2020-08-05T11:47:46.092000-07:00",
+    "comando_completo": "ch!Botinvite @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T11:47:46.273000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chess#6768",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=366770566331629579&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WekxN-lgEXvZ2J_jiga5MO9ajAlgFt27en8eLMWuhlw/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/366770566331629579/cab7c6253e91423e3fdf1410381d0261.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/366770566331629579/cab7c6253e91423e3fdf1410381d0261.png?size=1024",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chess#6768",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "366770566331629579",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Lexxus",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.181
+    }
+  },
+  {
+    "usuario": "eurogold.vip",
+    "usuario_id": "706320748314361887",
+    "fecha_comando": "2020-08-06T02:41:47.972000-07:00",
+    "comando_completo": "ch!botinvite @Rythm",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T02:41:48.190000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Rythm#3722",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PJTwVhUS3vrtEje-V5EGyRqkdkxaF1Ek9xUIJPxfGCU/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/235088799074484224/16c197c4c3f0eb808f9bceb6e1075e71.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Rythm#3722",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "235088799074484224",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@⊱⠺Ꮭσɾԃ Ꭰɾąɠóɳ⠗⊰🔥🐲",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.218
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-08-06T03:08:19.554000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T03:08:19.867000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Yukihira#2316",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/L3Q6KxryAmEhNMNNP04BxUDbfdGLdE0oelyKHC7JbAQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=1024",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@panadero'chalant",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.313
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-20T17:23:23.599000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T17:23:23.958000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2MNO9CWYe-f3R-sRZfuwgGG4ViWX9SVSHXsV_GM-SC4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.359
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-21T16:56:01.582000-07:00",
+    "comando_completo": "ch!botinvite",
+    "respuesta_bot": {
+      "fecha": "2020-08-21T16:56:04.934000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi turns around and falls asleep. You should try being more entertaining.",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M7Tnthgcex3hHHyvgKoHgrcXkrK7VliFzLmYno6WMmU/https/i-like.blue/emotes/19.png",
+            "canonicalUrl": "https://i-like.blue/emotes/19.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.352
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-21T16:56:08.912000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-08-21T16:56:09.336000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wEVqeSQgfS52vd-MRFPNXSkk3K3fKSohADQtgSBiff8/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.424
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-25T12:01:11.175000-07:00",
+    "comando_completo": "ch!botinvite @[/] GiveawayBot",
+    "respuesta_bot": {
+      "fecha": "2020-08-25T12:01:11.588000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de GiveawayBot#2381",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=294882584201003009&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vfyWZNnAwCq40PepRmf1IHei7YqwcXR-G15Hf_qb168/%3Fsize%3D512/https/cdn.discordapp.com/avatars/294882584201003009/4bfd18c35f26a86f2b5b4eb2ad81a1f7.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/294882584201003009/4bfd18c35f26a86f2b5b4eb2ad81a1f7.png?size=512",
+            "width": 350,
+            "height": 350
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "GiveawayBot#2381",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "294882584201003009",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Mr. Administrador",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.413
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-09-08T09:43:45.469000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-09-08T09:43:45.762000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de UnbelievaBoat#1046",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/A5d1KHvM1ewRYwJDRGaLknMCWrZUJs2l3Kl_5tIccpk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@§",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.293
+    }
+  },
+  {
+    "usuario": "juankjuega76",
+    "usuario_id": "493184178964267008",
+    "fecha_comando": "2020-09-10T20:57:45.227000-07:00",
+    "comando_completo": "ch!botinvite @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-09-10T20:57:45.494000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Chocolat#8583",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wEVqeSQgfS52vd-MRFPNXSkk3K3fKSohADQtgSBiff8/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Chocolat#8583",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379757424447455232",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@El_Juank76",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-09-19T23:44:44.669000-07:00",
+    "comando_completo": "ch!botinvite @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2020-09-19T23:44:48.774000-07:00",
+      "contenido": "> **‎Selecting a Capsule  •  [**  valenti5614#5095  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**valenti5614**, you do not have any capsules. Purchase capsules from `t!shop`!",
+          "color": "#FF0000",
+          "author": {
+            "name": "Oh no!",
+            "url": null
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.105
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-23T10:42:05.046000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-09-23T10:42:08.716000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Yukihira#2316",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Pr4w-vAWJcZ853MTfu0Y-ABpNZPHNR-jP4JQfEeGXVc/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@[archive]",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.67
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-10-04T05:26:38.973000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T05:26:39.239000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de UnbelievaBoat#1046",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/A5d1KHvM1ewRYwJDRGaLknMCWrZUJs2l3Kl_5tIccpk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Flora (de Shelly) (y Ghost) 🎀",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.266
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-10-04T06:04:41.278000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T06:04:41.578000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2MNO9CWYe-f3R-sRZfuwgGG4ViWX9SVSHXsV_GM-SC4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Flora (de Shelly) (y Ghost) 🎀",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.3
+    }
+  },
+  {
+    "usuario": "angel.omgg",
+    "usuario_id": "757716850305138862",
+    "fecha_comando": "2020-10-12T14:41:34.204000-07:00",
+    "comando_completo": "ch!botinvite @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-10-12T14:41:38.898000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de UnbelievaBoat#1046",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=292953664492929025&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/A5d1KHvM1ewRYwJDRGaLknMCWrZUJs2l3Kl_5tIccpk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/292953664492929025/c47af6e9bae8a91779996fa412b24207.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "UnbelievaBoat#1046",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "292953664492929025",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Angel",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.694
+    }
+  },
+  {
+    "usuario": "angel.omgg",
+    "usuario_id": "757716850305138862",
+    "fecha_comando": "2020-10-12T15:38:12.440000-07:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-10-12T15:38:13.092000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Tatsu#8792",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=172002275412279296&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2MNO9CWYe-f3R-sRZfuwgGG4ViWX9SVSHXsV_GM-SC4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Tatsu#8792",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "172002275412279296",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Angel",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.652
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-10-13T09:17:19.120000-07:00",
+    "comando_completo": "ch!botinvite @Boocolat",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T09:17:22.062000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮||** canta con mucha emoción owo",
+          "color": "#7FE40D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/595823454050189332/ranma_saotome_akane_tendo_anime_gif_03.gif?ex=6a5854d5&is=6a570355&hm=2ff2ef5aa14a5be26b5054acee361c8c91fc84e5d9d5073cd335445500da36a5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/595823454050189332/ranma_saotome_akane_tendo_anime_gif_03.gif?ex=6a5854d5&is=6a570355&hm=2ff2ef5aa14a5be26b5054acee361c8c91fc84e5d9d5073cd335445500da36a5&",
+            "width": 320,
+            "height": 240
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/595823454050189332/ranma_saotome_akane_tendo_anime_gif_03.gif?ex=6a5854d5&is=6a570355&hm=2ff2ef5aa14a5be26b5054acee361c8c91fc84e5d9d5073cd335445500da36a5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/595823454050189332/ranma_saotome_akane_tendo_anime_gif_03.gif?ex=6a5854d5&is=6a570355&hm=2ff2ef5aa14a5be26b5054acee361c8c91fc84e5d9d5073cd335445500da36a5&",
+              "width": 320,
+              "height": 240
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎤",
+              "code": "microphone",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🖤",
+              "code": "black_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.942
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-10-13T20:07:02.551000-07:00",
+    "comando_completo": "ch!botinvite @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T20:07:06.216000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Link de invitación de Yukihira#2316",
+          "url": null,
+          "timestamp": null,
+          "description": ":link: **https://discordapp.com/oauth2/authorize?client_id=379899953130242058&permissions=8&scope=bot**",
+          "color": "#7AA30B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Pr4w-vAWJcZ853MTfu0Y-ABpNZPHNR-jP4JQfEeGXVc/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Nombre",
+              "value": "Yukihira#2316",
+              "isInline": true
+            },
+            {
+              "name": "ID",
+              "value": "379899953130242058",
+              "isInline": true
+            },
+            {
+              "name": "Permisos de Invitación",
+              "value": "Administrador",
+              "isInline": true
+            },
+            {
+              "name": "Pedido por",
+              "value": "@Emildark",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔗",
+              "code": "link",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f517.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.665
+    }
+  },
+  {
+    "usuario": "lysis_97",
+    "usuario_id": "547564477676257310",
+    "fecha_comando": "2020-10-23T12:17:30.567000-07:00",
+    "comando_completo": "ch!botinvite",
+    "respuesta_bot": {
+      "fecha": "2020-10-23T12:17:32.975000-07:00",
+      "contenido": "> **‎Viewing wallet card  •  [**  EspectroConPan#7979  **]**",
+      "attachments": [
+        {
+          "id": "769278357845049354",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/769278357845049354/wallet.png?ex=6a57dccd&is=6a568b4d&hm=91c301c5e3a1349967eb644565230e811828dc01049751df0ef25c4d7fae0903&",
+          "fileName": "wallet.png",
+          "fileSizeBytes": 148270
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.408
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-15T10:39:52.975000-08:00",
+    "comando_completo": "ch!botinvite @[t!] Tatsu",
+    "respuesta_bot": {
+      "fecha": "2020-11-15T10:39:53.123000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Please enter a valid user in this server.",
+          "color": "#E2E2E2",
+          "author": {
+            "name": "User not found!",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/L9kaNXktRDPLylenoRd_yJz4BrB4OslGItKLDMpeOqY/%3Fv%3D1/https/cdn.discordapp.com/emojis/702543428143284225.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/emojis/702543428143284225.png?v=1"
+          },
+          "footer": {
+            "text": "Mugi#2516",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tS9kfh3PsPNNJzXBA6v-1UAr3nH6x5iYyIGzBNa_g5U/https/cdn.discordapp.com/avatars/701990074895826984/089e6987f280998331ad18435226dcbd.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/701990074895826984/089e6987f280998331ad18435226dcbd.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.148
+    }
+  },
+  {
+    "usuario": "zizllia",
+    "usuario_id": "674440811672240139",
+    "fecha_comando": "2020-12-02T08:42:20.589000-08:00",
+    "comando_completo": "ch!botinvite @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-12-02T08:42:20.808000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":xmark: Invalid `<bet>` argument given.\n\nUsage:\n`russian-roulette <bet>`",
+          "color": "#EF5350",
+          "author": {
+            "name": "Chippy#4551",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Y2ZuLjNM4kUhMxTe_drwvBOoe_vpbzjobasCFJnQklg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/552697612332040218/f20d9d8474842fea8a61de934ce35925.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/552697612332040218/f20d9d8474842fea8a61de934ce35925.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "773218895150448640",
+              "name": "xmark",
+              "code": "xmark",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/773218895150448640.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-12-18T03:03:46.911000-08:00",
+    "comando_completo": "ch!botinvite @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2020-12-18T03:03:47.716000-08:00",
+      "contenido": ":sparkly_starlight_present_open:  **|**  **It's ...?!**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.805
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-12-18T03:04:56.496000-08:00",
+    "comando_completo": "ch!botinvite 419631170074968076",
+    "respuesta_bot": {
+      "fecha": "2020-12-18T03:04:56.606000-08:00",
+      "contenido": "🎣  **|**  **you caught: 🐠!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.11
+    }
+  }
+]

@@ -1,0 +1,684 @@
+[
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-02-08T11:08:26.079000-08:00",
+    "comando_completo": "ch!ban @Marco.",
+    "respuesta_bot": {
+      "fecha": "2019-02-08T11:08:26.223000-08:00",
+      "contenido": "@Avocado, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "marco.3385",
+    "usuario_id": "433413879733944320",
+    "fecha_comando": "2019-02-08T11:09:00.446000-08:00",
+    "comando_completo": "ch!ban @Marco.",
+    "respuesta_bot": {
+      "fecha": "2019-02-08T11:09:00.640000-08:00",
+      "contenido": "@Marco., No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.194
+    }
+  },
+  {
+    "usuario": "ulti_gg",
+    "usuario_id": "241775896518721536",
+    "fecha_comando": "2019-03-05T15:54:11.384000-08:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-03-05T15:54:11.527000-08:00",
+      "contenido": "@!UltiMan!🍫✩, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.143
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-04-03T21:02:11.952000-07:00",
+    "comando_completo": "ch!ban @Avocado",
+    "respuesta_bot": {
+      "fecha": "2019-04-03T21:02:12.194000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `yu!ban @username [razon]`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-20T12:35:09.753000-07:00",
+    "comando_completo": "ch!ban @Unknown",
+    "respuesta_bot": {
+      "fecha": "2019-04-20T12:35:10.083000-07:00",
+      "contenido": "@Dante, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.33
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-05-06T13:51:34.942000-07:00",
+    "comando_completo": "ch!ban @!Oniichan",
+    "respuesta_bot": {
+      "fecha": "2019-05-06T13:51:35.023000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `yu!ban @username [razon]`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.081
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-23T12:45:36.383000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-05-23T12:45:36.513000-07:00",
+      "contenido": "@magikko, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.13
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-24T13:51:13.850000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-05-24T13:51:14.015000-07:00",
+      "contenido": "@EdoFran 🎃, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-01T16:04:01.918000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-06-01T16:04:02.134000-07:00",
+      "contenido": "@Dante, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T20:37:59.921000-07:00",
+    "comando_completo": "ch!ban kick unban mute unmute purge addrole remrole crole sdm nickname warn unwarn softban question tempmute hackban lastmessage addcoloroles editsay editembed enable disabl",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:38:00.141000-07:00",
+      "contenido": "@soyelectro, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.22
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-13T21:03:29.137000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:03:29.377000-07:00",
+      "contenido": "@Dante, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.24
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:33:58.267000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:33:58.465000-07:00",
+      "contenido": "@Dante, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.198
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-26T11:01:26.638000-07:00",
+    "comando_completo": "ch!ban @EdoFran 🎃",
+    "respuesta_bot": {
+      "fecha": "2019-07-26T11:01:26.752000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `ch!ban @username <razón>`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.114
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-07-26T11:01:34.656000-07:00",
+    "comando_completo": "ch!ban @Dante",
+    "respuesta_bot": {
+      "fecha": "2019-07-26T11:01:34.878000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `ch!ban @username <razón>`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-26T11:11:28.303000-07:00",
+    "comando_completo": "ch!ban @EdoFran 🎃",
+    "respuesta_bot": {
+      "fecha": "2019-07-26T11:11:28.491000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `ch!ban @username <razón>`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.188
+    }
+  },
+  {
+    "usuario": "moxii.8820",
+    "usuario_id": "495472679978270722",
+    "fecha_comando": "2019-08-16T20:28:13.358000-07:00",
+    "comando_completo": "ch!ban @santi",
+    "respuesta_bot": {
+      "fecha": "2019-08-16T20:28:13.494000-07:00",
+      "contenido": "@Moxii., No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.136
+    }
+  },
+  {
+    "usuario": "darlingluma",
+    "usuario_id": "475340478460592128",
+    "fecha_comando": "2019-08-16T20:28:49.275000-07:00",
+    "comando_completo": "ch!ban @Moxii.",
+    "respuesta_bot": {
+      "fecha": "2019-08-16T20:28:49.516000-07:00",
+      "contenido": "@santi, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-08-27T06:20:03.648000-07:00",
+    "comando_completo": "ch!ban @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-08-27T06:20:05.841000-07:00",
+      "contenido": "@Avocado, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.193
+    }
+  },
+  {
+    "usuario": "ulti_gg",
+    "usuario_id": "241775896518721536",
+    "fecha_comando": "2019-09-11T16:24:59.116000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T16:24:59.268000-07:00",
+      "contenido": "@!UltiMan!🍫✩, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-11T16:39:53.497000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T16:39:53.597000-07:00",
+      "contenido": "@Daomi✿, Debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.1
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-18T14:26:44.383000-07:00",
+    "comando_completo": "ch!ban @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T14:26:45.061000-07:00",
+      "contenido": "@User Deleted, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.678
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-29T08:33:53.485000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-09-29T08:33:53.572000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":xmark: You cannot work for 28 minutes and 41 seconds.",
+          "color": "#EF5350",
+          "author": {
+            "name": "Famusche#2790",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/rKQ2c1IsuEghOEuHyRyiHsDxBcbIcvR3V-_GEadgbXk/%3Fsize%3D128/https/cdn.discordapp.com/avatars/461240054870966303/a_e38bf527a93738c3427120a018272f4e.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/461240054870966303/a_e38bf527a93738c3427120a018272f4e.gif?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972330209281",
+              "name": "xmark",
+              "code": "xmark",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972330209281.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.087
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-10-03T17:28:15.283000-07:00",
+    "comando_completo": "ch!ban @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2019-10-03T17:28:15.446000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `ch!ban @username <razón>`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-09T12:55:42.572000-07:00",
+    "comando_completo": "ch!ban @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T12:55:42.701000-07:00",
+      "contenido": "@whtvr., No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-09T13:04:42.456000-07:00",
+    "comando_completo": "ch!ban @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:04:42.554000-07:00",
+      "contenido": "@whtvr., No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.098
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-10-09T13:05:00.461000-07:00",
+    "comando_completo": "ch!ban @whtvr.",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:05:00.773000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `ch!ban @username <razón>`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.312
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-10-09T13:07:23.924000-07:00",
+    "comando_completo": "ch!ban @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:07:24.080000-07:00",
+      "contenido": "Escriba una razón para banearlo.\nUso: `ch!ban @username <razón>`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-18T11:36:57.022000-07:00",
+    "comando_completo": "ch!ban @scor",
+    "respuesta_bot": {
+      "fecha": "2019-10-18T11:36:57.161000-07:00",
+      "contenido": "@whtvr., no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-10-18T11:37:06.156000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-10-18T11:37:06.381000-07:00",
+      "contenido": "@Daomi✿, debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.225
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-10-18T11:54:30.426000-07:00",
+    "comando_completo": "ch!ban @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2019-10-18T11:54:30.573000-07:00",
+      "contenido": "@EdoFran 🎃, no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-22T10:03:19.527000-07:00",
+    "comando_completo": "ch!ban @Daomi✿",
+    "respuesta_bot": {
+      "fecha": "2019-10-22T10:03:19.765000-07:00",
+      "contenido": "@whtvr., no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-24T05:04:20.394000-07:00",
+    "comando_completo": "ch!ban @˖ ݁✦. Griseo .✦ ݁˖",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T05:04:20.602000-07:00",
+      "contenido": "@whtvr., no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.208
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-11-03T13:01:28.728000-08:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:01:28.856000-08:00",
+      "contenido": "@Unknown, debes mencionar a alguien para banearlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-06T07:07:27.294000-08:00",
+    "comando_completo": "ch!ban @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-11-06T07:07:27.582000-08:00",
+      "contenido": "@acibascsubcibciasubciuab, no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.288
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-07T18:34:10.727000-08:00",
+    "comando_completo": "ch!Ban @Zҽɾσ🧉",
+    "respuesta_bot": {
+      "fecha": "2019-11-07T18:34:11.013000-08:00",
+      "contenido": "@whtvr., no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.286
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-11-12T16:01:45.109000-08:00",
+    "comando_completo": "ch!ban  @Arcus",
+    "respuesta_bot": {
+      "fecha": "2019-11-12T16:01:45.343000-08:00",
+      "contenido": "@Avocado, lo siento, no puedo banear al usuario mencionado. Es posible que no tenga el permiso requerido o el usuario tiene un rol superior a mí.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T14:56:43.783000-08:00",
+    "comando_completo": "ch!ban @Deleted User por que si",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T14:56:44.010000-08:00",
+      "contenido": "@acibascsubcibciasubciuab, no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T15:29:32.905000-08:00",
+    "comando_completo": "ch!ban @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T15:29:33.210000-08:00",
+      "contenido": "@acibascsubcibciasubciuab, no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.305
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-14T15:30:44.018000-08:00",
+    "comando_completo": "ch!ban @acibascsubcibciasubciuab",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T15:30:44.260000-08:00",
+      "contenido": "@Zҽɾσ🧉, no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-18T21:46:22.181000-07:00",
+    "comando_completo": "ch!ban",
+    "respuesta_bot": {
+      "fecha": "2020-04-18T21:46:24.209000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lattenyu** pellizca las mejillas de **Peke**",
+          "color": "#666C20",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/577603934697291796/f21424a70dd7575541f300e2db0e8e2735c93ff5_hq.gif?ex=6a57f795&is=6a56a615&hm=ee07b0f5fdb2372d4b30254e67381969de7793919b94387205b3b3995c6a7a2c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/577603934697291796/f21424a70dd7575541f300e2db0e8e2735c93ff5_hq.gif?ex=6a57f795&is=6a56a615&hm=ee07b0f5fdb2372d4b30254e67381969de7793919b94387205b3b3995c6a7a2c&",
+            "width": 508,
+            "height": 640
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/577603934697291796/f21424a70dd7575541f300e2db0e8e2735c93ff5_hq.gif?ex=6a57f795&is=6a56a615&hm=ee07b0f5fdb2372d4b30254e67381969de7793919b94387205b3b3995c6a7a2c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/577603934697291796/f21424a70dd7575541f300e2db0e8e2735c93ff5_hq.gif?ex=6a57f795&is=6a56a615&hm=ee07b0f5fdb2372d4b30254e67381969de7793919b94387205b3b3995c6a7a2c&",
+              "width": 508,
+              "height": 640
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.028
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-08-11T09:12:08.716000-07:00",
+    "comando_completo": "ch!ban @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-08-11T09:12:23.637000-07:00",
+      "contenido": "✨  **|**  **your :42: Tatsugotchi's room is squeaky clean!**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 14.921
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-12T12:12:39.640000-07:00",
+    "comando_completo": "ch!ban @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-08-12T12:12:44.999000-07:00",
+      "contenido": "📝  |  **Server rank card for user: Iwa-Chan**",
+      "attachments": [
+        {
+          "id": "743185223549845574",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/743185223549845574/profile.png?ex=6a57dbad&is=6a568a2d&hm=b0f54eb151b0538112f09cbd47f79536a3ded4571aa9116a7bf9c9777d993479&",
+          "fileName": "profile.png",
+          "fileSizeBytes": 48817
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 5.359
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-12-07T13:07:20.699000-08:00",
+    "comando_completo": "ch!ban @Noname7612",
+    "respuesta_bot": {
+      "fecha": "2020-12-07T13:07:28.694000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**EspectroConPan** salió corriendo!",
+          "color": "#5FB487",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/722166150590627870/20200615_115104.gif?ex=6a57db23&is=6a5689a3&hm=ba6e6145dc542c4c02d90ef7261ca7fa34e6afd122e0114413889a0410af3d1c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/722166150590627870/20200615_115104.gif?ex=6a57db23&is=6a5689a3&hm=ba6e6145dc542c4c02d90ef7261ca7fa34e6afd122e0114413889a0410af3d1c&",
+            "width": 680,
+            "height": 382
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/722166150590627870/20200615_115104.gif?ex=6a57db23&is=6a5689a3&hm=ba6e6145dc542c4c02d90ef7261ca7fa34e6afd122e0114413889a0410af3d1c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/722166150590627870/20200615_115104.gif?ex=6a57db23&is=6a5689a3&hm=ba6e6145dc542c4c02d90ef7261ca7fa34e6afd122e0114413889a0410af3d1c&",
+              "width": 680,
+              "height": 382
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.995
+    }
+  }
+]

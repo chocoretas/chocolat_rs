@@ -1,0 +1,1361 @@
+[
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-01-02T18:09:40.487000-08:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2019-01-02T18:09:40.678000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#1E2469",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.1.0",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatBot)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.191
+    }
+  },
+  {
+    "usuario": "nami07129",
+    "usuario_id": "435211946086629386",
+    "fecha_comando": "2019-03-04T08:34:10.832000-08:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2019-03-04T08:34:11.040000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#D984A4",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.6",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.208
+    }
+  },
+  {
+    "usuario": "thecrimsonfuckr49",
+    "usuario_id": "504112657884774401",
+    "fecha_comando": "2019-06-22T18:18:34.071000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2019-06-22T18:18:34.285000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#55F177",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creadores",
+              "value": "Noname7612#5043 & ☀Darnel♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.0",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "cesjul95",
+    "usuario_id": "565417288577056768",
+    "fecha_comando": "2019-07-29T12:32:17.685000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2019-07-29T12:32:17.817000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#5DD807",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creadores",
+              "value": "Noname7612#5043 & Darnel#2410",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.2",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatweebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.132
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-01-11T09:57:03.544000-08:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-01-11T09:57:03.809000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#856840",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creadores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.2",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://Chocolatbotweebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.265
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-14T08:11:03.299000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-04-14T08:11:03.495000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#0D0A1B",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creadores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://Chocolatbotweebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "emiliadides",
+    "usuario_id": "675419571208978476",
+    "fecha_comando": "2020-04-14T08:57:16.123000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-04-14T08:57:16.792000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#6F353C",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creadores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://Chocolatbotweebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.669
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-06T14:59:18.379000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-06-06T14:59:18.575000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#60C7E4",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-07T07:13:39.606000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-06-07T07:13:39.823000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#C1745C",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.217
+    }
+  },
+  {
+    "usuario": "sprout03356",
+    "usuario_id": "487014232081170434",
+    "fecha_comando": "2020-06-08T10:50:09.834000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T10:50:10.129000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#2DE5C0",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.295
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-08T17:04:32.718000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T17:04:32.955000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#A4C25E",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.237
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-11T11:15:07.164000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-06-11T11:15:07.721000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#71D52F",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.557
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-24T08:23:14.289000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T08:23:14.517000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#4FA0EB",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871 y Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "sprout03356",
+    "usuario_id": "487014232081170434",
+    "fecha_comando": "2020-10-13T14:59:45.160000-07:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T14:59:45.910000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#D98733",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 y Arcus#3871",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.2",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.75
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-08T15:57:32.497000-08:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:57:32.853000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#15F921",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 y Arcus#3871",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.3",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.356
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-28T12:38:04.524000-08:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-11-28T12:38:04.818000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#267906",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 y Arcus#3871",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.3",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "cocacolaespuma8468",
+    "usuario_id": "770035503507832834",
+    "fecha_comando": "2020-12-09T08:54:54.498000-08:00",
+    "comando_completo": "ch!about cartoon cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T08:54:54.767000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#F302E9",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 y Arcus#3871",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.3",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.269
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-20T02:08:01.537000-08:00",
+    "comando_completo": "ch!about",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T02:08:01.737000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.",
+          "color": "#C29587",
+          "author": {
+            "name": "Acerca de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Creador del bot",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 y Arcus#3871",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.3",
+              "isInline": true
+            },
+            {
+              "name": "Upvote en DBL",
+              "value": "[Click acá](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            },
+            {
+              "name": "Donar",
+              "value": "[Donar](https://www.patreon.com/ChocolatDiscordBot)",
+              "isInline": true
+            },
+            {
+              "name": "Información del Personaje",
+              "value": "[Click aquí](https://aminoapps.com/c/anime-es/page/item/Chocolat/YjPc_XI1QDq8gqaZJap47wa822lNvDz)",
+              "isInline": true
+            },
+            {
+              "name": "Ver anime de Chocolat.",
+              "value": "[Click aquí](https://animeflv.net/anime/2941/noucome)",
+              "isInline": true
+            },
+            {
+              "name": "Otros links",
+              "value": "[Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Servidor](https://discord.gg/CgSHkuK) | [Página web](https://chocolatbot.weebly.com/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  }
+]

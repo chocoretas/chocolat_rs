@@ -1,0 +1,95 @@
+[
+  {
+    "usuario": "stevensteel",
+    "usuario_id": "492307736399183872",
+    "fecha_comando": "2019-01-08T21:49:54.372000-08:00",
+    "comando_completo": "ch!nickname",
+    "respuesta_bot": {
+      "fecha": "2019-01-08T21:49:54.522000-08:00",
+      "contenido": "No tienes permisos para ejecutar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-12-03T17:24:53.534000-08:00",
+    "comando_completo": "ch!nickname",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T17:24:53.827000-08:00",
+      "contenido": "@Arcus, Debes mencionar a alguien.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.293
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-05-19T21:46:36.303000-07:00",
+    "comando_completo": "ch!nickname @Osuna Manía exxecute!order 66",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T21:46:41.469000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Buy an item with the `buy-item [quantity] <name>` command.\nFor more information on an item use the `item-info <name>` command.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Golden#6511",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/w15DV5nkKFWmDNE5N-vVwb10AVtuaMay46RsJXs8ffc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/637807504478306356/fae4af9086492642e51221b62a265023.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/637807504478306356/fae4af9086492642e51221b62a265023.png?size=128"
+          },
+          "footer": {
+            "text": "Page 1/1"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "🍫6,000 - Colores",
+              "value": "Fascinantes colores que puedes ponerle a tu nombre en nuestro servidor. Adquiérelo pronto y disfruta de una nueva moda de colores. (Sólo debes adquirir este producto una vez).\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫120,000 - ❓❔❓",
+              "value": "🔒🔑🔓⁉\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫333,333 - Puntos del servidor 📝",
+              "value": "del servidor 📝 Con este objeto podrás obtener 10,000 puntos del servidor completamente rápido a cambio de tus Chocolates. (Sólo puede ser adquirido hasta 10 veces por usuario)\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫459,999 - => 🍰",
+              "value": "Con este objeto tendrás acceso al comando exclusivo de desear feliz cumpleaños a cualquier persona con el bot, cuenta la leyenda de que se puede felicitar de forma especial a Chocolat con éste.\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫1,699,999 - Función única",
+              "value": "Con este objeto puedes solicitar que se desarrolle una función especial dentro de un comando reactivo o interactivo para ti. \nTal vez sea caro, pero lo vale cada Chocolate.\n**Sólo puedes adquirirlo una vez, si se adquiere más de una vez será cancelado.**\nPide más información si lo deseas.\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫2,500,000 - Comando único",
+              "value": "Adquiere un comando único con este objeto, es caro, pero realmente lo valdrá.\nCon él podrás solicitar que se diseñe un comando de funciones interactivas o reactivas como lo desees y sólo para ti.\n**Sólo puedes adquirirlo una vez, si se adquiere más de una vez será cancelado.**\nPide más información s...\n:transparent:",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.166
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "usuario": "shai_firstacc",
+    "usuario_id": "667853434153730058",
+    "fecha_comando": "2020-03-05T15:18:12.817000-08:00",
+    "comando_completo": "ch!question",
+    "respuesta_bot": {
+      "fecha": "2020-03-05T15:18:21.443000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Zuru** se echó a correr.",
+          "color": "#22FFF6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/586685985975173130/omfgrun.gif?ex=6a580c67&is=6a56bae7&hm=2a6c401339895b046f73106fb194525bc603308afe7ba6999f8cba4ff625fd86&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/586685985975173130/omfgrun.gif?ex=6a580c67&is=6a56bae7&hm=2a6c401339895b046f73106fb194525bc603308afe7ba6999f8cba4ff625fd86&",
+            "width": 380,
+            "height": 214
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/586685985975173130/omfgrun.gif?ex=6a580c67&is=6a56bae7&hm=2a6c401339895b046f73106fb194525bc603308afe7ba6999f8cba4ff625fd86&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/586685985975173130/omfgrun.gif?ex=6a580c67&is=6a56bae7&hm=2a6c401339895b046f73106fb194525bc603308afe7ba6999f8cba4ff625fd86&",
+              "width": 380,
+              "height": 214
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.626
+    }
+  },
+  {
+    "usuario": "future4319",
+    "usuario_id": "714607055885041804",
+    "fecha_comando": "2020-09-12T17:38:00.132000-07:00",
+    "comando_completo": "ch!question",
+    "respuesta_bot": {
+      "fecha": "2020-09-12T17:38:11.238000-07:00",
+      "contenido": "🎣  **|**  **you caught: 🔋!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.106
+    }
+  }
+]

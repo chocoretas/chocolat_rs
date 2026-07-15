@@ -1,0 +1,3846 @@
+[
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-01-02T11:43:12.715000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-01-02T11:43:13.001000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#F6CA15",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.1.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 18617\n• Usuarios: 529099\n• Canales: 447895\n• Uso de Memoria del Shard: 173.63 MB\n• Shard: 8/8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 152\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "15 mins, 45 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.286
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-01-07T09:34:29.746000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-01-07T09:34:29.807000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#18BA61",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.1.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 19249\n• Usuarios: 561019\n• Canales: 463923\n• Uso de Memoria del Shard: 146.81 MB\n• Shard: 4/9```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 152\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "8 mins, 43 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.061
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-01-09T18:02:59.476000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-01-09T18:03:07.410000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3B23BC",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.1.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 19560\n• Usuarios: 580060\n• Canales: 471058\n• Uso de Memoria del Shard: 142.70 MB\n• Shard: 4/9```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 152\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "8 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.934
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-01-31T19:37:05.372000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-01-31T19:37:05.843000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FDFEDC",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.1.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 22104\n• Usuarios: 660658\n• Canales: 535188\n• Uso de Memoria del Shard: 687.93 MB\n• Shard: 10/10```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 152\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 12 hrs, 22 mins, 21 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.471
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-02-03T23:10:02.980000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-02-03T23:10:03.184000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3B25C1",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tP0E6i2FkuN5Ktm5-6rTzfvQaLlc9BtGKkS3VQ64l6M/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/32fa20bcbf76b58ab280406ff38a108f.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.1.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 22442\n• Usuarios: 666459\n• Canales: 545031\n• Uso de Memoria del Shard: 210.79 MB\n• Shard: 10/10```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 152\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 hr, 53 mins, 55 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "nami07129",
+    "usuario_id": "435211946086629386",
+    "fecha_comando": "2019-03-04T08:31:15.626000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-04T08:31:15.801000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#5A3980",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.6",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 26094\n• Usuarios: 776105\n• Canales: 632777\n• Uso de Memoria del Shard: 556.03 MB\n• Shard: 11```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 9 hrs, 22 mins, 10 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.175
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-03-06T08:53:41.125000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-06T08:53:41.184000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#52A2C9",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.6",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 26330\n• Usuarios: 778352\n• Canales: 638182\n• Uso de Memoria del Shard: 459.27 MB\n• Shard: 11```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "21 hrs, 0 mins, 30 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.059
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-03-06T08:54:03.720000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-06T08:54:11.711000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#5234E9",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.6",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 26330\n• Usuarios: 777273\n• Canales: 638144\n• Uso de Memoria del Shard: 172.69 MB\n• Shard: 11```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "9 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.991
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-03-06T08:54:06.997000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-06T08:54:11.711000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#5234E9",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrollador",
+              "value": "Noname7612#5043",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.6",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 26330\n• Usuarios: 777273\n• Canales: 638144\n• Uso de Memoria del Shard: 172.69 MB\n• Shard: 11```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "9 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.714
+    }
+  },
+  {
+    "usuario": "bisho_",
+    "usuario_id": "372466760848244736",
+    "fecha_comando": "2019-03-11T12:47:25.680000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-11T12:47:25.848000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#7F19ED",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.8",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 26902\n• Usuarios: 770390\n• Canales: 650555\n• Uso de Memoria del Shard: 163.45 MB\n• Shard: 4```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "3 mins, 56 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "owo3518",
+    "usuario_id": "406819397072846859",
+    "fecha_comando": "2019-03-12T12:17:22.170000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-12T12:17:22.340000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#0E7BA1",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.8",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 26971\n• Usuarios: 796546\n• Canales: 652668\n• Uso de Memoria del Shard: 384.70 MB\n• Shard: 4```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "20 hrs, 39 mins, 14 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "zack041801",
+    "usuario_id": "524963375596306452",
+    "fecha_comando": "2019-03-22T20:07:06.670000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-03-22T20:07:06.801000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#920D4E",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.8",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 28177\n• Usuarios: 813173\n• Canales: 680976\n• Uso de Memoria del Shard: 375.54 MB\n• Shard: 8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "5 hrs, 0 mins, 4 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.131
+    }
+  },
+  {
+    "usuario": "._martell",
+    "usuario_id": "338663022807744512",
+    "fecha_comando": "2019-04-01T14:54:58.452000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-01T14:54:58.691000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#08DC88",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/9NX9T4AGrM4W8eX1--4-x39HhIq-35cOuGSHbTEYWdU/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/675cebbbe45e6495bd4f203435188086.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/675cebbbe45e6495bd4f203435188086.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9NX9T4AGrM4W8eX1--4-x39HhIq-35cOuGSHbTEYWdU/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/675cebbbe45e6495bd4f203435188086.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/675cebbbe45e6495bd4f203435188086.png?size=2048",
+            "width": 480,
+            "height": 480
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.8",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 29272\n• Usuarios: 890734\n• Canales: 709500\n• Uso de Memoria del Shard: 448.88 MB\n• Shard: 10```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 0 hrs, 28 mins, 58 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.239
+    }
+  },
+  {
+    "usuario": "zsnails",
+    "usuario_id": "325079232588021770",
+    "fecha_comando": "2019-04-02T17:45:02.234000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-02T17:45:02.524000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A9CF45",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.2.8",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 29417\n• Usuarios: 883996\n• Canales: 712489\n• Uso de Memoria del Shard: 352.13 MB\n• Shard: 10```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 160\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "14 hrs, 9 mins, 40 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.29
+    }
+  },
+  {
+    "usuario": "waxtz",
+    "usuario_id": "237947982769553408",
+    "fecha_comando": "2019-04-08T07:19:31.522000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-08T07:19:31.658000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#8CB869",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 30044\n• Usuarios: 910966\n• Canales: 726862\n• Uso de Memoria del Shard: 409.59 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 8 hrs, 37 mins, 39 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.136
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-04-15T12:35:20.377000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-15T12:35:20.559000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#026195",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 30876\n• Usuarios: 937636\n• Canales: 745199\n• Uso de Memoria del Shard: 410.46 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "23 hrs, 57 mins, 32 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "03b",
+    "usuario_id": "253550807994073089",
+    "fecha_comando": "2019-04-15T14:27:53.085000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-15T14:27:53.185000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#487A88",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 30891\n• Usuarios: 939260\n• Canales: 745740\n• Uso de Memoria del Shard: 436.61 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 1 hr, 50 mins, 4 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.1
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-16T16:20:52.313000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:20:52.465000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3EF160",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 31042\n• Usuarios: 925523\n• Canales: 748060\n• Uso de Memoria del Shard: 242.20 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "4 hrs, 0 mins, 42 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-04-18T19:45:12.177000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-18T19:45:17.377000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#B5EB2C",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 31325\n• Usuarios: 948866\n• Canales: 754188\n• Uso de Memoria del Shard: 172.41 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "8 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.2
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-04-19T18:57:42.074000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-19T18:57:42.219000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#8610F9",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 31459\n• Usuarios: 950845\n• Canales: 758643\n• Uso de Memoria del Shard: 368.92 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "10 hrs, 57 mins, 30 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.145
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-20T09:47:40.094000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-20T09:47:40.367000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E5D5D5",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 31536\n• Usuarios: 936018\n• Canales: 759175\n• Uso de Memoria del Shard: 146.76 MB\n• Shard: 17```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 min, 17 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.273
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-04-22T16:37:59.188000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-04-22T16:37:59.409000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#5C0DFF",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 31912\n• Usuarios: 997154\n• Canales: 769904\n• Uso de Memoria del Shard: 612.02 MB\n• Shard: 17```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "2 días, 1 hr, 32 mins, 56 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.221
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-05-07T07:16:28.520000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-05-07T07:16:28.658000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#7F7AF7",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 33562\n• Usuarios: 1036746\n• Canales: 808119\n• Uso de Memoria del Shard: 350.61 MB\n• Shard: 17```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "16 hrs, 57 mins, 49 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.138
+    }
+  },
+  {
+    "usuario": "bbanshi",
+    "usuario_id": "470027457488224256",
+    "fecha_comando": "2019-05-07T14:39:55.865000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-05-07T14:39:56.106000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#967985",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Ðαяиεl♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.3.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 33616\n• Usuarios: 1024411\n• Canales: 808950\n• Uso de Memoria del Shard: 279.37 MB\n• Shard: 17```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "6 hrs, 2 mins, 21 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "ulti_gg",
+    "usuario_id": "241775896518721536",
+    "fecha_comando": "2019-06-01T21:28:46.267000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-06-01T21:28:46.401000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#CAB507",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Darnel♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 36479\n• Usuarios: 1121316\n• Canales: 880795\n• Uso de Memoria del Shard: 460.06 MB\n• Shard: 8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 4 hrs, 9 mins, 35 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.134
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-03T19:40:35.318000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-06-03T19:40:35.642000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3792C",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Darnel♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 36736\n• Usuarios: 1146611\n• Canales: 885066\n• Uso de Memoria del Shard: 211.54 MB\n• Shard: 8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 hr, 57 mins, 43 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.324
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-05T06:58:32.775000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-06-05T06:58:32.826000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#0AFD26",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Darnel♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 36855\n• Usuarios: 1156876\n• Canales: 888090\n• Uso de Memoria del Shard: 205.88 MB\n• Shard: 8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "8 hrs, 30 mins, 38 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.051
+    }
+  },
+  {
+    "usuario": "thecrimsonfuckr49",
+    "usuario_id": "504112657884774401",
+    "fecha_comando": "2019-06-22T18:19:09.164000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-06-22T18:19:09.322000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#0E627D",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & ☀Darnel♚#4295",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.0",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 38910\n• Usuarios: 1255749\n• Canales: 936909\n• Uso de Memoria del Shard: 355.82 MB\n• Shard: 20```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 156\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "21 hrs, 1 min, 42 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.158
+    }
+  },
+  {
+    "usuario": "cesjul95",
+    "usuario_id": "565417288577056768",
+    "fecha_comando": "2019-07-29T12:32:01.374000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-07-29T12:32:01.561000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#715CCA",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & Darnel#2410",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 44036\n• Usuarios: 1561966\n• Canales: 1066827\n• Uso de Memoria del Shard: 218.67 MB\n• Shard: 11```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 172\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "15 hrs, 45 mins, 13 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "y0w0u",
+    "usuario_id": "608817245417898004",
+    "fecha_comando": "2019-08-23T21:41:40.304000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-08-23T21:41:40.445000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#B7DA0A",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & Darnel#2410",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 48443\n• Usuarios: 1742059\n• Canales: 1174037\n• Uso de Memoria del Shard: 203.70 MB\n• Shard: 16```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 172\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "2 hrs, 22 mins, 31 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-12T12:30:49.199000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-10-12T12:30:50.507000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#904CCF",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & Darnel#2410",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 56949\n• Usuarios: 2040256\n• Canales: 1379477\n• Uso de Memoria del Shard: 243.49 MB\n• Shard: 8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 172\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "18 hrs, 4 mins, 36 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.308
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-10-14T07:28:08.036000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-10-14T07:28:08.131000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#D61567",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aelunnbB9gKE2Yhkp6x7xSXtjA9HpTJR9PDGl57yl1s/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/e14168a05696dd289ac735c7ed7b794b.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043 & Darnel#2410",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "v3.4.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 57256\n• Usuarios: 2049284\n• Canales: 1386581\n• Uso de Memoria del Shard: 224.03 MB\n• Shard: 8```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v11.3.2\n• Comandos: 172\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "12 hrs, 13 mins, 57 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.095
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-19T11:21:34.391000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-12-19T11:21:34.553000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#27315F",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Darnel#3871, Avocado#0002",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.1",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 68299\n• Usuarios: 2482779\n• Canales: 1677554\n• Uso de Memoria del Shard: 313.44 MB\n• Shard: 34```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 182\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 4 hrs, 10 mins, 52 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-12-21T15:05:14.624000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2019-12-21T15:05:14.866000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#F01CD8",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Darnel#3871, Avocado#0002",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.1",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 68697\n• Usuarios: 2506425\n• Canales: 1687565\n• Uso de Memoria del Shard: 366.92 MB\n• Shard: 15```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 182\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 días, 8 hrs, 49 mins, 28 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2020-01-07T14:10:10.539000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-01-07T14:10:10.703000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#390A59",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kfkuAoD_oDtDmp2A2VmDnw6P0WTsa3C7SGeJSi1yKcI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/ab6b22da24eee014f45a04653edd47d6.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 72478\n• Usuarios: 2628907\n• Canales: 1781188\n• Uso de Memoria del Shard: 317.15 MB\n• Shard: 15```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "4 hrs, 13 mins, 14 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.164
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2020-01-08T05:52:19.134000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-01-08T05:52:19.321000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#47D7C4",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 72618\n• Usuarios: 2631740\n• Canales: 1783872\n• Uso de Memoria del Shard: 321.12 MB\n• Shard: 15```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "9 hrs, 21 mins, 45 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2020-01-08T16:01:21.637000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-01-08T16:01:21.815000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#83B516",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 72769\n• Usuarios: 2653989\n• Canales: 1787815\n• Uso de Memoria del Shard: 229.13 MB\n• Shard: 15```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "30 mins, 47 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.178
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-01-11T09:57:39.628000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-01-11T09:57:39.889000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E57089",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.2",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 73406\n• Usuarios: 2675008\n• Canales: 1804868\n• Uso de Memoria del Shard: 277.55 MB\n• Shard: 15```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "2 hrs, 13 mins, 30 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2020-03-22T16:55:34.273000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-03-22T16:55:34.533000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#19BB50",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 95181\n• Usuarios: 3504751\n• Canales: 2327618\n• Uso de Memoria del Shard: 133.38 MB\n• Shard: 65```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 hr, 47 mins, 7 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.26
+    }
+  },
+  {
+    "usuario": "devrenso",
+    "usuario_id": "591470897911824384",
+    "fecha_comando": "2020-03-22T21:21:03.714000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-03-22T21:21:03.964000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#6DB52D",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 95353\n• Usuarios: 3512907\n• Canales: 2307535\n• Uso de Memoria del Shard: 171.04 MB\n• Shard: 65```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "6 hrs, 12 mins, 36 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2020-04-04T10:42:59.228000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-04-04T10:42:59.532000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#C02295",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 102488\n• Usuarios: 3793671\n• Canales: 2493151\n• Uso de Memoria del Shard: 274.56 MB\n• Shard: 85```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "13 hrs, 2 mins, 21 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.304
+    }
+  },
+  {
+    "usuario": "copyelisa562_rg8785",
+    "usuario_id": "686350513960255570",
+    "fecha_comando": "2020-04-04T13:24:51.588000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-04-04T13:24:52.719000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#0EC8E0",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 102547\n• Usuarios: 3801807\n• Canales: 2495481\n• Uso de Memoria del Shard: 215.57 MB\n• Shard: 85```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "2 hrs, 34 mins, 8 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.131
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2020-04-16T20:28:24.079000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T20:28:24.401000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#2775DE",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 109989\n• Usuarios: 3997328\n• Canales: 2679454\n• Uso de Memoria del Shard: 91.50 MB\n• Shard: 110```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "3 mins, 55 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.322
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-05-05T19:52:07.866000-07:00",
+    "comando_completo": "ch!Botinfo @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2020-05-05T19:52:08.440000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#AACB2B",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.5.3",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 122837\n• Usuarios: 4387962\n• Canales: 3001739\n• Uso de Memoria del Shard: 195.31 MB\n• Shard: 80```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^11.5.1\n• Comandos: 181\n• Prefix: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 hr, 55 mins, 41 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://Chocolatbotweebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.574
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-19T18:07:05.198000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T18:07:05.582000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#ED12D7",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 133614\n• Usuarios: 4739027\n• Canales: 3263252\n• Uso de Memoria del Shard: 109.03 MB\n• Shard: 40```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^12.2.0\n• Comandos: Total: 190 | Visibles: 167 | Invisibles: 23\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "1 hr, 39 mins, 35 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.384
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-24T07:30:15.370000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-05-24T07:30:15.570000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#965A6C",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 137095\n• Usuarios: 4926365\n• Canales: 3350000\n• Uso de Memoria del Shard: 126.36 MB\n• Shard: 40```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^12.2.0\n• Comandos: Total: 190 | Visibles: 167 | Invisibles: 23\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "16 hrs, 41 mins, 59 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "santi090",
+    "usuario_id": "512419385835651082",
+    "fecha_comando": "2020-06-20T12:55:33.775000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-06-20T12:55:34.206000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#9CA18E",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TnksjJH7nqeolzHNyo4zeIKkxMeUTnU7wC3h0lU8cps/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 163226\n• Usuarios: 5802131\n• Canales: 3967336\n• Uso de Memoria del Shard: 150.89 MB\n• Shard: 120```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^12.2.0\n• Comandos: Total: 190 | Visibles: 167 | Invisibles: 23\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "18 hrs, 14 mins, 45 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.431
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-06-20T15:41:50.311000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-06-20T15:41:50.568000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#55B6A9",
+          "author": {
+            "name": "Información de Yukihira",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/o4HLFczAdqx9mpwcbeq--Q40ctSvEbuQ9pNdC3Pn5tw/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.webp",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.webp"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/o4HLFczAdqx9mpwcbeq--Q40ctSvEbuQ9pNdC3Pn5tw/https/cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.webp",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379899953130242058/db94a4ce3436a803093a7609b86abaeb.webp",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "Noname7612#5043, Arcus#3871, Avocado#5212",
+              "isInline": true
+            },
+            {
+              "name": "Versión",
+              "value": "3.6.1",
+              "isInline": true
+            },
+            {
+              "name": "Estadísticas",
+              "value": "```• Servidores: 3\n• Usuarios: 5736\n• Canales: 128\n• Uso de Memoria del Shard: 32.01 MB\n• Shard: 1```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Lenguaje: JavaScript\n• Librería: discord.js v^12.2.0\n• Comandos: Total: 190 | Visibles: 167 | Invisibles: 23\n• Prefijo: yu!```",
+              "isInline": true
+            },
+            {
+              "name": "Uptime",
+              "value": "3 mins, 13 segs",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.257
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-23T08:26:30.968000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-07-23T08:26:31.354000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#EEDCFA",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871\nAvocado#5212```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 196 | Visibles: 172 | Invisibles: 24\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 18 hrs, 10 mins, 36 segs\n• Uso de Memoria del Shard: 1352.99 MB\n• Shard: 40```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.386
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-07-23T11:16:22.576000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-07-23T11:16:23.027000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FA77F7",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871\nAvocado#5212```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 196 | Visibles: 172 | Invisibles: 24\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 21 hrs, 0 mins, 28 segs\n• Uso de Memoria del Shard: 1377.88 MB\n• Shard: 40```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.451
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-08-06T23:25:21.131000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T23:25:21.567000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#261B41",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871\nAvocado#0741```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 197 | Visibles: 172 | Invisibles: 25\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 1 días, 5 hrs, 58 mins, 34 segs\n• Uso de Memoria del Cluster: 1507.01 MB\n• Shard: 152```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.436
+    }
+  },
+  {
+    "usuario": "irickzx3382",
+    "usuario_id": "551514133170880517",
+    "fecha_comando": "2020-08-07T14:54:12.248000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-08-07T14:54:12.608000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#8643D9",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WHOQKfFdr5tkct4HQZP0jmyHNs9-0us7J1nnfkGmLa0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871\nAvocado#0741```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 198 | Visibles: 173 | Invisibles: 25\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 10 hrs, 36 mins, 42 segs\n• Uso de Memoria del Cluster: 1419.90 MB\n• Shard: 152```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.36
+    }
+  },
+  {
+    "usuario": "santi090",
+    "usuario_id": "512419385835651082",
+    "fecha_comando": "2020-08-24T13:21:55.563000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T13:21:55.877000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#91B520",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/wEVqeSQgfS52vd-MRFPNXSkk3K3fKSohADQtgSBiff8/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wEVqeSQgfS52vd-MRFPNXSkk3K3fKSohADQtgSBiff8/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 198 | Visibles: 173 | Invisibles: 25\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 1 días, 4 hrs, 48 mins, 31 segs\n• Uso de Memoria del Cluster: 2232.61 MB\n• Shard: 30```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.314
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-09-30T23:00:30.631000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-09-30T23:00:31.512000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#40ED89",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/wEVqeSQgfS52vd-MRFPNXSkk3K3fKSohADQtgSBiff8/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wEVqeSQgfS52vd-MRFPNXSkk3K3fKSohADQtgSBiff8/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 199 | Visibles: 172 | Invisibles: 27\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 1 hr, 28 mins, 31 segs\n• Uso de Memoria del Cluster: 2277.27 MB\n• Shard: 22```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.881
+    }
+  },
+  {
+    "usuario": "aitorvailloo",
+    "usuario_id": "306787329975123969",
+    "fecha_comando": "2020-10-13T13:03:23.028000-07:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-10-13T13:03:23.872000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#C2718E",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 200 | Visibles: 172 | Invisibles: 28\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 2 hrs, 34 mins, 40 segs\n• Uso de Memoria del Cluster: 2369.47 MB\n• Shard: 122```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.844
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-11-02T08:58:44.430000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-11-02T08:58:44.765000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#8B8AFB",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Uvg1o-zugqj_gJiTyDn7KteatJX9DWy7FdP2ntqrW6U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/51e9ea60929b5d54b1131c94dae2c289.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.2\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 202 | Visibles: 169 | Invisibles: 33\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 19 hrs, 1 min, 52 segs\n• Uso de Memoria del Cluster: 1372.90 MB\n• Shard: 256```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.335
+    }
+  },
+  {
+    "usuario": "aitorvailloo",
+    "usuario_id": "306787329975123969",
+    "fecha_comando": "2020-12-10T12:27:54.644000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-12-10T12:27:55.094000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#9D7F5B",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.3\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 205 | Visibles: 171 | Invisibles: 34\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 2 hrs, 18 mins, 20 segs\n• Uso de Memoria del Cluster: 2175.03 MB\n• Shard: 256```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.45
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-28T19:31:09.211000-08:00",
+    "comando_completo": "ch!botinfo",
+    "respuesta_bot": {
+      "fecha": "2020-12-28T19:31:09.390000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#B3CF33",
+          "author": {
+            "name": "Información de Chocolat",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2S_Xv-Hpsnyf817e4mOzM6NjdRSoVwcOJa_irhaO5Bg/%3Fsize%3D512/https/cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png",
+            "canonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/838ce618450cffd3c58a65dd37aae7b2.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Desarrolladores",
+              "value": "```Noname7612#5043\nArcus#3871```",
+              "isInline": true
+            },
+            {
+              "name": "Programación",
+              "value": "```• Versión del bot: 3.6.3\n• Lenguaje: JavaScript\n• Librería: Eris v^0.13.3\n• Comandos: Total: 207 | Visibles: 171 | Invisibles: 36\n• Prefijo: ch!```",
+              "isInline": true
+            },
+            {
+              "name": "Actividad",
+              "value": "```• Tiempo en línea: 7 hrs, 15 mins, 39 segs\n• Uso de Memoria del Cluster: 2345.54 MB\n• Shard: 320```",
+              "isInline": true
+            },
+            {
+              "name": "Links",
+              "value": "[Página web](https://chocolatbot.weebly.com) | [Servidor](https://discord.gg/CgSHkuK) | [Invitar](https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot) | [Upvote](https://discordbots.org/bot/379757424447455232)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.179
+    }
+  }
+]

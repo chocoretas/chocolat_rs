@@ -1,0 +1,2111 @@
+[
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:38:51.769000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:38:51.870000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#9537EC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.101
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-01-28T18:39:26.175000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:39:26.291000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#211072",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.116
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-01-28T18:39:40.214000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:39:40.332000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E621F9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:39:44.122000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:39:44.240000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#2398BB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:01.422000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:01.571000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#2E2767",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.149
+    }
+  },
+  {
+    "usuario": "playful_moose_22568",
+    "usuario_id": "538930247547092993",
+    "fecha_comando": "2019-01-28T18:57:14.288000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:57:14.905000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#5FAAB6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.617
+    }
+  },
+  {
+    "usuario": "fuimc",
+    "usuario_id": "419871433980903435",
+    "fecha_comando": "2019-02-10T12:27:34.182000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T12:27:34.415000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#F18345",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "fuimc",
+    "usuario_id": "419871433980903435",
+    "fecha_comando": "2019-02-10T12:27:46.251000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T12:27:46.386000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#2D54FE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "fuimc",
+    "usuario_id": "419871433980903435",
+    "fecha_comando": "2019-02-10T12:27:58.580000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T12:27:58.887000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#0ADA6D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.307
+    }
+  },
+  {
+    "usuario": "fuimc",
+    "usuario_id": "419871433980903435",
+    "fecha_comando": "2019-02-10T12:28:11.232000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T12:28:11.441000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#528A74",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580701269360656/cara.png?ex=6a57ebd9&is=6a569a59&hm=9bcd6ff9eb62deb8156e8b8ae649b15facc489703ac8b091dab9b05758df3990&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-02-13T11:14:52.736000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-02-13T11:14:52.938000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#448BCF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+            "width": 131,
+            "height": 127
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/369580737919451137/sello.png?ex=6a57ebe2&is=6a569a62&hm=3c7743f44ef2e888bb7a0e4023568bc40bac626e441bade6a0502d178ebf78b8&",
+              "width": 131,
+              "height": 127
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-03-25T20:42:52.944000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-03-25T20:42:53.138000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#723344",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.194
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-03-25T20:43:13.117000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-03-25T20:43:15.323000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#AB7942",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.206
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-02T19:05:17.504000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-06-02T19:05:17.651000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#5B3AD9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-25T17:35:21.928000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:35:22.180000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#823F20",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.252
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-25T17:40:50.926000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:40:51.112000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#52CBAB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "530849888439894037",
+            "name": "chSataniaWaaah",
+            "code": "chSataniaWaaah",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/530849888439894037.png"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "418454459337801728",
+              "name": "edufran2019",
+              "discriminator": "0000",
+              "nickname": "EdoFran 🎃",
+              "color": "#0D0D0D",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/418454459337801728/5c032c1a0019bd1f2a1d0819b7329cee.png?size=512"
+            },
+            {
+              "id": "419631170074968076",
+              "name": "daomi",
+              "discriminator": "0000",
+              "nickname": "Daomi✿",
+              "color": "#2E2E2E",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/379197913936429056/users/419631170074968076/avatars/ef76d0b3d52da6074672bfa705f98330.png?size=512"
+            },
+            {
+              "id": "477544812862636032",
+              "name": "ram_ozora",
+              "discriminator": "0000",
+              "nickname": "Ram Ozora",
+              "color": "#E67E22",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/477544812862636032/e3c929016d65a6ed73dafffbdf3955d5.png?size=512"
+            },
+            {
+              "id": "614204764728852480",
+              "name": "darkix2031",
+              "discriminator": "0000",
+              "nickname": "Darkix",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/614204764728852480/f95dcfca4255c5e60a10dc5127b25597.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-25T17:42:03.374000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:42:03.526000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#5D808E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-25T17:42:55.541000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:42:55.702000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#1E56C4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-25T17:45:49.129000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:45:49.185000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#4B47CF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.056
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-25T17:47:14.548000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:47:14.711000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#E51B55",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-03T09:49:31.866000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T09:49:32.051000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#576625",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-06T16:53:51.304000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-06T16:53:51.437000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#1E3238",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.133
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-18T22:33:54.770000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:33:54.947000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#956BF9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "taby2912",
+    "usuario_id": "559188781132021771",
+    "fecha_comando": "2019-09-18T22:35:26.210000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:35:26.276000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#7E7E9E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.066
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-18T22:35:32.146000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:35:32.301000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#8CAE16",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "taby2912",
+    "usuario_id": "559188781132021771",
+    "fecha_comando": "2019-09-18T22:37:04.816000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:37:04.961000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#492B4D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.145
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-18T22:37:05.514000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:37:05.623000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#053A41",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.109
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-19T11:07:32.645000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-10-19T11:07:32.975000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#A27EEF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.33
+    }
+  },
+  {
+    "usuario": "vancreen",
+    "usuario_id": "429673922083160084",
+    "fecha_comando": "2019-11-04T16:17:35.642000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2019-11-04T16:17:35.822000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#2E49C3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.18
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:51:52.789000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:51:53.650000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#08CADA",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.861
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:36:01.659000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:36:02.549000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#FB33E7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.89
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-29T14:08:13.559000-08:00",
+    "comando_completo": "ch!coinflip cara me quedo, cruz me quedo también",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:08:13.786000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#5C9228",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": ".gimpact",
+    "usuario_id": "436362446047805440",
+    "fecha_comando": "2020-03-01T14:32:51.568000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-03-01T14:32:51.879000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#0942DE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.311
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-04-01T19:37:52.547000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T19:37:52.727000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Moneda tirada :question:",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#78904E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.18
+    }
+  },
+  {
+    "usuario": "peke5015",
+    "usuario_id": "658131567356411905",
+    "fecha_comando": "2020-05-08T21:37:45.252000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T21:37:45.414000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#2BD411",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "nikolozsal",
+    "usuario_id": "614611759361163264",
+    "fecha_comando": "2020-09-06T14:43:36.044000-07:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-09-06T14:43:36.363000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#63CD07",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.319
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-11-22T09:42:38.102000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T09:42:38.300000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#0FA113",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.198
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-11-22T09:43:01.758000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T09:43:02.035000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#685304",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-11-22T09:43:22.320000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T09:43:22.470000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#BB13E2",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-11-27T21:29:18.171000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:29:18.413000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#251297",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-27T21:30:00.017000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:30:00.280000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#5DF0B9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.263
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-27T21:31:43.537000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:31:43.827000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#372688",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.29
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-27T21:32:03.803000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:32:04.638000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#2D13DF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.835
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-27T21:32:40.962000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:32:41.158000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#B228AC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-27T21:33:07.105000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:33:07.339000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#4AF0BE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-27T21:33:48.449000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:33:48.631000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#FFFFF1",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-11-30T16:25:10.354000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-11-30T16:25:12.223000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#3CDCAA",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.869
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-10T13:07:29.972000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-10T13:07:34.865000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Withdrew 🍫10,000 from your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Walbert#4961",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/wNW5FmyqiVpZA7ka3bdF4huiJLc7AJdy3yqTNQJL5NA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/608353420281118790/e7ddd1fedcc0774f17ddd00a87796934.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/608353420281118790/e7ddd1fedcc0774f17ddd00a87796934.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "773218860840648725",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/773218860840648725.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.893
+    }
+  },
+  {
+    "usuario": "minipotouwu",
+    "usuario_id": "720792602546274344",
+    "fecha_comando": "2020-12-20T01:35:03.562000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T01:35:05.049000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#3226B1",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.487
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-20T01:35:47.096000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T01:35:47.262000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#FA31BD",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-23T20:39:15.519000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T20:39:16.471000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#06F227",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.952
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-23T20:40:27.198000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T20:40:27.477000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cruz!",
+          "color": "#C3381F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+            "width": 779,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543936032400474122/CCCCOIN.png?ex=6a581767&is=6a56c5e7&hm=fd1e7ae6e56fd5b809350ea43e5ff7f55aeb302511dc32e8f27283dbe69bfba7&",
+              "width": 779,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.279
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-23T20:41:05.787000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T20:41:06.043000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#8154FE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-23T20:41:36.589000-08:00",
+    "comando_completo": "ch!coinflip",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T20:41:36.918000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Tirar moneda",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Cayó cara!",
+          "color": "#590F39",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+            "width": 774,
+            "height": 774
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/543940275156942871/CCCOIN.png?ex=6a581b5b&is=6a56c9db&hm=47bde9ab05167fc7cb5121d401035e1a709fa897c54669c408a38dc8354a51d4&",
+              "width": 774,
+              "height": 774
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.329
+    }
+  }
+]

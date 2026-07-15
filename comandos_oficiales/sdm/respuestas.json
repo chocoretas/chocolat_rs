@@ -1,0 +1,78 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:35:41.614000-07:00",
+    "comando_completo": "ch!sdm",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:35:41.783000-07:00",
+      "contenido": "@Dante, Mencione al usuario y especifique el mensaje.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.169
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:35:48.679000-07:00",
+    "comando_completo": "ch!sdm @Deleted User Hola bb ❤",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:35:48.959000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":white_check_mark: Se ha enviado el mensaje!",
+          "url": null,
+          "timestamp": "2019-07-22T10:35:48.862-07:00",
+          "description": "Un mensaje fue enviado a los Mensajes Directos de **aiutou**.",
+          "color": "#EA9826",
+          "images": [],
+          "fields": [
+            {
+              "name": "Contenido del mensaje",
+              "value": "Hola bb ❤",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-12-24T03:18:40.317000-08:00",
+    "comando_completo": "ch!sdm @Peke✼ tengo sueño",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T03:18:40.913000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":white_check_mark: Se ha enviado el mensaje!",
+          "url": null,
+          "timestamp": "2019-12-24T03:18:40.776-08:00",
+          "description": "Un mensaje fue enviado a los Mensajes Directos de **Pecko**.",
+          "color": "#A0A67B",
+          "images": [],
+          "fields": [
+            {
+              "name": "Contenido del mensaje",
+              "value": "tengo sueño",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.596
+    }
+  }
+]

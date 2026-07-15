@@ -1,0 +1,97 @@
+[
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-23T15:59:49.452000-07:00",
+    "comando_completo": "ch!approve",
+    "respuesta_bot": {
+      "fecha": "2019-07-23T15:59:49.593000-07:00",
+      "contenido": "No tienes permisos para ejecutar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T09:13:56.171000-08:00",
+    "comando_completo": "ch!approve",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T09:13:56.453000-08:00",
+      "contenido": "No tienes permisos para ejecutar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.282
+    }
+  },
+  {
+    "usuario": "cannedbarks",
+    "usuario_id": "504791314332647434",
+    "fecha_comando": "2020-06-06T13:18:08.672000-07:00",
+    "comando_completo": "ch!approve",
+    "respuesta_bot": {
+      "fecha": "2020-06-06T13:18:11.582000-07:00",
+      "contenido": "@𝙰𝙻𝙴 \nㅤ\n**46** % [██████.....] \n**Parecen ser compatibles. Pero creo que es posible que queden como amigos cercanos, y quizá mejores amigos.**\nNombre del Ship: **Poualonso Itv_ch ㊕**",
+      "attachments": [
+        {
+          "id": "718921705564667934",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/718921705564667934/ship.png?ex=6a57eb03&is=6a569983&hm=7b71b735103c456e977e879c014a37ea3654eb0fe03c75d42b2fe943c002f08f&",
+          "fileName": "ship.png",
+          "fileSizeBytes": 209971
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.91
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-12-01T19:52:51.535000-08:00",
+    "comando_completo": "ch!approve",
+    "respuesta_bot": {
+      "fecha": "2020-12-01T19:52:52.217000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫4,208 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "🎄｡･Ayano･｡🎁#7709",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/wuOcGiXkO-mflWxLvH6Acqhu7gZHdAPJl_2cKYh2FgE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/778369347542188042/3898e17f29e3454f6597db1aa2811e7d.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/778369347542188042/3898e17f29e3454f6597db1aa2811e7d.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "773218860840648725",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/773218860840648725.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.682
+    }
+  }
+]

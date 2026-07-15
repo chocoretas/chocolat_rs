@@ -1,0 +1,16 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:34:27.229000-07:00",
+    "comando_completo": "ch!unmute",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:34:27.401000-07:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:47:07.358000-07:00",
+    "comando_completo": "ch!shortlink",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:47:07.375000-07:00",
+      "contenido": "Especifique el enlace:\n`shortlink <link> [título]`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.017
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:47:48.078000-07:00",
+    "comando_completo": "ch!shortlink https://twitter.com/ Twitter bldo",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:47:48.422000-07:00",
+      "contenido": "Link acortado: **Error: The shortened URL you picked already exists, please choose another.**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:50:16.631000-07:00",
+    "comando_completo": "ch!shortlink https://discordapp.com/channels/379197913936429056/508766213405540361/579530626105999370 Mensaje de arriba :GWmiyanoXDD:",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:50:16.923000-07:00",
+      "contenido": "Link acortado con etiqueta: **<https://is.gd/Mensaje>**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.292
+    }
+  },
+  {
+    "usuario": "danono4",
+    "usuario_id": "265976736770949120",
+    "fecha_comando": "2019-11-09T08:12:47.895000-08:00",
+    "comando_completo": "ch!shortlink https://discordapp.com/terms",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T08:12:48.333000-08:00",
+      "contenido": "Link acortado: **<https://is.gd/E14aDZ>**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.438
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-09T08:13:50.356000-08:00",
+    "comando_completo": "ch!shortlink https://discordapp.com/terms Términos",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T08:13:50.856000-08:00",
+      "contenido": "Link acortado: **Error: Short URLs may only contain the characters a-z, 0-9 and underscore)**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.5
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-09T08:14:00.027000-08:00",
+    "comando_completo": "ch!shortlink https://discordapp.com/terms Términos",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T08:14:00.420000-08:00",
+      "contenido": "Link acortado: **Error: Short URLs may only contain the characters a-z, 0-9 and underscore)**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.393
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-09T08:14:39.918000-08:00",
+    "comando_completo": "ch!shortlink https://discordapp.com/terms ToS",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T08:14:40.312000-08:00",
+      "contenido": "Link acortado: **Error: Short URLs must be at least 5 characters long**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.394
+    }
+  }
+]

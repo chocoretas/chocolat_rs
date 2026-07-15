@@ -1,0 +1,5500 @@
+[
+  {
+    "usuario": "etzio01",
+    "usuario_id": "295403583128600577",
+    "fecha_comando": "2019-02-11T11:38:24.018000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-02-11T11:38:24.251000-08:00",
+      "contenido": "@!Oniichan, tu horóscopo es el siguiente:\n> Amor: 94%, Salud: 49%, Suerte: 73%, Dinero: 81%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-02-13T11:14:18.880000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-02-13T11:14:19.027000-08:00",
+      "contenido": "@EdoFran 🎃, tu horóscopo es el siguiente:\n> Amor: 53%, Salud: 68%, Suerte: 10%, Dinero: 3%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-13T11:20:41.460000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-02-13T11:20:41.630000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 51%, Suerte: 93%, Dinero: 19%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "etzio01",
+    "usuario_id": "295403583128600577",
+    "fecha_comando": "2019-03-03T16:04:52.329000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-03-03T16:04:52.422000-08:00",
+      "contenido": "@!Oniichan, tu horóscopo es el siguiente:\n> Amor: 41%, Salud: 3%, Suerte: 22%, Dinero: 8%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.093
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-04-26T13:31:30.621000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-04-26T13:31:30.775000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 11%, Salud: 7%, Suerte: 75%, Dinero: 13%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-21T18:57:14.627000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T18:57:14.659000-07:00",
+      "contenido": "@EdoFran 🎃, tu horóscopo es el siguiente:\n> Amor: 15%, Salud: 8%, Suerte: 29%, Dinero: 41%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.032
+    }
+  },
+  {
+    "usuario": "favoredbest454725",
+    "usuario_id": "586320641268121600",
+    "fecha_comando": "2019-06-08T08:04:04.654000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-06-08T08:04:04.854000-07:00",
+      "contenido": "@Favoredbest45, tu horóscopo es el siguiente:\n> Amor: 80%, Salud: 8%, Suerte: 31%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-06-22T17:09:37.522000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-06-22T17:09:37.851000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 35%, Salud: 81%, Suerte: 100%, Dinero: 93%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.329
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-05T23:37:24.572000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-05T23:37:27.012000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 13%, Salud: 84%, Suerte: 16%, Dinero: 19%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.44
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-07T09:20:04.865000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:20:05.480000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 65%, Salud: 52%, Suerte: 87%, Dinero: 39%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.615
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-07T09:20:17.644000-07:00",
+    "comando_completo": "ch! horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:20:19.526000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 87%, Salud: 4%, Suerte: 70%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.882
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-07T09:20:19.379000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:20:19.526000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 87%, Salud: 4%, Suerte: 70%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-07T09:20:24.196000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:20:24.324000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 0%, Suerte: 18%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-07T09:21:02.155000-07:00",
+    "comando_completo": "ch!horoscope :mssunglasseslegs:",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:21:02.401000-07:00",
+      "contenido": "@Dante, tu horóscopo es el siguiente:\n> Amor: 32%, Salud: 30%, Suerte: 23%, Dinero: 8%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.246
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-07T09:22:06.315000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:22:06.409000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 1%, Salud: 34%, Suerte: 73%, Dinero: 37%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.094
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-07T09:22:34.618000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:22:34.746000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 82%, Salud: 11%, Suerte: 47%, Dinero: 27%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-07T09:22:40.472000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:22:40.670000-07:00",
+      "contenido": "@Dante, tu horóscopo es el siguiente:\n> Amor: 24%, Salud: 7%, Suerte: 99%, Dinero: 60%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.198
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-07T09:23:37.387000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T09:23:38.067000-07:00",
+      "contenido": "@Dante, tu horóscopo es el siguiente:\n> Amor: 31%, Salud: 88%, Suerte: 36%, Dinero: 28%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.68
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-13T07:07:04.255000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T07:07:04.378000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 21%, Salud: 39%, Suerte: 15%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-13T07:07:29.979000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T07:07:30.267000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 64%, Salud: 44%, Suerte: 6%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.288
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-13T20:34:41.698000-07:00",
+    "comando_completo": "ch! horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:34:46.717000-07:00",
+      "contenido": "@soyelectro, tu horóscopo es el siguiente:\n> Amor: 43%, Salud: 85%, Suerte: 12%, Dinero: 17%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 5.019
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T20:34:46.469000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:34:46.717000-07:00",
+      "contenido": "@soyelectro, tu horóscopo es el siguiente:\n> Amor: 43%, Salud: 85%, Suerte: 12%, Dinero: 17%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.248
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-13T20:34:47.346000-07:00",
+    "comando_completo": "ch! horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:34:48.595000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 99%, Suerte: 38%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.249
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-13T20:34:48.481000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:34:48.595000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 99%, Suerte: 38%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.114
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-13T20:34:57.941000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:34:58.170000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 5%, Suerte: 57%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-07-13T20:35:09.391000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:35:09.563000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 27%, Salud: 2%, Suerte: 63%, Dinero: 46%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "rin013381",
+    "usuario_id": "545230769388519439",
+    "fecha_comando": "2019-07-17T19:57:28.728000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-17T19:57:28.856000-07:00",
+      "contenido": "@Rin, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 23%, Suerte: 80%, Dinero: 85%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-17T19:57:47.985000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-17T19:57:48.148000-07:00",
+      "contenido": "@Dante, tu horóscopo es el siguiente:\n> Amor: 35%, Salud: 75%, Suerte: 59%, Dinero: 50%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-18T07:41:08.519000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T07:41:08.681000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 81%, Suerte: 27%, Dinero: 97%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "butterfinger2998",
+    "usuario_id": "599832478638800916",
+    "fecha_comando": "2019-07-18T07:41:31.403000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T07:41:31.547000-07:00",
+      "contenido": "@Butterfinger, tu horóscopo es el siguiente:\n> Amor: 13%, Salud: 31%, Suerte: 2%, Dinero: 24%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-07-20T19:23:39.001000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-20T19:23:39.160000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 1%, Salud: 5%, Suerte: 15%, Dinero: 85%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-07-20T21:03:15.569000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-20T21:03:15.735000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 56%, Salud: 25%, Suerte: 31%, Dinero: 82%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-28T16:25:43.964000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:25:44.104000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 96%, Salud: 36%, Suerte: 18%, Dinero: 13%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-07-28T16:25:56.708000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:25:56.893000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 73%, Salud: 82%, Suerte: 24%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-28T16:26:06.970000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:26:07.211000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 85%, Suerte: 9%, Dinero: 85%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:26:35.734000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:26:36.168000-07:00",
+      "contenido": "@juan☆, tu horóscopo es el siguiente:\n> Amor: 0%, Salud: 23%, Suerte: 87%, Dinero: 60%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.434
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:29:58.399000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:29:58.548000-07:00",
+      "contenido": "@juan☆, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 54%, Suerte: 69%, Dinero: 14%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.149
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-28T16:30:50.595000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:30:50.713000-07:00",
+      "contenido": "@Auroraaa, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 25%, Suerte: 8%, Dinero: 90%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-28T16:30:57.333000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:30:57.488000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 23%, Salud: 77%, Suerte: 10%, Dinero: 71%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:31:28.352000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:31:28.493000-07:00",
+      "contenido": "@juan☆, tu horóscopo es el siguiente:\n> Amor: 13%, Salud: 6%, Suerte: 79%, Dinero: 44%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:32:10.090000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:32:10.319000-07:00",
+      "contenido": "@juan☆, tu horóscopo es el siguiente:\n> Amor: 43%, Salud: 4%, Suerte: 79%, Dinero: 98%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:33:10.883000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:33:11.323000-07:00",
+      "contenido": "@juan☆, tu horóscopo es el siguiente:\n> Amor: 60%, Salud: 13%, Suerte: 42%, Dinero: 4%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.44
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:33:55.341000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:33:55.459000-07:00",
+      "contenido": "@juan☆, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 73%, Suerte: 63%, Dinero: 27%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-07-28T16:34:16.711000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:34:16.859000-07:00",
+      "contenido": "@EdoFran 🎃, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 78%, Suerte: 16%, Dinero: 75%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.148
+    }
+  },
+  {
+    "usuario": "droxus4519",
+    "usuario_id": "483883910242238475",
+    "fecha_comando": "2019-08-04T04:14:58.965000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-04T04:14:59.088000-07:00",
+      "contenido": "@Droxus, tu horóscopo es el siguiente:\n> Amor: 84%, Salud: 51%, Suerte: 65%, Dinero: 39%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "saori0037",
+    "usuario_id": "471797680910237706",
+    "fecha_comando": "2019-08-04T04:49:20.751000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-04T04:49:20.808000-07:00",
+      "contenido": "@Saori, tu horóscopo es el siguiente:\n> Amor: 72%, Salud: 64%, Suerte: 68%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.057
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-06T19:45:45.798000-07:00",
+    "comando_completo": "ch! horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:45:49.869000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You have placed a bet of 🍫10,000 on `red`.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Pecko#0753",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/NWbEY6LK6B2PE7VhDUsB8cJeuIW5iMbC2f7fsTjPuzw/%3Fsize%3D128/https/cdn.discordapp.com/avatars/579008712975581196/9109145f756e9d8e4eb9503e85422aab.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/579008712975581196/9109145f756e9d8e4eb9503e85422aab.png?size=128"
+          },
+          "footer": {
+            "text": "Time remaining: 30 seconds"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.071
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-06T19:46:06.686000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:46:06.750000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 29%, Salud: 92%, Suerte: 86%, Dinero: 59%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.064
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-08-06T19:46:20.145000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:46:20.314000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 99%, Salud: 38%, Suerte: 78%, Dinero: 4%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.169
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-08-06T19:46:24.905000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:46:25.189000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 29%, Salud: 48%, Suerte: 41%, Dinero: 62%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-06T19:46:32.650000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:46:32.802000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 76%, Suerte: 34%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-06T19:47:00.257000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:47:00.321000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 72%, Salud: 52%, Suerte: 75%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.064
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-08-06T19:47:10.892000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:47:11.057000-07:00",
+      "contenido": "@Dante, tu horóscopo es el siguiente:\n> Amor: 9%, Salud: 23%, Suerte: 74%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-06T19:47:19.005000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-06T19:47:19.161000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 26%, Suerte: 75%, Dinero: 96%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-08T11:43:22.481000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T11:43:22.617000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 16%, Salud: 87%, Suerte: 79%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.136
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-08T11:43:39.740000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T11:43:39.919000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 97%, Salud: 45%, Suerte: 30%, Dinero: 90%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.179
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-08-08T11:46:05.429000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T11:46:05.692000-07:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 15%, Suerte: 92%, Dinero: 86%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.263
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-08T11:48:19.822000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T11:48:19.951000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 61%, Salud: 52%, Suerte: 95%, Dinero: 61%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-08-09T09:52:28.827000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-09T09:52:28.946000-07:00",
+      "contenido": "@EdoFran 🎃, tu horóscopo es el siguiente:\n> Amor: 43%, Salud: 90%, Suerte: 33%, Dinero: 64%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.119
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-12T19:34:48.274000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-12T19:34:48.501000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Result: Loss 🍫-500",
+          "color": "#EF5350",
+          "author": {
+            "name": "Merki •<•b#6029",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/0za-Z-GH1U5x-N-Ykawlr-FV7hfnJc4rBb8vZv_RmD8/%3Fsize%3D128/https/cdn.discordapp.com/avatars/545641312867844096/10c66bc0a8696961156be8a376a3d7cc.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/545641312867844096/10c66bc0a8696961156be8a376a3d7cc.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "**Your Hand**",
+              "value": ":4H: :8H: :5C: :aD:\n\nValue: 18",
+              "isInline": true
+            },
+            {
+              "name": "**Dealer Hand**",
+              "value": ":5C: :8C: :7S:\n\nValue: 20",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-15T20:50:04.512000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-15T20:50:04.624000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 36%, Salud: 86%, Suerte: 79%, Dinero: 77%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.112
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-22T10:30:42.431000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-22T10:30:42.625000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 12%, Salud: 38%, Suerte: 67%, Dinero: 16%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.194
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-22T10:30:52.265000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-22T10:30:52.447000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 76%, Salud: 28%, Suerte: 97%, Dinero: 84%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-08-22T10:31:03.365000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-22T10:31:03.547000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 95%, Salud: 67%, Suerte: 11%, Dinero: 74%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-22T10:31:32.985000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-22T10:31:33.206000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 23%, Salud: 43%, Suerte: 90%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.221
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-23T08:50:55.751000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-23T08:50:55.925000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 47%, Salud: 12%, Suerte: 57%, Dinero: 57%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-23T08:52:06.473000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-23T08:52:06.608000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 92%, Salud: 11%, Suerte: 66%, Dinero: 37%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "darlingluma",
+    "usuario_id": "475340478460592128",
+    "fecha_comando": "2019-08-23T08:52:15.433000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-23T08:52:15.629000-07:00",
+      "contenido": "@santi, tu horóscopo es el siguiente:\n> Amor: 82%, Salud: 96%, Suerte: 11%, Dinero: 68%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-23T10:26:28.741000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-23T10:26:28.863000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 69%, Salud: 17%, Suerte: 51%, Dinero: 34%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.122
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-23T16:30:41.229000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-23T16:30:41.461000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 39%, Salud: 68%, Suerte: 93%, Dinero: 73%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-24T06:45:06.753000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T06:45:06.889000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 18%, Salud: 25%, Suerte: 72%, Dinero: 35%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.136
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-24T06:45:20.893000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T06:45:21.049000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 70%, Salud: 61%, Suerte: 16%, Dinero: 18%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "darlingluma",
+    "usuario_id": "475340478460592128",
+    "fecha_comando": "2019-08-24T06:47:08.250000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T06:47:08.361000-07:00",
+      "contenido": "@santi, tu horóscopo es el siguiente:\n> Amor: 94%, Salud: 11%, Suerte: 92%, Dinero: 14%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.111
+    }
+  },
+  {
+    "usuario": "y0w0u",
+    "usuario_id": "608817245417898004",
+    "fecha_comando": "2019-08-24T06:48:55.603000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T06:48:55.685000-07:00",
+      "contenido": "@otro, tu horóscopo es el siguiente:\n> Amor: 5%, Salud: 84%, Suerte: 39%, Dinero: 96%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.082
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-24T16:21:59.837000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T16:21:59.972000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 54%, Salud: 66%, Suerte: 26%, Dinero: 60%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-24T16:24:41.018000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T16:24:41.157000-07:00",
+      "contenido": "@Darkix, tu horóscopo es el siguiente:\n> Amor: 67%, Salud: 56%, Suerte: 4%, Dinero: 94%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-24T16:25:09.905000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T16:25:10.177000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 69%, Salud: 5%, Suerte: 97%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.272
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-24T16:26:13.625000-07:00",
+    "comando_completo": "ch!horoscope @Ram Ozora",
+    "respuesta_bot": {
+      "fecha": "2019-08-24T16:26:13.803000-07:00",
+      "contenido": "@Darkix, tu horóscopo es el siguiente:\n> Amor: 23%, Salud: 89%, Suerte: 41%, Dinero: 63%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.178
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-25T04:23:26.513000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T04:23:26.627000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 4%, Salud: 13%, Suerte: 62%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.114
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-25T17:47:40.614000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:47:40.768000-07:00",
+      "contenido": "@Darkix, tu horóscopo es el siguiente:\n> Amor: 73%, Salud: 59%, Suerte: 6%, Dinero: 99%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-25T17:48:23.843000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:48:26.451000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 77%, Salud: 28%, Suerte: 9%, Dinero: 50%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.608
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T10:02:16.643000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T10:02:16.834000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 88%, Salud: 46%, Suerte: 3%, Dinero: 31%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.191
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-31T10:14:10.949000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:14:11.119000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 7%, Salud: 16%, Suerte: 28%, Dinero: 37%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-08-31T10:14:19.912000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:14:20.007000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 64%, Salud: 35%, Suerte: 38%, Dinero: 24%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.095
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-08-31T10:14:29.939000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:14:30.227000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 43%, Salud: 56%, Suerte: 83%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.288
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-31T10:14:40.280000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:14:40.432000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 36%, Salud: 35%, Suerte: 18%, Dinero: 61%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-31T10:24:33.746000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:24:34.052000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 18%, Salud: 25%, Suerte: 0%, Dinero: 57%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.306
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-08-31T10:24:46.017000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:24:46.185000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 65%, Salud: 99%, Suerte: 94%, Dinero: 97%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-08-31T10:24:52.699000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-08-31T10:24:52.761000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 61%, Salud: 13%, Suerte: 10%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.062
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-01T11:44:03.810000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T11:44:03.954000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 52%, Salud: 19%, Suerte: 32%, Dinero: 23%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-01T11:44:15.231000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T11:44:15.363000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 8%, Salud: 9%, Suerte: 95%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.132
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T11:44:24.055000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T11:44:24.192000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 31%, Suerte: 80%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.137
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T11:45:29.005000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T11:45:29.502000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 33%, Salud: 15%, Suerte: 15%, Dinero: 88%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.497
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-01T11:46:09.971000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T11:46:10.404000-07:00",
+      "contenido": "@Darkix, tu horóscopo es el siguiente:\n> Amor: 90%, Salud: 85%, Suerte: 56%, Dinero: 67%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.433
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-09-01T13:08:18.738000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T13:08:18.886000-07:00",
+      "contenido": "@zoW, tu horóscopo es el siguiente:\n> Amor: 49%, Salud: 55%, Suerte: 19%, Dinero: 56%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.148
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-03T07:44:26.308000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T07:44:26.457000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 4%, Salud: 100%, Suerte: 20%, Dinero: 18%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.149
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-03T07:45:42.093000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T07:45:42.222000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 57%, Salud: 26%, Suerte: 14%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T07:45:48.044000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T07:45:48.324000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 5%, Salud: 38%, Suerte: 96%, Dinero: 14%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-03T09:49:49.028000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T09:49:49.131000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 91%, Salud: 100%, Suerte: 27%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.103
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-05T14:02:55.834000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T14:02:56.002000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 90%, Salud: 50%, Suerte: 67%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-05T14:03:03.971000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T14:03:05.388000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 25%, Suerte: 9%, Dinero: 70%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.417
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-05T14:03:04.530000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T14:03:05.388000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 25%, Suerte: 9%, Dinero: 70%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.858
+    }
+  },
+  {
+    "usuario": "y0w0u",
+    "usuario_id": "608817245417898004",
+    "fecha_comando": "2019-09-05T14:03:50.832000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T14:03:51.046000-07:00",
+      "contenido": "@otro, tu horóscopo es el siguiente:\n> Amor: 24%, Salud: 90%, Suerte: 17%, Dinero: 66%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-05T14:04:27.935000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T14:04:28.095000-07:00",
+      "contenido": "@Darkix, tu horóscopo es el siguiente:\n> Amor: 15%, Salud: 26%, Suerte: 86%, Dinero: 79%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-05T20:11:54.560000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T20:11:54.692000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 44%, Salud: 58%, Suerte: 15%, Dinero: 66%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.132
+    }
+  },
+  {
+    "usuario": "lumy._",
+    "usuario_id": "465179299964649495",
+    "fecha_comando": "2019-09-05T20:12:03.293000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T20:12:03.964000-07:00",
+      "contenido": "@Lucy <3, tu horóscopo es el siguiente:\n> Amor: 54%, Salud: 35%, Suerte: 16%, Dinero: 75%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.671
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-07T11:44:55.781000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:44:55.921000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 21%, Salud: 40%, Suerte: 97%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-07T11:45:01.140000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:45:01.392000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 70%, Salud: 4%, Suerte: 64%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.252
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-07T11:45:26.221000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:45:26.372000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 49%, Suerte: 85%, Dinero: 18%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-07T11:48:30.591000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:48:30.829000-07:00",
+      "contenido": "@Darkix, tu horóscopo es el siguiente:\n> Amor: 26%, Salud: 14%, Suerte: 62%, Dinero: 15%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-07T11:48:42.935000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:48:43.195000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 73%, Salud: 45%, Suerte: 76%, Dinero: 60%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.26
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-07T11:48:54.836000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:48:55.485000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 80%, Salud: 79%, Suerte: 56%, Dinero: 67%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.649
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-07T11:57:39.736000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:57:39.981000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 72%, Salud: 9%, Suerte: 92%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.245
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-08T08:06:52.903000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:06:53.052000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 10%, Suerte: 30%, Dinero: 2%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.149
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:07:00.646000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:00.785000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 32%, Salud: 14%, Suerte: 54%, Dinero: 33%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-08T08:07:08.431000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:08.561000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 75%, Salud: 5%, Suerte: 47%, Dinero: 55%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.13
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-08T08:07:12.229000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:12.300000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 98%, Salud: 39%, Suerte: 9%, Dinero: 75%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.071
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-08T08:07:36.933000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:37.045000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 53%, Suerte: 10%, Dinero: 96%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.112
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-08T08:07:41.090000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:41.170000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 71%, Salud: 24%, Suerte: 92%, Dinero: 13%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.08
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-08T08:07:45.722000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:45.870000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 4%, Salud: 21%, Suerte: 52%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.148
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:07:52.742000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:07:52.926000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 48%, Suerte: 96%, Dinero: 63%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.184
+    }
+  },
+  {
+    "usuario": "dicaso9",
+    "usuario_id": "538440812850053145",
+    "fecha_comando": "2019-09-08T08:08:58.918000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:08:59.060000-07:00",
+      "contenido": "@Dicaso9, tu horóscopo es el siguiente:\n> Amor: 47%, Salud: 17%, Suerte: 62%, Dinero: 83%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.142
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-08T12:39:54.536000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T12:39:54.894000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 55%, Salud: 39%, Suerte: 3%, Dinero: 98%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.358
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-08T15:38:49.955000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T15:38:50.150000-07:00",
+      "contenido": "@User Deleted, tu horóscopo es el siguiente:\n> Amor: 4%, Salud: 20%, Suerte: 26%, Dinero: 43%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T03:16:40.878000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T03:16:41.575000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 45%, Salud: 51%, Suerte: 97%, Dinero: 12%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.697
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-09T03:17:42.738000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T03:17:43.133000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 71%, Suerte: 8%, Dinero: 1%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.395
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-09T04:31:43.138000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:31:43.271000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 59%, Suerte: 9%, Dinero: 11%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.133
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-09T04:33:33.677000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:33:33.863000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 67%, Salud: 58%, Suerte: 25%, Dinero: 4%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T04:33:38.971000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:33:39.096000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 89%, Salud: 80%, Suerte: 39%, Dinero: 72%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.125
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-09T04:33:51.188000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:33:51.356000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 41%, Salud: 61%, Suerte: 33%, Dinero: 66%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-09T04:40:48.336000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:40:48.528000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 52%, Salud: 54%, Suerte: 10%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.192
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T04:49:12.052000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:49:12.101000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 93%, Salud: 55%, Suerte: 73%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.049
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-09T04:49:21.544000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:49:21.973000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 55%, Salud: 67%, Suerte: 33%, Dinero: 60%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.429
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-09-09T04:50:36.413000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:50:36.489000-07:00",
+      "contenido": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 20%, Suerte: 63%, Dinero: 48%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.076
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T05:15:23.801000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T05:15:23.978000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 29%, Salud: 22%, Suerte: 90%, Dinero: 48%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T06:15:49.029000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T06:15:49.230000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 46%, Salud: 62%, Suerte: 51%, Dinero: 89%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T10:47:09.146000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T10:47:09.209000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 64%, Salud: 16%, Suerte: 41%, Dinero: 24%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.063
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-09T10:47:37.724000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T10:47:37.901000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 93%, Salud: 17%, Suerte: 66%, Dinero: 3%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T11:46:03.533000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T11:46:03.805000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 60%, Salud: 18%, Suerte: 24%, Dinero: 18%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.272
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-09T11:46:22.289000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T11:46:22.476000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 71%, Salud: 47%, Suerte: 95%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-09T12:03:39.428000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T12:03:39.613000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 20%, Salud: 4%, Suerte: 75%, Dinero: 19%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T14:11:35.572000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T14:11:36.041000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 72%, Salud: 47%, Suerte: 67%, Dinero: 3%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.469
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-09T14:11:55.320000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T14:11:55.648000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 87%, Salud: 98%, Suerte: 35%, Dinero: 39%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.328
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T14:28:39.872000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T14:28:40.166000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 34%, Salud: 15%, Suerte: 68%, Dinero: 34%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-09T14:28:52.696000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T14:28:52.919000-07:00",
+      "contenido": "@User Deleted, tu horóscopo es el siguiente:\n> Amor: 95%, Salud: 78%, Suerte: 98%, Dinero: 38%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.223
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-09T14:28:56.924000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T14:28:57.074000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 60%, Salud: 66%, Suerte: 92%, Dinero: 23%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T03:19:24.159000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T03:19:24.290000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 34%, Salud: 93%, Suerte: 55%, Dinero: 59%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.131
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-10T03:20:08.014000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T03:20:08.217000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 23%, Salud: 94%, Suerte: 51%, Dinero: 22%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T06:26:27.092000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T06:26:27.248000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 10%, Salud: 36%, Suerte: 55%, Dinero: 13%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-10T06:34:52.769000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T06:34:52.985000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 46%, Salud: 87%, Suerte: 39%, Dinero: 39%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-10T06:35:47.994000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T06:35:48.166000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 45%, Salud: 83%, Suerte: 25%, Dinero: 22%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T07:17:26.683000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:17:26.807000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 7%, Salud: 49%, Suerte: 2%, Dinero: 30%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.124
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-10T07:18:13.745000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:18:13.900000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 14%, Salud: 94%, Suerte: 66%, Dinero: 88%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-10T07:19:14.113000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:19:14.199000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 94%, Salud: 54%, Suerte: 98%, Dinero: 97%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.086
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T07:33:23.819000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:33:23.989000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 39%, Suerte: 11%, Dinero: 19%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-10T07:33:29.694000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:33:29.962000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 15%, Suerte: 21%, Dinero: 29%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.268
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-10T07:33:39.468000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:33:39.610000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 56%, Salud: 31%, Suerte: 37%, Dinero: 42%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.142
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T07:33:56.458000-07:00",
+    "comando_completo": "ch!horoscope @Daomi✿ @scor",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:33:56.521000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 4%, Salud: 68%, Suerte: 63%, Dinero: 51%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.063
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T07:40:05.853000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:40:06.056000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 83%, Salud: 7%, Suerte: 86%, Dinero: 57%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T07:46:46.257000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:46:46.441000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 88%, Salud: 91%, Suerte: 98%, Dinero: 8%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.184
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T07:48:43.894000-07:00",
+    "comando_completo": "ch!horoscope @Official_Javee",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T07:48:44.064000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 12%, Salud: 69%, Suerte: 61%, Dinero: 37%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-10T08:12:27.454000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T08:12:27.637000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 19%, Salud: 95%, Suerte: 5%, Dinero: 84%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.183
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T10:06:24.570000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T10:06:24.714000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 23%, Salud: 55%, Suerte: 71%, Dinero: 44%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T10:29:17.288000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T10:29:17.448000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 69%, Salud: 56%, Suerte: 6%, Dinero: 52%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-10T11:22:59.464000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T11:22:59.616000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 41%, Salud: 28%, Suerte: 41%, Dinero: 31%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-10T11:54:39.863000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T11:54:40.017000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 8%, Salud: 80%, Suerte: 39%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-10T12:09:19.840000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T12:09:19.986000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 84%, Salud: 93%, Suerte: 17%, Dinero: 53%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-11T06:01:29.657000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T06:01:30.208000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 91%, Salud: 30%, Suerte: 50%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.551
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-11T11:31:29.389000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T11:31:29.566000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 86%, Salud: 27%, Suerte: 67%, Dinero: 99%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-11T11:31:42.183000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T11:31:42.292000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 38%, Salud: 77%, Suerte: 4%, Dinero: 59%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.109
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-11T11:35:05.711000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T11:35:05.902000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 2%, Suerte: 73%, Dinero: 64%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.191
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-11T11:35:23.764000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T11:35:23.916000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 92%, Salud: 24%, Suerte: 7%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-11T16:37:23.705000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T16:37:23.909000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 18%, Salud: 86%, Suerte: 37%, Dinero: 23%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-12T06:16:18.145000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T06:16:18.347000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 19%, Salud: 40%, Suerte: 41%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-12T07:03:50.065000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T07:03:50.309000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 81%, Salud: 18%, Suerte: 32%, Dinero: 68%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.244
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-12T07:04:12.450000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T07:04:12.512000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 44%, Suerte: 10%, Dinero: 16%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.062
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-12T07:04:37.810000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T07:04:38.088000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 24%, Salud: 43%, Suerte: 99%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.278
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-12T07:16:53.277000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T07:16:53.478000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 91%, Salud: 32%, Suerte: 71%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "lumy._",
+    "usuario_id": "465179299964649495",
+    "fecha_comando": "2019-09-12T07:17:03.573000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T07:17:03.855000-07:00",
+      "contenido": "@Lucy <3, tu horóscopo es el siguiente:\n> Amor: 42%, Salud: 62%, Suerte: 12%, Dinero: 2%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.282
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-12T10:59:52.414000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T10:59:52.573000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 16%, Salud: 47%, Suerte: 42%, Dinero: 91%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-12T14:08:07.003000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T14:08:07.136000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 36%, Salud: 31%, Suerte: 33%, Dinero: 85%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.133
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-13T05:52:29.318000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-13T05:52:29.410000-07:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 86%, Salud: 68%, Suerte: 71%, Dinero: 97%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.092
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-14T09:08:46.934000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T09:08:47.190000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 13%, Salud: 40%, Suerte: 61%, Dinero: 73%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-14T16:16:25.440000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T16:16:25.643000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 69%, Salud: 39%, Suerte: 25%, Dinero: 29%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "alagloud3219",
+    "usuario_id": "574731450474037250",
+    "fecha_comando": "2019-09-14T16:16:32.866000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T16:16:33.214000-07:00",
+      "contenido": "@alag, tu horóscopo es el siguiente:\n> Amor: 93%, Salud: 52%, Suerte: 29%, Dinero: 1%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.348
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-15T04:07:55.863000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-15T04:07:55.954000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 92%, Salud: 1%, Suerte: 58%, Dinero: 82%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.091
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-16T07:29:24.706000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-16T07:29:25.076000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 22%, Salud: 98%, Suerte: 89%, Dinero: 55%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.37
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-18T08:00:51.049000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T08:00:51.249000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 67%, Salud: 46%, Suerte: 76%, Dinero: 14%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "rexteel",
+    "usuario_id": "598996609245642772",
+    "fecha_comando": "2019-09-18T08:09:53.424000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T08:09:53.591000-07:00",
+      "contenido": "@Rexteel, tu horóscopo es el siguiente:\n> Amor: 34%, Salud: 6%, Suerte: 7%, Dinero: 50%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.167
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-09-18T08:28:33.938000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T08:28:34.128000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 52%, Suerte: 11%, Dinero: 42%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-18T08:51:47.063000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T08:51:47.290000-07:00",
+      "contenido": "@scor, tu horóscopo es el siguiente:\n> Amor: 83%, Salud: 41%, Suerte: 72%, Dinero: 37%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "repolloahumado",
+    "usuario_id": "498206063405826058",
+    "fecha_comando": "2019-09-18T08:52:14.625000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T08:52:14.854000-07:00",
+      "contenido": "@Repolloahumado, tu horóscopo es el siguiente:\n> Amor: 94%, Salud: 37%, Suerte: 35%, Dinero: 13%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-28T06:47:01.375000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-09-28T06:47:01.588000-07:00",
+      "contenido": "@Ayano, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 35%, Suerte: 12%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-10-12T14:11:26.781000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-12T14:11:26.992000-07:00",
+      "contenido": "@Official_Javee, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 28%, Suerte: 78%, Dinero: 29%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-12T14:12:15.424000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-12T14:12:15.638000-07:00",
+      "contenido": "@˖ ݁✦. Griseo .✦ ݁˖, tu horóscopo es el siguiente:\n> Amor: 97%, Salud: 85%, Suerte: 44%, Dinero: 42%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "axelkun2811",
+    "usuario_id": "611400280357208066",
+    "fecha_comando": "2019-10-12T14:13:51.924000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-12T14:13:53.041000-07:00",
+      "contenido": "@♡AXEL-KUN♡, tu horóscopo es el siguiente:\n> Amor: 45%, Salud: 63%, Suerte: 25%, Dinero: 70%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.117
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-12T14:16:43.395000-07:00",
+    "comando_completo": "ch!horoscope @Unknown",
+    "respuesta_bot": {
+      "fecha": "2019-10-12T14:16:43.791000-07:00",
+      "contenido": "@˖ ݁✦. Griseo .✦ ݁˖, tu horóscopo es el siguiente:\n> Amor: 31%, Salud: 3%, Suerte: 98%, Dinero: 29%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.396
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-10-12T14:18:00.122000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-12T14:18:00.450000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 58%, Salud: 84%, Suerte: 72%, Dinero: 16%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.328
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-10-26T16:41:49.023000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T16:41:50.783000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 1%, Suerte: 58%, Dinero: 34%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.76
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-26T16:43:50.834000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T16:43:51.069000-07:00",
+      "contenido": "@˖ ݁✦. Griseo .✦ ݁˖, tu horóscopo es el siguiente:\n> Amor: 67%, Salud: 75%, Suerte: 96%, Dinero: 71%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.235
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-10-31T22:29:18.252000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-31T22:29:18.463000-07:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 71%, Salud: 14%, Suerte: 60%, Dinero: 5%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-10-31T22:29:33.469000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-10-31T22:29:33.634000-07:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 75%, Salud: 47%, Suerte: 2%, Dinero: 67%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-01T12:04:35.049000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-01T12:04:35.292000-07:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 22%, Salud: 37%, Suerte: 33%, Dinero: 35%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.243
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-02T13:13:09.506000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-02T13:13:09.775000-07:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 76%, Suerte: 83%, Dinero: 77%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.269
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-02T13:13:18.220000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-02T13:13:18.462000-07:00",
+      "contenido": "@Zҽɾσ🧉, tu horóscopo es el siguiente:\n> Amor: 1%, Salud: 99%, Suerte: 30%, Dinero: 15%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-03T09:30:27.706000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T09:30:27.970000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 26%, Salud: 79%, Suerte: 67%, Dinero: 34%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-03T13:03:36.322000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:03:36.571000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 8%, Suerte: 99%, Dinero: 76%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "etzio01",
+    "usuario_id": "295403583128600577",
+    "fecha_comando": "2019-11-03T13:03:52.559000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:03:52.841000-08:00",
+      "contenido": "@!Oniichan, tu horóscopo es el siguiente:\n> Amor: 24%, Salud: 27%, Suerte: 55%, Dinero: 38%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.282
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-11-03T13:04:04.563000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:04:04.878000-08:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 20%, Salud: 55%, Suerte: 74%, Dinero: 89%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.315
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-03T13:04:07.552000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:04:07.730000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 97%, Salud: 29%, Suerte: 19%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.178
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-11-03T13:04:29.147000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:04:29.358000-08:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 22%, Suerte: 68%, Dinero: 4%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-11-03T13:04:42.715000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:04:43.510000-08:00",
+      "contenido": "@Ram Ozora, tu horóscopo es el siguiente:\n> Amor: 83%, Salud: 57%, Suerte: 80%, Dinero: 7%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.795
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-03T13:04:57.349000-08:00",
+    "comando_completo": "ch!horoscope @Unknown",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:04:57.743000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 7%, Salud: 75%, Suerte: 5%, Dinero: 16%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.394
+    }
+  },
+  {
+    "usuario": "monoconnavaja6027",
+    "usuario_id": "634179415097475072",
+    "fecha_comando": "2019-11-03T13:05:06.091000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:05:06.387000-08:00",
+      "contenido": "@Mono con Navaja, tu horóscopo es el siguiente:\n> Amor: 46%, Salud: 92%, Suerte: 40%, Dinero: 79%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.296
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-03T13:05:19.424000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:05:19.735000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 98%, Salud: 95%, Suerte: 67%, Dinero: 31%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.311
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-03T13:05:57.300000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:05:57.555000-08:00",
+      "contenido": "@whtvr., tu horóscopo es el siguiente:\n> Amor: 2%, Salud: 35%, Suerte: 26%, Dinero: 10%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.255
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-03T13:06:14.769000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:06:15.880000-08:00",
+      "contenido": "@acibascsubcibciasubciuab, tu horóscopo es el siguiente:\n> Amor: 24%, Salud: 9%, Suerte: 25%, Dinero: 72%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.111
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-11-03T13:06:30.889000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T13:06:31.292000-08:00",
+      "contenido": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸, tu horóscopo es el siguiente:\n> Amor: 70%, Salud: 65%, Suerte: 36%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.403
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-03T18:21:23.154000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T18:21:23.410000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 55%, Salud: 93%, Suerte: 55%, Dinero: 61%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-11-03T20:07:35.577000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:07:35.853000-08:00",
+      "contenido": "@Arcus, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 9%, Suerte: 31%, Dinero: 74%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.276
+    }
+  },
+  {
+    "usuario": "vancreen",
+    "usuario_id": "429673922083160084",
+    "fecha_comando": "2019-11-03T20:07:46.144000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:07:46.353000-08:00",
+      "contenido": "@VanCreen, tu horóscopo es el siguiente:\n> Amor: 31%, Salud: 7%, Suerte: 3%, Dinero: 15%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-11-03T20:07:47.861000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:07:48.097000-08:00",
+      "contenido": "@Peke, tu horóscopo es el siguiente:\n> Amor: 1%, Salud: 47%, Suerte: 42%, Dinero: 48%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "monoconnavaja6027",
+    "usuario_id": "634179415097475072",
+    "fecha_comando": "2019-11-03T20:07:56.148000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:07:56.325000-08:00",
+      "contenido": "@Mono con Navaja, tu horóscopo es el siguiente:\n> Amor: 69%, Salud: 77%, Suerte: 56%, Dinero: 37%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-11-03T20:08:15.681000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:08:15.912000-08:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 83%, Salud: 94%, Suerte: 68%, Dinero: 93%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.231
+    }
+  },
+  {
+    "usuario": "droxus4519",
+    "usuario_id": "483883910242238475",
+    "fecha_comando": "2019-11-03T20:08:27.443000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:08:27.640000-08:00",
+      "contenido": "@Droxus, tu horóscopo es el siguiente:\n> Amor: 19%, Salud: 94%, Suerte: 5%, Dinero: 24%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.197
+    }
+  },
+  {
+    "usuario": "darkphoenix1441",
+    "usuario_id": "396358359454056479",
+    "fecha_comando": "2019-11-03T20:10:06.185000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:10:06.335000-08:00",
+      "contenido": "@DarkPhoenix, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 20%, Suerte: 86%, Dinero: 45%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "monoconnavaja6027",
+    "usuario_id": "634179415097475072",
+    "fecha_comando": "2019-11-03T20:10:15.675000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:10:15.908000-08:00",
+      "contenido": "@Mono con Navaja, tu horóscopo es el siguiente:\n> Amor: 56%, Salud: 21%, Suerte: 91%, Dinero: 78%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "darkphoenix1441",
+    "usuario_id": "396358359454056479",
+    "fecha_comando": "2019-11-03T20:10:17.975000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T20:10:18.237000-08:00",
+      "contenido": "@DarkPhoenix, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 25%, Suerte: 50%, Dinero: 87%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.262
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-09T21:42:10.747000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T21:42:10.954000-08:00",
+      "contenido": "@acibascsubcibciasubciuab, tu horóscopo es el siguiente:\n> Amor: 45%, Salud: 86%, Suerte: 7%, Dinero: 86%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-09T21:43:04.434000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T21:43:04.756000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 52%, Suerte: 83%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.322
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-15T02:01:28.350000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-15T02:01:28.644000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 96%, Salud: 22%, Suerte: 56%, Dinero: 33%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-27T16:35:12.839000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-27T16:35:13.205000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 42%, Salud: 36%, Suerte: 76%, Dinero: 50%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.366
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-27T16:40:16.265000-08:00",
+    "comando_completo": "ch!horoscope takara",
+    "respuesta_bot": {
+      "fecha": "2019-11-27T16:40:16.720000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 59%, Suerte: 80%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.455
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-27T16:40:29.449000-08:00",
+    "comando_completo": "ch!horoscope @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-11-27T16:40:29.671000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 100%, Salud: 46%, Suerte: 57%, Dinero: 72%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-27T16:40:52.576000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-11-27T16:40:52.737000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 36%, Salud: 92%, Suerte: 52%, Dinero: 68%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-01T15:47:59.834000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-12-01T15:48:00.162000-08:00",
+      "contenido": "@Papelera de Reciclaje, tu horóscopo es el siguiente:\n> Amor: 61%, Salud: 49%, Suerte: 65%, Dinero: 71%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.328
+    }
+  },
+  {
+    "usuario": "thebestperson23",
+    "usuario_id": "580207869379608577",
+    "fecha_comando": "2019-12-20T12:12:02.598000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-12-20T12:12:02.913000-08:00",
+      "contenido": "@Nori, tu horóscopo es el siguiente:\n> Amor: 25%, Salud: 27%, Suerte: 80%, Dinero: 36%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.315
+    }
+  },
+  {
+    "usuario": "nekostrella",
+    "usuario_id": "515826078225530883",
+    "fecha_comando": "2019-12-22T21:24:07.660000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2019-12-22T21:24:07.876000-08:00",
+      "contenido": "@Nekostar, tu horóscopo es el siguiente:\n> Amor: 94%, Salud: 36%, Suerte: 45%, Dinero: 53%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "merki27",
+    "usuario_id": "545641312867844096",
+    "fecha_comando": "2020-02-18T08:28:46.437000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-02-18T08:28:46.642000-08:00",
+      "contenido": "@Merki, tu horóscopo es el siguiente:\n> Amor: 54%, Salud: 69%, Suerte: 46%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:52:02.772000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:52:02.960000-08:00",
+      "contenido": "@Who?, tu horóscopo es el siguiente:\n> Amor: 1%, Salud: 65%, Suerte: 41%, Dinero: 18%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.188
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:30:43.100000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:30:43.264000-08:00",
+      "contenido": "@Lapa, tu horóscopo es el siguiente:\n> Amor: 20%, Salud: 23%, Suerte: 92%, Dinero: 56%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.164
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:30:51.705000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:30:51.955000-08:00",
+      "contenido": "@kailersito, tu horóscopo es el siguiente:\n> Amor: 79%, Salud: 38%, Suerte: 7%, Dinero: 29%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-02-29T13:31:16.745000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:31:17.003000-08:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 41%, Salud: 87%, Suerte: 32%, Dinero: 70%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.258
+    }
+  },
+  {
+    "usuario": "yerayymn",
+    "usuario_id": "614107883340300308",
+    "fecha_comando": "2020-03-02T09:46:03.021000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-03-02T09:46:03.044000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫585 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "ojo sharingan de kailer#1739",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/46pYEX5Yt5hu51GM-cFuIQS1PEKE4R1EwldpoNKt294/%3Fsize%3D128/https/cdn.discordapp.com/avatars/485066067408846850/da7d9245b569967f2d77df4fc4824dcc.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/485066067408846850/da7d9245b569967f2d77df4fc4824dcc.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.023
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-03-02T09:46:37.767000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-03-02T09:46:38.161000-08:00",
+      "contenido": "@kailersito, tu horóscopo es el siguiente:\n> Amor: 92%, Salud: 25%, Suerte: 28%, Dinero: 93%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.394
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-03-02T17:57:20.109000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-03-02T17:57:20.335000-08:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 52%, Salud: 90%, Suerte: 84%, Dinero: 11%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.226
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-03-28T09:26:29.813000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-03-28T09:26:30.133000-07:00",
+      "contenido": "@Limbo, tu horóscopo es el siguiente:\n> Amor: 87%, Salud: 87%, Suerte: 98%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.32
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-03-31T07:36:10.964000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-03-31T07:36:11.187000-07:00",
+      "contenido": "@Limbo, tu horóscopo es el siguiente:\n> Amor: 33%, Salud: 76%, Suerte: 23%, Dinero: 10%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.223
+    }
+  },
+  {
+    "usuario": "jaim3_",
+    "usuario_id": "396514978087305220",
+    "fecha_comando": "2020-03-31T07:37:23.275000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-03-31T07:37:24.105000-07:00",
+      "contenido": "@Jaime, tu horóscopo es el siguiente:\n> Amor: 59%, Salud: 97%, Suerte: 23%, Dinero: 66%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.83
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-04-01T10:46:18.256000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:46:18.477000-07:00",
+      "contenido": "@zuru1605, tu horóscopo es el siguiente:\n> Amor: 90%, Salud: 96%, Suerte: 24%, Dinero: 17%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.221
+    }
+  },
+  {
+    "usuario": "bepoch",
+    "usuario_id": "469610896147218432",
+    "fecha_comando": "2020-04-01T10:46:27.376000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:46:27.617000-07:00",
+      "contenido": "@bepoch, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 36%, Suerte: 18%, Dinero: 41%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "doggex",
+    "usuario_id": "576230031299444736",
+    "fecha_comando": "2020-04-01T10:46:34.355000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:46:34.606000-07:00",
+      "contenido": "@me gusta comer hielo, tu horóscopo es el siguiente:\n> Amor: 76%, Salud: 2%, Suerte: 76%, Dinero: 80%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.251
+    }
+  },
+  {
+    "usuario": "6roro9",
+    "usuario_id": "394593371139866630",
+    "fecha_comando": "2020-04-01T10:46:45.533000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T10:46:47.488000-07:00",
+      "contenido": "@roro, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 73%, Suerte: 81%, Dinero: 91%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.955
+    }
+  },
+  {
+    "usuario": "thecarlitosyt",
+    "usuario_id": "424531435223908364",
+    "fecha_comando": "2020-04-01T13:34:49.883000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T13:34:50.341000-07:00",
+      "contenido": "@TheCarlitosYT, tu horóscopo es el siguiente:\n> Amor: 99%, Salud: 45%, Suerte: 24%, Dinero: 71%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.458
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-04-03T14:09:24.815000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-03T14:09:26.103000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 70%, Salud: 40%, Suerte: 90%, Dinero: 12%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.288
+    }
+  },
+  {
+    "usuario": "abyita.",
+    "usuario_id": "656860233402023946",
+    "fecha_comando": "2020-04-03T14:09:56.595000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-03T14:09:56.963000-07:00",
+      "contenido": "@♡☆Abyita☆♡, tu horóscopo es el siguiente:\n> Amor: 34%, Salud: 77%, Suerte: 29%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.368
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-04-03T14:10:51.039000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-03T14:10:51.702000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 80%, Salud: 54%, Suerte: 85%, Dinero: 71%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.663
+    }
+  },
+  {
+    "usuario": "abyita.",
+    "usuario_id": "656860233402023946",
+    "fecha_comando": "2020-04-03T14:11:30.137000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-03T14:11:31.175000-07:00",
+      "contenido": "🏧 | **||JeanFranco24||**, **you received your 💴 200 daily credits!**\n\n**Streak: :b_::ou::nu::uu::su:**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.038
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-04-11T15:16:41.302000-07:00",
+    "comando_completo": "ch!horoscope --real",
+    "respuesta_bot": {
+      "fecha": "2020-04-11T15:16:41.626000-07:00",
+      "contenido": "@Limbo, tu horóscopo es el siguiente:\n> Amor: 46%, Salud: 50%, Suerte: 27%, Dinero: 95%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.324
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-04-11T15:17:52.710000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-11T15:17:52.990000-07:00",
+      "contenido": "@Paco, tu horóscopo es el siguiente:\n> Amor: 68%, Salud: 96%, Suerte: 9%, Dinero: 26%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-04-12T10:12:52.319000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T10:12:52.747000-07:00",
+      "contenido": "@Limbo, tu horóscopo es el siguiente:\n> Amor: 53%, Salud: 69%, Suerte: 20%, Dinero: 15%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.428
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-04-24T09:51:00.799000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-24T09:51:01.094000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 67%, Salud: 43%, Suerte: 65%, Dinero: 80%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.295
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-04-26T15:15:19.050000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-04-26T15:15:19.276000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 7%, Suerte: 55%, Dinero: 73%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.226
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-05-01T20:20:27.081000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-01T20:20:27.450000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 93%, Salud: 81%, Suerte: 60%, Dinero: 25%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.369
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-05-01T20:24:33.767000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-01T20:24:34.144000-07:00",
+      "contenido": "@Who?, tu horóscopo es el siguiente:\n> Amor: 87%, Salud: 99%, Suerte: 90%, Dinero: 55%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.377
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-05-01T20:25:00.815000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-01T20:25:01.189000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 17%, Salud: 89%, Suerte: 8%, Dinero: 36%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.374
+    }
+  },
+  {
+    "usuario": "demons6199",
+    "usuario_id": "690952045871628369",
+    "fecha_comando": "2020-05-01T20:26:23.061000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-01T20:26:23.376000-07:00",
+      "contenido": "@🔥DEMONS🔥, tu horóscopo es el siguiente:\n> Amor: 90%, Salud: 78%, Suerte: 86%, Dinero: 90%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.315
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-05-01T20:26:31.928000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-01T20:26:32.155000-07:00",
+      "contenido": "@Unknown, tu horóscopo es el siguiente:\n> Amor: 57%, Salud: 86%, Suerte: 52%, Dinero: 11%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-04T10:20:24.607000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-04T10:20:24.937000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 5%, Salud: 78%, Suerte: 37%, Dinero: 9%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.33
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-07T19:19:44.806000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-07T19:19:45.113000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 86%, Suerte: 6%, Dinero: 45%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.307
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-07T19:20:13.249000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-07T19:20:13.545000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 16%, Salud: 82%, Suerte: 44%, Dinero: 65%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.296
+    }
+  },
+  {
+    "usuario": "feguillas",
+    "usuario_id": "691201366777135146",
+    "fecha_comando": "2020-05-11T17:08:17.917000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-11T17:08:18.066000-07:00",
+      "contenido": "@Feguillas, tu horóscopo es el siguiente:\n> Amor: 34%, Salud: 97%, Suerte: 16%, Dinero: 42%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.149
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-11T17:12:33.575000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-11T17:12:34.328000-07:00",
+      "contenido": "@Gonza (MTG), tu horóscopo es el siguiente:\n> Amor: 57%, Salud: 47%, Suerte: 40%, Dinero: 57%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.753
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-05-23T01:14:20.285000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-23T01:14:20.478000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 63%, Salud: 29%, Suerte: 76%, Dinero: 62%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.193
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-05-28T13:04:45.912000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T13:04:46.171000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 29%, Salud: 58%, Suerte: 42%, Dinero: 75%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-05-28T13:05:19.150000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T13:05:19.430000-07:00",
+      "contenido": "@Rex, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 74%, Suerte: 76%, Dinero: 51%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-01T00:55:15.838000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-01T00:55:16.041000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 68%, Salud: 19%, Suerte: 15%, Dinero: 62%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-06-01T00:55:34.487000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-01T00:55:34.734000-07:00",
+      "contenido": "@𝙰𝙻𝙴, tu horóscopo es el siguiente:\n> Amor: 62%, Salud: 87%, Suerte: 59%, Dinero: 59%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.247
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-02T01:16:18.894000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-02T01:16:19.513000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 10%, Salud: 27%, Suerte: 56%, Dinero: 32%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.619
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-04T07:41:53.327000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:41:53.533000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 42%, Salud: 68%, Suerte: 7%, Dinero: 67%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "llacasito03",
+    "usuario_id": "426099570972426260",
+    "fecha_comando": "2020-06-04T07:42:22.130000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:42:22.302000-07:00",
+      "contenido": "@Llaca, tu horóscopo es el siguiente:\n> Amor: 7%, Salud: 88%, Suerte: 22%, Dinero: 67%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "bill004",
+    "usuario_id": "458587602170413066",
+    "fecha_comando": "2020-06-04T07:42:31.610000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:42:31.956000-07:00",
+      "contenido": "@Bill, tu horóscopo es el siguiente:\n> Amor: 96%, Salud: 54%, Suerte: 3%, Dinero: 2%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.346
+    }
+  },
+  {
+    "usuario": "llacasito03",
+    "usuario_id": "426099570972426260",
+    "fecha_comando": "2020-06-04T07:44:27.459000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:44:27.654000-07:00",
+      "contenido": "@Llaca, tu horóscopo es el siguiente:\n> Amor: 5%, Salud: 25%, Suerte: 43%, Dinero: 90%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "bill004",
+    "usuario_id": "458587602170413066",
+    "fecha_comando": "2020-06-04T07:44:32.521000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:44:32.817000-07:00",
+      "contenido": "@Bill, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 60%, Suerte: 1%, Dinero: 10%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.296
+    }
+  },
+  {
+    "usuario": "bill004",
+    "usuario_id": "458587602170413066",
+    "fecha_comando": "2020-06-04T07:44:52.427000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:44:52.687000-07:00",
+      "contenido": "@Bill, tu horóscopo es el siguiente:\n> Amor: 24%, Salud: 9%, Suerte: 25%, Dinero: 73%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.26
+    }
+  },
+  {
+    "usuario": "solcattn",
+    "usuario_id": "615971641473630208",
+    "fecha_comando": "2020-06-04T07:45:00.996000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:45:01.137000-07:00",
+      "contenido": "@maik, tu horóscopo es el siguiente:\n> Amor: 100%, Salud: 71%, Suerte: 92%, Dinero: 91%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-04T13:58:18.521000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T13:58:18.730000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 95%, Salud: 85%, Suerte: 36%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "bill004",
+    "usuario_id": "458587602170413066",
+    "fecha_comando": "2020-06-04T14:16:28.225000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T14:16:28.499000-07:00",
+      "contenido": "@Bill, tu horóscopo es el siguiente:\n> Amor: 61%, Salud: 9%, Suerte: 46%, Dinero: 65%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.274
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-04T17:54:19.109000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T17:54:19.303000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 6%, Salud: 54%, Suerte: 69%, Dinero: 28%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.194
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-04T17:54:47.188000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T17:54:47.425000-07:00",
+      "contenido": "@§, tu horóscopo es el siguiente:\n> Amor: 41%, Salud: 31%, Suerte: 72%, Dinero: 97%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.237
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-06T14:25:26.880000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-06T14:25:27.085000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 70%, Salud: 43%, Suerte: 93%, Dinero: 22%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-06-06T14:26:02.276000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-06T14:26:02.494000-07:00",
+      "contenido": "@Flora (de Shelly) (y Ghost) 🎀, tu horóscopo es el siguiente:\n> Amor: 70%, Salud: 97%, Suerte: 84%, Dinero: 36%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.218
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-06-08T16:25:33.105000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T16:25:33.333000-07:00",
+      "contenido": "@\"El\" med, tu horóscopo es el siguiente:\n> Amor: 41%, Salud: 15%, Suerte: 76%, Dinero: 54%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-08T16:25:43.318000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T16:25:43.529000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 8%, Salud: 63%, Suerte: 16%, Dinero: 43%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-08T16:25:52.418000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T16:25:52.541000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 56%, Salud: 48%, Suerte: 45%, Dinero: 10%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-08T16:26:10.424000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T16:26:10.785000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 26%, Salud: 57%, Suerte: 27%, Dinero: 67%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.361
+    }
+  },
+  {
+    "usuario": "santi090",
+    "usuario_id": "512419385835651082",
+    "fecha_comando": "2020-06-08T16:27:24.504000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T16:27:24.674000-07:00",
+      "contenido": "@SantI 🇦🇷 ت, tu horóscopo es el siguiente:\n> Amor: 79%, Salud: 74%, Suerte: 85%, Dinero: 89%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T21:22:27.841000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T21:22:28.106000-07:00",
+      "contenido": "@Derich, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 54%, Suerte: 59%, Dinero: 38%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.265
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-20T21:34:22.252000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-20T21:34:22.613000-07:00",
+      "contenido": "@§, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 19%, Suerte: 29%, Dinero: 89%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.361
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-21T16:25:06.400000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-21T16:25:06.621000-07:00",
+      "contenido": "@§, tu horóscopo es el siguiente:\n> Amor: 31%, Salud: 70%, Suerte: 86%, Dinero: 84%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.221
+    }
+  },
+  {
+    "usuario": "cheerful_dolphin_84388",
+    "usuario_id": "344986193399775232",
+    "fecha_comando": "2020-06-21T16:25:12.701000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-21T16:25:13.033000-07:00",
+      "contenido": "@si, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 30%, Suerte: 54%, Dinero: 24%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.332
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2020-06-22T20:11:17.902000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-06-22T20:11:18.116000-07:00",
+      "contenido": "@Daomi✿, tu horóscopo es el siguiente:\n> Amor: 14%, Salud: 46%, Suerte: 14%, Dinero: 34%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "664186916492804106",
+            "name": "chKomiBlush",
+            "code": "chKomiBlush",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/664186916492804106.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "293832915450724362",
+              "name": "deleted_user_ac1ed2706929",
+              "discriminator": "0000",
+              "nickname": "deleted_user_ac1ed2706929",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-09T13:12:04.318000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T13:12:04.526000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 16%, Salud: 62%, Suerte: 32%, Dinero: 50%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.208
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-07-09T13:12:13.776000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T13:12:13.972000-07:00",
+      "contenido": "@Osuna Manía, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 66%, Suerte: 93%, Dinero: 30%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "teykoyum2621",
+    "usuario_id": "704310748230451240",
+    "fecha_comando": "2020-07-09T13:12:25.742000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T13:12:26.088000-07:00",
+      "contenido": "@TeykoYum, tu horóscopo es el siguiente:\n> Amor: 22%, Salud: 41%, Suerte: 71%, Dinero: 42%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.346
+    }
+  },
+  {
+    "usuario": "rana_gourda",
+    "usuario_id": "671144530220810240",
+    "fecha_comando": "2020-07-09T13:12:32.387000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T13:12:32.569000-07:00",
+      "contenido": "@Luisa, tu horóscopo es el siguiente:\n> Amor: 65%, Salud: 70%, Suerte: 10%, Dinero: 71%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "dani_rot",
+    "usuario_id": "691077142603235455",
+    "fecha_comando": "2020-07-09T13:12:53.727000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T13:12:53.900000-07:00",
+      "contenido": "@Dani the rotten, tu horóscopo es el siguiente:\n> Amor: 48%, Salud: 50%, Suerte: 80%, Dinero: 7%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.173
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-09T13:12:58.706000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T13:12:58.919000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 83%, Salud: 56%, Suerte: 63%, Dinero: 76%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:18:33.676000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:18:35.040000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 5%, Salud: 85%, Suerte: 9%, Dinero: 85%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.364
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-14T18:20:38.593000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:20:38.781000-07:00",
+      "contenido": "@§, tu horóscopo es el siguiente:\n> Amor: 69%, Salud: 11%, Suerte: 8%, Dinero: 84%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.188
+    }
+  },
+  {
+    "usuario": "rana_gourda",
+    "usuario_id": "671144530220810240",
+    "fecha_comando": "2020-07-14T18:20:51.160000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:20:51.415000-07:00",
+      "contenido": "@Luisa, tu horóscopo es el siguiente:\n> Amor: 8%, Salud: 79%, Suerte: 25%, Dinero: 10%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.255
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-07-14T18:21:48.818000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:21:49.054000-07:00",
+      "contenido": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸, tu horóscopo es el siguiente:\n> Amor: 31%, Salud: 25%, Suerte: 35%, Dinero: 79%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:23:50.165000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:23:50.311000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 27%, Salud: 75%, Suerte: 63%, Dinero: 63%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:25:25.283000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:25:25.443000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 80%, Salud: 26%, Suerte: 11%, Dinero: 74%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:25:36.309000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:25:36.490000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 41%, Suerte: 92%, Dinero: 58%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.181
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:27:30.621000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:27:30.741000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 44%, Salud: 8%, Suerte: 13%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.12
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:27:33.156000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:27:33.378000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 90%, Salud: 90%, Suerte: 34%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-14T18:28:11.483000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:28:11.734000-07:00",
+      "contenido": "@§, tu horóscopo es el siguiente:\n> Amor: 9%, Salud: 68%, Suerte: 56%, Dinero: 22%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.251
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-07-14T18:33:09.119000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:33:09.306000-07:00",
+      "contenido": "@you, tu horóscopo es el siguiente:\n> Amor: 87%, Salud: 69%, Suerte: 75%, Dinero: 2%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-14T18:36:22.500000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-07-14T18:36:22.736000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 7%, Salud: 57%, Suerte: 55%, Dinero: 87%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-10T12:30:31.853000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-10T12:30:32.137000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 74%, Salud: 9%, Suerte: 31%, Dinero: 24%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-10T12:31:20.921000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-10T12:31:21.292000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 36%, Salud: 39%, Suerte: 89%, Dinero: 88%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.371
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-10T13:37:29.123000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-10T13:37:29.393000-07:00",
+      "contenido": "@Mr. Administrador, tu horóscopo es el siguiente:\n> Amor: 14%, Salud: 76%, Suerte: 55%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.27
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-10T16:35:47.213000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-10T16:35:55.855000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 93%, Salud: 8%, Suerte: 82%, Dinero: 28%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.642
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-11T09:22:51.228000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-11T09:22:51.486000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 2%, Salud: 90%, Suerte: 25%, Dinero: 40%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.258
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-13T11:10:00.181000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-13T11:10:00.540000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 51%, Salud: 68%, Suerte: 3%, Dinero: 52%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.359
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-14T06:43:41.013000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-14T06:43:41.289000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 73%, Suerte: 15%, Dinero: 85%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.276
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-14T06:44:39.333000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-14T06:44:44.551000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Withdrew 🍫10,000 from your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "puercoman#1145",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/quF9wvviN8XBW2soyUKJqmHsJlPjX9GzxzHqo6SC6aA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/679096568711872526/f05a8190d55533bc558d91036108f123.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/679096568711872526/f05a8190d55533bc558d91036108f123.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.218
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-18T09:48:14.942000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T09:48:15.242000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 9%, Salud: 73%, Suerte: 23%, Dinero: 61%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.3
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-18T13:29:31.260000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:29:31.530000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 7%, Salud: 92%, Suerte: 10%, Dinero: 77%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.27
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-18T13:29:49.369000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:29:49.808000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 38%, Salud: 99%, Suerte: 78%, Dinero: 52%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.439
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-18T13:30:24.576000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:30:24.960000-07:00",
+      "contenido": "@Mr. Administrador, tu horóscopo es el siguiente:\n> Amor: 80%, Salud: 97%, Suerte: 64%, Dinero: 51%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.384
+    }
+  },
+  {
+    "usuario": "silla6071",
+    "usuario_id": "697226191987408977",
+    "fecha_comando": "2020-08-18T13:30:31.200000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:30:31.658000-07:00",
+      "contenido": "@Neveras a 2km, tu horóscopo es el siguiente:\n> Amor: 39%, Salud: 88%, Suerte: 77%, Dinero: 72%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.458
+    }
+  },
+  {
+    "usuario": "silla6071",
+    "usuario_id": "697226191987408977",
+    "fecha_comando": "2020-08-18T13:30:45.651000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:30:45.960000-07:00",
+      "contenido": "@Neveras a 2km, tu horóscopo es el siguiente:\n> Amor: 95%, Salud: 53%, Suerte: 99%, Dinero: 7%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-08-18T13:30:55.465000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:30:55.813000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 52%, Salud: 85%, Suerte: 37%, Dinero: 99%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.348
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-18T13:30:55.471000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:30:55.813000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 52%, Salud: 85%, Suerte: 37%, Dinero: 99%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.342
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-18T13:31:02.833000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:31:03.190000-07:00",
+      "contenido": "@Mr. Administrador, tu horóscopo es el siguiente:\n> Amor: 96%, Salud: 25%, Suerte: 62%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.357
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-20T10:08:20.788000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:08:21.098000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 13%, Salud: 72%, Suerte: 89%, Dinero: 78%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.31
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T10:08:34.111000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:08:34.296000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 2%, Salud: 85%, Suerte: 51%, Dinero: 0%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T10:08:43.360000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:08:43.843000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 3%, Salud: 89%, Suerte: 64%, Dinero: 56%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.483
+    }
+  },
+  {
+    "usuario": "astrachis",
+    "usuario_id": "650725277638328340",
+    "fecha_comando": "2020-08-20T10:08:43.909000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:08:44.454000-07:00",
+      "contenido": "@Astra, tu horóscopo es el siguiente:\n> Amor: 40%, Salud: 56%, Suerte: 13%, Dinero: 49%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.545
+    }
+  },
+  {
+    "usuario": "astrachis",
+    "usuario_id": "650725277638328340",
+    "fecha_comando": "2020-08-20T10:09:03.867000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:09:04.190000-07:00",
+      "contenido": "@Astra, tu horóscopo es el siguiente:\n> Amor: 61%, Salud: 33%, Suerte: 49%, Dinero: 83%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.323
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T10:09:12.605000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:09:12.834000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 11%, Salud: 6%, Suerte: 49%, Dinero: 6%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-08-20T10:09:20.998000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:09:21.240000-07:00",
+      "contenido": "@you, tu horóscopo es el siguiente:\n> Amor: 22%, Salud: 46%, Suerte: 14%, Dinero: 20%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T10:09:32.149000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:09:32.482000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 63%, Salud: 83%, Suerte: 96%, Dinero: 40%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.333
+    }
+  },
+  {
+    "usuario": "astrachis",
+    "usuario_id": "650725277638328340",
+    "fecha_comando": "2020-08-20T10:09:46.110000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:09:46.546000-07:00",
+      "contenido": "@Astra, tu horóscopo es el siguiente:\n> Amor: 32%, Salud: 85%, Suerte: 60%, Dinero: 90%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.436
+    }
+  },
+  {
+    "usuario": "javy_chand",
+    "usuario_id": "183986783900401664",
+    "fecha_comando": "2020-08-20T10:12:58.572000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:12:58.861000-07:00",
+      "contenido": "@javy_chand, tu horóscopo es el siguiente:\n> Amor: 95%, Salud: 76%, Suerte: 44%, Dinero: 61%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.289
+    }
+  },
+  {
+    "usuario": "silla6071",
+    "usuario_id": "697226191987408977",
+    "fecha_comando": "2020-08-20T13:57:20.826000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T13:57:21.142000-07:00",
+      "contenido": "@Neveras a 2km, tu horóscopo es el siguiente:\n> Amor: 0%, Salud: 89%, Suerte: 79%, Dinero: 21%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.316
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-08-20T13:57:28.453000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T13:57:28.810000-07:00",
+      "contenido": "@PLL - ghost, tu horóscopo es el siguiente:\n> Amor: 53%, Salud: 25%, Suerte: 84%, Dinero: 46%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.357
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T13:58:53.525000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T13:58:53.834000-07:00",
+      "contenido": "@@     🪻𐙚𝖘unny, tu horóscopo es el siguiente:\n> Amor: 40%, Salud: 58%, Suerte: 100%, Dinero: 75%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "astrachis",
+    "usuario_id": "650725277638328340",
+    "fecha_comando": "2020-08-20T13:59:19.569000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T13:59:19.848000-07:00",
+      "contenido": "@Astra, tu horóscopo es el siguiente:\n> Amor: 92%, Salud: 41%, Suerte: 1%, Dinero: 68%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.279
+    }
+  },
+  {
+    "usuario": "silla6071",
+    "usuario_id": "697226191987408977",
+    "fecha_comando": "2020-08-20T14:00:06.941000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T14:00:07.882000-07:00",
+      "contenido": "@Neveras a 2km, tu horóscopo es el siguiente:\n> Amor: 28%, Salud: 71%, Suerte: 58%, Dinero: 12%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.941
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-25T09:18:49.269000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-08-25T09:19:03.945000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "View the leaderboard online [here](https://unb.pizza/lb/379197913936429056).\n\n**1.** [Arcus#3871](https://unb.pizza/lb/379197913936429056/398658092021055511) • 🍫7,486,251\n**2.** [!-Ulti!#1328](https://unb.pizza/lb/379197913936429056/241775896518721536) • 🍫3,505,719\n**3.** [Dana#0128](https://unb.pizza/lb/379197913936429056/419631170074968076) • 🍫2,792,887\n**4.** [EduFran★#2019](https://unb.pizza/lb/379197913936429056/418454459337801728) • 🍫2,635,282\n**5.** [Jalonso Itv\\_ch ㊕#3518](https://unb.pizza/lb/379197913936429056/293832915450724362) • 🍫2,550,000\n**6.** [Zuvieh#9999](https://unb.pizza/lb/379197913936429056/549006190378745859) • 🍫2,406,716\n**7.** [Ayano❄#3038](https://unb.pizza/lb/379197913936429056/460489146922958849) • 🍫2,209,005\n**8.** [§✧Moeᴾʰʸ✧§#0003](https://unb.pizza/lb/379197913936429056/682088651164745816) • 🍫2,105,930\n**9.** [Paco#0675](https://unb.pizza/lb/379197913936429056/526990106347831304) • 🍫1,971,942\n**10.** [!Etzio#0001](https://unb.pizza/lb/379197913936429056/295403583128600577) • 🍫1,944,647",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Chocolat Leaderboard",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056",
+            "iconUrl": "https://media.discordapp.net/attachments/506838906872922145/506899959816126493/h5D6Ei0.png?ex=6a57d3e0&is=6a568260&hm=7ff52f9f42a735e3a87bd31ab159d696f755db3cf5be8ca19bddc8a3306715d5&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/506838906872922145/506899959816126493/h5D6Ei0.png?ex=6a57d3e0&is=6a568260&hm=7ff52f9f42a735e3a87bd31ab159d696f755db3cf5be8ca19bddc8a3306715d5&"
+          },
+          "footer": {
+            "text": "Page 1/4455  •  Your leaderboard rank: 5th"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 14.676
+    }
+  },
+  {
+    "usuario": "lunatic_flames",
+    "usuario_id": "471871312713875457",
+    "fecha_comando": "2020-10-07T11:34:26.888000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-10-07T11:34:27.400000-07:00",
+      "contenido": "@Medicine melancholy (real), tu horóscopo es el siguiente:\n> Amor: 61%, Salud: 90%, Suerte: 83%, Dinero: 61%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.512
+    }
+  },
+  {
+    "usuario": "rana_gourda",
+    "usuario_id": "671144530220810240",
+    "fecha_comando": "2020-10-07T11:36:24.367000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-10-07T11:36:24.702000-07:00",
+      "contenido": "@Luisa, tu horóscopo es el siguiente:\n> Amor: 54%, Salud: 7%, Suerte: 14%, Dinero: 88%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.335
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-11T11:50:42.221000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-10-11T11:50:42.698000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 91%, Suerte: 39%, Dinero: 86%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.477
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-11T11:51:04.202000-07:00",
+    "comando_completo": "ch!horoscope @Aιkᥱᴾʰʸ",
+    "respuesta_bot": {
+      "fecha": "2020-10-11T11:51:04.654000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 50%, Salud: 59%, Suerte: 79%, Dinero: 64%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.452
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-20T14:48:02.029000-07:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-10-20T14:48:02.990000-07:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 84%, Salud: 28%, Suerte: 73%, Dinero: 66%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.961
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T15:34:29.297000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T15:34:30.035000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 66%, Salud: 94%, Suerte: 98%, Dinero: 97%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.738
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-07T07:46:16.356000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-07T07:46:16.659000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 14%, Salud: 82%, Suerte: 77%, Dinero: 58%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.303
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-21T20:32:55.313000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-21T20:32:55.607000-08:00",
+      "contenido": "@˖  ་ 𝐒tar  এ, tu horóscopo es el siguiente:\n> Amor: 30%, Salud: 79%, Suerte: 75%, Dinero: 33%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "jeanpy.",
+    "usuario_id": "657394073438650402",
+    "fecha_comando": "2020-11-23T19:10:52.418000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T19:10:52.637000-08:00",
+      "contenido": "@Josh (Jeanpy) mogu mogu ඞ, tu horóscopo es el siguiente:\n> Amor: 72%, Salud: 14%, Suerte: 90%, Dinero: 43%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-23T19:10:59.924000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T19:11:00.205000-08:00",
+      "contenido": "@˖  ་ 𝐒tar  এ, tu horóscopo es el siguiente:\n> Amor: 68%, Salud: 36%, Suerte: 20%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.281
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-23T19:11:09.413000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T19:11:14.171000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 57%, Salud: 97%, Suerte: 99%, Dinero: 75%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.758
+    }
+  },
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2020-11-23T19:11:42.045000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T19:11:42.348000-08:00",
+      "contenido": "@Noname7612, tu horóscopo es el siguiente:\n> Amor: 12%, Salud: 72%, Suerte: 57%, Dinero: 73%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.303
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-23T19:12:06.769000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T19:12:08.392000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 27%, Salud: 87%, Suerte: 49%, Dinero: 70%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.623
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-26T06:18:15.615000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-26T06:18:15.882000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 81%, Salud: 37%, Suerte: 99%, Dinero: 69%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-11-29T06:52:06.174000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T06:52:06.619000-08:00",
+      "contenido": "@DieGold, tu horóscopo es el siguiente:\n> Amor: 75%, Salud: 63%, Suerte: 84%, Dinero: 8%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.445
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T06:52:19.469000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T06:52:19.726000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 22%, Salud: 47%, Suerte: 100%, Dinero: 64%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.257
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-12-05T10:29:06.706000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:29:06.953000-08:00",
+      "contenido": "@DieGold, tu horóscopo es el siguiente:\n> Amor: 9%, Salud: 17%, Suerte: 54%, Dinero: 88%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.247
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-12-05T10:29:36.466000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:29:36.622000-08:00",
+      "contenido": "@Aιkᥱᴾʰʸ, tu horóscopo es el siguiente:\n> Amor: 60%, Salud: 96%, Suerte: 69%, Dinero: 79%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-05T10:30:02.725000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:30:03.821000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 57%, Salud: 2%, Suerte: 55%, Dinero: 83%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.096
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-12-05T10:51:51.829000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:51:52.062000-08:00",
+      "contenido": "@PLL - ghost, tu horóscopo es el siguiente:\n> Amor: 11%, Salud: 81%, Suerte: 14%, Dinero: 73%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-05T10:51:59.495000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:51:59.793000-08:00",
+      "contenido": "@Deleted User, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 81%, Suerte: 72%, Dinero: 68%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.298
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-12-05T10:52:04.753000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:52:05.292000-08:00",
+      "contenido": "@Aιkᥱᴾʰʸ, tu horóscopo es el siguiente:\n> Amor: 77%, Salud: 35%, Suerte: 99%, Dinero: 4%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.539
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-12-05T10:52:09.679000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T10:52:09.902000-08:00",
+      "contenido": "@˖  ་ 𝐒tar  এ, tu horóscopo es el siguiente:\n> Amor: 80%, Salud: 89%, Suerte: 96%, Dinero: 42%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.223
+    }
+  },
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2020-12-12T15:07:25.169000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T15:07:25.546000-08:00",
+      "contenido": "@Noname7612, tu horóscopo es el siguiente:\n> Amor: 37%, Salud: 15%, Suerte: 20%, Dinero: 72%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.377
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-14T22:31:00.373000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-14T22:31:00.592000-08:00",
+      "contenido": "@☆Mateo☆, tu horóscopo es el siguiente:\n> Amor: 40%, Salud: 49%, Suerte: 10%, Dinero: 8%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-14T22:31:19.752000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-14T22:31:20.082000-08:00",
+      "contenido": "@☆Mateo☆, tu horóscopo es el siguiente:\n> Amor: 20%, Salud: 73%, Suerte: 6%, Dinero: 96%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.33
+    }
+  },
+  {
+    "usuario": "stewward804",
+    "usuario_id": "751430317885096006",
+    "fecha_comando": "2020-12-16T10:44:49.638000-08:00",
+    "comando_completo": "ch!horoscope",
+    "respuesta_bot": {
+      "fecha": "2020-12-16T10:44:49.898000-08:00",
+      "contenido": "@dOGE, tu horóscopo es el siguiente:\n> Amor: 97%, Salud: 98%, Suerte: 85%, Dinero: 44%",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.26
+    }
+  }
+]

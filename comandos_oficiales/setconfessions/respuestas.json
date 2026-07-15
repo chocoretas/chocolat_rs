@@ -1,0 +1,52 @@
+[
+  {
+    "usuario": "akyshoshida",
+    "usuario_id": "270984202416160768",
+    "fecha_comando": "2019-06-12T20:49:29.917000-07:00",
+    "comando_completo": "ch!setconfessions",
+    "respuesta_bot": {
+      "fecha": "2019-06-12T20:49:30.025000-07:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.108
+    }
+  },
+  {
+    "usuario": "fabbuulosoo",
+    "usuario_id": "469850012755558420",
+    "fecha_comando": "2020-11-13T09:29:03.567000-08:00",
+    "comando_completo": "ch!setconfessions #⁽💭⁾┊confesiones",
+    "respuesta_bot": {
+      "fecha": "2020-11-13T09:29:05.049000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "There are no rewards to claim!",
+          "url": null,
+          "timestamp": null,
+          "description": "**Rewards for the tiles you have completed:**",
+          "color": "#FFD700",
+          "footer": {
+            "text": "franportillo#5108",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/AdFAwAtWbqFC4htCNBsqtO5gnmA1evs_SiMU_boUbgs/%3Fsize%3D32/https/cdn.discordapp.com/avatars/422621797934956545/08cd875797f4534a31d62421b578a140.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/422621797934956545/08cd875797f4534a31d62421b578a140.png?size=32"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "No unclaimed tiles completed!",
+              "value": "Try completing another bingo tile before using `t!bingo claim`.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.482
+    }
+  }
+]

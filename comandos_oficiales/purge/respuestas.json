@@ -1,0 +1,100 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:36:40.966000-07:00",
+    "comando_completo": "ch!purge",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:36:41.143000-07:00",
+      "contenido": "@Dante, debes especificar una cantidad de mensajes a eliminar!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "mr.casilla",
+    "usuario_id": "526197956303650827",
+    "fecha_comando": "2019-09-29T07:11:56.165000-07:00",
+    "comando_completo": "ch!purge @Mr.Casilla 1",
+    "respuesta_bot": {
+      "fecha": "2019-09-29T07:11:56.375000-07:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-30T19:26:04.569000-07:00",
+    "comando_completo": "ch!purge 1",
+    "respuesta_bot": {
+      "fecha": "2019-09-30T19:26:04.689000-07:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.12
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-09-30T19:26:16.986000-07:00",
+    "comando_completo": "ch!purge",
+    "respuesta_bot": {
+      "fecha": "2019-09-30T19:26:17.242000-07:00",
+      "contenido": "@𝓡𝓪𝓫𝓲𝓽𝓽𝓸, debes especificar una cantidad de mensajes a eliminar!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-12-11T14:36:38.724000-08:00",
+    "comando_completo": "ch!purge 1000000",
+    "respuesta_bot": {
+      "fecha": "2019-12-11T14:36:38.928000-08:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2020-05-05T17:12:12.231000-07:00",
+    "comando_completo": "ch!purge @Avocado 7",
+    "respuesta_bot": {
+      "fecha": "2020-05-05T17:12:18.912000-07:00",
+      "contenido": "🆙  **|**  **you can award a reputation point!**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 6.681
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-05-19T22:09:34.332000-07:00",
+    "comando_completo": "ch!purge 4",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T22:09:34.616000-07:00",
+      "contenido": ":x: | No tienes los permisos requeridos para usar este comando.\nNecesitas tener el permiso `Administrar Mensajes` activado.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  }
+]

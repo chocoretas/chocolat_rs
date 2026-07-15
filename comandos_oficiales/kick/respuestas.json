@@ -1,0 +1,128 @@
+[
+  {
+    "usuario": "joriana.",
+    "usuario_id": "583726521718538266",
+    "fecha_comando": "2019-07-14T15:59:03.982000-07:00",
+    "comando_completo": "ch!kick",
+    "respuesta_bot": {
+      "fecha": "2019-07-14T15:59:04.243000-07:00",
+      "contenido": "@Joriana_Sawyer, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:34:00.466000-07:00",
+    "comando_completo": "ch!kick",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:34:00.694000-07:00",
+      "contenido": "@Dante, Debes mencionar a alguien para expulsarlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-09T04:41:37.639000-07:00",
+    "comando_completo": "ch!kick @croconaw te doy una patada >:3",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:41:37.719000-07:00",
+      "contenido": "@Official_Javee, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.08
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-09T04:42:53.047000-07:00",
+    "comando_completo": "ch!kick",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:42:53.351000-07:00",
+      "contenido": "@Daomi✿, Debes mencionar a alguien para expulsarlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.304
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-22T18:27:38.428000-07:00",
+    "comando_completo": "ch!kick @User Deleted",
+    "respuesta_bot": {
+      "fecha": "2019-09-22T18:27:38.630000-07:00",
+      "contenido": "@Deleted User, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "emiblackreaper",
+    "usuario_id": "420371388289908736",
+    "fecha_comando": "2019-10-06T12:53:41.509000-07:00",
+    "comando_completo": "ch!kick   @[yu!] Yukihira",
+    "respuesta_bot": {
+      "fecha": "2019-10-06T12:53:41.683000-07:00",
+      "contenido": "@BlackReaper, No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-09T13:49:47.361000-07:00",
+    "comando_completo": "ch!kick @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:49:47.575000-07:00",
+      "contenido": "@whtvr., No tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-16T09:57:00.693000-07:00",
+    "comando_completo": "ch!kick @˖ ݁✦. Griseo .✦ ݁˖",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T09:57:03.969000-07:00",
+      "contenido": "@whtvr., no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.276
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-08T07:17:03.550000-08:00",
+    "comando_completo": "ch!kick @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2019-11-08T07:17:03.765000-08:00",
+      "contenido": "@whtvr., no tienes el rango requerido.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  }
+]

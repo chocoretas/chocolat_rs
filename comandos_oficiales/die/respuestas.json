@@ -1,0 +1,124 @@
+[
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T20:46:53.597000-07:00",
+    "comando_completo": "ch!die",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:46:56.474000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫1,577 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Yoh#7150",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/HM6EdNcmhjvdKbKl51TptjQj8mYUOQK8dQJ0Lqf15zo/%3Fsize%3D128/https/cdn.discordapp.com/avatars/344414319880175618/30e19478132e335cae48f3e7295cea32.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/344414319880175618/30e19478132e335cae48f3e7295cea32.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.877
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-16T23:04:10.567000-07:00",
+    "comando_completo": "ch!die",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:04:18.837000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**DK Diamond96** mató a **✧•｡✯Moe萌え✯｡•✧**",
+          "color": "#02D435",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/664060217226690560/d32133d8-c698-4157-bf7c-697794830be1.gif?ex=6a581085&is=6a56bf05&hm=cbd2084190a666cf80eb4a9979a2ac56a47458503451c2002c96689f7e1c921d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664060217226690560/d32133d8-c698-4157-bf7c-697794830be1.gif?ex=6a581085&is=6a56bf05&hm=cbd2084190a666cf80eb4a9979a2ac56a47458503451c2002c96689f7e1c921d&",
+            "width": 540,
+            "height": 303
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/664060217226690560/d32133d8-c698-4157-bf7c-697794830be1.gif?ex=6a581085&is=6a56bf05&hm=cbd2084190a666cf80eb4a9979a2ac56a47458503451c2002c96689f7e1c921d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664060217226690560/d32133d8-c698-4157-bf7c-697794830be1.gif?ex=6a581085&is=6a56bf05&hm=cbd2084190a666cf80eb4a9979a2ac56a47458503451c2002c96689f7e1c921d&",
+              "width": 540,
+              "height": 303
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.27
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-15T15:18:33.646000-07:00",
+    "comando_completo": "ch!die",
+    "respuesta_bot": {
+      "fecha": "2020-05-15T15:18:39.250000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Turron ruar xd** se está partiendo de la risa XD",
+          "color": "#A6A154",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/594608755241385992/c4f2a0b13086d0c4a3b66845c85f9020.gif?ex=6a57de0e&is=6a568c8e&hm=6f7880199d0c9eabcbd27ceaa040822e248dd39831bb074cc4323cf92aae0329&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/594608755241385992/c4f2a0b13086d0c4a3b66845c85f9020.gif?ex=6a57de0e&is=6a568c8e&hm=6f7880199d0c9eabcbd27ceaa040822e248dd39831bb074cc4323cf92aae0329&",
+            "width": 244,
+            "height": 248
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/594608755241385992/c4f2a0b13086d0c4a3b66845c85f9020.gif?ex=6a57de0e&is=6a568c8e&hm=6f7880199d0c9eabcbd27ceaa040822e248dd39831bb074cc4323cf92aae0329&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/594608755241385992/c4f2a0b13086d0c4a3b66845c85f9020.gif?ex=6a57de0e&is=6a568c8e&hm=6f7880199d0c9eabcbd27ceaa040822e248dd39831bb074cc4323cf92aae0329&",
+              "width": 244,
+              "height": 248
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.604
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "usuario": "greensylveon10",
+    "usuario_id": "624194969501958174",
+    "fecha_comando": "2019-10-28T14:34:33.505000-07:00",
+    "comando_completo": "ch!setsuggestions Debería existir un comando llamado ch!kawaii (Reacción), que sea útil cuando veamos algo muy mono.",
+    "respuesta_bot": {
+      "fecha": "2019-10-28T14:34:33.638000-07:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.133
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-23T14:36:49.970000-07:00",
+    "comando_completo": "ch!setsuggestions",
+    "respuesta_bot": {
+      "fecha": "2020-10-23T14:36:55.727000-07:00",
+      "contenido": "🎣  **|**  **you caught: 📎!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 5.757
+    }
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:14:45.723000-07:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:14:45.858000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#DD40B1",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/9Cgjithb-wIU-4ky55cJAEOlBemPZ8hmSy1MatIm8rk/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "footer": {
+            "text": "Pedido por: Dana#1537"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/9Cgjithb-wIU-4ky55cJAEOlBemPZ8hmSy1MatIm8rk/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg?size=1024",
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-05T15:46:25.230000-08:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2019-11-05T15:46:25.400000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#31C07F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/9Cgjithb-wIU-4ky55cJAEOlBemPZ8hmSy1MatIm8rk/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "footer": {
+            "text": "Pedido por: AbusolutamenteNadie#8273"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/9Cgjithb-wIU-4ky55cJAEOlBemPZ8hmSy1MatIm8rk/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg?size=1024",
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-04T06:26:27.110000-07:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T06:26:27.287000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=1024)",
+          "color": "#953C95",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/FgoUGNeuF3DUgqyDYkt7K6r-EDlaZ_jbaYyYjv0X_6A/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "footer": {
+            "text": "Pedido por: Josue#1154"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/FgoUGNeuF3DUgqyDYkt7K6r-EDlaZ_jbaYyYjv0X_6A/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=1024",
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-14T21:36:50.894000-07:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-06-14T21:36:51.203000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=1024)",
+          "color": "#E16F21",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/FgoUGNeuF3DUgqyDYkt7K6r-EDlaZ_jbaYyYjv0X_6A/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=1024",
+            "width": 1024,
+            "height": 1024
+          },
+          "footer": {
+            "text": "Pedido por: ! DrawdeZiur#4278"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/FgoUGNeuF3DUgqyDYkt7K6r-EDlaZ_jbaYyYjv0X_6A/%3Fsize%3D1024/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=1024",
+              "width": 1024,
+              "height": 1024
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "590028022871228427",
+            "name": "chChocoVeryHappy",
+            "code": "chChocoVeryHappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/590028022871228427.png"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "293832915450724362",
+              "name": "deleted_user_ac1ed2706929",
+              "discriminator": "0000",
+              "nickname": "deleted_user_ac1ed2706929",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            },
+            {
+              "id": "666730557207740446",
+              "name": "apoleia364",
+              "discriminator": "0000",
+              "nickname": "§",
+              "color": "#7401DF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/379197913936429056/users/666730557207740446/avatars/a830ef5e29f988176841f5bb00a1393c.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "isma.4311",
+    "usuario_id": "727351405555482664",
+    "fecha_comando": "2020-08-26T10:29:47.777000-07:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-08-26T10:29:48.480000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=512)",
+          "color": "#2880C8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3vF7PqkL5ZK8CROg3WRs793Rvqd8L2IyGeH5nZCRNgw/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "footer": {
+            "text": "Pedido por: Isma 🌧#6666"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3vF7PqkL5ZK8CROg3WRs793Rvqd8L2IyGeH5nZCRNgw/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=512",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.703
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-28T09:20:12.793000-07:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-09-28T09:20:13.828000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=512)",
+          "color": "#59AD37",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3vF7PqkL5ZK8CROg3WRs793Rvqd8L2IyGeH5nZCRNgw/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "footer": {
+            "text": "Pedido por: !-SteveYT-!#3193"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3vF7PqkL5ZK8CROg3WRs793Rvqd8L2IyGeH5nZCRNgw/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.png?size=512",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.035
+    }
+  },
+  {
+    "usuario": "gandagk",
+    "usuario_id": "689617219331686469",
+    "fecha_comando": "2020-10-05T16:40:31.311000-07:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-10-05T16:40:31.604000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/6e7e5083284fadc5ef945bf6fbaad300.png?size=512)",
+          "color": "#23B1B9",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/N0A70FqBFKA2ReXWl04Xrrq--u1pTGBliBewqXp1_V8/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/6e7e5083284fadc5ef945bf6fbaad300.png",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/6e7e5083284fadc5ef945bf6fbaad300.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "footer": {
+            "text": "Pedido por: uLux#9781"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/N0A70FqBFKA2ReXWl04Xrrq--u1pTGBliBewqXp1_V8/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/6e7e5083284fadc5ef945bf6fbaad300.png",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/6e7e5083284fadc5ef945bf6fbaad300.png?size=512",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.293
+    }
+  },
+  {
+    "usuario": "zambra91",
+    "usuario_id": "694678192094445585",
+    "fecha_comando": "2020-12-03T10:37:59.326000-08:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T10:37:59.590000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/c9d6c8d5bf90bd8ae59f0fe4611724c2.png?size=512)",
+          "color": "#AC9094",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/qdAtcgz7FtjqE4F4H6YSP83_YWv1KCS3scV575wRGkw/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/c9d6c8d5bf90bd8ae59f0fe4611724c2.png",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/c9d6c8d5bf90bd8ae59f0fe4611724c2.png?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "footer": {
+            "text": "Pedido por: Zambra#7694"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/qdAtcgz7FtjqE4F4H6YSP83_YWv1KCS3scV575wRGkw/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/c9d6c8d5bf90bd8ae59f0fe4611724c2.png",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/c9d6c8d5bf90bd8ae59f0fe4611724c2.png?size=512",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2020-12-09T08:00:27.426000-08:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T08:00:27.943000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif?size=512)",
+          "color": "#962E26",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/w4yQOYHVY0yq53utgx0kxYJW30NVQzTtfJheOk9cjHA/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "footer": {
+            "text": "Pedido por: Peke#0001"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/w4yQOYHVY0yq53utgx0kxYJW30NVQzTtfJheOk9cjHA/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif?size=512",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.517
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-12T08:44:32.780000-08:00",
+    "comando_completo": "ch!servericon",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T08:44:33.018000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Icono de Chocolat",
+          "url": null,
+          "timestamp": null,
+          "description": "[URL del icono](https://cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif?size=512)",
+          "color": "#951EC9",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/w4yQOYHVY0yq53utgx0kxYJW30NVQzTtfJheOk9cjHA/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif?size=512",
+            "width": 512,
+            "height": 512
+          },
+          "footer": {
+            "text": "Pedido por: franportillo#5108"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/w4yQOYHVY0yq53utgx0kxYJW30NVQzTtfJheOk9cjHA/%3Fsize%3D512/https/cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif",
+              "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/a_da30715d7baf46342df076b3fc34c2e1.gif?size=512",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  }
+]

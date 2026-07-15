@@ -4,11 +4,11 @@ use serenity::all::Colour;
 
 pub static BITE: InteractionCommand = InteractionCommand::new(
     "bite",
-    "muerdes a otro w o algo asi",
+    "Muerde al usuario mencionado, o deja que Chocolat te muerda.",
     "Interacción",
-    true,
+    false,
     "**$User** ha mordido a **$Target** >n<",
-    ""
+    "ñam... *muerde a **$User***"
 );
 
 inventory::submit! {

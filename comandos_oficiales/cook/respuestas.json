@@ -1,0 +1,3449 @@
+[
+  {
+    "usuario": "t_r_0_l_a",
+    "usuario_id": "600732297951445002",
+    "fecha_comando": "2020-05-07T10:18:25.374000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-07T10:18:25.530000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ALEJANDRO  WHEN PIOLA** se ha puesto a cocinar.",
+          "color": "#97A4EF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676765160039383041/91b50aa7-d1ca-4e33-9d3a-1c59e1dc7395.gif?ex=6a58246b&is=6a56d2eb&hm=d9424b27e029203bca18e6afc284a37c8fc0013783721c4de45921f2eab90135&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676765160039383041/91b50aa7-d1ca-4e33-9d3a-1c59e1dc7395.gif?ex=6a58246b&is=6a56d2eb&hm=d9424b27e029203bca18e6afc284a37c8fc0013783721c4de45921f2eab90135&",
+            "width": 540,
+            "height": 275
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676765160039383041/91b50aa7-d1ca-4e33-9d3a-1c59e1dc7395.gif?ex=6a58246b&is=6a56d2eb&hm=d9424b27e029203bca18e6afc284a37c8fc0013783721c4de45921f2eab90135&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676765160039383041/91b50aa7-d1ca-4e33-9d3a-1c59e1dc7395.gif?ex=6a58246b&is=6a56d2eb&hm=d9424b27e029203bca18e6afc284a37c8fc0013783721c4de45921f2eab90135&",
+              "width": 540,
+              "height": 275
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "dontcallmesol",
+    "usuario_id": "525864182302638081",
+    "fecha_comando": "2020-05-07T20:56:16.493000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-07T20:56:16.822000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**🌈Lerel🌈** se ha puesto a cocinar.",
+          "color": "#D3454A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌈",
+              "code": "rainbow",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f308.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.329
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-07T20:58:53.760000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-07T20:58:53.965000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**•GOOM•EG** se ha puesto a cocinar.",
+          "color": "#A877D7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "width": 540,
+            "height": 274
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "width": 540,
+              "height": 274
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-08T01:03:07.962000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T01:03:08.164000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **•GOOM•EG**",
+          "color": "#D19482",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "width": 640,
+            "height": 360
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "width": 640,
+              "height": 360
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-08T01:08:13.988000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T01:08:14.248000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**•GOOM•EG** se ha puesto a cocinar.",
+          "color": "#B65E2A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.26
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-05-08T01:08:21.618000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T01:08:21.799000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **DK Diamond96**!",
+          "color": "#B25EAE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+            "width": 494,
+            "height": 282
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+              "width": 494,
+              "height": 282
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.181
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-05-08T01:08:46.100000-07:00",
+    "comando_completo": "ch!cook @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T01:08:46.304000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**DK Diamond96** cocina algo asombroso para **Brandon 7w7**",
+          "color": "#B18C00",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-10T00:43:52.770000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T00:43:53.024000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **•GOOM•EG**",
+          "color": "#F4D2FC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "width": 500,
+            "height": 264
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "width": 500,
+              "height": 264
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.254
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-05-10T00:44:36.928000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T00:44:37.138000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **DK Diamond96**!",
+          "color": "#5E9EDD",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-05-10T00:44:52.115000-07:00",
+    "comando_completo": "ch!cook @Gonza (MTG)",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T00:44:52.367000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**DK Diamond96** cocina algo asombroso para **•GOOM•EG**",
+          "color": "#0B7BD3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.252
+    }
+  },
+  {
+    "usuario": "feguillas",
+    "usuario_id": "691201366777135146",
+    "fecha_comando": "2020-05-10T17:49:02.892000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T17:49:03.169000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**Feguillas** está cocinando algo muy rico!",
+          "color": "#8FB202",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676609230530281535/2d8f99a7e3e820202bcd78d686c32f04_1.gif?ex=6a583bf3&is=6a56ea73&hm=c79510a48773819b716ad66e5382129143c368cffd26d0e532a68d821720d9d1&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676609230530281535/2d8f99a7e3e820202bcd78d686c32f04_1.gif?ex=6a583bf3&is=6a56ea73&hm=c79510a48773819b716ad66e5382129143c368cffd26d0e532a68d821720d9d1&",
+            "width": 446,
+            "height": 340
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676609230530281535/2d8f99a7e3e820202bcd78d686c32f04_1.gif?ex=6a583bf3&is=6a56ea73&hm=c79510a48773819b716ad66e5382129143c368cffd26d0e532a68d821720d9d1&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676609230530281535/2d8f99a7e3e820202bcd78d686c32f04_1.gif?ex=6a583bf3&is=6a56ea73&hm=c79510a48773819b716ad66e5382129143c368cffd26d0e532a68d821720d9d1&",
+              "width": 446,
+              "height": 340
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "feguillas",
+    "usuario_id": "691201366777135146",
+    "fecha_comando": "2020-05-10T21:39:25.603000-07:00",
+    "comando_completo": "ch!cook @Gonza (MTG)",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T21:39:25.925000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**chico chiripiorcas** cocina algo asombroso para **•GOOM•EG**",
+          "color": "#D127D1",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.322
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-15T15:03:25.904000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-15T15:03:27.232000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **•GOOM•EG**?",
+          "color": "#5126BE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.328
+    }
+  },
+  {
+    "usuario": "elpresidentemorado0048",
+    "usuario_id": "675020648644608071",
+    "fecha_comando": "2020-05-15T15:11:00.978000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-15T15:11:01.421000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **Turron ruar xd**!",
+          "color": "#B9B938",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "width": 500,
+            "height": 264
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "width": 500,
+              "height": 264
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.443
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-15T15:15:29.879000-07:00",
+    "comando_completo": "ch!cook alguien quiere",
+    "respuesta_bot": {
+      "fecha": "2020-05-15T15:15:30.107000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **•GOOM•EG**?",
+          "color": "#02D859",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "elpresidentemorado0048",
+    "usuario_id": "675020648644608071",
+    "fecha_comando": "2020-05-15T15:16:03.926000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-15T15:16:04.529000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Turron ruar xd**",
+          "color": "#A05CA4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "width": 640,
+            "height": 360
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "width": 640,
+              "height": 360
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.603
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-16T11:21:08.590000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-16T11:21:08.844000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**✧Moeᴾʰʸ✧** está cocinando algo muy rico!",
+          "color": "#3BEFA7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.254
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-16T11:26:06.415000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-16T11:26:06.577000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **✧Moeᴾʰʸ✧**",
+          "color": "#40B11E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577628776923196/b6ce202dc9a5d50fd0d04bd964b71ec5.gif?ex=6a57cd57&is=6a567bd7&hm=532da9a8e81fe50c5f83bf7b4acaaa328d66d4565a537ce7ceb3ec218ba3dd42&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-19T04:12:39.351000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T04:12:39.569000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **mi pen***",
+          "color": "#DB6671",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+            "width": 500,
+            "height": 266
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+              "width": 500,
+              "height": 266
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.218
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-19T04:13:01.190000-07:00",
+    "comando_completo": "ch!cook @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T04:13:01.405000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**mi pen*** alimentará a **Chocolat**... Se paciente **Chocolat**",
+          "color": "#F5C658",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-21T11:26:44.901000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-21T11:26:45.067000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **•GOOM•EG**?",
+          "color": "#39024D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+            "width": 797,
+            "height": 449
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+              "width": 797,
+              "height": 449
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-05-24T03:49:37.780000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-05-24T03:49:38.002000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **•GOOM•EG**?",
+          "color": "#3431B8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "width": 400,
+            "height": 226
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "width": 400,
+              "height": 226
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-08T16:20:44.785000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T16:20:44.982000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**㊕ Jalonso Itv_ch ㊕** está cocinando algo muy rico!",
+          "color": "#1F2F2B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+            "width": 500,
+            "height": 372
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+              "width": 500,
+              "height": 372
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.197
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-10T14:04:34.371000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T14:04:34.582000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**H2o.** está cocinando algo muy rico!",
+          "color": "#777298",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+            "width": 797,
+            "height": 449
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+              "width": 797,
+              "height": 449
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-06-13T21:46:08.988000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-13T21:46:09.175000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **Latte**!",
+          "color": "#EF157A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-06-13T21:46:18.868000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-13T21:46:19.069000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Latte**",
+          "color": "#30224E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-14T19:37:42.209000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-14T19:37:42.494000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ben17** se ha puesto a cocinar.",
+          "color": "#993A0C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "width": 400,
+            "height": 226
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "width": 400,
+              "height": 226
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.285
+    }
+  },
+  {
+    "usuario": "dani_rot",
+    "usuario_id": "691077142603235455",
+    "fecha_comando": "2020-06-26T18:58:14.919000-07:00",
+    "comando_completo": "ch!cook @antonia🐣  mejor deja que te cocine ewe",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T18:58:15.161000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**anto☘** comerá la comida que **komipon** prepara.",
+          "color": "#F61DB4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+            "width": 500,
+            "height": 266
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+              "width": 500,
+              "height": 266
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-06-26T19:00:08.629000-07:00",
+    "comando_completo": "ch!cook @antonia🐣",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T19:00:14.521000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **anto☘**?",
+          "color": "#F93CD8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+            "width": 400,
+            "height": 225
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+              "width": 400,
+              "height": 225
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.892
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-06-26T19:00:14.402000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T19:00:14.521000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **anto☘**?",
+          "color": "#F93CD8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+            "width": 400,
+            "height": 225
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+              "width": 400,
+              "height": 225
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.119
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-26T19:19:25.006000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T19:19:25.410000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **Owao Kun!**!",
+          "color": "#B7D501",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.404
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-06-26T19:32:04.765000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T19:32:07.767000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **anto☘**!",
+          "color": "#923A34",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.002
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-06-26T19:51:49.081000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T19:51:49.462000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **anto☘**",
+          "color": "#F34356",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+            "width": 797,
+            "height": 449
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763733778890772/6f0adff7-fc92-4a17-bcc0-21f5b25155b2.gif?ex=6a582317&is=6a56d197&hm=aa4a00243c651de0f77a830189dc245f818e0b1f3aa525db4816bea0748e7022&",
+              "width": 797,
+              "height": 449
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.381
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-06-26T19:52:15.496000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T19:52:16.648000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**SSLS_KAGIRI** está cocinando algo muy rico!",
+          "color": "#AAF957",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.152
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-26T21:35:41.413000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T21:35:41.956000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**OwaoKun!** está cocinando algo muy rico!",
+          "color": "#F2049B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "width": 400,
+            "height": 226
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "width": 400,
+              "height": 226
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.543
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-06-26T23:08:52.026000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T23:08:52.208000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **SSLS_KAGIRI**?",
+          "color": "#02D207",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/679556000885374976/c2f3d7e9229eb395042fa957e2232914.gif?ex=6a57bf98&is=6a566e18&hm=df4866bb4aa8e3685c64d9888c3632528f3fb5a936e30040a1a9471906156a60&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679556000885374976/c2f3d7e9229eb395042fa957e2232914.gif?ex=6a57bf98&is=6a566e18&hm=df4866bb4aa8e3685c64d9888c3632528f3fb5a936e30040a1a9471906156a60&",
+            "width": 250,
+            "height": 187
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/679556000885374976/c2f3d7e9229eb395042fa957e2232914.gif?ex=6a57bf98&is=6a566e18&hm=df4866bb4aa8e3685c64d9888c3632528f3fb5a936e30040a1a9471906156a60&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679556000885374976/c2f3d7e9229eb395042fa957e2232914.gif?ex=6a57bf98&is=6a566e18&hm=df4866bb4aa8e3685c64d9888c3632528f3fb5a936e30040a1a9471906156a60&",
+              "width": 250,
+              "height": 187
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-27T10:21:25.839000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-27T10:21:25.995000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**空 (Sora)** está cocinando algo muy rico!",
+          "color": "#B3CE24",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "elmuzan",
+    "usuario_id": "664594528161759302",
+    "fecha_comando": "2020-06-27T16:48:36.029000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-27T16:48:36.366000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **JuanGamer GC**!",
+          "color": "#6DD872",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "width": 400,
+            "height": 226
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "width": 400,
+              "height": 226
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.337
+    }
+  },
+  {
+    "usuario": "elmuzan",
+    "usuario_id": "664594528161759302",
+    "fecha_comando": "2020-06-27T16:48:49.640000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-06-27T16:48:49.830000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**JuanGamer GC** está cocinando algo muy rico!",
+          "color": "#BF9DBC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "width": 540,
+            "height": 274
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "width": 540,
+              "height": 274
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-07-01T21:02:07.391000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T21:02:07.661000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **antonia🐣**!",
+          "color": "#9EAD27",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐣",
+              "code": "hatching_chick",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f423.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.27
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-01T22:24:28.928000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T22:24:29.272000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **§✧Moeᴾʰʸ✧§**?",
+          "color": "#EB6FC6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+            "width": 494,
+            "height": 282
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677763979455496202/9134d96446de2d831c705b78716bf4d0.gif?ex=6a57d224&is=6a5680a4&hm=eb1a6e41e9e2d5977f8afe9964868c066ae030e19cbb21ee30cb7643104ff73b&",
+              "width": 494,
+              "height": 282
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "magnesferumlilith",
+    "usuario_id": "701896612401774713",
+    "fecha_comando": "2020-07-09T20:35:31.290000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T20:35:31.469000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **☕⃟░⃝ʜᴏɴᴇʏ_ʟᴏʟɪ**?",
+          "color": "#C868DB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "☕",
+              "code": "coffee",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2615.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.179
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-22T14:26:39.288000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-07-22T14:26:39.560000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **₊〘 ⓈⒼ〙𝙲𝚊𝚏𝚎𝚎𝚎.  ❝🚬❞**",
+          "color": "#A70018",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🚬",
+              "code": "smoking",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6ac.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.272
+    }
+  },
+  {
+    "usuario": "kolibri_3.",
+    "usuario_id": "724689905321639947",
+    "fecha_comando": "2020-07-25T17:36:05.548000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-07-25T17:36:05.910000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **▄︻̷̿┻̿═━一♔〘Ł€Ꮆ€ŇĐ〙♔**",
+          "color": "#188AEF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/708336051818725406/5c5042ab-a4c7-46ce-abe9-48eb355caaa4.gif?ex=6a584c9b&is=6a56fb1b&hm=1dfda3970b33f4d8440c1d2880d614194b8191187e8b5033155e5688bbe64078&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/708336051818725406/5c5042ab-a4c7-46ce-abe9-48eb355caaa4.gif?ex=6a584c9b&is=6a56fb1b&hm=1dfda3970b33f4d8440c1d2880d614194b8191187e8b5033155e5688bbe64078&",
+            "width": 540,
+            "height": 259
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/708336051818725406/5c5042ab-a4c7-46ce-abe9-48eb355caaa4.gif?ex=6a584c9b&is=6a56fb1b&hm=1dfda3970b33f4d8440c1d2880d614194b8191187e8b5033155e5688bbe64078&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/708336051818725406/5c5042ab-a4c7-46ce-abe9-48eb355caaa4.gif?ex=6a584c9b&is=6a56fb1b&hm=1dfda3970b33f4d8440c1d2880d614194b8191187e8b5033155e5688bbe64078&",
+              "width": 540,
+              "height": 259
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.362
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-08T18:27:59.844000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-08T18:27:59.996000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **Ninlla**!",
+          "color": "#516628",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-18T09:35:41.706000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T09:35:42.516000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**Penny ;3** está cocinando algo muy rico!",
+          "color": "#104FE6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.81
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-18T09:36:17.756000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T09:36:19.108000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **Penny ;3**?",
+          "color": "#4BD7CC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "width": 500,
+            "height": 264
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "width": 500,
+              "height": 264
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.352
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-18T12:47:05.610000-07:00",
+    "comando_completo": "ch!cook @ɪɴᴅᴇᴋ-",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T12:47:06.309000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**SONIC747RE** alimentará a **❭❱ ɪɴᴅᴇᴋ-₁₀₂₈**... Se paciente **❭❱ ɪɴᴅᴇᴋ-₁₀₂₈**",
+          "color": "#FDF395",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.699
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-18T12:47:49.066000-07:00",
+    "comando_completo": "ch!cook @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T12:47:51.969000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**❄❄Alex Invernal❄❄** le cocina algo a **SONIC747RE**",
+          "color": "#F4A6ED",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.903
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-18T12:52:35.098000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T12:52:35.392000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**Penny ;3** está cocinando algo muy rico!",
+          "color": "#9C7D89",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679555883574755328/49c28344d8862d44f24564e92214d58d.gif?ex=6a57bf7c&is=6a566dfc&hm=a807af9620aa030b9cffcf3eb4f1b61943f4feae96fd46060a7650a41c9b2b9c&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-18T13:35:58.676000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:35:58.900000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Penny ;3**",
+          "color": "#89E973",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/679556446932828167/7fd7c96855025178bf6c2da08ca11a0e.gif?ex=6a57c002&is=6a566e82&hm=ed5eb14eebba7d9b00401aa48d7658bf4d1d69e74c0f004dcb11b36024bdaa6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679556446932828167/7fd7c96855025178bf6c2da08ca11a0e.gif?ex=6a57c002&is=6a566e82&hm=ed5eb14eebba7d9b00401aa48d7658bf4d1d69e74c0f004dcb11b36024bdaa6d&",
+            "width": 636,
+            "height": 340
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/679556446932828167/7fd7c96855025178bf6c2da08ca11a0e.gif?ex=6a57c002&is=6a566e82&hm=ed5eb14eebba7d9b00401aa48d7658bf4d1d69e74c0f004dcb11b36024bdaa6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/679556446932828167/7fd7c96855025178bf6c2da08ca11a0e.gif?ex=6a57c002&is=6a566e82&hm=ed5eb14eebba7d9b00401aa48d7658bf4d1d69e74c0f004dcb11b36024bdaa6d&",
+              "width": 636,
+              "height": 340
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.224
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-19T15:29:19.897000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-19T15:29:24.669000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **ᴄᴀʀᴀᴍᴇʟᴏ-sᴀɴ ᴜᴡᴜ🌷✨🍬🍬🍫**",
+          "color": "#A70B26",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/719692609076854864/9b8aa415-2241-400f-90a1-cb81dfd11c2c.gif?ex=6a5815f9&is=6a56c479&hm=aa6e80762d2e7cc9de558cb8bb7632d49e0cb7e0d7ea826cce9323622a3f871c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/719692609076854864/9b8aa415-2241-400f-90a1-cb81dfd11c2c.gif?ex=6a5815f9&is=6a56c479&hm=aa6e80762d2e7cc9de558cb8bb7632d49e0cb7e0d7ea826cce9323622a3f871c&",
+            "width": 540,
+            "height": 416
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/719692609076854864/9b8aa415-2241-400f-90a1-cb81dfd11c2c.gif?ex=6a5815f9&is=6a56c479&hm=aa6e80762d2e7cc9de558cb8bb7632d49e0cb7e0d7ea826cce9323622a3f871c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/719692609076854864/9b8aa415-2241-400f-90a1-cb81dfd11c2c.gif?ex=6a5815f9&is=6a56c479&hm=aa6e80762d2e7cc9de558cb8bb7632d49e0cb7e0d7ea826cce9323622a3f871c&",
+              "width": 540,
+              "height": 416
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌷",
+              "code": "tulip",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f337.svg"
+            },
+            {
+              "id": "",
+              "name": "✨",
+              "code": "sparkles",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2728.svg"
+            },
+            {
+              "id": "",
+              "name": "🍬",
+              "code": "candy",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36c.svg"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.772
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-19T15:52:37.517000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-19T15:52:37.689000-07:00",
+      "contenido": "The ball landed on: **black 17**!\n\n**No Winners  :[**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T09:44:14.436000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T09:44:14.675000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **ᴄᴀʀᴀᴍᴇʟᴏ-sᴀɴ ᴜᴡᴜ🌷✨🍬🍬🍫**?",
+          "color": "#27CC17",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677765056821461008/fc288db559532307d2af50264501900b.gif?ex=6a57d325&is=6a5681a5&hm=74194a490f83c82bea6b2a9e182ef85c0d8b5df3c772ead338b11d09ac9e1072&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765056821461008/fc288db559532307d2af50264501900b.gif?ex=6a57d325&is=6a5681a5&hm=74194a490f83c82bea6b2a9e182ef85c0d8b5df3c772ead338b11d09ac9e1072&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677765056821461008/fc288db559532307d2af50264501900b.gif?ex=6a57d325&is=6a5681a5&hm=74194a490f83c82bea6b2a9e182ef85c0d8b5df3c772ead338b11d09ac9e1072&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765056821461008/fc288db559532307d2af50264501900b.gif?ex=6a57d325&is=6a5681a5&hm=74194a490f83c82bea6b2a9e182ef85c0d8b5df3c772ead338b11d09ac9e1072&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌷",
+              "code": "tulip",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f337.svg"
+            },
+            {
+              "id": "",
+              "name": "✨",
+              "code": "sparkles",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2728.svg"
+            },
+            {
+              "id": "",
+              "name": "🍬",
+              "code": "candy",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36c.svg"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.239
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T09:44:32.611000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T09:44:32.980000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **ᴄᴀʀᴀᴍᴇʟᴏ-sᴀɴ ᴜᴡᴜ🌷✨🍬🍬🍫**",
+          "color": "#054E2B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "width": 540,
+            "height": 274
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "width": 540,
+              "height": 274
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌷",
+              "code": "tulip",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f337.svg"
+            },
+            {
+              "id": "",
+              "name": "✨",
+              "code": "sparkles",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2728.svg"
+            },
+            {
+              "id": "",
+              "name": "🍬",
+              "code": "candy",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36c.svg"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.369
+    }
+  },
+  {
+    "usuario": "suunnyy___",
+    "usuario_id": "727309398413803641",
+    "fecha_comando": "2020-08-20T15:40:57.771000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T15:40:58.023000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **ᴏʀᴇᴏ-sᴀɴ qwq☕🍪🍫**!",
+          "color": "#231D73",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "☕",
+              "code": "coffee",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2615.svg"
+            },
+            {
+              "id": "",
+              "name": "🍪",
+              "code": "cookie",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36a.svg"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.252
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-20T15:41:16.024000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T15:41:16.383000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Kirby**",
+          "color": "#8F4B0C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "width": 540,
+            "height": 274
+          },
+          "footer": {
+            "text": "¿Te gustaría apoyar a Chocolat? Necesitamos de tu ayuda, para más información use el comando: ch!donate"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "width": 540,
+              "height": 274
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.359
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-22T16:23:15.469000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-22T16:23:15.996000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**Kirby** está cocinando algo muy rico!",
+          "color": "#17CD25",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "width": 500,
+            "height": 264
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "width": 500,
+              "height": 264
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.527
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-22T18:26:11.377000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-08-22T18:26:11.605000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Kirby**",
+          "color": "#3862A5",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "width": 500,
+            "height": 281
+          },
+          "footer": {
+            "text": "¿Te gustaría apoyar a Chocolat? Necesitamos de tu ayuda, para más información use el comando: ch!donate"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-31T10:04:49.944000-07:00",
+    "comando_completo": "ch!cook @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-08-31T10:04:53.426000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**❄❄Alex Invernal❄❄ •s.c•** le cocina algo a **Sopaz**",
+          "color": "#97E349",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+            "width": 500,
+            "height": 269
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+              "width": 500,
+              "height": 269
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.482
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-09-06T18:08:52.865000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-09-06T18:08:53.657000-07:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  ZTLeo#1500  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "Your pet ran around you in circles. It is now resting on your lap! **(+14 exp, +3 fatigue!)**",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/752334546690899998/pet.png?ex=6a582f25&is=6a56dda5&hm=01ac2c082470f79d73dd883d5f3cfbf8790e392330139a4fa778e92fd002c6e1&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/752334546690899998/pet.png?ex=6a582f25&is=6a56dda5&hm=01ac2c082470f79d73dd883d5f3cfbf8790e392330139a4fa778e92fd002c6e1&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "Wrapped Tatsugotchis are tradable, but not unwrapped ones."
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.792
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-09-08T02:36:47.784000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-09-08T02:36:48.063000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **•GOOM•EG**",
+          "color": "#96FB73",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+            "width": 400,
+            "height": 226
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676601428843823104/9E1.gif?ex=6a5834af&is=6a56e32f&hm=8b544cd3889f991fa88c21d23722ac744668965620f581218b5ce5d091aec247&",
+              "width": 400,
+              "height": 226
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.279
+    }
+  },
+  {
+    "usuario": "gonzamtg",
+    "usuario_id": "650507145627959306",
+    "fecha_comando": "2020-09-09T19:16:47.464000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-09-09T19:16:52.690000-07:00",
+      "contenido": "> **‎Viewing daily quests  •  [**  pablin#9973  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Daily Quests",
+          "url": null,
+          "timestamp": "2020-09-09T19:16:52.595-07:00",
+          "description": "**Today's daily quests refresh in `21`h `44`mins.** \nCompleting all daily quests will give you bonus :e: **tokens**!\n  \n **Completion Status**",
+          "color": "#E5C100",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NI1eUPVHm_oh5e-uzz5tYPPlzGMxbTyGZ9j1cvrXAOk/%3Fv%3D1/https/cdn.discordapp.com/emojis/723477074031149126.png",
+            "canonicalUrl": "https://cdn.discordapp.com/emojis/723477074031149126.png?v=1",
+            "width": 128,
+            "height": 128
+          },
+          "footer": {
+            "text": "Daily quests reset at 00:00 UTC"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Give 10 Cookies",
+              "value": ":cookies_given_complete: :e::e::e::e::e::e::e::e: `10/10`\n**Rewards:** :e: `144` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Send 144 Messages",
+              "value": ":messages_sent_complete: :e::e::e::e::e::e::e::e: `144/144`\n**Rewards:** :e: `233` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Walk Your Pet 8 Times",
+              "value": ":pet_walk_complete: :e::e::e::e::e::e::e::e: `8/8`\n**Rewards:** :e: `207` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Earn 200 Credits",
+              "value": ":credits_earned_complete: :e::e::e::e::e::e::e::e: `200/200`\n**Rewards:** :e: `144` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Catch 14 Fish",
+              "value": ":fish_caught_complete: :e::e::e::e::e::e::e::e: `14/14`\n**Rewards:** :e: `227` credits\n‎",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "706219192713740390",
+              "name": "e",
+              "code": "e",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/706219192713740390.gif"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.226
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-10-31T21:51:50.549000-07:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-10-31T21:51:50.823000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**💓xXThe Princess LaraXx💓** se ha puesto a cocinar.",
+          "color": "#D6345E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "💓",
+              "code": "heartbeat",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f493.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.274
+    }
+  },
+  {
+    "usuario": "jeanpy.",
+    "usuario_id": "657394073438650402",
+    "fecha_comando": "2020-11-25T09:58:52.026000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-11-25T09:58:52.291000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡A cocinar **Jeanpy ✝**!",
+          "color": "#7C81C3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.265
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-11-26T18:40:15.634000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-11-26T18:40:17.030000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Kusami**",
+          "color": "#1EF061",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "width": 640,
+            "height": 360
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "width": 640,
+              "height": 360
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.396
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-30T11:04:57.371000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-11-30T11:05:08.908000-08:00",
+      "contenido": "🎣  **|**  **you caught: 📎!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.537
+    }
+  },
+  {
+    "usuario": "cocacolaespuma8468",
+    "usuario_id": "770035503507832834",
+    "fecha_comando": "2020-12-09T09:02:33.162000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T09:02:33.467000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡**CoCa CoLa EsPuMa** está cocinando algo muy rico!",
+          "color": "#759DAF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.305
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-11T02:08:16.793000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-11T02:08:16.989000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **franportillo**",
+          "color": "#9D8441",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+            "width": 500,
+            "height": 372
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577729352138752/52f6f83e8cbfdf520be3e55b852f10e0.gif?ex=6a57cd6f&is=6a567bef&hm=dac88bbb997d7a0ffc4bd84163134263255655ccb9002aadce9e08bc50e8b032&",
+              "width": 500,
+              "height": 372
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-19T07:20:39.234000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T07:20:39.479000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** se ha puesto a cocinar.",
+          "color": "#F84497",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "width": 500,
+            "height": 264
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "width": 500,
+              "height": 264
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.245
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-19T17:22:42.252000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T17:22:42.369000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** se ha puesto a cocinar.",
+          "color": "#42BCC7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676610545603837982/unnamed.gif?ex=6a583d2c&is=6a56ebac&hm=540ca2c4b0cfb6e251c9b5a3e3f599ca19854c76b38ac91b2ebcdbf873cd928c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.117
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-19T17:37:05.878000-08:00",
+    "comando_completo": "ch!Cook @Pera 🍐 (Gomin't) mogun't",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T17:37:06.083000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** alimentará a **goonmatias10**... Se paciente **goonmatias10**",
+          "color": "#4D3947",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+            "width": 540,
+            "height": 274
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763671317446666/c86d5869-1651-4ab7-b33f-0c3468df71d2.gif?ex=6a582308&is=6a56d188&hm=a4d5602eee2334355641d9f1cbf2b92879b7d873215e9f1416e36d4780aa1d2e&",
+              "width": 540,
+              "height": 274
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-19T17:38:44.974000-08:00",
+    "comando_completo": "ch!Cook  te alimento.",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T17:38:45.178000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** cocina algo asombroso para **! PAPITOMIREY MS2O**",
+          "color": "#C6A503",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-20T09:25:52.799000-08:00",
+    "comando_completo": "ch!Cook @🔰『虎|₮igre <3』🔰",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T09:25:53.147000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** le cocina algo a **虎Tigre**",
+          "color": "#067AB4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676597610638737438/11307750e348d92a63f96d7f8f72d15750844446_hq.gif?ex=6a583120&is=6a56dfa0&hm=c0f8547041ce458dc761991781482a6ba91f1e7a08539dd109bea2b0676deb9c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.348
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-20T13:57:13.618000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T13:57:13.958000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Qué estará cocinando **Kusami**?",
+          "color": "#AFBD3B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764139635965972/8ae24047e9f88e78dfa968d7f2084996.gif?ex=6a57d24b&is=6a5680cb&hm=417d728f4d62952a8ec86473e398b2a71bc740e581abd2c69821a98745da131a&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.34
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-20T15:18:49.611000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T15:18:49.820000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** le cocina algo a **|| !  𝓢𝓽𝓲𝓿𝓮𝓷  💎||**",
+          "color": "#2D064B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577886617567270/a727a6b2935ab50a1d3fa6e10153a07b.gif?ex=6a57cd94&is=6a567c14&hm=0ec841f4a5627602317a738b00c7e193c5903c3cd43c04a7edeeea97154aaf3a&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "💎",
+              "code": "gem",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f48e.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-22T17:19:26.028000-08:00",
+    "comando_completo": "ch!Cook @Delete User",
+    "respuesta_bot": {
+      "fecha": "2020-12-22T17:19:27.690000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** alimentará a **! PAPITOMIREY MS2O**... Se paciente **! PAPITOMIREY MS2O**",
+          "color": "#AD1F8F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+            "width": 500,
+            "height": 264
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509341925435/original_1.gif?ex=6a582c60&is=6a56dae0&hm=5487250a218424363b33b5b52e1bc6c0441d89e1d79104ce734b6be84de9527b&",
+              "width": 500,
+              "height": 264
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.662
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-23T09:09:19.607000-08:00",
+    "comando_completo": "ch!Cook @🔰『虎|₮igre <3』🔰",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T09:09:19.895000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** cocina algo asombroso para **虎Tigre**",
+          "color": "#BEA217",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592509824008202/original.gif?ex=6a582c60&is=6a56dae0&hm=4ff4b0e2ad1591f1b01e32afacb8e3505b06dbf794e0e07a61844744527dabc7&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.288
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-23T09:16:00.063000-08:00",
+    "comando_completo": "ch!Cook torta :chBored:",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T09:16:00.299000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Veo que te gusta la cocina **Kusami❄**",
+          "color": "#92A8B9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677577580534169629/2bc34592cdc7c5b87c81ebf4fc775348.gif?ex=6a57cd4b&is=6a567bcb&hm=eb91c27f307d093abecd4627a141cd2a3cd70a1a39ae6f0ede03496287ff7ad2&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577580534169629/2bc34592cdc7c5b87c81ebf4fc775348.gif?ex=6a57cd4b&is=6a567bcb&hm=eb91c27f307d093abecd4627a141cd2a3cd70a1a39ae6f0ede03496287ff7ad2&",
+            "width": 400,
+            "height": 226
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677577580534169629/2bc34592cdc7c5b87c81ebf4fc775348.gif?ex=6a57cd4b&is=6a567bcb&hm=eb91c27f307d093abecd4627a141cd2a3cd70a1a39ae6f0ede03496287ff7ad2&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677577580534169629/2bc34592cdc7c5b87c81ebf4fc775348.gif?ex=6a57cd4b&is=6a567bcb&hm=eb91c27f307d093abecd4627a141cd2a3cd70a1a39ae6f0ede03496287ff7ad2&",
+              "width": 400,
+              "height": 226
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-23T09:18:50.731000-08:00",
+    "comando_completo": "ch!cook @Delete User",
+    "respuesta_bot": {
+      "fecha": "2020-12-23T09:18:50.993000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**! PAPITOMIREY MS2O** comerá la comida que **Kusami❄** prepara.",
+          "color": "#59DCFE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+            "width": 640,
+            "height": 360
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677765173259272213/6ef4fc8a3edf9337af82b908fae2df25.gif?ex=6a57d341&is=6a5681c1&hm=69696b06c34a8b3380e804135071b2a183f187f47d61052c039fbf1e4e58ed03&",
+              "width": 640,
+              "height": 360
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.262
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-24T13:26:50.060000-08:00",
+    "comando_completo": "ch!Cook @Delete User",
+    "respuesta_bot": {
+      "fecha": "2020-12-24T13:26:50.279000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**! PAPITOMIREY MS2O** comerá la comida que **Kusami❄** prepara.",
+          "color": "#057F56",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+            "width": 500,
+            "height": 269
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763794952945674/723c769a-200a-4e98-b5ea-8923e8cbc7fe.gif?ex=6a582326&is=6a56d1a6&hm=4f3e84514d8cc395e38a679c2d3f50cb87df3dc9dbdeff7d6d2ae137e3b07794&",
+              "width": 500,
+              "height": 269
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-24T14:43:41.408000-08:00",
+    "comando_completo": "ch!Cook @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2020-12-24T14:43:41.641000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami❄** alimentará a **Mįss**... Se paciente **Mįss**",
+          "color": "#F17D13",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763707371421707/14761a51-1f0d-49d0-8e58-4b797c29f6fc.gif?ex=6a582311&is=6a56d191&hm=6ac38bf856ddbb27d73a5dc649d967c405475c372c6d40f846206c1990872622&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763707371421707/14761a51-1f0d-49d0-8e58-4b797c29f6fc.gif?ex=6a582311&is=6a56d191&hm=6ac38bf856ddbb27d73a5dc649d967c405475c372c6d40f846206c1990872622&",
+            "width": 540,
+            "height": 275
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763707371421707/14761a51-1f0d-49d0-8e58-4b797c29f6fc.gif?ex=6a582311&is=6a56d191&hm=6ac38bf856ddbb27d73a5dc649d967c405475c372c6d40f846206c1990872622&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763707371421707/14761a51-1f0d-49d0-8e58-4b797c29f6fc.gif?ex=6a582311&is=6a56d191&hm=6ac38bf856ddbb27d73a5dc649d967c405475c372c6d40f846206c1990872622&",
+              "width": 540,
+              "height": 275
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-30T09:42:27.659000-08:00",
+    "comando_completo": "ch!cook @🔰『虎|₮igre <3』🔰",
+    "respuesta_bot": {
+      "fecha": "2020-12-30T09:42:27.974000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**虎Tigre** comerá la comida que **Kusami❄** prepara.",
+          "color": "#41BE19",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+            "width": 400,
+            "height": 225
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592508997861379/7717b0c92fd6bf9a82f9e70990d3e76f.gif?ex=6a582c60&is=6a56dae0&hm=393191b8ba38b603bbcb4afac8e01e210c34c74a2d74bac6b0cb734fe9d3a72e&",
+              "width": 400,
+              "height": 225
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.315
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-31T17:06:32.715000-08:00",
+    "comando_completo": "ch!cook @🔰『虎|₮igre <3』🔰",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:06:33.194000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mikasa Ackerman** alimentará a **虎Tigre**... Se paciente **虎Tigre**",
+          "color": "#C7CE3E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763753215426575/78f4ee7a-7fc4-40c2-b893-64fdc0dd25fe.gif?ex=6a58231c&is=6a56d19c&hm=29654dfe24f785d9fa5b9ec5b50c62239645a60f20e031ed1152500afc3620a5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763753215426575/78f4ee7a-7fc4-40c2-b893-64fdc0dd25fe.gif?ex=6a58231c&is=6a56d19c&hm=29654dfe24f785d9fa5b9ec5b50c62239645a60f20e031ed1152500afc3620a5&",
+            "width": 500,
+            "height": 283
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763753215426575/78f4ee7a-7fc4-40c2-b893-64fdc0dd25fe.gif?ex=6a58231c&is=6a56d19c&hm=29654dfe24f785d9fa5b9ec5b50c62239645a60f20e031ed1152500afc3620a5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763753215426575/78f4ee7a-7fc4-40c2-b893-64fdc0dd25fe.gif?ex=6a58231c&is=6a56d19c&hm=29654dfe24f785d9fa5b9ec5b50c62239645a60f20e031ed1152500afc3620a5&",
+              "width": 500,
+              "height": 283
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.479
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-31T17:08:50.180000-08:00",
+    "comando_completo": "ch!cook @miilllli",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:08:50.368000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mikasa Ackerman** cocina algo asombroso para **automaticamenteseautomata**",
+          "color": "#155F21",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676763780902027274/10f24b3d-7acb-4d66-a393-cb84c2711f60.gif?ex=6a582323&is=6a56d1a3&hm=16fc5be2bf486e49ffd3175e08d2773bef920f9c827ad7666e2b2aa444e2bd16&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.188
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-31T17:14:31.237000-08:00",
+    "comando_completo": "ch!cook @miilllli",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:14:32.388000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**automaticamenteseautomata** comerá la comida que **Mikasa Ackerman** prepara.",
+          "color": "#3ED3C8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+            "width": 500,
+            "height": 266
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764201833431060/cd1efed887ade84b84d8a530d4fdefc6.gif?ex=6a57d259&is=6a5680d9&hm=cc9a23d3703640d498d8564d2ef4ec4d586fe901cccdc81efac9c11d83ce50b3&",
+              "width": 500,
+              "height": 266
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.151
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-31T18:58:58.876000-08:00",
+    "comando_completo": "ch!cook",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T18:58:59.067000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mikasa Ackerman** le cocina algo a **automaticamenteseautomata**",
+          "color": "#C45B5A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677764054512828448/b5e1f02d819f7811e7eb85a943321acf.gif?ex=6a57d236&is=6a5680b6&hm=2bee209925016d0e78d68cf8dc05f71995221201bbb8be1d5dae9c9a5377cd01&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.191
+    }
+  }
+]

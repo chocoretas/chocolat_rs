@@ -1,0 +1,2366 @@
+[
+  {
+    "usuario": "itzcinder",
+    "usuario_id": "508047878292242442",
+    "fecha_comando": "2019-01-13T02:32:43.135000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-13T02:32:43.281000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**😎XxJeanGamerxX 😎[2019]**, has sacado:",
+          "color": "#6038BD",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "😎",
+              "code": "sunglasses",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60e.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:15.764000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:16.181000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#2B8798",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.417
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:22.920000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:23.162000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#46A13C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:29.221000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:29.367000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#EED4E0",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-01-28T18:40:35.312000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:35.505000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**EduFran★**, has sacado:",
+          "color": "#D06F04",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.193
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:43.496000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:43.673000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#0EE8FD",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:50.876000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:50.900000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#4F25C1",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.024
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:40:57.423000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:40:57.541000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#4E8F95",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:41:02.193000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:41:02.398000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#3DC763",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-28T18:41:07.481000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-01-28T18:41:07.637000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reəddo**, has sacado:",
+          "color": "#2323EC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "luisito3289",
+    "usuario_id": "502272871561691136",
+    "fecha_comando": "2019-02-17T17:18:38.646000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-02-17T17:18:38.841000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**LuisiTo**, has sacado:",
+          "color": "#E5BD36",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-05-25T23:35:46.065000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T23:35:46.184000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo**, has sacado:",
+          "color": "#7F84DF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.119
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-05-25T23:35:56.449000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T23:35:56.590000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**󠇰󠇰**, has sacado:",
+          "color": "#CF6382",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-21T13:04:21.579000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-07-21T13:04:21.779000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dana**, has sacado:",
+          "color": "#70C081",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-25T17:07:40.676000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:07:41.722000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**JuanXander**, has sacado:",
+          "color": "#1BD069",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.046
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T16:35:04.378000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T16:35:04.523000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Victor44isnoob**, has sacado:",
+          "color": "#2020F0",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.145
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T16:35:12.291000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T16:35:12.428000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Victor44isnoob**, has sacado:",
+          "color": "#E7205A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.137
+    }
+  },
+  {
+    "usuario": "mike_chr",
+    "usuario_id": "288785207300194306",
+    "fecha_comando": "2019-09-03T02:44:49.312000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T02:44:49.492000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**~Griffin**, has sacado:",
+          "color": "#0016E9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.18
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-10-27T12:34:55.383000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2019-10-27T12:34:55.585000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Juansmeiden★**, has sacado:",
+          "color": "#7D9256",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:53:16.924000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:53:17.195000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Cheeks**, has sacado:",
+          "color": "#DB5212",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.271
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:29:58.055000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:29:58.331000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa**, has sacado:",
+          "color": "#873751",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.276
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:30:09.599000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:30:09.753000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**ojo sharingan de kailer**, has sacado:",
+          "color": "#E232B2",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:30:18.483000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:30:18.710000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa**, has sacado:",
+          "color": "#8C3F2F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:30:19.845000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:30:20.075000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**ojo sharingan de kailer**, has sacado:",
+          "color": "#965C73",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.23
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-29T13:59:41.178000-08:00",
+    "comando_completo": "ch!roll Cuántos meses seguiré en el Staff?",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:59:41.363000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**** ****, has sacado:",
+          "color": "#2D6ECB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "elmegacabra9851",
+    "usuario_id": "515019441419976704",
+    "fecha_comando": "2020-03-22T17:33:33.731000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-03-22T17:33:33.937000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**☆Megacabra la cabra mexicana☆**, has sacado:",
+          "color": "#B0CE28",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "elmegacabra9851",
+    "usuario_id": "515019441419976704",
+    "fecha_comando": "2020-03-22T17:33:38.809000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-03-22T17:33:39.094000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**☆Megacabra la cabra mexicana☆**, has sacado:",
+          "color": "#78C0BE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.285
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-13T22:26:01.538000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-04-13T22:26:02.447000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo**, has sacado:",
+          "color": "#ED435C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.909
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-13T22:26:15.601000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-04-13T22:26:15.872000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo**, has sacado:",
+          "color": "#F2CC2F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.271
+    }
+  },
+  {
+    "usuario": "llacasito03",
+    "usuario_id": "426099570972426260",
+    "fecha_comando": "2020-06-04T07:50:27.872000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:50:28.058000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Llacasito03**, el dado cayó:",
+          "color": "#BC2C2B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-07-02T17:52:55.523000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-02T17:52:55.724000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**||JeanFranco24||**, el dado cayó:",
+          "color": "#C52822",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-07-02T17:53:01.564000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-02T17:53:01.731000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**||JeanFranco24||**, el dado cayó:",
+          "color": "#B4A6D8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.167
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-30T20:36:42.031000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T20:36:42.334000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**SONIC747RE**, el dado cayó:",
+          "color": "#4D9501",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.303
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-07-30T20:37:02.044000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T20:37:02.334000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**★_Sylvester_Stallone_★**, el dado cayó:",
+          "color": "#5E255D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.29
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-07-30T20:38:30.866000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T20:38:31.141000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**el vendedor de panchos**, el dado cayó:",
+          "color": "#61E7E7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.275
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-07-30T20:39:08.444000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T20:39:09.097000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**★_Sylvester_Stallone_★**, el dado cayó:",
+          "color": "#C658E7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.653
+    }
+  },
+  {
+    "usuario": "indek1028",
+    "usuario_id": "365637842493505536",
+    "fecha_comando": "2020-07-30T20:39:22.901000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T20:39:23.284000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**❭❱ ɪɴᴅᴇᴋ-₁₀₂₈**, el dado cayó:",
+          "color": "#42EDA5",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.383
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-10-11T16:59:38.253000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-11T16:59:45.659000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**gh0st ឵឵ ឵ᴸʰ**, el dado cayó:",
+          "color": "#4E8309",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.406
+    }
+  },
+  {
+    "usuario": "iggy3.1",
+    "usuario_id": "676586069470478357",
+    "fecha_comando": "2020-10-14T10:48:02.178000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:48:02.520000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iggy 3.0**, el dado cayó:",
+          "color": "#A63601",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.342
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:49:35.731000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:49:35.933000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#0A80EC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:49:51.474000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:49:55.440000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#28EB7D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053490643927042/n4.png?ex=6a58017e&is=6a56affe&hm=50c0a3861945ce18ca73fee97ac2c0d29a3c4ded00ad5515e7fcc55d6bc0bc6d&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.966
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:50:10.104000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:50:10.580000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#756014",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.476
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:50:34.176000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:50:35.189000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#5B18C7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.013
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:50:52.548000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:50:55.836000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#D372C5",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.288
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:51:09.990000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:51:10.348000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#DB8339",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.358
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:52:17.948000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:52:18.160000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#D9AF6B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.212
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-14T10:52:48.837000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T10:52:49.427000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iwa-Chan**, el dado cayó:",
+          "color": "#38DAD9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.59
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-20T14:50:19.861000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-20T14:50:21.389000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Ergatuh**, el dado cayó:",
+          "color": "#919578",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.528
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-10-28T20:52:32.286000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T20:52:32.702000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**franportillo**, el dado cayó:",
+          "color": "#C2CBAB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.416
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-10-28T20:54:12.136000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T20:54:12.410000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mateo (contenido eliminado)**, el dado cayó:",
+          "color": "#A176DA",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.274
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-10-28T20:54:32.335000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T20:54:32.538000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mateo (contenido eliminado)**, el dado cayó:",
+          "color": "#9AD4C9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-10-28T20:55:37.755000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T20:55:38.020000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dantiado**, el dado cayó:",
+          "color": "#EBB720",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.265
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-10-28T20:56:02.446000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T20:56:02.752000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mateo (contenido eliminado)**, el dado cayó:",
+          "color": "#85FA8E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.306
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-10-28T21:23:01.284000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T21:23:01.584000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mateo (contenido eliminado)**, el dado cayó:",
+          "color": "#E60359",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.3
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-10-29T12:44:26.270000-07:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-10-29T12:44:26.772000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**franportillo**, el dado cayó:",
+          "color": "#5B4987",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053489973100545/n1.png?ex=6a58017d&is=6a56affd&hm=4330d155ca8b0c8f892079a87135e2b7be5bfec0d247c502a6a42005287a2d4f&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.502
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-11-08T15:39:16.016000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:39:16.252000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**gh0st ឵឵ ឵ᴸʰ**, el dado cayó:",
+          "color": "#60CF06",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-11-08T15:42:11.470000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:42:18.348000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**gh0st ឵឵ ឵ᴸʰ**, el dado cayó:",
+          "color": "#DF5019",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053495714840576/n5.png?ex=6a58017f&is=6a56afff&hm=e10d4d6968cbe1b64d9d2c256feed38fb81a2cbc3d89507498330317286fde35&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.878
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-11-08T15:45:08.085000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:45:08.249000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**gh0st ឵឵ ឵ᴸʰ**, el dado cayó:",
+          "color": "#741215",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.164
+    }
+  },
+  {
+    "usuario": "mayeutik",
+    "usuario_id": "497750506328817664",
+    "fecha_comando": "2020-11-08T15:47:55.537000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:47:56.402000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Rite**, el dado cayó:",
+          "color": "#8D46B4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.865
+    }
+  },
+  {
+    "usuario": "rrrrrrrrrrrrrrrrrrxiam4386",
+    "usuario_id": "773333003904614411",
+    "fecha_comando": "2020-11-08T15:48:13.410000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:48:13.741000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**boca ssho te amo**, el dado cayó:",
+          "color": "#A5B323",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053496092459019/n3.png?ex=6a58017f&is=6a56afff&hm=daf7d969a49fb020d23c85a3fbf8e9b40eb6849584458271fdb0026ac0e9fa38&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.331
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-11-08T15:51:11.765000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:51:12.187000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**gh0st ឵឵ ឵ᴸʰ**, el dado cayó:",
+          "color": "#206840",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053499070414848/n6.png?ex=6a580180&is=6a56b000&hm=3c059117dd09daa69b213a7a57174f2e51cc6db23bfd15fc6c5bd082813b4bde&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.422
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-11-08T15:59:41.874000-08:00",
+    "comando_completo": "ch!roll",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T15:59:42.124000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tirar dado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**gh0st ឵឵ ឵ᴸʰ**, el dado cayó:",
+          "color": "#C22BE9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+            "width": 112,
+            "height": 116
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/315914386944557056/371053492594409473/n2.png?ex=6a58017e&is=6a56affe&hm=766a0aeffe17b848fe30b6baf4c15012aa1a81544fc353adc5da828a039da144&",
+              "width": 112,
+              "height": 116
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  }
+]

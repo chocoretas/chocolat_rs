@@ -1,0 +1,16 @@
+[
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-23T15:59:58.185000-07:00",
+    "comando_completo": "ch!maybe",
+    "respuesta_bot": {
+      "fecha": "2019-07-23T15:59:58.417000-07:00",
+      "contenido": "No tienes permisos para ejecutar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  }
+]
