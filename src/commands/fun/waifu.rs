@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct WAIFU;
@@ -16,6 +16,7 @@ impl Command for WAIFU {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x76AF96))
             .description("Monogatari");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;

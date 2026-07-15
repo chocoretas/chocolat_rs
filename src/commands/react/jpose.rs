@@ -7,6 +7,7 @@ pub static JPOSE: InteractionCommand = InteractionCommand::new(
     "Posa con estilo como en JoJos",
     "Reacción",
     false,
+    0xAE78B1,
     "**$User** se puso a posar como los Jojo's.",
     "**$User** se puso a posar como los Jojo's."
 );

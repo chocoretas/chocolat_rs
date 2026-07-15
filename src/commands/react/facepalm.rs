@@ -7,6 +7,7 @@ pub static FACEPALM: InteractionCommand = InteractionCommand::new(
     "Haz un facepalm por algo absurdo",
     "Reacción",
     false,
+    0x0F7AFC,
     "**$User** está decepcionado.",
     "**$User** está decepcionado."
 );

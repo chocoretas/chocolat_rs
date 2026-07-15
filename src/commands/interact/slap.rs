@@ -7,6 +7,7 @@ pub static SLAP: InteractionCommand = InteractionCommand::new(
     "Dale una bofetada a alguien",
     "Interacción",
     true,
+    0xE95539,
     "**$User** le dio una bofetada a **$Target**",
     "**$User** da una bofetada"
 );

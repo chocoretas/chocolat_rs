@@ -7,6 +7,7 @@ pub static BOOM: InteractionCommand = InteractionCommand::new(
     "Explota de la emocion o enojo",
     "Reacción",
     false,
+    0x46C78D,
     "**¡BOOM!**",
     "**¡BOOM!**"
 );

@@ -7,6 +7,7 @@ pub static POKE: InteractionCommand = InteractionCommand::new(
     "Molesta o toca con el dedo a alguien",
     "Interacción",
     true,
+    0x3174C5,
     "**$User** fastidia a **$Target** e.e",
     "**$User** molesta e.e"
 );

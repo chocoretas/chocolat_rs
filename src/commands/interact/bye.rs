@@ -7,6 +7,7 @@ pub static BYE: InteractionCommand = InteractionCommand::new(
     "byebye",
     "Interacción",
     false,
+    0x3AC0B8,
     "**$User** acarició a **$Target** uwu",
     "**$User** se despide"
 );

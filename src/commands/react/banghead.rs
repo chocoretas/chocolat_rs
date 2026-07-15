@@ -7,6 +7,7 @@ pub static BANGHEAD: InteractionCommand = InteractionCommand::new(
     "Golpeate la cabeza contra la pared",
     "Reacción",
     false,
+    0x3DD476,
     "**$User** se está golpeando la cabeza.",
     "**$User** se está golpeando la cabeza."
 );

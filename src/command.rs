@@ -1,7 +1,7 @@
-use serenity::all::{Context, Message};
+use serenity::all::{Context, Message, CommandInteraction, CreateInteractionResponse, CreateInteractionResponseMessage};
 use async_trait::async_trait;
 
-#[derive(Clone, Copy)]  // Podemos clonar la struct para interactions
+#[derive(Clone, Copy)]
 pub struct CommandInfo {
     pub name: &'static str,
     pub description: &'static str,
@@ -18,6 +18,17 @@ pub trait Command: Sync + Send {
         msg: &Message,
         args: Vec<String>,
     ) -> serenity::Result<()>;
+
+    async fn execute_slash(
+        &self,
+        ctx: &Context,
+        command: &CommandInteraction,
+    ) -> serenity::Result<()> {
+        let response = CreateInteractionResponseMessage::new()
+            .content(format!("Comando `/{}` ejecutado con éxito.", self.info().name));
+        command.create_response(&ctx.http, CreateInteractionResponse::Message(response)).await?;
+        Ok(())
+    }
 }
 
 pub struct CommandRegistration {

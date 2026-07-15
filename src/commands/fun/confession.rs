@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct CONFESSION;
@@ -16,6 +16,7 @@ impl Command for CONFESSION {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x03A9F4))
             .description("You have placed a bet of 🍫1,000 on `red`.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;

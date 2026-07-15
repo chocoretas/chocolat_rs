@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct BOTINVITE;
@@ -16,6 +16,7 @@ impl Command for BOTINVITE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x7AA30B))
             .description(":link: **https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot**");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;

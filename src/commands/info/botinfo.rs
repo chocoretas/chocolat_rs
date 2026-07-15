@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct BOTINFO;
@@ -18,6 +18,7 @@ impl Command for BOTINFO {
         let stats = "• Servidores: 18617\n• Usuarios: 529099\n• Canales: 447895\n• Uso de Memoria del Shard: 173.63 MB\n• Shard: 8/8";
         let prog = "• Lenguaje: Rust / JavaScript\n• Librería: serenity / discord.js\n• Comandos: 152\n• Prefix: ch!";
         let embed = CreateEmbed::new()
+            .colour(Colour(0xF6CA15))
             .field("Desarrollador", "Noname7612#5043", false)
             .field("Versión", "v3.1.0", false)
             .field("Estadísticas", format!("```\n{}\n```", stats), false)

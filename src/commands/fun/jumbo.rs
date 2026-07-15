@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct JUMBO;
@@ -16,6 +16,7 @@ impl Command for JUMBO {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x66BB6A))
             .description("Por favor, introduce un emoji válido.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;

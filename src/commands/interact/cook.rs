@@ -7,6 +7,7 @@ pub static COOK: InteractionCommand = InteractionCommand::new(
     "Ponte a cocinar algo rico",
     "Interacción",
     false,
+    0x97A4EF,
     "**$User** se ha puesto a cocinar.",
     "**$User** se ha puesto a cocinar."
 );

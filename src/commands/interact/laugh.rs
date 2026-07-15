@@ -7,6 +7,7 @@ pub static LAUGH: InteractionCommand = InteractionCommand::new(
     "Ríete a carcajadas o ríete con alguien",
     "Interacción",
     false,
+    0xE9EB78,
     "**$User** se ríe junto a **$Target** XD",
     "**$User** se está partiendo de la risa XD"
 );

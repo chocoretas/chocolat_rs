@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct VOTE;
@@ -16,6 +16,7 @@ impl Command for VOTE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x7289DA))
             .title("Chocolat")
             .description("Vote for Chocolat on Discord Bot List");
 

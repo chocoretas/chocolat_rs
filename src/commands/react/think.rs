@@ -7,6 +7,7 @@ pub static THINK: InteractionCommand = InteractionCommand::new(
     "Ponte a pensar profundamente",
     "Reacción",
     false,
+    0x68AE39,
     "**$User** Se puso a pensar.",
     "**$User** Se puso a pensar."
 );

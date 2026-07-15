@@ -7,6 +7,7 @@ pub static CRY: InteractionCommand = InteractionCommand::new(
     "Ponte a llorar",
     "Reacción",
     false,
+    0xAFCF34,
     "**$User** está llorando.",
     "**$User** está llorando."
 );

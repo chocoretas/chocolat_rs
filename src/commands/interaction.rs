@@ -1,8 +1,9 @@
 // src/commands/interaction.rs
 use crate::command::{Command, CommandInfo};
 use serenity::all::{
-    Context, Message, CreateMessage, CreateEmbed, CreateEmbedFooter, 
-    CreateAttachment, Colour
+    Context, Message, CreateMessage, CreateEmbed,
+    CreateAttachment, Colour, CommandInteraction,
+    CreateInteractionResponse, CreateInteractionResponseMessage
 };
 use rand::seq::SliceRandom;
 use std::fs;
@@ -12,6 +13,7 @@ use async_trait::async_trait;
 pub struct InteractionCommand {
     pub info: CommandInfo,
     pub with_mention: bool,
+    pub color: Colour,
     pub text_with_mention: &'static str,
     pub text_without_mention: &'static str,
 }
@@ -22,12 +24,14 @@ impl InteractionCommand {
         description: &'static str,
         category: &'static str,
         with_mention: bool,
+        color: u32,
         text_with: &'static str,
         text_without: &'static str,
     ) -> Self {
         Self {
             info: CommandInfo { name, description, category },
             with_mention,
+            color: Colour(color),
             text_with_mention: text_with,
             text_without_mention: text_without,
         }
@@ -77,7 +81,6 @@ impl Command for InteractionCommand {
             self.text_without_mention.replace("$User", username)
         };
 
-        // Imagen de innteraccion random
         let file_path = self.random_file()
             .expect(&format!("No se encontraron archivos en {}", self.media_folder()));
 
@@ -87,7 +90,7 @@ impl Command for InteractionCommand {
             .expect("Nombre de archivo inválido");
 
         let embed = CreateEmbed::new()
-            //.color(self.color) not implemented yet
+            .colour(self.color)
             .description(format!("{}", content))
             .image(format!("attachment://{}", filename));
 
@@ -100,6 +103,52 @@ impl Command for InteractionCommand {
                 .add_file(attachment)
         ).await?;
 
+        Ok(())
+    }
+
+    async fn execute_slash(
+        &self,
+        ctx: &Context,
+        command: &CommandInteraction,
+    ) -> serenity::Result<()> {
+        let username = &command.user.name;
+        let target = command.data.resolved.users.values().next().map(|u| u.name.as_str());
+
+        if self.with_mention && target.is_none() {
+            let response = CreateInteractionResponseMessage::new()
+                .content("Este comando necesita seleccionar a un usuario (`@usuario`).");
+            command.create_response(&ctx.http, CreateInteractionResponse::Message(response)).await?;
+            return Ok(());
+        }
+
+        let content = if let Some(t) = target {
+            self.text_with_mention
+                .replace("$User", username)
+                .replace("$Target", t)
+        } else {
+            self.text_without_mention.replace("$User", username)
+        };
+
+        let file_path = self.random_file()
+            .expect(&format!("No se encontraron archivos en {}", self.media_folder()));
+
+        let filename = std::path::Path::new(&file_path)
+            .file_name()
+            .and_then(|s| s.to_str())
+            .expect("Nombre de archivo inválido");
+
+        let embed = CreateEmbed::new()
+            .colour(self.color)
+            .description(format!("{}", content))
+            .image(format!("attachment://{}", filename));
+
+        let attachment = CreateAttachment::path(&file_path).await?;
+
+        let response = CreateInteractionResponseMessage::new()
+            .embed(embed)
+            .add_file(attachment);
+
+        command.create_response(&ctx.http, CreateInteractionResponse::Message(response)).await?;
         Ok(())
     }
 }

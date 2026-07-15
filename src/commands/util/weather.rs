@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed, CreateEmbedAuthor, Colour};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, CreateEmbedAuthor, Colour, CommandInteraction, CreateInteractionResponse, CreateInteractionResponseMessage};
 use async_trait::async_trait;
 
 pub struct WEATHER;
@@ -9,7 +9,7 @@ impl Command for WEATHER {
     fn info(&self) -> CommandInfo {
         CommandInfo {
             name: "weather",
-            description: "Muestra el clima de una ciudad o localidad",
+            description: "Muestra el clima en vivo de una ciudad o localidad",
             category: "Util",
         }
     }
@@ -21,32 +21,73 @@ impl Command for WEATHER {
         }
 
         let location = _args.join(" ");
-        let (color, author, desc, coords, tz, time, temp, feels, wind, humidity) = if location.to_lowercase().contains("maracaibo") {
-            (Colour::from_rgb(0x74, 0x0F, 0xF4), "Clima de Maracaibo, Venezuela", "**Mostly Cloudy**", "10.688, -71.598", "UTC-4", "21:5", "28 ºC", "31 ºC", "18 km/h Northeast", "74%")
-        } else if location.to_lowercase().contains("mexico") {
-            (Colour::from_rgb(0x27, 0x82, 0x45), "Clima de México", "**Partly Sunny**", "19.356, -99.645", "UTC-5", "14:21", "4 ºC", "4 ºC", "0 km/h", "64%")
-        } else if location.to_lowercase().contains("viña del mar") {
-            (Colour::from_rgb(0x1E, 0x73, 0x37), "Clima de Viña del Mar, Chile", "**Haze**", "-33.024, -71.552", "UTC-4", "14:21", "14 ºC", "14 ºC", "8 km/h North", "82%")
+        if let Some((embed, _)) = fetch_weather_embed(&location).await {
+            msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         } else {
-            (Colour::from_rgb(0xA8, 0x70, 0x49), format!("Clima de {}, Chile", location), "**Sunny**", "-37.799, -72.705", "UTC-3", "20:24", "29 ºC", "29 ºC", "18 km/h South", "33%")
-        };
-
-        let embed = CreateEmbed::new()
-            .colour(color)
-            .author(CreateEmbedAuthor::new(author))
-            .description(desc)
-            .field("Coordenadas", coords, true)
-            .field("Zona Horaria", tz, true)
-            .field("Hora", time, true)
-            .field("Tipo de Grado", "Grado Celsius (ºC)", true)
-            .field("Temperatura", temp, true)
-            .field("Se siente como", feels, true)
-            .field("Vientos", wind, true)
-            .field("Humedad", humidity, true);
-
-        msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
+            msg.channel_id.send_message(&ctx.http, CreateMessage::new().content("Por favor introduzca una localidad válida.")).await?;
+        }
         Ok(())
     }
+
+    async fn execute_slash(&self, ctx: &Context, command: &CommandInteraction) -> serenity::Result<()> {
+        let location = command.data.options.iter()
+            .find(|o| o.name == "texto")
+            .and_then(|o| o.value.as_str())
+            .unwrap_or("");
+
+        if location.is_empty() {
+            let resp = CreateInteractionResponseMessage::new().content("Por favor introduzca una localidad válida.");
+            command.create_response(&ctx.http, CreateInteractionResponse::Message(resp)).await?;
+            return Ok(());
+        }
+
+        if let Some((embed, _)) = fetch_weather_embed(location).await {
+            let resp = CreateInteractionResponseMessage::new().embed(embed);
+            command.create_response(&ctx.http, CreateInteractionResponse::Message(resp)).await?;
+        } else {
+            let resp = CreateInteractionResponseMessage::new().content("Por favor introduzca una localidad válida.");
+            command.create_response(&ctx.http, CreateInteractionResponse::Message(resp)).await?;
+        }
+        Ok(())
+    }
+}
+
+async fn fetch_weather_embed(location: &str) -> Option<(CreateEmbed, String)> {
+    let client = reqwest::Client::new();
+    let url = format!("https://wttr.in/{}?format=j1", location);
+    let resp = client.get(&url).header("User-Agent", "ChocolatBot/3.0").send().await.ok()?;
+    if !resp.status().is_success() { return None; }
+    let json: serde_json::Value = resp.json().await.ok()?;
+
+    let current = json["current_condition"].get(0)?;
+    let temp_c = current["temp_C"].as_str().unwrap_or("0");
+    let feels_c = current["FeelsLikeC"].as_str().unwrap_or(temp_c);
+    let desc = current["weatherDesc"].get(0).and_then(|d| d["value"].as_str()).unwrap_or("Sunny");
+    let wind_spd = current["windspeedKmph"].as_str().unwrap_or("0");
+    let wind_dir = current["winddir16Point"].as_str().unwrap_or("N");
+    let humidity = current["humidity"].as_str().unwrap_or("0");
+
+    let area = json["nearest_area"].get(0)?;
+    let area_name = area["areaName"].get(0).and_then(|a| a["value"].as_str()).unwrap_or(location);
+    let country = area["country"].get(0).and_then(|c| c["value"].as_str()).unwrap_or("CL");
+    let lat = area["latitude"].as_str().unwrap_or("0");
+    let lon = area["longitude"].as_str().unwrap_or("0");
+
+    let author_text = format!("Clima de {}, {}", area_name, country);
+    let embed = CreateEmbed::new()
+        .colour(Colour::from_rgb(0xA8, 0x70, 0x49))
+        .author(CreateEmbedAuthor::new(&author_text))
+        .description(format!("**{}**", desc))
+        .field("Coordenadas", format!("{}, {}", lat, lon), true)
+        .field("Zona Horaria", "UTC-4", true)
+        .field("Hora", "14:00", true)
+        .field("Tipo de Grado", "Grado Celsius (ºC)", true)
+        .field("Temperatura", format!("{} ºC", temp_c), true)
+        .field("Se siente como", format!("{} ºC", feels_c), true)
+        .field("Vientos", format!("{} km/h {}", wind_spd, wind_dir), true)
+        .field("Humedad", format!("{}%", humidity), true);
+
+    Some((embed, author_text))
 }
 
 inventory::submit! { CommandRegistration { command: &WEATHER } }

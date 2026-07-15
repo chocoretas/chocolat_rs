@@ -7,6 +7,7 @@ pub static ANGRY: InteractionCommand = InteractionCommand::new(
     "Muestra tu enfado o enfádate con alguien",
     "Reacción",
     false,
+    0xD40707,
     "**$User** está enfadado >:C",
     "**$User** está enfadado >:C"
 );

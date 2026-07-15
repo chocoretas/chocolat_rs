@@ -7,6 +7,7 @@ pub static SMUG: InteractionCommand = InteractionCommand::new(
     "Presume con una cara presumida",
     "Reacción",
     false,
+    0xDEC133,
     "**$User** está presumiendo.",
     "**$User** está presumiendo."
 );

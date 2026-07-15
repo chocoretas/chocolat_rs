@@ -7,6 +7,7 @@ pub static DISCOURAGED: InteractionCommand = InteractionCommand::new(
     "Siente decaimiento o desanimo",
     "Reacción",
     false,
+    0xA4CBDC,
     "**$User** se siente decaído. :(",
     "**$User** se siente decaído. :("
 );

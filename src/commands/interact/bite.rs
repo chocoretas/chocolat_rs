@@ -7,6 +7,7 @@ pub static BITE: InteractionCommand = InteractionCommand::new(
     "Muerde al usuario mencionado, o deja que Chocolat te muerda.",
     "Interacción",
     false,
+    0x434F87,
     "**$User** ha mordido a **$Target**",
     "**$User** ha mordido a **$Target**"
 );

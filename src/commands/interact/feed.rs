@@ -7,6 +7,7 @@ pub static FEED: InteractionCommand = InteractionCommand::new(
     "Dale de comer a un usuario, o deja que Chocolat te dé de comer.",
     "Interacción",
     false,
+    0xCDD635,
     "Parece que tienes hambre, **$Target**, ten algo de comida n.n",
     "**$User** está comiendo."
 );

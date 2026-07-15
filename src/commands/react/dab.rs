@@ -7,6 +7,7 @@ pub static DAB: InteractionCommand = InteractionCommand::new(
     "Haz un dab genial",
     "Reacción",
     false,
+    0x86C540,
     "**$User** hizo un dab",
     "**$User** hizo un dab"
 );

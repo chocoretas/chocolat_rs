@@ -7,6 +7,7 @@ pub static BLUSH: InteractionCommand = InteractionCommand::new(
     "Sonrojate o muestra tu pena",
     "Reacción",
     false,
+    0x86C540,
     "**$User** está sonrojado o///O",
     "**$User** está sonrojado o///O"
 );

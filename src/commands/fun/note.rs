@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct NOTE;
@@ -16,6 +16,7 @@ impl Command for NOTE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x4A00B2))
             .description("**[  🎰 l SLOTS ]**\n------------------\n🍒");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;

@@ -7,6 +7,7 @@ pub static CONFUSED: InteractionCommand = InteractionCommand::new(
     "Muestra tu confusion",
     "Reacción",
     false,
+    0x33B983,
     "**$User** está confundido o.O",
     "**$User** está confundido o.O"
 );

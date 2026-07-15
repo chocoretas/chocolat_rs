@@ -7,6 +7,7 @@ pub static CUDDLE: InteractionCommand = InteractionCommand::new(
     "Acurrúcate con alguien",
     "Interacción",
     true,
+    0xBD2D74,
     "**$User** se acurrucó con **$Target** uwu",
     "**$User** quiere acurrucarse"
 );

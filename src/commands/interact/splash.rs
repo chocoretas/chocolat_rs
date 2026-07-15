@@ -7,6 +7,7 @@ pub static SPLASH: InteractionCommand = InteractionCommand::new(
     "Moja a alguien con agua",
     "Interacción",
     true,
+    0xA95029,
     "**$User** moja a **$Target**",
     "**$User** salpica agua"
 );

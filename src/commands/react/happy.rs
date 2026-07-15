@@ -7,6 +7,7 @@ pub static HAPPY: InteractionCommand = InteractionCommand::new(
     "Muestra tu felicidad",
     "Reacción",
     false,
+    0x25B34C,
     "**$User** está feliz :D/",
     "**$User** está feliz :D/"
 );

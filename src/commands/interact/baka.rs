@@ -7,6 +7,7 @@ pub static BAKA: InteractionCommand = InteractionCommand::new(
     "Dile al usuario mencionado que es un completo Baka (idiota)",
     "Interacción",
     true,
+    0xD1FCF1,
     "**$Target**, BAKA!!",
     "**$User**, BAKA!!"
 );

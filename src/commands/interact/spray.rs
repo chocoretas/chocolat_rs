@@ -7,6 +7,7 @@ pub static SPRAY: InteractionCommand = InteractionCommand::new(
     "Rocía con agua a alguien",
     "Interacción",
     true,
+    0xC2B4D9,
     "**$User** ha rociado a **$Target** >n<",
     "**$User** rocía agua >n<"
 );

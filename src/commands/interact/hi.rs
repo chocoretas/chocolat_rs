@@ -7,6 +7,7 @@ pub static HI: InteractionCommand = InteractionCommand::new(
     "Saluda a alguien o a todos",
     "Interacción",
     false,
+    0x780C89,
     "**$User** Saluda a **$Target**",
     "**$User** saluda a todos"
 );

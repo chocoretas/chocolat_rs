@@ -7,6 +7,7 @@ pub static RUN: InteractionCommand = InteractionCommand::new(
     "Corre por tu vida o huye con alguien",
     "Interacción",
     false,
+    0xA59C1E,
     "**$User** se echó a correr.",
     "**$User** se echó a correr."
 );

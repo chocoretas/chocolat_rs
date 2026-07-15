@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct ABOUT;
@@ -16,6 +16,7 @@ impl Command for ABOUT {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0x1E2469))
             .description("Chocolat es una bot multipropósitos enfocada a la diversión y entretenimiento del servidor. La personaje como tal proviene del anime **Noucome**.")
             .field("Creador", "Noname7612#5043", false)
             .field("Versión", "v3.1.0", false)

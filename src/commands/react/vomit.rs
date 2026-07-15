@@ -7,6 +7,7 @@ pub static VOMIT: InteractionCommand = InteractionCommand::new(
     "Vomita de algo desagradable",
     "Reacción",
     false,
+    0x65C0B2,
     "**$User** vomitó.",
     "**$User** vomitó."
 );

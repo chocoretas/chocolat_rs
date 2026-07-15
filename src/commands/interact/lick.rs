@@ -7,6 +7,7 @@ pub static LICK: InteractionCommand = InteractionCommand::new(
     "Lame a un usuario",
     "Interacción",
     true,
+    0x5712BD,
     "**$User** lamió a **$Target** o///o",
     "**$User** lamió a alguien o///o"
 );

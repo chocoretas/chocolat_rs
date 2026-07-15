@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct SERVERINFO;
@@ -16,6 +16,7 @@ impl Command for SERVERINFO {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0xA8A867))
             .description(":stopwatch: You cannot work for 59 minutes and 2 seconds.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;

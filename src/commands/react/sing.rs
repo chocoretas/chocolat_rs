@@ -7,6 +7,7 @@ pub static SING: InteractionCommand = InteractionCommand::new(
     "Ponte a cantar una cancion",
     "Reacción",
     false,
+    0x926B80,
     "**$User** Está cantando. ＾3＾♪",
     "**$User** Está cantando. ＾3＾♪"
 );

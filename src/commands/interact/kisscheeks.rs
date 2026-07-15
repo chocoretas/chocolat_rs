@@ -7,6 +7,7 @@ pub static KISSCHEEKS: InteractionCommand = InteractionCommand::new(
     "Besa las mejillas de alguien",
     "Interacción",
     true,
+    0xCA3163,
     "**$User** le dio un beso en la mejilla a **$Target** n.n",
     "**$User** besa mejillas n.n"
 );

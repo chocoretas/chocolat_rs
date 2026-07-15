@@ -7,6 +7,7 @@ pub static TSUNDERE: InteractionCommand = InteractionCommand::new(
     "Sé tsundere con alguien",
     "Interacción",
     true,
+    0xB673FE,
     "**$User** le está siendo tsundere a **$Target**",
     "**$User** es tsundere"
 );

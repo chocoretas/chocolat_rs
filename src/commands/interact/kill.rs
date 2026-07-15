@@ -7,6 +7,7 @@ pub static KILL: InteractionCommand = InteractionCommand::new(
     "Mata al usuario mencionado",
     "Interacción",
     true,
+    0xD32121,
     "**$User** mató a **$Target** D':",
     "**$User** mató a alguien D':"
 );

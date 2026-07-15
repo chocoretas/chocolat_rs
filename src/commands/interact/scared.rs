@@ -7,6 +7,7 @@ pub static SCARED: InteractionCommand = InteractionCommand::new(
     "Muestra tu miedo o asústate de alguien",
     "Interacción",
     false,
+    0xB22DFE,
     "**$User** Tiene miedo de algo. D:",
     "**$User** Tiene miedo de algo. D:"
 );

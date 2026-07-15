@@ -7,6 +7,7 @@ pub static KISS: InteractionCommand = InteractionCommand::new(
     "Besa a otro usuario",
     "Interacción",
     true,
+    0xCA3163,
     "**$User** le dio un beso a **$Target** o////o",
     "**$User** da un beso o////o"
 );

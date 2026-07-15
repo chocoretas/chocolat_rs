@@ -7,6 +7,7 @@ pub static POUT: InteractionCommand = InteractionCommand::new(
     "Haz un puchero o berrinche",
     "Reacción",
     false,
+    0xF2D169,
     "**$User** hace puchero.",
     "**$User** hace puchero."
 );

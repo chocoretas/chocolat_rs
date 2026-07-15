@@ -7,6 +7,7 @@ pub static BORED: InteractionCommand = InteractionCommand::new(
     "Muestra que tan aburrido estas",
     "Reacción",
     false,
+    0xA24A28,
     "**$User** Está aburrido",
     "**$User** Está aburrido"
 );

@@ -7,6 +7,7 @@ pub static TICKLE: InteractionCommand = InteractionCommand::new(
     "Hazle cosquillas a alguien",
     "Interacción",
     true,
+    0x0E6DDC,
     "**$User** le hace cosquillas a **$Target**",
     "**$User** hace cosquillas"
 );

@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage, CreateEmbed, Colour};
 use async_trait::async_trait;
 
 pub struct RELEASE;
@@ -16,6 +16,7 @@ impl Command for RELEASE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
+            .colour(Colour(0xCED8A5))
             .description("A continuación las novedades de la actualización. ¡Únete a nuestro servidor de discord si gustas saber más cosas, hay eventos y un Staff activo que contestará tus dudas! (https://discord.gg/TKTGm69).")
             .field("Versión del bot:", "`3.2.6`.", false)
             .field("Comandos:", "`160`.", false)

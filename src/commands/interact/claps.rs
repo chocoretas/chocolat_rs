@@ -7,6 +7,7 @@ pub static CLAPS: InteractionCommand = InteractionCommand::new(
     "Aplaudir por algo o alguien",
     "Interacción",
     false,
+    0xA6785F,
     "**$User** Le aplaude a **$Target**",
     "**$User** comenzó a aplaudir."
 );

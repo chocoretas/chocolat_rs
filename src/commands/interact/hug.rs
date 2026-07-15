@@ -7,6 +7,7 @@ pub static HUG: InteractionCommand = InteractionCommand::new(
     "abraza a otro usuario",
     "Interacción",
     true,
+    0x79BD33,
     "**$User** le dio un abrazo a **$Target**",
     "**$User** da un abrazo"
 );

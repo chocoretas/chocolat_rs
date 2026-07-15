@@ -7,6 +7,7 @@ pub static SHRUG: InteractionCommand = InteractionCommand::new(
     "Muestra que no lo sabes o no te importa",
     "Reacción",
     false,
+    0x887C55,
     "A **$User** le vale madres.",
     "A **$User** le vale madres."
 );

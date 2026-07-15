@@ -7,6 +7,7 @@ pub static CHEEKS: InteractionCommand = InteractionCommand::new(
     "Pellizca las mejillas de un usuario",
     "Interacción",
     false,
+    0xFC35F4,
     "**$User** pellizca las mejillas de **$Target**",
     "**Chocolat** pellizca las mejillas de **$User**"
 );

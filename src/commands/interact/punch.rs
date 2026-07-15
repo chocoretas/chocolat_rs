@@ -7,6 +7,7 @@ pub static PUNCH: InteractionCommand = InteractionCommand::new(
     "Dale un puñetazo a alguien",
     "Interacción",
     true,
+    0xC72422,
     "**$User** le dio un golpe a **$Target**",
     "**$User** da un golpe"
 );

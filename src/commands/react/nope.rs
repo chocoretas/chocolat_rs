@@ -7,6 +7,7 @@ pub static NOPE: InteractionCommand = InteractionCommand::new(
     "Niega algo rotundamente",
     "Reacción",
     false,
+    0x494F71,
     "NOPE!",
     "NOPE!"
 );

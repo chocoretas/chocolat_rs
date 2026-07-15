@@ -7,6 +7,7 @@ pub static DISGUST: InteractionCommand = InteractionCommand::new(
     "Muestra tu disgusto hacia algo o alguien",
     "Reacción",
     false,
+    0x6F7F60,
     "**$User** está disgustado.",
     "**$User** está disgustado."
 );

@@ -7,6 +7,7 @@ pub static PAT: InteractionCommand = InteractionCommand::new(
     "Acaricia la cabeza de alguien",
     "Interacción",
     true,
+    0x3AC0B8,
     "**$User** acarició a **$Target**",
     "**$User** acaricia"
 );
