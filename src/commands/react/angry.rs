@@ -5,7 +5,7 @@ use serenity::all::Colour;
 pub static ANGRY: InteractionCommand = InteractionCommand::new(
     "angry",
     "Muestra tu enfado o enfádate con alguien",
-    "Interacción",
+    "Reacción",
     false,
     "**$User** se ha enfadado con **$Target** >:C",
     "**$User** se ha enfadado >:C"
