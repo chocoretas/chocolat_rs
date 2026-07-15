@@ -1,0 +1,47 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:35:30.934000-07:00",
+    "comando_completo": "ch!addrole",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:35:31.205000-07:00",
+      "contenido": "@Dante, lo siento, pero no tienes permisos para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.271
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-12-03T18:39:03.594000-08:00",
+    "comando_completo": "ch!addrole @Daomi✿ Ludópatas",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T18:39:03.919000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":page_facing_up: Rol agregado.",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dana**, fue agregado al rol de: **Ludópatas**",
+          "color": "#75CFE4",
+          "images": [],
+          "fields": [
+            {
+              "name": "Admin/Mod responsable:",
+              "value": "Darnel#3871",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.325
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "usuario": "frixoficial",
+    "usuario_id": "358699155662700554",
+    "fecha_comando": "2019-10-16T07:01:36.488000-07:00",
+    "comando_completo": "ch!reportuser",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T07:01:36.738000-07:00",
+      "contenido": "Debes mencionar al usuario que quieres reportar.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-11-09T11:26:23.028000-08:00",
+    "comando_completo": "ch!reportuser",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T11:26:23.261000-08:00",
+      "contenido": "Debes mencionar al usuario que quieres reportar.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "naigt1848",
+    "usuario_id": "537545378673721344",
+    "fecha_comando": "2020-05-10T08:34:05.040000-07:00",
+    "comando_completo": "ch!reportuser",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T08:34:11.649000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi doesn't quite understand what you are trying to do. Try again!",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5Oj95NkenF1qfKDeovqGxDJNA8cHN5CCx0v-mJb8aPU/https/i-like.blue/emotes/33.png",
+            "canonicalUrl": "https://i-like.blue/emotes/33.png",
+            "width": 51,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.609
+    }
+  }
+]

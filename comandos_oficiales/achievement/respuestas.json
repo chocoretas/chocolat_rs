@@ -1,0 +1,490 @@
+[
+  {
+    "usuario": "manu.22",
+    "usuario_id": "237731916290195456",
+    "fecha_comando": "2019-03-06T16:49:54.583000-08:00",
+    "comando_completo": "ch!achievement",
+    "respuesta_bot": {
+      "fecha": "2019-03-06T16:49:54.665000-08:00",
+      "contenido": "Escribe el texto del logro.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.082
+    }
+  },
+  {
+    "usuario": "manu.22",
+    "usuario_id": "237731916290195456",
+    "fecha_comando": "2019-03-06T16:49:58.716000-08:00",
+    "comando_completo": "ch!achievement xd",
+    "respuesta_bot": {
+      "fecha": "2019-03-06T16:49:58.975000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "553016461518569473",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/553016461518569473/file.jpg?ex=6a582ab6&is=6a56d936&hm=3239c795b4e4230e4c2caf95d7c8124e48e2dd31a8f8706a532552a4364655d4&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 43040
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "swantttt.",
+    "usuario_id": "491691120548380702",
+    "fecha_comando": "2019-03-10T14:50:01.570000-07:00",
+    "comando_completo": "ch!achievement suvi de nivel xD",
+    "respuesta_bot": {
+      "fecha": "2019-03-10T14:50:02.090000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "554420727562895477",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/554420727562895477/file.jpg?ex=6a58008a&is=6a56af0a&hm=3e2051bc9f16e646b82677afee7c6d0d61f06997b80b7c310762e670dfd8509b&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 45073
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.52
+    }
+  },
+  {
+    "usuario": "agustinauta",
+    "usuario_id": "444956466290622464",
+    "fecha_comando": "2019-05-17T16:30:25.454000-07:00",
+    "comando_completo": "ch!achievement Darte cuenta de que no te quiere",
+    "respuesta_bot": {
+      "fecha": "2019-05-17T16:30:26.924000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "579088371918569475",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/579088371918569475/file.jpg?ex=6a581812&is=6a56c692&hm=db0c6266719df84dc0411b8d3fa4b417d0dbb7e6c80d3dd778b962c84640ea80&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 45809
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.47
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-10T14:26:04.786000-07:00",
+    "comando_completo": "ch!achievement",
+    "respuesta_bot": {
+      "fecha": "2019-07-10T14:26:04.949000-07:00",
+      "contenido": "Escribe el texto del logro.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-10T14:26:22.618000-07:00",
+    "comando_completo": "ch!achievement verficado",
+    "respuesta_bot": {
+      "fecha": "2019-07-10T14:26:23.224000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "598626096011018270",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/598626096011018270/file.jpg?ex=6a57faff&is=6a56a97f&hm=35788b08652c01a0db34aa0a9c40db347dbb5ef43f919b651924bded470e3f4d&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 44811
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.606
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-10T14:26:59.582000-07:00",
+    "comando_completo": "ch!achievement acabas de desbloquear un logró",
+    "respuesta_bot": {
+      "fecha": "2019-07-10T14:27:00.222000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "598626251191746570",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/598626251191746570/file.jpg?ex=6a57fb24&is=6a56a9a4&hm=c15fc2c84e5929467e13f805567847e0f2f4557639e8a8d181dee665c5a49c31&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 46586
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.64
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-13T21:05:32.404000-07:00",
+    "comando_completo": "ch!achievement NO",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:05:32.779000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "599813711322152970",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/599813711322152970/file.jpg?ex=6a57afcc&is=6a565e4c&hm=5860325de2ba78e6c7b19004d687b982df57fcd1fc1eeca5d4235645e8fc106e&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 43004
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.375
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:05:48.576000-07:00",
+    "comando_completo": "ch!achievement TU NO GANAS NADA JAJAJAJA",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:05:48.920000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "599813779022413852",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/599813779022413852/file.jpg?ex=6a57afdc&is=6a565e5c&hm=7d4d5e739b47d1398711e0079aed9e5109ebf969f9e3e75c439fc331075c8e81&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 45766
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:06:10.134000-07:00",
+    "comando_completo": "ch!achievement Espada Legendaria",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:06:10.496000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "599813869518454805",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/599813869518454805/file.jpg?ex=6a57aff2&is=6a565e72&hm=e576a04fdb3094298aaa3c8a8911b09525ec39f13b3a2947fef15e72b80a233d&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 45431
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.362
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:06:36.773000-07:00",
+    "comando_completo": "ch!achievement Para mi familia gana 1000$ jajajajajajajaja :V",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:06:49.967000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "599814034526699548",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/599814034526699548/file.jpg?ex=6a57b019&is=6a565e99&hm=978651f8d47c802e2875a295c3448d51aa650a69c79580ed166841f1cfa3e118&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 44300
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 13.194
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:06:49.566000-07:00",
+    "comando_completo": "ch!achievement para mi familia .v",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:06:49.967000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "599814034526699548",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/599814034526699548/file.jpg?ex=6a57b019&is=6a565e99&hm=978651f8d47c802e2875a295c3448d51aa650a69c79580ed166841f1cfa3e118&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 44300
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.401
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:07:02.321000-07:00",
+    "comando_completo": "ch!achievement Para mi familia gana 1000$ jajajajajajajaja :V",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:07:15.880000-07:00",
+      "contenido": "@Juanxd \nㅤ\n**89** % [██████████.] \n**Perfectamente ustedes podrían ser novios. Inténtelo.**\nNombre del Ship: **Juanihira**",
+      "attachments": [
+        {
+          "id": "599814143314493440",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/599814143314493440/ship.png?ex=6a57b033&is=6a565eb3&hm=9511cb3e50adf5f28deefaedb7572f2613b9ac38ec698103691319c52509e9bd&",
+          "fileName": "ship.png",
+          "fileSizeBytes": 153558
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 13.559
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-18T07:00:20.164000-07:00",
+    "comando_completo": "ch!achievement Morir",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T07:00:20.660000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "601412948165918760",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/601412948165918760/file.jpg?ex=6a579274&is=6a5640f4&hm=7b214b5cba02db008b164a6093a3c988197d965488b00b8125a5547aacc3cb63&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 43185
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.496
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-18T07:02:26.379000-07:00",
+    "comando_completo": "ch!achievement P/RG",
+    "respuesta_bot": {
+      "fecha": "2019-07-18T07:02:26.921000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "601413477617369099",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/601413477617369099/file.jpg?ex=6a5792f2&is=6a564172&hm=8382aaa9af2962920bf3c8b6852e2d012a6da4467c5a91418fef1b944fb19172&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 43541
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.542
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-22T12:21:34.335000-07:00",
+    "comando_completo": "ch!achievement te has vuelto muy pero MUY débil ex di",
+    "respuesta_bot": {
+      "fecha": "2019-09-22T12:21:34.828000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "625411388960931852",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/625411388960931852/file.jpg?ex=6a57ddbe&is=6a568c3e&hm=f3fa124e8cfd2c7580489174d5b0956e9252a5291aecff16c3ebb1c9acbfac31&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 48308
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.493
+    }
+  },
+  {
+    "usuario": "snorick",
+    "usuario_id": "357272042556620801",
+    "fecha_comando": "2019-12-31T16:46:48.814000-08:00",
+    "comando_completo": "ch!achievement Paso año nuevo con confianza",
+    "respuesta_bot": {
+      "fecha": "2019-12-31T16:46:49.594000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "661732026877083681",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/661732026877083681/file.jpg?ex=6a5829f9&is=6a56d879&hm=1a23ea1246ca11c6875ecee79750fbdfdd05c17f29a92ab334afc83dce7d84a3&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 46113
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.78
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-10T13:50:35.362000-08:00",
+    "comando_completo": "ch!achievement Æ",
+    "respuesta_bot": {
+      "fecha": "2020-02-10T13:50:36.277000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "676545581392461864",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/676545581392461864/file.jpg?ex=6a5800ac&is=6a56af2c&hm=36071927f06562826c21e50ec819486bb8101118ece2f43745fbd467ee418f61&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 42552
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.915
+    }
+  },
+  {
+    "usuario": "patrishy8528",
+    "usuario_id": "675854517253963787",
+    "fecha_comando": "2020-02-10T13:52:42.175000-08:00",
+    "comando_completo": "ch!achievement Logro! el mas pendejo! 100/100",
+    "respuesta_bot": {
+      "fecha": "2020-02-10T13:52:43.019000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "676546113162969108",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/676546113162969108/file.jpg?ex=6a58012a&is=6a56afaa&hm=f60abeb64154f3b2fa8ee69891dda8d3ec731c9d54e626c078c89f65bec2f53d&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 47200
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.844
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-29T14:02:03.835000-08:00",
+    "comando_completo": "ch!achievement ** **",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:02:04.422000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "683433837581303834",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/683433837581303834/file.jpg?ex=6a58035c&is=6a56b1dc&hm=b0aa01ebac7603525ec7f0b1e0e6363d243310e0335268780b154409bd6b8ed8&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 42505
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.587
+    }
+  },
+  {
+    "usuario": "konnor_rk800",
+    "usuario_id": "673289784738840596",
+    "fecha_comando": "2020-03-22T09:05:16.367000-07:00",
+    "comando_completo": "ch!achievement No entiendo nada",
+    "respuesta_bot": {
+      "fecha": "2020-03-22T09:05:18.108000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "691316585637609572",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/691316585637609572/file.jpg?ex=6a57afbe&is=6a565e3e&hm=a06b3a084b8153ef28317b4710b4b15a4b95db7e2b60f732eb1f6ac2397ce1a0&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 44730
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.741
+    }
+  },
+  {
+    "usuario": "emiliadides",
+    "usuario_id": "675419571208978476",
+    "fecha_comando": "2020-03-22T09:06:15.270000-07:00",
+    "comando_completo": "ch!achievement Server En La Pagina De Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-03-22T09:06:16.079000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "691316828827418645",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/691316828827418645/file.jpg?ex=6a57aff8&is=6a565e78&hm=5141309d81f2e4f500bfd1b0c75c12a593514af274e99e81fa6f4447701ec8ed&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 47278
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.809
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-27T15:42:50.769000-07:00",
+    "comando_completo": "ch!achievement Buenardo",
+    "respuesta_bot": {
+      "fecha": "2020-10-27T15:43:03.098000-07:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  EspectroConPan#7979  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "You helped your pet to practice doing a front flip! Good job!",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/770779625282338846/pet.png?ex=6a580cf7&is=6a56bb77&hm=652f8447461c5f374bccd374ff5280188a423becbe96bef93e4d4f58a292a701&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/770779625282338846/pet.png?ex=6a580cf7&is=6a56bb77&hm=652f8447461c5f374bccd374ff5280188a423becbe96bef93e4d4f58a292a701&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "Be careful when trading items - they stay in your inventory when used in your house!"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_xp: Exp: **1222 / 3200** (`+13`)\n:pet_fatigue: Fatigue: **465 / 514** (`+3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 12.329
+    }
+  }
+]

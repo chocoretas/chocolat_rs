@@ -1,0 +1,44 @@
+[
+  {
+    "usuario": "autira",
+    "usuario_id": "537700318499176451",
+    "fecha_comando": "2019-03-05T11:18:31.192000-08:00",
+    "comando_completo": "ch!setprefix c!",
+    "respuesta_bot": {
+      "fecha": "2019-03-05T11:18:31.349000-08:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.157
+    }
+  },
+  {
+    "usuario": "autira",
+    "usuario_id": "537700318499176451",
+    "fecha_comando": "2019-03-05T11:21:31.846000-08:00",
+    "comando_completo": "ch!setprefix",
+    "respuesta_bot": {
+      "fecha": "2019-03-05T11:21:32.104000-08:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.258
+    }
+  },
+  {
+    "usuario": "raforsitonwn_24418",
+    "usuario_id": "579345671715553290",
+    "fecha_comando": "2019-06-02T18:51:28.669000-07:00",
+    "comando_completo": "ch!setprefix °",
+    "respuesta_bot": {
+      "fecha": "2019-06-02T18:51:28.803000-07:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.134
+    }
+  }
+]

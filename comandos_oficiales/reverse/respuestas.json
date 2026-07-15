@@ -1,0 +1,1038 @@
+[
+  {
+    "usuario": "qahanaarinalduin",
+    "usuario_id": "487380408434950184",
+    "fecha_comando": "2019-02-06T10:29:21.031000-08:00",
+    "comando_completo": "ch!reverse",
+    "respuesta_bot": {
+      "fecha": "2019-02-06T10:29:21.887000-08:00",
+      "contenido": "Escriba algo para repetir de manera inversa.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.856
+    }
+  },
+  {
+    "usuario": "qahanaarinalduin",
+    "usuario_id": "487380408434950184",
+    "fecha_comando": "2019-02-06T10:29:33.890000-08:00",
+    "comando_completo": "ch!reverse hola",
+    "respuesta_bot": {
+      "fecha": "2019-02-06T10:29:34.041000-08:00",
+      "contenido": "aloh",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-04-16T16:28:26.203000-07:00",
+    "comando_completo": "ch!reverse",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:28:26.326000-07:00",
+      "contenido": "Escriba algo para repetir de manera inversa.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-04-16T16:28:30.673000-07:00",
+    "comando_completo": "ch!reverse owo",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:28:30.819000-07:00",
+      "contenido": "owo",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-16T16:29:31.570000-07:00",
+    "comando_completo": "ch!reverse Karol",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:29:31.709000-07:00",
+      "contenido": "loraK",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-04-16T16:30:05.508000-07:00",
+    "comando_completo": "ch!reverse Yo soy",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:30:05.831000-07:00",
+      "contenido": "yos oY",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.323
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-16T16:30:16.049000-07:00",
+    "comando_completo": "ch!reverse luz azul",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:30:16.165000-07:00",
+      "contenido": "luza zul",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.116
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-04-16T16:30:28.697000-07:00",
+    "comando_completo": "ch!reverse somos o no somos",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T16:30:29.103000-07:00",
+      "contenido": "somos on o somos",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.406
+    }
+  },
+  {
+    "usuario": "henochlophobia",
+    "usuario_id": "375396155762278422",
+    "fecha_comando": "2019-04-16T18:39:22.134000-07:00",
+    "comando_completo": "ch!reverse Test",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T18:39:22.232000-07:00",
+      "contenido": "tseT",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.098
+    }
+  },
+  {
+    "usuario": "henochlophobia",
+    "usuario_id": "375396155762278422",
+    "fecha_comando": "2019-04-16T18:40:03.717000-07:00",
+    "comando_completo": "ch!reverse Test1\nTest2",
+    "respuesta_bot": {
+      "fecha": "2019-04-16T18:40:03.934000-07:00",
+      "contenido": "2tseT\n1tseT",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.217
+    }
+  },
+  {
+    "usuario": "https.empty.com",
+    "usuario_id": "339148339503169536",
+    "fecha_comando": "2019-04-19T04:40:08.641000-07:00",
+    "comando_completo": "ch!reverse fjfkkvkf",
+    "respuesta_bot": {
+      "fecha": "2019-04-19T04:40:08.744000-07:00",
+      "contenido": "fkvkkfjf",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.103
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-23T17:11:17.955000-07:00",
+    "comando_completo": "ch!reverse",
+    "respuesta_bot": {
+      "fecha": "2019-07-23T17:11:18.504000-07:00",
+      "contenido": "Escriba algo para repetir de manera inversa.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.549
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-23T17:11:26.641000-07:00",
+    "comando_completo": "ch!reverse hola ke ase",
+    "respuesta_bot": {
+      "fecha": "2019-07-23T17:11:26.785000-07:00",
+      "contenido": "esa ek aloh",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T16:35:51.866000-07:00",
+    "comando_completo": "ch!reverse",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T16:35:51.999000-07:00",
+      "contenido": "Escriba algo para repetir de manera inversa.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.133
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-04T14:45:04.201000-07:00",
+    "comando_completo": "ch!reverse reconocer",
+    "respuesta_bot": {
+      "fecha": "2019-09-04T14:45:04.420000-07:00",
+      "contenido": "reconocer",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-07T11:43:47.563000-07:00",
+    "comando_completo": "ch!reverse reconocer",
+    "respuesta_bot": {
+      "fecha": "2019-09-07T11:43:47.644000-07:00",
+      "contenido": "reconocer",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.081
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-10T09:50:10.789000-07:00",
+    "comando_completo": "ch!reverse gnp.lam adna oglA",
+    "respuesta_bot": {
+      "fecha": "2019-09-10T09:50:11.589000-07:00",
+      "contenido": "Algo anda mal.png",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.8
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-14T08:49:19.338000-07:00",
+    "comando_completo": "ch!reverse Reconocer",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T08:49:19.506000-07:00",
+      "contenido": "reconoceR",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "mathiasmaidana",
+    "usuario_id": "599736319618318377",
+    "fecha_comando": "2019-09-14T08:51:31.260000-07:00",
+    "comando_completo": "ch!reverse la ruta nos a dado algo natural",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T08:51:31.406000-07:00",
+      "contenido": "larutan ogla odad a son atur al",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-09-14T08:51:52.511000-07:00",
+    "comando_completo": "ch!reverse Larutanosaporyootropasonatural",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T08:51:52.668000-07:00",
+      "contenido": "larutanosaportooyropasonaturaL",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.157
+    }
+  },
+  {
+    "usuario": "mathiasmaidana",
+    "usuario_id": "599736319618318377",
+    "fecha_comando": "2019-09-14T08:52:27.202000-07:00",
+    "comando_completo": "ch!reverse Reconocer larutanosadadoalgonatural",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T08:52:27.374000-07:00",
+      "contenido": "larutanoglaodadasonatural reconoceR",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-09-14T08:52:53.336000-07:00",
+    "comando_completo": "ch!reverse Larutanosaportootropasonatural",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T08:52:53.595000-07:00",
+      "contenido": "larutanosaportootropasonaturaL",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "mathiasmaidana",
+    "usuario_id": "599736319618318377",
+    "fecha_comando": "2019-09-14T08:53:26.966000-07:00",
+    "comando_completo": "ch!reverse Reconocer larutanosadadoalgonatural",
+    "respuesta_bot": {
+      "fecha": "2019-09-14T08:53:27.126000-07:00",
+      "contenido": "larutanoglaodadasonatural reconoceR",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-09T10:40:03.250000-07:00",
+    "comando_completo": "ch!reverse",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T10:40:03.414000-07:00",
+      "contenido": "Escriba algo para repetir de manera inversa.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.164
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-09T10:40:18.464000-07:00",
+    "comando_completo": "ch!reverse anita lava la tina",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T10:40:20.491000-07:00",
+      "contenido": "anit al aval atina",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.027
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-09T10:40:39.059000-07:00",
+    "comando_completo": "ch!reverse anitalavalatina",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T10:40:39.305000-07:00",
+      "contenido": "anitalavalatina",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.246
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-23T11:47:34.594000-07:00",
+    "comando_completo": "ch!reverse arroz",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T11:47:34.729000-07:00",
+      "contenido": "zorra",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-23T12:06:24.784000-07:00",
+    "comando_completo": "ch!reverse arroz",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:06:24.949000-07:00",
+      "contenido": "zorra",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-23T12:07:03.550000-07:00",
+    "comando_completo": "ch!reverse uwu",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:07:03.773000-07:00",
+      "contenido": "uwu",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.223
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-23T12:07:35.625000-07:00",
+    "comando_completo": "ch!reverse aaaaaaaaaaaaaaaaaaaao",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:07:35.850000-07:00",
+      "contenido": "oaaaaaaaaaaaaaaaaaaaa",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.225
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-23T12:09:42.782000-07:00",
+    "comando_completo": "ch!reverse nap",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:09:42.994000-07:00",
+      "contenido": "pan",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.212
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-23T12:09:49.109000-07:00",
+    "comando_completo": "ch!reverse nab",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:09:49.306000-07:00",
+      "contenido": "ban",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.197
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-23T12:21:38.214000-07:00",
+    "comando_completo": "ch!reverse onot",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:21:38.433000-07:00",
+      "contenido": "tono",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-24T19:31:07.526000-07:00",
+    "comando_completo": "ch!reverse arroz",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T19:31:07.716000-07:00",
+      "contenido": "zorra",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-19T12:50:39.497000-08:00",
+    "comando_completo": "ch!reverse kcalb",
+    "respuesta_bot": {
+      "fecha": "2019-11-19T12:50:39.753000-08:00",
+      "contenido": "black",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-19T12:50:49.235000-08:00",
+    "comando_completo": "ch!reverse etihw",
+    "respuesta_bot": {
+      "fecha": "2019-11-19T12:50:49.464000-08:00",
+      "contenido": "white",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "devrenso",
+    "usuario_id": "591470897911824384",
+    "fecha_comando": "2019-11-19T12:54:27.329000-08:00",
+    "comando_completo": "ch!reverse kcalb",
+    "respuesta_bot": {
+      "fecha": "2019-11-19T12:54:27.555000-08:00",
+      "contenido": "black",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.226
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-02T17:20:02.282000-08:00",
+    "comando_completo": "ch!reverse kcalb.",
+    "respuesta_bot": {
+      "fecha": "2019-12-02T17:20:03.261000-08:00",
+      "contenido": ".black",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.979
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2019-12-10T17:39:13.644000-08:00",
+    "comando_completo": "ch!reverse Los amo UwU",
+    "respuesta_bot": {
+      "fecha": "2019-12-10T17:39:13.876000-08:00",
+      "contenido": "UwU oma soL",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-12-21T20:58:20.772000-08:00",
+    "comando_completo": "ch!reverse Kill",
+    "respuesta_bot": {
+      "fecha": "2019-12-21T20:58:20.974000-08:00",
+      "contenido": "lliK",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-12-21T20:59:34.886000-08:00",
+    "comando_completo": "ch!reverse poke",
+    "respuesta_bot": {
+      "fecha": "2019-12-21T20:59:35.097000-08:00",
+      "contenido": "ekop",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:37:29.277000-08:00",
+    "comando_completo": "ch!reverse inac",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:37:29.571000-08:00",
+      "contenido": "cani",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-23T10:28:18.415000-07:00",
+    "comando_completo": "ch!reverse Hola a todos , Saludos Cordiales",
+    "respuesta_bot": {
+      "fecha": "2020-06-23T10:28:18.648000-07:00",
+      "contenido": "selaidroC sodulaS , sodot a aloH",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "thetrueaccount_2",
+    "usuario_id": "585474371175317504",
+    "fecha_comando": "2020-07-06T17:26:32.566000-07:00",
+    "comando_completo": "ch!reverse soluciones",
+    "respuesta_bot": {
+      "fecha": "2020-07-06T17:26:32.787000-07:00",
+      "contenido": "senoiculos",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.221
+    }
+  },
+  {
+    "usuario": "thetrueaccount_2",
+    "usuario_id": "585474371175317504",
+    "fecha_comando": "2020-07-06T17:26:56.765000-07:00",
+    "comando_completo": "ch!reverse soluc i ones",
+    "respuesta_bot": {
+      "fecha": "2020-07-06T17:26:56.954000-07:00",
+      "contenido": "seno i culos",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.189
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-09-16T09:58:28.155000-07:00",
+    "comando_completo": "ch!reverse  amolapaloma",
+    "respuesta_bot": {
+      "fecha": "2020-09-16T09:58:28.462000-07:00",
+      "contenido": "amolapaloma",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.307
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-19T07:02:32.007000-08:00",
+    "comando_completo": "ch!reverse aloh",
+    "respuesta_bot": {
+      "fecha": "2020-11-19T07:02:32.234000-08:00",
+      "contenido": "hola",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-11-22T07:17:58.988000-08:00",
+    "comando_completo": "ch!reverse dile no al ugu de Arcus",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T07:17:59.502000-08:00",
+      "contenido": "sucrA ed ugu la on elid",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.514
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-11-22T07:18:11.532000-08:00",
+    "comando_completo": "ch!reverse sucrA ed ugu la on elid",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T07:18:11.765000-08:00",
+      "contenido": "dile no al ugu de Arcus",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-11-22T07:20:04.639000-08:00",
+    "comando_completo": "ch!reverse aíd neub agnet elbidnetnE",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T07:20:06.057000-08:00",
+      "contenido": "Entendible tenga buen día",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.418
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-11-27T14:55:27.293000-08:00",
+    "comando_completo": "ch!reverse :arOarOybriKhc:",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T14:55:27.764000-08:00",
+      "contenido": ":chKirbyOraOra:",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.471
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T23:02:22.368000-08:00",
+    "comando_completo": "ch!reverse soluciones",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:02:22.538000-08:00",
+      "contenido": "senoiculos",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T23:03:12.403000-08:00",
+    "comando_completo": "ch!reverse negocio",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:03:12.681000-08:00",
+      "contenido": "oicogen",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.278
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-29T23:03:31.545000-08:00",
+    "comando_completo": "ch!reverse sodulas ajjaja etneg lol yotsE",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:03:31.741000-08:00",
+      "contenido": "Estoy lol gente ajajja saludos",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-11-29T23:03:32.050000-08:00",
+    "comando_completo": "ch!reverse EspectroConPan",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:03:32.174000-08:00",
+      "contenido": "naPnoCortcepsE",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.124
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T23:03:50.501000-08:00",
+    "comando_completo": "ch!reverse Despacito",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:03:50.711000-08:00",
+      "contenido": "oticapseD",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T23:04:20.074000-08:00",
+    "comando_completo": "ch!reverse maradona",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:04:20.364000-08:00",
+      "contenido": "anodaram",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.29
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T23:04:34.766000-08:00",
+    "comando_completo": "ch!reverse Undertale",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:04:34.858000-08:00",
+      "contenido": "elatrednU",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.092
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-29T23:04:47.241000-08:00",
+    "comando_completo": "ch!reverse Dios",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:04:47.525000-08:00",
+      "contenido": "soiD",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-29T23:04:56.885000-08:00",
+    "comando_completo": "ch!reverse ?ojeiv etsío yoh se orutuf le ,oediv ne somom sut secah nehw",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:04:57.190000-08:00",
+      "contenido": "when haces tus momos en video, el futuro es hoy oíste viejo?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.305
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-29T23:07:03.104000-08:00",
+    "comando_completo": "ch!reverse ?ojeiv etsío yoh se orutuf le ,oediv ne somom sut secah nehw",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:07:03.334000-08:00",
+      "contenido": "when haces tus momos en video, el futuro es hoy oíste viejo?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.23
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-12-08T22:15:15.196000-08:00",
+    "comando_completo": "ch!reverse a",
+    "respuesta_bot": {
+      "fecha": "2020-12-08T22:15:15.669000-08:00",
+      "contenido": "a",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.473
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-12-08T22:17:23.072000-08:00",
+    "comando_completo": "ch!reverse ugu",
+    "respuesta_bot": {
+      "fecha": "2020-12-08T22:17:23.311000-08:00",
+      "contenido": "ugu",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.239
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-12-08T22:17:49.233000-08:00",
+    "comando_completo": "ch!reverse Que hará punto con todos esos chocolates?",
+    "respuesta_bot": {
+      "fecha": "2020-12-08T22:17:49.489000-08:00",
+      "contenido": "?setalocohc sose sodot noc otnup árah euQ",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-12-08T22:18:57.145000-08:00",
+    "comando_completo": "ch!reverse rimim",
+    "respuesta_bot": {
+      "fecha": "2020-12-08T22:18:57.657000-08:00",
+      "contenido": "mimir",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.512
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-12-08T22:19:07.615000-08:00",
+    "comando_completo": "ch!reverse rimim a",
+    "respuesta_bot": {
+      "fecha": "2020-12-08T22:19:10.961000-08:00",
+      "contenido": "a mimir",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.346
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-12-09T08:50:53.329000-08:00",
+    "comando_completo": "ch!reverse quiero empeñadas",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T08:50:53.513000-08:00",
+      "contenido": "sadañepme oreiuq",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.184
+    }
+  },
+  {
+    "usuario": "cocacolaespuma8468",
+    "usuario_id": "770035503507832834",
+    "fecha_comando": "2020-12-09T08:51:10.178000-08:00",
+    "comando_completo": "ch!reverse quiero chocolate",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T08:51:10.765000-08:00",
+      "contenido": "etalocohc oreiuq",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.587
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-12-22T12:47:00.842000-08:00",
+    "comando_completo": "ch!reverse hola buenas",
+    "respuesta_bot": {
+      "fecha": "2020-12-22T12:47:01.047000-08:00",
+      "contenido": "saneub aloh",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-31T17:33:34.288000-08:00",
+    "comando_completo": "ch!reverse jsisnzlwbwllsnw",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:33:34.541000-08:00",
+      "contenido": "wnsllwbwlznsisj",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.253
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-31T17:33:45.677000-08:00",
+    "comando_completo": "ch!reverse caca",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:33:45.863000-08:00",
+      "contenido": "acac",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-12-31T17:33:58.185000-08:00",
+    "comando_completo": "ch!reverse ch!reverse",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:33:58.781000-08:00",
+      "contenido": "esrever!hc",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.596
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-31T17:34:00.419000-08:00",
+    "comando_completo": "ch!reverse unu",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:34:00.631000-08:00",
+      "contenido": "unu",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.212
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-31T17:36:31.861000-08:00",
+    "comando_completo": "ch!reverse pa saber",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T17:36:32.012000-08:00",
+      "contenido": "rebas ap",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  }
+]

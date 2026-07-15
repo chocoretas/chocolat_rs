@@ -1,0 +1,1711 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:55:23.381000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:55:23.501000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#CA0CB6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/GRcC7Tfe2inPxpm3wjfZPYUZr2IWOuDm4jnTXbobTFE/https/dummyimage.com/500/ca0cb6/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/ca0cb6/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#ca0cb6"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/GRcC7Tfe2inPxpm3wjfZPYUZr2IWOuDm4jnTXbobTFE/https/dummyimage.com/500/ca0cb6/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/ca0cb6/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.12
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:55:38.671000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:55:38.733000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#25726C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/BRWw5uUUV3vsr4sRfcUloWBqyf_Vxg0lcp4Kv1OGa2M/https/dummyimage.com/500/25726c/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/25726c/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#25726c"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/BRWw5uUUV3vsr4sRfcUloWBqyf_Vxg0lcp4Kv1OGa2M/https/dummyimage.com/500/25726c/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/25726c/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.062
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:56:18.136000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:56:18.265000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#B7790F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/HJUtxcxOyCSHOFhvKwZhBfpdnAAYI_8JVut_2ZBNJ7s/https/dummyimage.com/500/b7790f/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/b7790f/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#b7790f"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/HJUtxcxOyCSHOFhvKwZhBfpdnAAYI_8JVut_2ZBNJ7s/https/dummyimage.com/500/b7790f/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/b7790f/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:56:23.304000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:56:23.517000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#94DC74",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/sCEaTCSQheNkbMpuNqF9pztrNuleL1rTy5Ee3lPKAeQ/https/dummyimage.com/500/94dc74/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/94dc74/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#94dc74"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/sCEaTCSQheNkbMpuNqF9pztrNuleL1rTy5Ee3lPKAeQ/https/dummyimage.com/500/94dc74/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/94dc74/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:56:24.332000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:56:24.487000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#AE69EA",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/4LDpXIzxCTbH7iN_NfglkstAboKHRh8vgGfOoYfoScc/https/dummyimage.com/500/ae69ea/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/ae69ea/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#ae69ea"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/4LDpXIzxCTbH7iN_NfglkstAboKHRh8vgGfOoYfoScc/https/dummyimage.com/500/ae69ea/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/ae69ea/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-18T21:56:26.151000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-05-18T21:56:26.182000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#D4AD94",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/CSUVcxCJ-C9COHtMakb6WO8MNuUjCm8pDrblPIzhqqA/https/dummyimage.com/500/d4ad94/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/d4ad94/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#d4ad94"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/CSUVcxCJ-C9COHtMakb6WO8MNuUjCm8pDrblPIzhqqA/https/dummyimage.com/500/d4ad94/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/d4ad94/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.031
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-20T11:28:32.536000-07:00",
+    "comando_completo": "ch!hexcolor A93226",
+    "respuesta_bot": {
+      "fecha": "2019-06-20T11:28:32.736000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-20T11:28:36.631000-07:00",
+    "comando_completo": "ch!hexcolor #A93226",
+    "respuesta_bot": {
+      "fecha": "2019-06-20T11:28:36.893000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A93226",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2Yn83KCm58ZbxKt7HqGxOedH_aiWt0wje4vTn7h2FOw/https/dummyimage.com/500/A93226/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/A93226/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#A93226"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2Yn83KCm58ZbxKt7HqGxOedH_aiWt0wje4vTn7h2FOw/https/dummyimage.com/500/A93226/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/A93226/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.262
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-26T09:38:41.919000-07:00",
+    "comando_completo": "ch!hexcolor #000000",
+    "respuesta_bot": {
+      "fecha": "2019-06-26T09:38:42.196000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Wm7dkRwvz6_YbKsOM0hRRt44DazfvEDKpUkvMYR8AFk/https/dummyimage.com/500/000000/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/000000/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#000000"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Wm7dkRwvz6_YbKsOM0hRRt44DazfvEDKpUkvMYR8AFk/https/dummyimage.com/500/000000/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/000000/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-02T11:18:18.715000-07:00",
+    "comando_completo": "ch!hexcolor #00FFFF",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T11:18:19.019000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#00FFFF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/c9R2hehfjDjtcR-ap7wE-PNzhvVLwA-pH7P3yT-xiXk/https/dummyimage.com/500/00FFFF/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/00FFFF/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#00FFFF"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/c9R2hehfjDjtcR-ap7wE-PNzhvVLwA-pH7P3yT-xiXk/https/dummyimage.com/500/00FFFF/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/00FFFF/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.304
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-02T12:29:48.035000-07:00",
+    "comando_completo": "ch!hexcolor #00FFFF",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:29:48.245000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#00FFFF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/c9R2hehfjDjtcR-ap7wE-PNzhvVLwA-pH7P3yT-xiXk/https/dummyimage.com/500/00FFFF/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/00FFFF/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#00FFFF"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/c9R2hehfjDjtcR-ap7wE-PNzhvVLwA-pH7P3yT-xiXk/https/dummyimage.com/500/00FFFF/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/00FFFF/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-07-02T12:30:36.191000-07:00",
+    "comando_completo": "ch!hexcolor ffff00",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:30:36.425000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-07-02T12:30:49.221000-07:00",
+    "comando_completo": "ch!hexcolor ffff00",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:30:49.435000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-07-02T12:30:59.836000-07:00",
+    "comando_completo": "ch!hexcolor #ffff00",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:31:00.177000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFF00",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/zh6x_10rja7zGUBneMzgGf2hxzyk_ymNubOpuNTWrSc/https/dummyimage.com/500/ffff00/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/ffff00/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#ffff00"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/zh6x_10rja7zGUBneMzgGf2hxzyk_ymNubOpuNTWrSc/https/dummyimage.com/500/ffff00/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/ffff00/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.341
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-07-02T12:31:06.710000-07:00",
+    "comando_completo": "ch!hexcolor #ff00ff",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:31:07.004000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FF00FF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/F9woBgJ8P3bsOtpySw_kf1iSSzKTVjDE8yifVQIiH3o/https/dummyimage.com/500/ff00ff/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/ff00ff/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#ff00ff"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/F9woBgJ8P3bsOtpySw_kf1iSSzKTVjDE8yifVQIiH3o/https/dummyimage.com/500/ff00ff/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/ff00ff/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-02T12:31:36.928000-07:00",
+    "comando_completo": "ch!hexcolor #FOFOFF",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:31:37.086000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#00000F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/s5mfpQPahQ44bHbTUxDS6V6DnuoQwd2agdbEcbZqm5Y/https/dummyimage.com/500/FOFOFF/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/FOFOFF/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#FOFOFF"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/s5mfpQPahQ44bHbTUxDS6V6DnuoQwd2agdbEcbZqm5Y/https/dummyimage.com/500/FOFOFF/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/FOFOFF/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.158
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-02T12:31:55.907000-07:00",
+    "comando_completo": "ch!hexcolor #OFFOFF",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:31:57.702000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/LNQdMT5ZGeGuRdTHMVC2VOaYMTREZ-ctIvdRVct8g5Q/https/dummyimage.com/500/OFFOFF/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/OFFOFF/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#OFFOFF"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/LNQdMT5ZGeGuRdTHMVC2VOaYMTREZ-ctIvdRVct8g5Q/https/dummyimage.com/500/OFFOFF/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/OFFOFF/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.795
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-02T12:33:29.273000-07:00",
+    "comando_completo": "ch!hexcolor #FOFFOF",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T12:33:29.553000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#00000F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/W3dJCzYVePqJ4cjTQ4SMjRrkcEqYmTwG_uDkrwCiO_Q/https/dummyimage.com/500/FOFFOF/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/FOFFOF/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#FOFFOF"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/W3dJCzYVePqJ4cjTQ4SMjRrkcEqYmTwG_uDkrwCiO_Q/https/dummyimage.com/500/FOFFOF/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/FOFFOF/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2019-07-03T15:06:08.370000-07:00",
+    "comando_completo": "ch!hexcolor #ff0000",
+    "respuesta_bot": {
+      "fecha": "2019-07-03T15:06:08.512000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/zZ6Bq9celgowu_JBNDlIHvEo_BjRhfA4l2QXGsDN8Qg/https/dummyimage.com/500/ff0000/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/ff0000/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#ff0000"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/zZ6Bq9celgowu_JBNDlIHvEo_BjRhfA4l2QXGsDN8Qg/https/dummyimage.com/500/ff0000/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/ff0000/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.142
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:00:58.201000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:00:58.365000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#0A0C47",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Pm4uBd-Jf9sjY0Iif5OQCsKgDKMDSJbXFXdj1bDbu90/https/dummyimage.com/500/a0c47/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/a0c47/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#a0c47"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Pm4uBd-Jf9sjY0Iif5OQCsKgDKMDSJbXFXdj1bDbu90/https/dummyimage.com/500/a0c47/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/a0c47/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.164
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T21:01:04.479000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T21:01:04.599000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#C7BA65",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/W0XqO5z6sQaSNo25gaBkDtOHFXMCNxQqw-FxR420kXs/https/dummyimage.com/500/c7ba65/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/c7ba65/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#c7ba65"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/W0XqO5z6sQaSNo25gaBkDtOHFXMCNxQqw-FxR420kXs/https/dummyimage.com/500/c7ba65/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/c7ba65/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.12
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-13T12:55:59.524000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2019-08-13T12:55:59.729000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3D8BAD",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/7-KHZGezUEs3EUuX__rMOKWIIXtGbCKlfMUeR3OCY7g/https/dummyimage.com/500/3d8bad/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/3d8bad/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#3d8bad"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/7-KHZGezUEs3EUuX__rMOKWIIXtGbCKlfMUeR3OCY7g/https/dummyimage.com/500/3d8bad/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/3d8bad/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-13T12:56:11.431000-07:00",
+    "comando_completo": "ch!hexcolor #2b1fd1",
+    "respuesta_bot": {
+      "fecha": "2019-08-13T12:56:11.656000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#2B1FD1",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/e4aPmdqvnkYc6Tz6LcXHhZuXBpSJoGttbbAAPBn-zt0/https/dummyimage.com/500/2b1fd1/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/2b1fd1/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#2b1fd1"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/e4aPmdqvnkYc6Tz6LcXHhZuXBpSJoGttbbAAPBn-zt0/https/dummyimage.com/500/2b1fd1/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/2b1fd1/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.225
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-13T12:56:33.925000-07:00",
+    "comando_completo": "ch!hexcolor #d11f3a",
+    "respuesta_bot": {
+      "fecha": "2019-08-13T12:56:34.135000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#D11F3A",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/OmYuEZ4aulIgr2RU6HevfBXT8N6jnDf_YEnrqbjZGHo/https/dummyimage.com/500/d11f3a/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/d11f3a/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#d11f3a"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/OmYuEZ4aulIgr2RU6HevfBXT8N6jnDf_YEnrqbjZGHo/https/dummyimage.com/500/d11f3a/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/d11f3a/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.21
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-19T20:27:24.475000-07:00",
+    "comando_completo": "ch!hexcolor #346beb",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T20:27:24.733000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#346BEB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Uv9QPtYkF9F-K2rThTOAno-BOpmdPHPVpcR6KHAgle8/https/dummyimage.com/500/346beb/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/346beb/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#346beb"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Uv9QPtYkF9F-K2rThTOAno-BOpmdPHPVpcR6KHAgle8/https/dummyimage.com/500/346beb/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/346beb/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.258
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:49:57.539000-07:00",
+    "comando_completo": "ch!hexcolor #804000",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:49:57.775000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#804000",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3BJwrg3EDDwKokK8p6t7m9qXyA3esuTSC09Rl_8YPCE/https/dummyimage.com/500/804000/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/804000/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#804000"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3BJwrg3EDDwKokK8p6t7m9qXyA3esuTSC09Rl_8YPCE/https/dummyimage.com/500/804000/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/804000/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:51:19.103000-07:00",
+    "comando_completo": "ch!hexcolor #3a43b8",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:51:19.322000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3A43B8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/AWT7Ab3hWVr2FxuQ3_FiX8S0RpI6J1rZ5uZdkcvJVWs/https/dummyimage.com/500/3a43b8/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/3a43b8/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#3a43b8"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/AWT7Ab3hWVr2FxuQ3_FiX8S0RpI6J1rZ5uZdkcvJVWs/https/dummyimage.com/500/3a43b8/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/3a43b8/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:51:46.628000-07:00",
+    "comando_completo": "ch!hexcolor #4c12a4",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:51:46.727000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4C12A4",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/61aD2jnDxWDN8hsf7YrwPKsHgLMYrn_A2N_gqCASbf8/https/dummyimage.com/500/4c12a4/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/4c12a4/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#4c12a4"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/61aD2jnDxWDN8hsf7YrwPKsHgLMYrn_A2N_gqCASbf8/https/dummyimage.com/500/4c12a4/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/4c12a4/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.099
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:52:58.225000-07:00",
+    "comando_completo": "ch!hexcolor #8a37c9",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:52:58.365000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#8A37C9",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/PInmxTUsuhhf5S5XgZ4umzEYGbI6Dcvz7Hrebdjc4B4/https/dummyimage.com/500/8a37c9/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/8a37c9/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#8a37c9"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/PInmxTUsuhhf5S5XgZ4umzEYGbI6Dcvz7Hrebdjc4B4/https/dummyimage.com/500/8a37c9/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/8a37c9/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "duck.a",
+    "usuario_id": "510948675321593886",
+    "fecha_comando": "2019-09-03T11:53:17.538000-07:00",
+    "comando_completo": "ch!hexcolor #4f4231",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:53:17.673000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4F4231",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/9VdksZOHgJ0yM4iKLHE8ws8ve5Zurck0WQWwhH_gfyQ/https/dummyimage.com/500/4f4231/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/4f4231/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#4f4231"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/9VdksZOHgJ0yM4iKLHE8ws8ve5Zurck0WQWwhH_gfyQ/https/dummyimage.com/500/4f4231/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/4f4231/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:53:30.144000-07:00",
+    "comando_completo": "ch!hexcolor #804000",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:53:30.540000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#804000",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3BJwrg3EDDwKokK8p6t7m9qXyA3esuTSC09Rl_8YPCE/https/dummyimage.com/500/804000/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/804000/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#804000"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3BJwrg3EDDwKokK8p6t7m9qXyA3esuTSC09Rl_8YPCE/https/dummyimage.com/500/804000/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/804000/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.396
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:54:58.677000-07:00",
+    "comando_completo": "ch!hexcolor #7a1b",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:54:59.372000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.695
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T11:55:45.818000-07:00",
+    "comando_completo": "ch!hexcolor #9a88b0",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:55:46.082000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#9A88B0",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/U-06q73bnZTwXZKDTX3Z5YlRfQ9brVwp-yjwIHVhfSU/https/dummyimage.com/500/9a88b0/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/9a88b0/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#9a88b0"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/U-06q73bnZTwXZKDTX3Z5YlRfQ9brVwp-yjwIHVhfSU/https/dummyimage.com/500/9a88b0/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/9a88b0/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:01:58.167000-07:00",
+    "comando_completo": "ch!hexcolor #6032a9",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:01:58.212000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#6032A9",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/krIZ_atdIIloGxOKamkcAZpm4VXqgYayh5azHBBgXrI/https/dummyimage.com/500/6032a9/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/6032a9/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#6032a9"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/krIZ_atdIIloGxOKamkcAZpm4VXqgYayh5azHBBgXrI/https/dummyimage.com/500/6032a9/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/6032a9/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.045
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:04:21.818000-07:00",
+    "comando_completo": "ch!hexcolor a93c9",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:04:22.193000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.375
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:05:12.499000-07:00",
+    "comando_completo": "ch!hexcolor #a98a2",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:05:12.620000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.121
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:05:26.930000-07:00",
+    "comando_completo": "ch!hexcolor #a12a2",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:05:27.117000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-03T12:05:42.080000-07:00",
+    "comando_completo": "ch!hexcolor #ffffff",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:05:42.135000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/WPR-umjdNXKMtkN1PGgtqoZHzrGCQgdyS12shguI6xE/https/dummyimage.com/500/ffffff/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/ffffff/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#ffffff"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/WPR-umjdNXKMtkN1PGgtqoZHzrGCQgdyS12shguI6xE/https/dummyimage.com/500/ffffff/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/ffffff/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.055
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:05:47.839000-07:00",
+    "comando_completo": "ch!hexcolor #a82314",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:05:47.977000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A82314",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2JgDNkT5oHA9hdKPoS0UDa1pAnkX9Gh_BdaKrtHujdY/https/dummyimage.com/500/a82314/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/a82314/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#a82314"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2JgDNkT5oHA9hdKPoS0UDa1pAnkX9Gh_BdaKrtHujdY/https/dummyimage.com/500/a82314/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/a82314/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.138
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:06:51.771000-07:00",
+    "comando_completo": "ch!hexcolor 3b87a1",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:06:51.911000-07:00",
+      "contenido": "El código hexadecimal está mal.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-03T12:07:38.178000-07:00",
+    "comando_completo": "ch!hexcolor #3b87a1",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T12:07:38.336000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3B87A1",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/k52hZdjXBn_AztpKEY-Sz6uPIi2yd8fw8WZBRF5sR6Q/https/dummyimage.com/500/3b87a1/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/3b87a1/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#3b87a1"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/k52hZdjXBn_AztpKEY-Sz6uPIi2yd8fw8WZBRF5sR6Q/https/dummyimage.com/500/3b87a1/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/3b87a1/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.158
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-12T07:38:04.761000-07:00",
+    "comando_completo": "ch!hexcolor 408000",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T07:38:04.980000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#408000",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/0eeGsUqjwb85Azi_4VxRSzXbk0DwD-GYqt2Y6k3RWEs/https/dummyimage.com/500/08000/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/08000/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "408000"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/0eeGsUqjwb85Azi_4VxRSzXbk0DwD-GYqt2Y6k3RWEs/https/dummyimage.com/500/08000/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/08000/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-05T15:44:47.849000-08:00",
+    "comando_completo": "ch!hexcolor 804000",
+    "respuesta_bot": {
+      "fecha": "2019-11-05T15:44:48.098000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#804000",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/iGNIz1xnLbWn_YItq9u9e6oRQcsBRHD_rUf9ehStSwQ/https/dummyimage.com/500/04000/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/04000/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "804000"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/iGNIz1xnLbWn_YItq9u9e6oRQcsBRHD_rUf9ehStSwQ/https/dummyimage.com/500/04000/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/04000/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-07-26T18:34:57.055000-07:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2020-07-26T18:34:57.274000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#986686",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/H3oZSM2Urj-5kS9qlWGSqlZ3IWq_Msu83uXIsZrrRqw/https/dummyimage.com/500/986686/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/986686/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#986686"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/H3oZSM2Urj-5kS9qlWGSqlZ3IWq_Msu83uXIsZrrRqw/https/dummyimage.com/500/986686/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/986686/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "oscarsf0019",
+    "usuario_id": "696917589099544647",
+    "fecha_comando": "2020-08-18T21:02:32.549000-07:00",
+    "comando_completo": "ch!Hexcolor",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T21:02:32.838000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#7EEFEC",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/AsuoOLDxyTggAFxaZbdD8_yzRaSZP63DorQV825QS1c/https/dummyimage.com/500/7eefec/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/7eefec/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#7eefec"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/AsuoOLDxyTggAFxaZbdD8_yzRaSZP63DorQV825QS1c/https/dummyimage.com/500/7eefec/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/7eefec/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.289
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-12-15T17:46:06.180000-08:00",
+    "comando_completo": "ch!hexcolor #F0D900",
+    "respuesta_bot": {
+      "fecha": "2020-12-15T17:46:07.589000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#F0D900",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Ynj_wEXRgyR9t40WQPQFqspSjJDzXFE0VI2tHid0KgM/https/dummyimage.com/500/F0D900/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/F0D900/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#F0D900"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Ynj_wEXRgyR9t40WQPQFqspSjJDzXFE0VI2tHid0KgM/https/dummyimage.com/500/F0D900/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/F0D900/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.409
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-12-28T09:16:24.833000-08:00",
+    "comando_completo": "ch!hexcolor",
+    "respuesta_bot": {
+      "fecha": "2020-12-28T09:16:25.099000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3C900",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/j_uQi200e52ZQyjeVYEMpsD8rSZYXs6O8x18De7hj5U/https/dummyimage.com/500/a3c900/%26text%3D%2520",
+            "canonicalUrl": "https://dummyimage.com/500/a3c900/&text=%20",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "#a3c900"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/j_uQi200e52ZQyjeVYEMpsD8rSZYXs6O8x18De7hj5U/https/dummyimage.com/500/a3c900/%26text%3D%2520",
+              "canonicalUrl": "https://dummyimage.com/500/a3c900/&text=%20",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.266
+    }
+  }
+]

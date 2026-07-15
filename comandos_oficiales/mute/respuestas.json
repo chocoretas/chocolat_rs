@@ -1,0 +1,44 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-15T15:59:22.643000-07:00",
+    "comando_completo": "ch!mute",
+    "respuesta_bot": {
+      "fecha": "2019-07-15T15:59:22.848000-07:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:34:24.056000-07:00",
+    "comando_completo": "ch!mute",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:34:24.541000-07:00",
+      "contenido": "@Dante, Debes mencionar a alguien para silenciarlo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.485
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-22T10:34:47.242000-07:00",
+    "comando_completo": "ch!mute @Dante",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:34:47.426000-07:00",
+      "contenido": "No tienes el rango requerido para usar este comando.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.184
+    }
+  }
+]

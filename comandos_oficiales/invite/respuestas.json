@@ -1,0 +1,4500 @@
+[
+  {
+    "usuario": "nnahig",
+    "usuario_id": "391432763959541773",
+    "fecha_comando": "2019-01-03T21:22:06.489000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-03T21:22:06.850000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.361
+    }
+  },
+  {
+    "usuario": "molynillo",
+    "usuario_id": "472211694559559682",
+    "fecha_comando": "2019-01-04T15:19:15.258000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-04T15:19:15.729000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.471
+    }
+  },
+  {
+    "usuario": "true_zutz",
+    "usuario_id": "447894864290381825",
+    "fecha_comando": "2019-01-04T22:20:19.170000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-04T22:20:19.568000-08:00",
+      "contenido": "🆙  |  **aristochingate leveled up!**",
+      "attachments": [
+        {
+          "id": "530993935309471754",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/530993935309471754/levelUp.png?ex=6a57cf63&is=6a567de3&hm=2dce478f7c5fa5269c1184441808f9a692814648281ad7b9c502f7a5b24ea036&",
+          "fileName": "levelUp.png",
+          "fileSizeBytes": 15618
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.398
+    }
+  },
+  {
+    "usuario": "itzcinder",
+    "usuario_id": "508047878292242442",
+    "fecha_comando": "2019-01-13T02:33:28.671000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-13T02:33:28.913000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "rhodesgraveyard",
+    "usuario_id": "458919882076061707",
+    "fecha_comando": "2019-01-13T06:50:02.268000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-13T06:50:02.713000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.445
+    }
+  },
+  {
+    "usuario": "repo.666",
+    "usuario_id": "342461513883320320",
+    "fecha_comando": "2019-01-17T18:15:38.749000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-17T18:15:39.130000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.381
+    }
+  },
+  {
+    "usuario": "felix.3246",
+    "usuario_id": "371723305385984000",
+    "fecha_comando": "2019-01-24T13:58:48.301000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-24T13:58:48.864000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.563
+    }
+  },
+  {
+    "usuario": "ralix.",
+    "usuario_id": "364547880146698240",
+    "fecha_comando": "2019-01-31T18:20:56.899000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-01-31T18:20:57.350000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.451
+    }
+  },
+  {
+    "usuario": "zeta_asd",
+    "usuario_id": "391356053478047754",
+    "fecha_comando": "2019-02-01T19:36:19.486000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-01T19:36:20.047000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.561
+    }
+  },
+  {
+    "usuario": "alextrnd",
+    "usuario_id": "508432580430004224",
+    "fecha_comando": "2019-02-02T04:09:15.879000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-02T04:09:16.272000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.393
+    }
+  },
+  {
+    "usuario": "terror3424",
+    "usuario_id": "499983475705643018",
+    "fecha_comando": "2019-02-02T18:49:42.030000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-02T18:49:42.676000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.646
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-02T18:51:25.248000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-02T18:51:26.998000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.75
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-02-02T18:58:59.068000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-02T18:58:59.463000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.395
+    }
+  },
+  {
+    "usuario": "azepia",
+    "usuario_id": "522142548844871690",
+    "fecha_comando": "2019-02-02T20:27:56.570000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-02T20:27:57.042000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.472
+    }
+  },
+  {
+    "usuario": "nxthing7744",
+    "usuario_id": "503398680187895818",
+    "fecha_comando": "2019-02-05T13:35:10.098000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-05T13:35:10.785000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.687
+    }
+  },
+  {
+    "usuario": "ralix.",
+    "usuario_id": "364547880146698240",
+    "fecha_comando": "2019-02-06T09:20:13.325000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-06T09:20:13.718000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.393
+    }
+  },
+  {
+    "usuario": "agustinauta",
+    "usuario_id": "444956466290622464",
+    "fecha_comando": "2019-02-08T12:10:50.707000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-08T12:10:51.471000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.764
+    }
+  },
+  {
+    "usuario": "damngoat666",
+    "usuario_id": "463168717803487255",
+    "fecha_comando": "2019-02-08T20:37:17.416000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-08T20:37:17.883000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.467
+    }
+  },
+  {
+    "usuario": "kimenono",
+    "usuario_id": "515908498912182298",
+    "fecha_comando": "2019-02-10T16:12:07.024000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T16:12:07.584000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.56
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-11T02:12:02.001000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-11T02:12:02.371000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.37
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-11T16:22:20.196000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-11T16:22:20.659000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.463
+    }
+  },
+  {
+    "usuario": "donneeveen",
+    "usuario_id": "369312195483271168",
+    "fecha_comando": "2019-02-14T16:57:54.761000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-14T16:57:55.316000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.555
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-02-22T04:34:55.587000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-22T04:34:56.029000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.442
+    }
+  },
+  {
+    "usuario": "yukito15_yt",
+    "usuario_id": "450287284307361803",
+    "fecha_comando": "2019-02-22T04:36:19.017000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-22T04:36:19.449000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.432
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-24T17:00:17.897000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-02-24T17:00:18.379000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.482
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-02T00:15:15.931000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-02T00:15:16.396000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.465
+    }
+  },
+  {
+    "usuario": "eze3028",
+    "usuario_id": "549330914459517000",
+    "fecha_comando": "2019-03-03T17:26:28.456000-08:00",
+    "comando_completo": "ch!invite @Eze3028",
+    "respuesta_bot": {
+      "fecha": "2019-03-03T17:26:28.936000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.48
+    }
+  },
+  {
+    "usuario": "blakkes.",
+    "usuario_id": "426468726825680916",
+    "fecha_comando": "2019-03-03T17:52:44.451000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-03T17:52:46.281000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.83
+    }
+  },
+  {
+    "usuario": "ceramica13",
+    "usuario_id": "510914740617478144",
+    "fecha_comando": "2019-03-05T14:27:59.683000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-05T14:28:00.209000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.526
+    }
+  },
+  {
+    "usuario": "ppppddshs0329",
+    "usuario_id": "456502044044558359",
+    "fecha_comando": "2019-03-05T15:19:07.750000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-05T15:19:08.118000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.368
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-08T16:06:32.649000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-08T16:06:32.968000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.319
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-09T18:35:54.296000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-09T18:35:54.835000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.539
+    }
+  },
+  {
+    "usuario": "hssebastian",
+    "usuario_id": "475498384569008148",
+    "fecha_comando": "2019-03-10T11:40:08.277000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-10T11:40:08.956000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.679
+    }
+  },
+  {
+    "usuario": "edu.9695",
+    "usuario_id": "386241305606488084",
+    "fecha_comando": "2019-03-11T00:32:43.046000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-11T00:32:43.242000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "rem4343",
+    "usuario_id": "534199713675739137",
+    "fecha_comando": "2019-03-13T12:24:39.703000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-13T12:24:40.358000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.655
+    }
+  },
+  {
+    "usuario": "kerberos505",
+    "usuario_id": "366604993094221834",
+    "fecha_comando": "2019-03-15T12:54:22.595000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-15T12:54:22.757000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-17T11:35:54.901000-07:00",
+    "comando_completo": "ch! invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-17T11:35:59.369000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.468
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-17T11:35:59.216000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-17T11:35:59.369000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.153
+    }
+  },
+  {
+    "usuario": "aexdarc",
+    "usuario_id": "389442335202607104",
+    "fecha_comando": "2019-03-17T18:47:05.239000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-17T18:47:05.961000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.722
+    }
+  },
+  {
+    "usuario": "rem4343",
+    "usuario_id": "534199713675739137",
+    "fecha_comando": "2019-03-18T10:05:51.072000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-18T10:05:51.260000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.188
+    }
+  },
+  {
+    "usuario": "._martell",
+    "usuario_id": "338663022807744512",
+    "fecha_comando": "2019-03-19T10:05:23.251000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-19T10:05:23.464000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "virgo_vj26",
+    "usuario_id": "364232204965904384",
+    "fecha_comando": "2019-03-29T21:37:57.518000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-29T21:37:57.678000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "whoareyou3836",
+    "usuario_id": "544910851921149952",
+    "fecha_comando": "2019-03-30T09:45:54.087000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-30T09:45:54.389000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.302
+    }
+  },
+  {
+    "usuario": "reinasama7384",
+    "usuario_id": "556584421600526337",
+    "fecha_comando": "2019-03-30T15:22:06.459000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-30T15:22:06.781000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.322
+    }
+  },
+  {
+    "usuario": "panconcoca1238",
+    "usuario_id": "533731867279753218",
+    "fecha_comando": "2019-03-30T18:21:22.491000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-30T18:21:22.614000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "andrewbr15",
+    "usuario_id": "449288028410871808",
+    "fecha_comando": "2019-03-30T20:17:59.954000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-30T20:18:00.114000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "ink_owl",
+    "usuario_id": "352705136268673024",
+    "fecha_comando": "2019-03-31T10:29:39.468000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-03-31T10:29:40.005000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.537
+    }
+  },
+  {
+    "usuario": "haket9503",
+    "usuario_id": "528446981832704010",
+    "fecha_comando": "2019-04-01T16:30:40.803000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-01T16:30:41.010000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-04-02T09:48:37.214000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-02T09:48:37.370000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "maruchanboy6940",
+    "usuario_id": "461676968958492683",
+    "fecha_comando": "2019-04-04T14:35:44.865000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-04T14:35:45.047000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-04-04T16:27:46.468000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-04T16:27:46.634000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "nyaatanyt",
+    "usuario_id": "556356238108131364",
+    "fecha_comando": "2019-04-04T20:17:20.655000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-04T20:17:20.878000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.223
+    }
+  },
+  {
+    "usuario": "el_gonza_",
+    "usuario_id": "523651073202847744",
+    "fecha_comando": "2019-04-06T17:02:05.559000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-06T17:02:05.715000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-04-06T17:08:29.419000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-06T17:08:29.622000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-04-06T17:08:43.896000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-06T17:08:44.058000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "benjath",
+    "usuario_id": "335211896825446400",
+    "fecha_comando": "2019-04-07T12:18:31.048000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-07T12:18:31.911000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.863
+    }
+  },
+  {
+    "usuario": "maruchanboy6940",
+    "usuario_id": "461676968958492683",
+    "fecha_comando": "2019-04-07T13:35:36.741000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-07T13:35:36.882000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "pelado_garca",
+    "usuario_id": "422814729174515723",
+    "fecha_comando": "2019-04-09T08:20:09.415000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-09T08:20:09.939000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.524
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-04-17T14:42:01.652000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-17T14:42:01.670000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.018
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-17T14:46:00.892000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-17T14:46:01.057000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2019-04-17T15:47:40.008000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-17T15:47:40.083000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.075
+    }
+  },
+  {
+    "usuario": "drikxer06",
+    "usuario_id": "456177463995924500",
+    "fecha_comando": "2019-04-18T18:07:11.571000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-18T18:07:11.777000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "tntcarrito",
+    "usuario_id": "525482616464343083",
+    "fecha_comando": "2019-04-19T18:48:39.958000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-19T18:48:40.050000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.092
+    }
+  },
+  {
+    "usuario": "edofran",
+    "usuario_id": "360373120563150858",
+    "fecha_comando": "2019-04-24T03:44:13.806000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-24T03:44:14.039000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "adiu2341",
+    "usuario_id": "505821177827164161",
+    "fecha_comando": "2019-04-27T09:17:22.704000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-27T09:17:22.791000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.087
+    }
+  },
+  {
+    "usuario": ".legendarylegend",
+    "usuario_id": "555979383668473866",
+    "fecha_comando": "2019-04-27T22:51:26.223000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-27T22:51:26.403000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.18
+    }
+  },
+  {
+    "usuario": "adorable_maypole_72355",
+    "usuario_id": "564484961038499888",
+    "fecha_comando": "2019-04-28T01:17:29.089000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-28T01:17:29.289000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "gyroalocar",
+    "usuario_id": "110635034184024064",
+    "fecha_comando": "2019-04-28T17:51:01.379000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-28T17:51:01.536000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.157
+    }
+  },
+  {
+    "usuario": "shian.w.",
+    "usuario_id": "446116451158458368",
+    "fecha_comando": "2019-04-29T20:10:20.134000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-29T20:10:20.478000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "sebas02089",
+    "usuario_id": "473645256621948938",
+    "fecha_comando": "2019-04-29T21:53:27.003000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-04-29T21:53:27.067000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.064
+    }
+  },
+  {
+    "usuario": "neodreen",
+    "usuario_id": "295328219362623489",
+    "fecha_comando": "2019-05-01T15:51:20.169000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-01T15:51:20.337000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-05-04T13:38:22.389000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-04T13:38:22.555000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "inepts",
+    "usuario_id": "533076032106921998",
+    "fecha_comando": "2019-05-04T13:40:18.880000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-04T13:40:19.069000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.189
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-05T09:58:47.926000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-05T09:58:48.046000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.12
+    }
+  },
+  {
+    "usuario": "putyourheadonmyshoulder3339",
+    "usuario_id": "438828939834556417",
+    "fecha_comando": "2019-05-05T12:39:43.464000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-05T12:39:43.838000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.374
+    }
+  },
+  {
+    "usuario": "ash.crimson",
+    "usuario_id": "359131310075412481",
+    "fecha_comando": "2019-05-11T17:58:03.740000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-11T17:58:03.956000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "edofran",
+    "usuario_id": "360373120563150858",
+    "fecha_comando": "2019-05-12T13:18:19.163000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-12T13:18:19.427000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "tamara5966",
+    "usuario_id": "568187526704136222",
+    "fecha_comando": "2019-05-12T13:57:09.387000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-12T13:57:09.548000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "aria_jass",
+    "usuario_id": "473264153331761192",
+    "fecha_comando": "2019-05-12T13:57:59.038000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-12T13:57:59.188000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "juliooo5880",
+    "usuario_id": "575131933949034516",
+    "fecha_comando": "2019-05-13T17:32:48.031000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-13T17:32:48.201000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-14T06:08:40.456000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-14T06:08:40.701000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.245
+    }
+  },
+  {
+    "usuario": "caleblolag1723",
+    "usuario_id": "322090937000132608",
+    "fecha_comando": "2019-05-19T15:46:29.672000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-19T15:46:29.854000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.182
+    }
+  },
+  {
+    "usuario": "krestonmc4856",
+    "usuario_id": "404002031226060810",
+    "fecha_comando": "2019-05-19T16:52:06.140000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-19T16:52:06.313000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.173
+    }
+  },
+  {
+    "usuario": "gabosupersayan",
+    "usuario_id": "448964319397412874",
+    "fecha_comando": "2019-05-19T18:57:28.762000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-19T18:57:28.901000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "foquitah4148",
+    "usuario_id": "569363426015576071",
+    "fecha_comando": "2019-05-20T16:24:01.400000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-20T16:24:01.571000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.171
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-21T08:46:38.294000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-21T08:46:38.422000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-24T19:41:15.932000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-24T19:41:16.059000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.127
+    }
+  },
+  {
+    "usuario": "buho234",
+    "usuario_id": "471523256713740298",
+    "fecha_comando": "2019-05-25T16:02:05.861000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T16:02:06.030000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.169
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-26T14:20:03.456000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-26T14:20:03.634000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.178
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-27T15:30:58.401000-07:00",
+    "comando_completo": "ch!Invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-27T15:30:58.496000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.095
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2019-05-28T15:35:03.856000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-28T15:35:04.061000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "kkoldiieu",
+    "usuario_id": "521090868246216720",
+    "fecha_comando": "2019-05-29T16:38:34.421000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-29T16:38:34.633000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.212
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-29T20:17:37.767000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-29T20:17:38.019000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.252
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-05-30T14:11:45.274000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-30T14:11:45.654000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.38
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2019-05-30T16:13:49.762000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-30T16:13:49.915000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.153
+    }
+  },
+  {
+    "usuario": "zerdtax",
+    "usuario_id": "569661169535549440",
+    "fecha_comando": "2019-05-30T22:16:40.040000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-05-30T22:16:40.151000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.111
+    }
+  },
+  {
+    "usuario": "kriptida",
+    "usuario_id": "485848634894843915",
+    "fecha_comando": "2019-06-06T14:42:21.535000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T14:42:21.786000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.251
+    }
+  },
+  {
+    "usuario": "murvhix",
+    "usuario_id": "475555396610818058",
+    "fecha_comando": "2019-06-09T08:28:37.744000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-09T08:28:37.955000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "daegonsouls",
+    "usuario_id": "377090456321785857",
+    "fecha_comando": "2019-06-11T12:06:06.276000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-11T12:06:06.487000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-06-15T16:49:27.505000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-15T16:49:27.660000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "julis0594",
+    "usuario_id": "480920865119141910",
+    "fecha_comando": "2019-06-18T11:42:12.722000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-18T11:42:12.909000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": ".donabot",
+    "usuario_id": "462407284543455233",
+    "fecha_comando": "2019-06-21T14:01:18.635000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-21T14:01:18.926000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.291
+    }
+  },
+  {
+    "usuario": "tierra9451",
+    "usuario_id": "441037955239247874",
+    "fecha_comando": "2019-06-23T19:11:22.953000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-23T19:11:23.053000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.1
+    }
+  },
+  {
+    "usuario": "ottap_dtnlv",
+    "usuario_id": "541438125801734173",
+    "fecha_comando": "2019-06-24T10:34:05.868000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-24T10:34:05.922000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.054
+    }
+  },
+  {
+    "usuario": "thetrueerror4523",
+    "usuario_id": "408620193674166272",
+    "fecha_comando": "2019-06-24T11:14:19.526000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-24T11:14:19.842000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.316
+    }
+  },
+  {
+    "usuario": "casty9087",
+    "usuario_id": "559220925514645533",
+    "fecha_comando": "2019-06-28T20:17:02.763000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-06-28T20:17:02.825000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.062
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-01T16:01:30.255000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-01T16:01:30.459000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.204
+    }
+  },
+  {
+    "usuario": "leojvb",
+    "usuario_id": "543842385684201507",
+    "fecha_comando": "2019-07-01T21:10:39.239000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-01T21:10:39.392000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.153
+    }
+  },
+  {
+    "usuario": "shoukkko",
+    "usuario_id": "451525686331572227",
+    "fecha_comando": "2019-07-02T20:15:04.557000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-02T20:15:04.811000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.254
+    }
+  },
+  {
+    "usuario": "sfed_",
+    "usuario_id": "549049896842559539",
+    "fecha_comando": "2019-07-04T15:55:32.975000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-04T15:55:33.115000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "ulti_gg",
+    "usuario_id": "241775896518721536",
+    "fecha_comando": "2019-07-06T22:20:27.448000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-06T22:20:27.616000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-07T19:31:11.152000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-07T19:31:11.371000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "el__kike",
+    "usuario_id": "589518006284189697",
+    "fecha_comando": "2019-07-08T00:34:38.757000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-08T00:34:38.932000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.175
+    }
+  },
+  {
+    "usuario": "el__kike",
+    "usuario_id": "589518006284189697",
+    "fecha_comando": "2019-07-08T00:38:34.143000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-08T00:38:34.293000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "javi1101",
+    "usuario_id": "156914429638737920",
+    "fecha_comando": "2019-07-08T14:56:13.348000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-08T14:56:13.675000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.327
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-08T21:39:42.485000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-08T21:39:42.712000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "oscarmsg",
+    "usuario_id": "346538293095038977",
+    "fecha_comando": "2019-07-08T23:01:12.598000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-08T23:01:12.693000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.095
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T18:50:53.025000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T18:50:53.325000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.3
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-12T14:10:08.224000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-12T14:10:08.365000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-12T21:52:57.552000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-12T21:52:57.771000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-07-13T20:42:52.541000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:42:52.688000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "nicolas.1714",
+    "usuario_id": "593105408634126357",
+    "fecha_comando": "2019-07-14T17:10:12.715000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-14T17:10:12.937000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "wolft999",
+    "usuario_id": "225442857899524106",
+    "fecha_comando": "2019-07-14T19:10:40.210000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-14T19:10:40.301000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.091
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-16T16:18:56.969000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-16T16:18:57.216000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.247
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-17T18:06:20.929000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-17T18:06:21.125000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.196
+    }
+  },
+  {
+    "usuario": "tumamaeswatona9584",
+    "usuario_id": "333727340083544064",
+    "fecha_comando": "2019-07-17T22:25:42.180000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-17T22:25:42.319000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "leogamer5023",
+    "usuario_id": "553808551882129418",
+    "fecha_comando": "2019-07-20T11:17:42.934000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-20T11:17:43.129000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "yukarinnam",
+    "usuario_id": "328044288115998722",
+    "fecha_comando": "2019-07-25T16:29:40.477000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-25T16:29:40.645000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-26T03:56:00.914000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-26T03:56:01.125000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-26T20:53:25.145000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-26T20:53:25.340000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-26T20:55:51.871000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-26T20:55:52.026000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-27T10:00:48.454000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T10:00:48.611000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.157
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-07-30T16:42:12.759000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-30T16:42:13.938000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.179
+    }
+  },
+  {
+    "usuario": "thecrimsonfuckr49",
+    "usuario_id": "504112657884774401",
+    "fecha_comando": "2019-07-31T19:53:42.627000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-07-31T19:53:42.842000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "rin013381",
+    "usuario_id": "545230769388519439",
+    "fecha_comando": "2019-08-01T10:35:35.133000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-01T10:35:35.348000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "droxus4519",
+    "usuario_id": "483883910242238475",
+    "fecha_comando": "2019-08-05T02:24:43.997000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-05T02:24:44.186000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.189
+    }
+  },
+  {
+    "usuario": "soma.nl",
+    "usuario_id": "495235209441181696",
+    "fecha_comando": "2019-08-07T23:07:33.290000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-07T23:07:33.519000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.229
+    }
+  },
+  {
+    "usuario": "fennecfox0700",
+    "usuario_id": "444124743952498708",
+    "fecha_comando": "2019-08-08T11:31:03.680000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T11:31:03.887000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "pekoru.",
+    "usuario_id": "288062360302780416",
+    "fecha_comando": "2019-08-08T17:45:07.643000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T17:45:07.830000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-08-11T20:00:14.746000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-11T20:00:14.896000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "etzio01",
+    "usuario_id": "295403583128600577",
+    "fecha_comando": "2019-08-12T12:06:50.723000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-12T12:06:50.972000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "asis4858",
+    "usuario_id": "599399801020350464",
+    "fecha_comando": "2019-08-12T18:15:05.553000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-12T18:15:05.721000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.168
+    }
+  },
+  {
+    "usuario": "rexteel",
+    "usuario_id": "598996609245642772",
+    "fecha_comando": "2019-08-14T16:11:31.178000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-14T16:11:31.363000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "duck.a",
+    "usuario_id": "510948675321593886",
+    "fecha_comando": "2019-08-14T16:12:47.962000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-14T16:12:49.290000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.328
+    }
+  },
+  {
+    "usuario": "rexteel",
+    "usuario_id": "598996609245642772",
+    "fecha_comando": "2019-08-15T06:44:59.932000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-15T06:45:00.068000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.136
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-08-17T11:26:01.006000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-17T11:26:01.127000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.121
+    }
+  },
+  {
+    "usuario": "_gh0stfac3_",
+    "usuario_id": "547833864043888664",
+    "fecha_comando": "2019-08-19T05:58:19.917000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T05:58:20.063000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.146
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-19T15:42:59.080000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T15:42:59.245000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-08-19T19:59:58.824000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T19:59:59.014000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "al3x5525",
+    "usuario_id": "538459049717530624",
+    "fecha_comando": "2019-08-19T20:38:43.977000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T20:38:44.204000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-08-25T12:53:16.247000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T12:53:16.488000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-08-30T04:51:45.491000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T04:51:45.635000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "duck.a",
+    "usuario_id": "510948675321593886",
+    "fecha_comando": "2019-09-03T11:50:00.324000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T11:50:00.539000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-09-05T17:08:07.675000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-05T17:08:07.788000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.113
+    }
+  },
+  {
+    "usuario": "lodhuxinkaorji1053",
+    "usuario_id": "528395415947837440",
+    "fecha_comando": "2019-09-06T21:16:17.415000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-06T21:16:17.592000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-12T14:35:51.065000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-12T14:35:51.187000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.122
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-09-15T15:08:10.460000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-15T15:08:10.565000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.105
+    }
+  },
+  {
+    "usuario": "itswashington",
+    "usuario_id": "491750935584964612",
+    "fecha_comando": "2019-09-16T08:38:11.012000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-16T08:38:11.197000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "misumiao",
+    "usuario_id": "448601361593008130",
+    "fecha_comando": "2019-09-16T08:38:19.581000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-16T08:38:19.799000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.218
+    }
+  },
+  {
+    "usuario": "pjose8875",
+    "usuario_id": "596472617494511629",
+    "fecha_comando": "2019-09-23T07:40:43.818000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-23T07:40:44.108000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.29
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-09-23T15:52:01.852000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-23T15:52:06.189000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.337
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-28T18:00:19.178000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-28T18:00:19.297000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.119
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-30T20:08:31.129000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-09-30T20:08:33.101000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.972
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-03T20:20:14.102000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-10-03T20:20:14.200000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.098
+    }
+  },
+  {
+    "usuario": "legn4r",
+    "usuario_id": "577591448862720000",
+    "fecha_comando": "2019-10-13T16:31:57.832000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-10-13T16:32:09.677000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.845
+    }
+  },
+  {
+    "usuario": "aleexcz",
+    "usuario_id": "443033102835646464",
+    "fecha_comando": "2019-10-16T05:46:33.441000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T05:46:33.607000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": "ch1nis",
+    "usuario_id": "347561360000811010",
+    "fecha_comando": "2019-11-01T19:35:18.536000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-01T19:35:18.808000-07:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.272
+    }
+  },
+  {
+    "usuario": "nerdo4790",
+    "usuario_id": "348240396482248704",
+    "fecha_comando": "2019-11-03T16:30:40.528000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T16:30:40.799000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.271
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-05T08:57:59.874000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-05T08:58:00.098000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.224
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-06T18:35:42.060000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-06T18:35:42.400000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.34
+    }
+  },
+  {
+    "usuario": "cyka_623",
+    "usuario_id": "631907927137189919",
+    "fecha_comando": "2019-11-10T07:34:25.614000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-10T07:34:26.024000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.41
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T08:03:24.602000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T08:03:24.841000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.239
+    }
+  },
+  {
+    "usuario": "nerdo4790",
+    "usuario_id": "348240396482248704",
+    "fecha_comando": "2019-11-17T13:55:44.200000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-17T13:55:44.460000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.26
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2019-11-17T14:53:00.562000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-17T14:53:01.013000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.451
+    }
+  },
+  {
+    "usuario": "srsoyo",
+    "usuario_id": "455436531226902539",
+    "fecha_comando": "2019-11-18T11:12:20.395000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-18T11:12:20.647000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.252
+    }
+  },
+  {
+    "usuario": "partialisland4d",
+    "usuario_id": "485131292220850179",
+    "fecha_comando": "2019-11-18T11:37:16.083000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-18T11:37:16.320000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.237
+    }
+  },
+  {
+    "usuario": "jdavid8925",
+    "usuario_id": "642684053031747588",
+    "fecha_comando": "2019-11-18T12:19:02.208000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-18T12:19:02.560000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.352
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-18T13:05:32.339000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-18T13:05:32.659000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.32
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-18T18:12:13.674000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-18T18:12:13.954000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-25T18:00:23.158000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-25T18:00:25.413000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.255
+    }
+  },
+  {
+    "usuario": "shader5481",
+    "usuario_id": "645401956751507458",
+    "fecha_comando": "2019-11-28T13:44:37.592000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-11-28T13:44:37.848000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-10T21:22:17.255000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-12-10T21:22:17.549000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "satumon",
+    "usuario_id": "536937503823757313",
+    "fecha_comando": "2019-12-11T12:36:39.960000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-12-11T12:36:40.200000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.24
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-12-12T08:52:38.970000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-12-12T08:52:39.231000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "misumiao",
+    "usuario_id": "448601361593008130",
+    "fecha_comando": "2019-12-17T15:18:44.476000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-12-17T15:18:47.944000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.468
+    }
+  },
+  {
+    "usuario": "angelsstation",
+    "usuario_id": "615577026346221568",
+    "fecha_comando": "2019-12-23T14:42:04.970000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2019-12-23T14:42:05.229000-08:00",
+      "contenido": "Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "sr_v",
+    "usuario_id": "493525223480492043",
+    "fecha_comando": "2020-02-03T00:45:25.363000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-02-03T00:45:37.375000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-02-03T00:45:37.212-08:00",
+          "description": "Leaderboard Rank: 23rd",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Zuvieh#9999",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/549006190378745859",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4hPOE5WEcuJJQ34GWE1e4K7vav69vP1N8_LllMKVyiA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/549006190378745859/69b688c2cb04b2baa489dd077245eaed.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/549006190378745859/69b688c2cb04b2baa489dd077245eaed.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫10,568",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫328,446",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫339,014",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 12.012
+    }
+  },
+  {
+    "usuario": "limitees",
+    "usuario_id": "612817161597222922",
+    "fecha_comando": "2020-04-04T15:06:20.963000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-04-04T15:06:21.409000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫370 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "DK Diamond96#5300",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/InACepxPori34c-oVsT_pE6qKpbENFc9eAsDuUGfQ5E/%3Fsize%3D128/https/cdn.discordapp.com/avatars/583827320952061952/aea23e7a74905768748c5403425b00bf.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/583827320952061952/aea23e7a74905768748c5403425b00bf.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.446
+    }
+  },
+  {
+    "usuario": "ynex",
+    "usuario_id": "570075210145857603",
+    "fecha_comando": "2020-05-04T10:26:50.727000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-05-04T10:26:59.555000-07:00",
+      "contenido": "🏠  **|**  **TakaraNotChan's Spooky Chesse**\n\n`Tatsugotchi is being overhauled and pets are being replaced! Type **t!tgv2** for more info on v2!`",
+      "attachments": [
+        {
+          "id": "706919821920436364",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/706919821920436364/room.png?ex=6a57c2e3&is=6a567163&hm=f20948fac20e019944e0a873b2f338e84d3e6a365b8db3fba2e12593bba5aa24&",
+          "fileName": "room.png",
+          "fileSizeBytes": 8266
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.828
+    }
+  },
+  {
+    "usuario": "dermgamer21",
+    "usuario_id": "613531674591887423",
+    "fecha_comando": "2020-05-06T00:32:05.735000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-05-06T00:32:11.308000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**DK Diamond96** misteriosamente se puso a bailar o.o",
+          "color": "#DFBFD0",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/pteydanfJ1-kKWwyjqCkHuwRf0KX-cHwde46H7k1CF8/https/cdn.weeb.sh/images/r1D9_I7wb.gif",
+            "canonicalUrl": "https://cdn.weeb.sh/images/r1D9_I7wb.gif",
+            "width": 148,
+            "height": 148
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/pteydanfJ1-kKWwyjqCkHuwRf0KX-cHwde46H7k1CF8/https/cdn.weeb.sh/images/r1D9_I7wb.gif",
+              "canonicalUrl": "https://cdn.weeb.sh/images/r1D9_I7wb.gif",
+              "width": 148,
+              "height": 148
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.573
+    }
+  },
+  {
+    "usuario": "abyita.",
+    "usuario_id": "656860233402023946",
+    "fecha_comando": "2020-05-08T17:39:58.340000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T17:39:59.408000-07:00",
+      "contenido": "**TakaraNotChan**, **you received your 💴 200 daily credits!**\n\n**Streak: :b_::ou::nu::uu::su:**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.068
+    }
+  },
+  {
+    "usuario": "lucyxz.k",
+    "usuario_id": "257223808593821696",
+    "fecha_comando": "2020-05-16T09:03:33.640000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-05-16T09:03:43.100000-07:00",
+      "contenido": "⚽  **|**  you entertain your :1_: Tatsugotchi. It seems to like you! **(+5 attention)**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.46
+    }
+  },
+  {
+    "usuario": "paufslolol",
+    "usuario_id": "514839041938817106",
+    "fecha_comando": "2020-05-25T11:49:08.239000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-05-25T11:49:08.744000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Vendes donas de chocolate por la calle. Se te acerca @[ch!] Chocolat y te paga 🍫1,152 por todas las que traes, y sin dudarlo se las vendiste.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "「ᗠᎯѕυвzєяσ」#5329",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/q-TPRK4Vc8Tjrckh1wdbgI-TvDGpum0_4NTZSyj9M1Y/%3Fsize%3D128/https/cdn.discordapp.com/avatars/409147750161317891/99998178823168aed51bd452a2f95b3e.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/409147750161317891/99998178823168aed51bd452a2f95b3e.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161579"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.505
+    }
+  },
+  {
+    "usuario": ".ehnt",
+    "usuario_id": "586295840402964480",
+    "fecha_comando": "2020-06-09T17:11:43.693000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-06-09T17:11:54.541000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Result: Dealer bust 🍫100",
+          "color": "#66BB6A",
+          "author": {
+            "name": "ILuck₂₀₆₀✯Team VR✯#2060",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/UbIO-c7KTyNzFx6K9C6QAvbvSzWvFrcEPJMLVa61bdQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/475050961354752018/a_a82d3b1ec826157f99fe758ff4ef8ff3.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/475050961354752018/a_a82d3b1ec826157f99fe758ff4ef8ff3.gif?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "**Your Hand**",
+              "value": ":8H: :jS:\n\nValue: 18",
+              "isInline": true
+            },
+            {
+              "name": "**Dealer Hand**",
+              "value": ":6H: :kD: :8S:\n\nValue: 24",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.848
+    }
+  },
+  {
+    "usuario": "tommy2608",
+    "usuario_id": "715801472599720147",
+    "fecha_comando": "2020-06-12T21:53:20.182000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-06-12T21:53:28.324000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 57 minutes and 12 seconds.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Sr_V#4008",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4L5VvkMMxswAKESlY0rDPl6vqHi3DrpWkNGkCwuW4Lw/%3Fsize%3D128/https/cdn.discordapp.com/avatars/493525223480492043/17a7b4f6381f4ba917eeea0d7630602b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/493525223480492043/17a7b4f6381f4ba917eeea0d7630602b.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.142
+    }
+  },
+  {
+    "usuario": "luckapo089",
+    "usuario_id": "696086845322166414",
+    "fecha_comando": "2020-06-22T15:32:13.909000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-06-22T15:32:14.351000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Ayudaste a los moderadores del servidor reportando a un usuario tóxico. Por dicha acción ellos te otorgan 🍫1,304.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Lux#8509",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/p2YrFgA5A8WwAytR0yRER0mEU0_mwNO96IqlbHbT1W0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/689617219331686469/311f7949a04bcc4e91dea166243b6f3b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/689617219331686469/311f7949a04bcc4e91dea166243b6f3b.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161553"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.442
+    }
+  },
+  {
+    "usuario": "sebakksu96",
+    "usuario_id": "348318594020540416",
+    "fecha_comando": "2020-06-26T09:10:07.957000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T09:10:22.915000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 1 hour and 7 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "xxxfabi#0791",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/b-WrlC5IveQQi2fwqr22gsuSygvCrW7iGB9cavDUUz4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/579024082494816267/a_6a4b7ba17e678f8cd089a40748c61b0d.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/579024082494816267/a_6a4b7ba17e678f8cd089a40748c61b0d.gif?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 14.958
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-06-29T15:50:16.929000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-06-29T15:50:17.503000-07:00",
+      "contenido": "📝  |  **Server rank card for user: Ricardo.G**",
+      "attachments": [
+        {
+          "id": "727294903352295494",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/727294903352295494/profile.png?ex=6a580ea9&is=6a56bd29&hm=b90462a2887760a39f18b6995bb5882379f6c4900f695c93703c891bc1627168&",
+          "fileName": "profile.png",
+          "fileSizeBytes": 44060
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.574
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-30T17:32:29.524000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-06-30T17:32:34.140000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nikolozsal** considera correcto aquello (ovo)b",
+          "color": "#2551AA",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/PvY3RA6ym0QDHAaXeMaF6LC-odCkCOY78ndpRUZeV_A/https/cdn.weeb.sh/images/BJDCOktP-.gif",
+            "canonicalUrl": "https://cdn.weeb.sh/images/BJDCOktP-.gif",
+            "width": 683,
+            "height": 374
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/PvY3RA6ym0QDHAaXeMaF6LC-odCkCOY78ndpRUZeV_A/https/cdn.weeb.sh/images/BJDCOktP-.gif",
+              "canonicalUrl": "https://cdn.weeb.sh/images/BJDCOktP-.gif",
+              "width": 683,
+              "height": 374
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.616
+    }
+  },
+  {
+    "usuario": "dandelion_dae",
+    "usuario_id": "715677243631861822",
+    "fecha_comando": "2020-08-02T09:58:24.080000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-02T09:58:26.444000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫39,436 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "ZTLeo#1500",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Py-KQNTSXS1y6CtCH2x-aEtrJUd1480SePnHW3Hc0DY/%3Fsize%3D128/https/cdn.discordapp.com/avatars/674440811672240139/5a7f4e21084704efa2893b1d87b8e2ff.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/674440811672240139/5a7f4e21084704efa2893b1d87b8e2ff.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.364
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-08-02T16:42:07.890000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-02T16:42:17.456000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Despite your best attempts, your Tatsugotchi does not want to learn. Persistence is key!",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M7Tnthgcex3hHHyvgKoHgrcXkrK7VliFzLmYno6WMmU/https/i-like.blue/emotes/19.png",
+            "canonicalUrl": "https://i-like.blue/emotes/19.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.566
+    }
+  },
+  {
+    "usuario": "prisma04350",
+    "usuario_id": "538454840519557140",
+    "fecha_comando": "2020-08-05T13:18:04.537000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T13:18:11.135000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ZTLeo** recibe caricias con cariño por **ImJustAEz**",
+          "color": "#2E44DB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/688911115224088606/e94e56da-cdca-43e2-beea-d1b07a4c0a29.gif?ex=6a5829f9&is=6a56d879&hm=a4a903ace3c46b8cc87d2110b2f23d20fa4a487e14f6f236354c8e6e6ad4a7cf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/688911115224088606/e94e56da-cdca-43e2-beea-d1b07a4c0a29.gif?ex=6a5829f9&is=6a56d879&hm=a4a903ace3c46b8cc87d2110b2f23d20fa4a487e14f6f236354c8e6e6ad4a7cf&",
+            "width": 540,
+            "height": 304
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/688911115224088606/e94e56da-cdca-43e2-beea-d1b07a4c0a29.gif?ex=6a5829f9&is=6a56d879&hm=a4a903ace3c46b8cc87d2110b2f23d20fa4a487e14f6f236354c8e6e6ad4a7cf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/688911115224088606/e94e56da-cdca-43e2-beea-d1b07a4c0a29.gif?ex=6a5829f9&is=6a56d879&hm=a4a903ace3c46b8cc87d2110b2f23d20fa4a487e14f6f236354c8e6e6ad4a7cf&",
+              "width": 540,
+              "height": 304
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.598
+    }
+  },
+  {
+    "usuario": "abyita.",
+    "usuario_id": "656860233402023946",
+    "fecha_comando": "2020-08-05T21:53:19.714000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T21:53:25.378000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Result: Dealer bust 🍫1,000",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Kaneki#4362",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/vzl3NGWAEK1Te1Gad7T5iMDtCSNZctkSGApvhD6JoxM/https/cdn.discordapp.com/embed/avatars/2.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "**Your Hand**",
+              "value": ":qD: :kD:\n\nValue: 20",
+              "isInline": true
+            },
+            {
+              "name": "**Dealer Hand**",
+              "value": ":jD: :5D: :9C:\n\nValue: 24",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.664
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-07T20:03:09.330000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-07T20:03:12.736000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 2 hours and 47 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": ".          .   .      .    .#0358",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/YP3xUBGxsawmBkbeoV4Loe2_rTvtiqlKqAlgNiu7Hi0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/615075097417351208/6c8aa8ee0c6adb396392d3e5ee0909c5.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/615075097417351208/6c8aa8ee0c6adb396392d3e5ee0909c5.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.406
+    }
+  },
+  {
+    "usuario": "hexenfrost",
+    "usuario_id": "339926141152526356",
+    "fecha_comando": "2020-08-13T18:07:03.115000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-13T18:07:16.741000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "@Noname7612 Te ofrece 🍫1,291 a cambio de que le traigas una soda para que pueda programar a gusto. ¡Corre por ella, te pagará más!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Liria#4671",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ElFdPpxBZP6vgvkXjhGP_0dMC9inWg5y9wXDk6t-0oY/%3Fsize%3D128/https/cdn.discordapp.com/avatars/538454840519557140/9be007e18236ca8d3474c8f2d636bafb.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/538454840519557140/9be007e18236ca8d3474c8f2d636bafb.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161559"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 13.626
+    }
+  },
+  {
+    "usuario": "deltra8505",
+    "usuario_id": "664253257300049935",
+    "fecha_comando": "2020-08-14T18:07:45.096000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-14T18:07:49.960000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Te metes a trabajar como vendedor ambulante, al finalizar tu jornada recaudas 🍫255.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Latte#4551",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/-SdXnmqdbNj18lTWle0_yfQvJWtbXgJr5VGNNHhUMdk/%3Fsize%3D128/https/cdn.discordapp.com/avatars/552697612332040218/199aac5e8102de80f18ad3a98dba518c.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/552697612332040218/199aac5e8102de80f18ad3a98dba518c.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161556"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.864
+    }
+  },
+  {
+    "usuario": "katsuhitokamado.",
+    "usuario_id": "683652819181633566",
+    "fecha_comando": "2020-08-15T11:15:11.065000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-15T11:15:22.069000-07:00",
+      "contenido": "🆙  **|**  **Reeddo has given @♡☆Abyita☆♡ a reputation point!**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.004
+    }
+  },
+  {
+    "usuario": "symuu",
+    "usuario_id": "659527936172621865",
+    "fecha_comando": "2020-08-15T12:58:24.311000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-15T12:58:34.287000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "🏓 Ping",
+          "url": null,
+          "timestamp": null,
+          "description": ":incoming_envelope: Envío de mensajes: **155 ms.**\n:satellite_orbital: DiscordAPI: **117 ms.**",
+          "color": "#D2097B",
+          "footer": {
+            "text": "¿Te gustaría apoyar a Chocolat? Necesitamos de tu ayuda, para más información use el comando: ch!donate"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "📨",
+              "code": "incoming_envelope",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4e8.svg"
+            },
+            {
+              "id": "",
+              "name": "🛰️",
+              "code": "satellite_orbital",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6f0.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.976
+    }
+  },
+  {
+    "usuario": "momoesawaki",
+    "usuario_id": "426557257539387422",
+    "fecha_comando": "2020-08-18T10:38:47.917000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T10:38:57.265000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-08-18T10:38:57.238-07:00",
+          "description": "Leaderboard Rank: 42543rd",
+          "color": "#03A9F4",
+          "author": {
+            "name": "SONIC747RE#3519",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/383047096061788171",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/_J_L0OGJq_YkkJvryN2zjXZSLeINz2c_ZHAulbonM_U/%3Fsize%3D128/https/cdn.discordapp.com/avatars/383047096061788171/6b79ae0faa6867513ced1ae2a82fa532.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/383047096061788171/6b79ae0faa6867513ced1ae2a82fa532.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫3",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫3",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.348
+    }
+  },
+  {
+    "usuario": "ourzz",
+    "usuario_id": "490513718329737227",
+    "fecha_comando": "2020-08-20T06:47:26.515000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T06:47:31.066000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: I will remind you in 4 hours",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Ezequiel Kawaii UwU#5933",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/y_xkJvwyDkQb6rJSeOGpgde2Ignl0C8-WujauYj4IkM/%3Fsize%3D128/https/cdn.discordapp.com/avatars/664903308636586023/50afbb9b307e4ce333fe374805fe6e04.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/664903308636586023/50afbb9b307e4ce333fe374805fe6e04.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.551
+    }
+  },
+  {
+    "usuario": "ourzz",
+    "usuario_id": "490513718329737227",
+    "fecha_comando": "2020-08-20T06:47:51.687000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T06:47:52.204000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: I will remind you in 4 hours",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Shiny_Shizow∆#2046",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/cDm3PIa3ROmM1Q0vOS6f3viDgRfj-0alQUpXjJdLnc4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/561665106807619584/8c3898522e191c2020fb9e5e6cd03f55.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/561665106807619584/8c3898522e191c2020fb9e5e6cd03f55.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.517
+    }
+  },
+  {
+    "usuario": "rem096089",
+    "usuario_id": "745158694676987955",
+    "fecha_comando": "2020-08-22T15:46:35.091000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-22T15:46:42.045000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You have placed a bet of 🍫5,000 on `even`.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "❄❄Alex Invernal❄❄#0535",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O8YPydu9K5_lB9Tl-fHsZ2ZpHdmBhdC0YZ6kBKi1rRA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/700854214837928117/ba54b89ba12ff22ba402940e455044cc.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/700854214837928117/ba54b89ba12ff22ba402940e455044cc.png?size=128"
+          },
+          "footer": {
+            "text": "Time remaining: 30 seconds"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.954
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-08-28T16:50:29.651000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-08-28T16:50:37.530000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**flora loves shoom** acaricia con amor a **ZTLeo** >u<",
+          "color": "#3960E8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/722409482742792283/8ea8c63a-6c36-4c68-865c-2c1ab86eebcc.gif?ex=6a581502&is=6a56c382&hm=e2006ba5a1c24c5633436ae22e2f049e3e841c8244f30b5b58a44077658bfa9e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/722409482742792283/8ea8c63a-6c36-4c68-865c-2c1ab86eebcc.gif?ex=6a581502&is=6a56c382&hm=e2006ba5a1c24c5633436ae22e2f049e3e841c8244f30b5b58a44077658bfa9e&",
+            "width": 540,
+            "height": 300
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/722409482742792283/8ea8c63a-6c36-4c68-865c-2c1ab86eebcc.gif?ex=6a581502&is=6a56c382&hm=e2006ba5a1c24c5633436ae22e2f049e3e841c8244f30b5b58a44077658bfa9e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/722409482742792283/8ea8c63a-6c36-4c68-865c-2c1ab86eebcc.gif?ex=6a581502&is=6a56c382&hm=e2006ba5a1c24c5633436ae22e2f049e3e841c8244f30b5b58a44077658bfa9e&",
+              "width": 540,
+              "height": 300
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.879
+    }
+  },
+  {
+    "usuario": "jenny071137",
+    "usuario_id": "741629152100352012",
+    "fecha_comando": "2020-09-02T16:47:55.635000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-02T16:47:59.872000-07:00",
+      "contenido": "> **‎Claiming dailies  •  [**  ♧Kazuya Kento♧#5465  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**You have already claimed your daily!**\n\n**Today you earned:**\n:e: **`You gave someone your daily credits!`**\n:e: `+0 tokens`\n\n_You can only claim dailies once every 24 hours.\nPlease try again tomorrow!_",
+          "color": "#757575",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/390426705447354369/708766600903524412/streak_7.gif?ex=6a57e355&is=6a5691d5&hm=d7b53c6b8eb4bf406a7349c38a60067061f1c5edc8375a1c85ab36f8216240f3&",
+            "canonicalUrl": "https://media.discordapp.net/attachments/390426705447354369/708766600903524412/streak_7.gif?ex=6a57e355&is=6a5691d5&hm=d7b53c6b8eb4bf406a7349c38a60067061f1c5edc8375a1c85ab36f8216240f3&",
+            "width": 204,
+            "height": 20
+          },
+          "footer": {
+            "text": "Dailies reset at 00:00 UTC"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/390426705447354369/708766600903524412/streak_7.gif?ex=6a57e355&is=6a5691d5&hm=d7b53c6b8eb4bf406a7349c38a60067061f1c5edc8375a1c85ab36f8216240f3&",
+              "canonicalUrl": "https://media.discordapp.net/attachments/390426705447354369/708766600903524412/streak_7.gif?ex=6a57e355&is=6a5691d5&hm=d7b53c6b8eb4bf406a7349c38a60067061f1c5edc8375a1c85ab36f8216240f3&",
+              "width": 204,
+              "height": 20
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "706219192923455549",
+              "name": "e",
+              "code": "e",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/706219192923455549.gif"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.237
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-09-08T23:06:16.417000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-08T23:06:24.977000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "753134196561543198",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/753134196561543198/emoji.png?ex=6a57cc21&is=6a567aa1&hm=9da3ece43f8ab1e7969efd935ddfbddb4977aa6e59d42cee3a9498274cde4ad2&",
+          "fileName": "emoji.png",
+          "fileSizeBytes": 33384
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.56
+    }
+  },
+  {
+    "usuario": "janjanpium",
+    "usuario_id": "690732671701090314",
+    "fecha_comando": "2020-09-09T18:30:30.747000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-09T18:30:33.783000-07:00",
+      "contenido": "🎣  **|**  **you caught: 👞!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.036
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-09-10T20:32:27.734000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-10T20:32:30.732000-07:00",
+      "contenido": "**[  :e: l SLOTS ]**\n------------------\n:e: : :e: : :e:\n\n:e: : :e: : :e: **<**\n\n:e: : :e: : :e:\n------------------\n| : : :  **LOST**  : : : |\n\n**『 Mr Limbo 』** used **1** credit(s) and lost everything.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.998
+    }
+  },
+  {
+    "usuario": "rooyyy",
+    "usuario_id": "366942679847796736",
+    "fecha_comando": "2020-09-11T19:03:19.043000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-11T19:03:29.059000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Result: Loss 🍫-316",
+          "color": "#EF5350",
+          "author": {
+            "name": "||SantI||#9924",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/3yDwfpBtRYBAK67jOZVvrq6TeQDGswqzc0dHKi6UBXQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/512419385835651082/bf7b2d2358517bef3ad423def45ccf6b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/512419385835651082/bf7b2d2358517bef3ad423def45ccf6b.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "**Your Hand**",
+              "value": ":9D: :8S:\n\nValue: 17",
+              "isInline": true
+            },
+            {
+              "name": "**Dealer Hand**",
+              "value": ":10S: :10D:\n\nValue: 20",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.016
+    }
+  },
+  {
+    "usuario": "justjonatan",
+    "usuario_id": "703446820088447027",
+    "fecha_comando": "2020-09-16T12:01:17.769000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-16T12:01:20.196000-07:00",
+      "contenido": ":white_check_mark: | Te he enviado la invitación a tus mensajes privados.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.427
+    }
+  },
+  {
+    "usuario": "hexenfrost",
+    "usuario_id": "339926141152526356",
+    "fecha_comando": "2020-09-18T11:12:16.851000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-18T11:12:30.658000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Russian Roulette game has begun!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#03A9F4",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 13.807
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-09-26T19:24:21.983000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-26T19:24:30.827000-07:00",
+      "contenido": "**[  :e: l SLOTS ]**\n------------------\n:e: : :e: : :e:\n\n:e: : :e: : :e: **<**\n\n:e: : :e: : :e:\n------------------\n| : : : :  :e:  : : : : |\n\n**Yohᴾʰʸ** used **1** credit(s) and won **1** credits!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.844
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-09-28T11:18:43.387000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-09-28T11:18:43.946000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Ganaste varios chocolates por cantar karaokes con Moe, y al vender narcisos y poemas, al final del día sumas un total de 🍫1,544.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Bolt569#4125",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/V8xZZJbzIim_6_RYsmCvqGFiBmc46XXltPLPR6V1U8Y/%3Fsize%3D128/https/cdn.discordapp.com/avatars/487995118536884226/1d895fcdc34e24f70913b95dc3376bbe.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/487995118536884226/1d895fcdc34e24f70913b95dc3376bbe.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #1187452"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.559
+    }
+  },
+  {
+    "usuario": "viktoria.luise",
+    "usuario_id": "675408066316992533",
+    "fecha_comando": "2020-10-14T09:26:31.639000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T09:26:32.329000-07:00",
+      "contenido": "> **‎Viewing your House  •  [**  Iggy 3.0#0660  **]**",
+      "attachments": [
+        {
+          "id": "765973830551994408",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/765973830551994408/room_view.png?ex=6a585d78&is=6a570bf8&hm=a5d5b4b42e1197aad7b49b062733453d725681139c52e054688840682caa7109&",
+          "fileName": "room_view.png",
+          "fileSizeBytes": 9943
+        }
+      ],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You currently do not have an active Tatsugotchi. Open a Tatsugotchi Capsule using `t!tg capsule`, or unwrap a Wrapped Pet using `t!tg unwrap`, then set it as your active pet with the `t!tg edit` menu.",
+          "color": "#FF0000",
+          "author": {
+            "name": "No Active Pet",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/NUQsg_Qs6sLgoPSWag_6nRK7Og5H4M4EOnAzMaVIhFw/%3Fv%3D1/https/cdn.discordapp.com/emojis/680020452844109826.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/emojis/680020452844109826.png?v=1"
+          },
+          "footer": {
+            "text": "Customize your house using the \"t!house edit\" menu!"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.69
+    }
+  },
+  {
+    "usuario": "migue7909",
+    "usuario_id": "383811911625736212",
+    "fecha_comando": "2020-10-17T21:36:23.316000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-10-17T21:36:32.824000-07:00",
+      "contenido": "> **‎Viewing rank card  •  [**  Nikolozsal#7181  **]**",
+      "attachments": [
+        {
+          "id": "767244706621947934",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/767244706621947934/rank.png?ex=6a57b710&is=6a566590&hm=5d74f0d593c0a1760d8d50a8841ce13494fabd294c4c7b10242250a734fa5a9d&",
+          "fileName": "rank.png",
+          "fileSizeBytes": 67997
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.508
+    }
+  },
+  {
+    "usuario": "buch8",
+    "usuario_id": "755252440512725103",
+    "fecha_comando": "2020-10-23T09:22:12.554000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-10-23T09:22:24.141000-07:00",
+      "contenido": "🎣  **|**  **you caught: 🔋!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.587
+    }
+  },
+  {
+    "usuario": "droxus4519",
+    "usuario_id": "483883910242238475",
+    "fecha_comando": "2020-10-26T19:16:26.218000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-10-26T19:16:29.537000-07:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  EspectroConPan#7979  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "Your pet ran around you in circles. It is now resting on your lap!",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/770470951518863390/pet.png?ex=6a583efd&is=6a56ed7d&hm=1b1b809c916f71fd720b1c16af76762f5e3ebd1786527f736926a2d15ee18301&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/770470951518863390/pet.png?ex=6a583efd&is=6a56ed7d&hm=1b1b809c916f71fd720b1c16af76762f5e3ebd1786527f736926a2d15ee18301&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "Enter \"t!tg carer\" to hire a carer to watch your pet while you're busy."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_xp: Exp: **1808 / 2800** (`+10`)\n:pet_fatigue: Fatigue: **20 / 514** (`+3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.319
+    }
+  },
+  {
+    "usuario": "grinsorm",
+    "usuario_id": "481251034707132427",
+    "fecha_comando": "2020-10-30T22:29:09.844000-07:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-10-30T22:29:14.819000-07:00",
+      "contenido": "🎣  **|**  **you caught: 🐟!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.975
+    }
+  },
+  {
+    "usuario": "tarducci",
+    "usuario_id": "415987889684348929",
+    "fecha_comando": "2020-11-08T20:41:26.507000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-08T20:41:34.783000-08:00",
+      "contenido": "> **‎Viewing Community Goal Progress  •  [**  KilitoKuhn#0001  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Community Goals",
+          "url": null,
+          "timestamp": null,
+          "description": "Band together as a community to complete these goals, unlock higher tiers & earn rewards!\nFor more info, type `t!goals help`\n\n**‎Completion Status**",
+          "color": "#DCE5F5",
+          "author": {
+            "name": "Launch Event",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/736163626934861845/740103123460292618/tatsumakireplacement2x.png?ex=6a57d9ff&is=6a56887f&hm=04fa47bb1c4d021b6c61920d16b814b84a430d38d0b03dd5cf656cbd1c7e313c&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/736163626934861845/740103123460292618/tatsumakireplacement2x.png?ex=6a57d9ff&is=6a56887f&hm=04fa47bb1c4d021b6c61920d16b814b84a430d38d0b03dd5cf656cbd1c7e313c&"
+          },
+          "footer": {
+            "text": "You have unclaimed rewards! Type `t!goals claim` to redeem your rewards",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Wz79-QCJbN2E7a579yQ-Ea1hc0-qkYLvqojbYwCVNL0/https/cdn.discordapp.com/avatars/602248538457374743/a_7d3c091457da32e36b693d3006feb54f.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/602248538457374743/a_7d3c091457da32e36b693d3006feb54f.gif"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": ":e: __**Complete 15,000 Lines in Bingo**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `13282`/`15000` \n:tw_blank: **`Reward:`** `200x` :e: `tokens`",
+              "isInline": false
+            },
+            {
+              "name": ":spinning_wheel: __**Spin the Daily Wheel 200,000 Times**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `200000`/`200000` **Cleared!**\n:tw_blank: **`Reward:`** `2x` :spin_emoji: `free spin tokens`",
+              "isInline": false
+            },
+            {
+              "name": ":treetsu_animated: __**Grow 40,000 Treetsus**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `40000`/`40000` **Cleared!**\n:tw_blank: **`Reward:`** `1x` :treetsu_animated: `Treetsu housing decoration`",
+              "isInline": false
+            },
+            {
+              "name": ":emerald_currency_sparkling: __**Spend 9,000,000 Emerald Tokens**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `7816641`/`9000000` \n:tw_blank: **`Reward:`** `200x` :e: `tokens`",
+              "isInline": false
+            },
+            {
+              "name": ":e: __**Complete All Daily Quests 350,000 Times**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `264102`/`350000` \n:tw_blank: **`Reward:`** `200x` :e: `tokens`",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.276
+    }
+  },
+  {
+    "usuario": "rrrrrrrrrrrrrrrrrrxiam4386",
+    "usuario_id": "773333003904614411",
+    "fecha_comando": "2020-11-09T17:53:58.106000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-09T17:54:02.346000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "@Unknown está en búsqueda de conseguir una vida similar al de un Isekai, donde el mundo funcione con reglas mágicas y la belleza rústica reluzca en el paisaje. Decide pagarte 🍫1,900 para que lo ayudes con su investigación y así conseguir el mayor logro de la humanidad.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "ᴸʰ|Moe|ᴾʰʸ#9230",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uRPruNq-V_R8flUhG2owZLNW4-B6Qjm694vV2A6CBmg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/682088651164745816/a_bbf882c89d167a73fd4cb1c91f29982a.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/682088651164745816/a_bbf882c89d167a73fd4cb1c91f29982a.gif?size=128"
+          },
+          "footer": {
+            "text": "Reply #1412959"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.24
+    }
+  },
+  {
+    "usuario": "alazka__",
+    "usuario_id": "501864587294015488",
+    "fecha_comando": "2020-11-12T18:28:33.234000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T18:28:42.789000-08:00",
+      "contenido": "__**Información de Chocolat**__\n\n**1.-** Si tienes alguna duda y/o problema con el uso del bot, puedes acceder al Servidor de Soporte.\n> https://discord.gg/CgSHkuK\n\n**2.-** ¡Accede a nuestro sitio web, donde encontrarás todos los comandos detallados y más información!\n> https://Chocolatbot.weebly.com/\n\n**3.-** Puedes aportar algo de dinero para mantener activo el desarrollo del bot, haciendo click en el enlace de abajo.\n> https://www.patreon.com/ChocolatDiscordBot\n\n**4.-** Puedes invitar a Chocolat haciendo click en el enlace de abajo. Debes tener el permiso de `Administrar Servidor` para poder invitarla.\n> https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot\n\n**5.-** Puedes ver los comandos de Chocolat escribiendo `ch!help` o `ch!nodmhelp`. Este último es para recibir la lista de comandos sin que recibas un mensaje privado.\n\n**6.-** ¡Vota por nosotros en Discord Bot List (o Top.gg)!.\n> https://discordbots.org/bot/379757424447455232",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chocolat's Staff is creating donativos para el bot. | Patreon",
+          "url": "https://www.patreon.com/ChocolatDiscordBot",
+          "timestamp": null,
+          "description": "Become a patron of Chocolat's Staff today: Get access to exclusive content and experiences on the world’s largest membership platform for artists and creators.",
+          "color": "#F96854",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Px7eaQ4cbuCS4fJLRbIBN0VbRGKjITM2vviXxq3JQ48/%3Ftoken-time%3D1607040000%26token-hash%3DM0rAR7bZ2ci5l5jKLOGG9EMquA9Vv_vD_SxThzYI98c%253D/https/c10.patreonusercontent.com/3/eyJ3Ijo5NjB9/patreon-media/p/campaign/2664230/66c56d99e5634845a0814bf04f61f4e5/3.jpg",
+            "canonicalUrl": "https://c10.patreonusercontent.com/3/eyJ3Ijo5NjB9/patreon-media/p/campaign/2664230/66c56d99e5634845a0814bf04f61f4e5/3.jpg?token-time=1607040000&token-hash=M0rAR7bZ2ci5l5jKLOGG9EMquA9Vv_vD_SxThzYI98c%3D",
+            "width": 960,
+            "height": 240
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Discord - A New Way to Chat with Friends & Communities",
+          "url": "https://discordapp.com/oauth2/authorize?client_id=379757424447455232&permissions=8&scope=bot",
+          "timestamp": null,
+          "description": "Discord is the easiest way to communicate over voice, video, and text.  Chat, hang out, and stay close with your friends and communities.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HxQPwrwqWqhustolzxC0dblt-gjVdKi36x6a7csUjPE/https/discord.com/assets/ee7c382d9257652a88c8f7b7f22a994d.png",
+            "canonicalUrl": "https://discord.com/assets/ee7c382d9257652a88c8f7b7f22a994d.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Chocolat Discord Bot",
+          "url": "https://chocolatbot.weebly.com/",
+          "timestamp": null,
+          "description": "Una bot multi-propósitos para Discord. ¡Con más de 180 comandos y totalmente en español!.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sPL1duT_Opa0vHdTHwr3hkPMgGiX-y5RJS4Qh3h9-Xw/https/chocolatbot.weebly.com/uploads/1/1/5/0/115067289/cooltext298719953772699_orig.png",
+            "canonicalUrl": "https://chocolatbot.weebly.com/uploads/1/1/5/0/115067289/cooltext298719953772699_orig.png",
+            "width": 444,
+            "height": 165
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.555
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-11-13T21:22:42.346000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-13T21:22:51.796000-08:00",
+      "contenido": "> **‎Viewing Community Goal Progress  •  [**  Mateo☆#5625  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Community Goals",
+          "url": null,
+          "timestamp": null,
+          "description": "Band together as a community to complete these goals, unlock higher tiers & earn rewards!\nFor more info, type `t!goals help`\n\n**‎Completion Status**",
+          "color": "#DCE5F5",
+          "author": {
+            "name": "Launch Event",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/736163626934861845/740103123460292618/tatsumakireplacement2x.png?ex=6a57d9ff&is=6a56887f&hm=04fa47bb1c4d021b6c61920d16b814b84a430d38d0b03dd5cf656cbd1c7e313c&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/736163626934861845/740103123460292618/tatsumakireplacement2x.png?ex=6a57d9ff&is=6a56887f&hm=04fa47bb1c4d021b6c61920d16b814b84a430d38d0b03dd5cf656cbd1c7e313c&"
+          },
+          "footer": {
+            "text": "You don't have any rewards to claim.",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/N9bGDtOZ7SunN77GfjG0CRUuLDHEt8UvICLgsP0zdWA/https/cdn.discordapp.com/avatars/706230113544700024/4364ef3ea48838b05b1b1f3bb6cf77f0.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/706230113544700024/4364ef3ea48838b05b1b1f3bb6cf77f0.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": ":e: __**Complete 20,000 Lines in Bingo**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `20000`/`20000` **Cleared!**\n:tw_blank: **`Reward:`** `1x` :badge_default_tatsu_128: `Tatsu badge`",
+              "isInline": false
+            },
+            {
+              "name": ":spinning_wheel: __**Spin the Daily Wheel 200,000 Times**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `200000`/`200000` **Cleared!**\n:tw_blank: **`Reward:`** `2x` :spin_emoji: `free spin tokens`",
+              "isInline": false
+            },
+            {
+              "name": ":treetsu_animated: __**Grow 40,000 Treetsus**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `40000`/`40000` **Cleared!**\n:tw_blank: **`Reward:`** `1x` :treetsu_animated: `Treetsu housing decoration`",
+              "isInline": false
+            },
+            {
+              "name": ":emerald_currency_sparkling: __**Spend 12,000,000 Emerald Tokens**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `12000000`/`12000000` **Cleared!**\n:tw_blank: **`Reward:`** `1x` :e: `epic pet selector capsule`",
+              "isInline": false
+            },
+            {
+              "name": ":e: __**Complete All Daily Quests 450,000 Times**__",
+              "value": ":e: :e::e::e::e::e::e::e::e: `413186`/`450000` \n:tw_blank: **`Reward:`** `500x` :e: `tokens`",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.45
+    }
+  },
+  {
+    "usuario": "gyro0101",
+    "usuario_id": "752596443776286861",
+    "fecha_comando": "2020-11-14T12:05:08.564000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T12:05:17.805000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-14T12:05:17.75-08:00",
+          "description": "Leaderboard Rank: 1319th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "frndez#1853",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/695691904884408349",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/cpOo2dVtaqRQJHbd8BgmHZzXfw_tq598SefQHcIInQc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/695691904884408349/988ba5dad3acfc308550620dd057c529.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/695691904884408349/988ba5dad3acfc308550620dd057c529.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫4,418",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫1,000",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫5,418",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.241
+    }
+  },
+  {
+    "usuario": "buraian0322",
+    "usuario_id": "611246374071304202",
+    "fecha_comando": "2020-11-16T16:15:12.271000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-16T16:15:17.518000-08:00",
+      "contenido": "> **‎Viewing your House  •  [**  ꧁𖣘ⓁⒾⒼⒽⓉ𖣘꧂#8176  **]**",
+      "attachments": [
+        {
+          "id": "778050595629039666",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/778050595629039666/room_view.png?ex=6a582295&is=6a56d115&hm=3d928eaac3452f4d688c566d1e47d32505a9e8408f5cd677d63f5e475924eab0&",
+          "fileName": "room_view.png",
+          "fileSizeBytes": 17463
+        }
+      ],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#99C8FF",
+          "author": {
+            "name": "꧁𖣘ⓁⒾⒼⒽⓉ𖣘꧂'s Akira",
+            "url": "https://tatsubot.com"
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/778050595932209152/profile_view.png?ex=6a582295&is=6a56d115&hm=37d9ff5f98e889d9a945501aa74aec9e47cc64ae3809163c9c271f959ce83ea3&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/778050595932209152/profile_view.png?ex=6a582295&is=6a56d115&hm=37d9ff5f98e889d9a945501aa74aec9e47cc64ae3809163c9c271f959ce83ea3&",
+            "width": 270,
+            "height": 110
+          },
+          "footer": {
+            "text": "You may find something special while walking your pet with \"t!tg walk\""
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/508766213405540361/778050595932209152/profile_view.png?ex=6a582295&is=6a56d115&hm=37d9ff5f98e889d9a945501aa74aec9e47cc64ae3809163c9c271f959ce83ea3&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/778050595932209152/profile_view.png?ex=6a582295&is=6a56d115&hm=37d9ff5f98e889d9a945501aa74aec9e47cc64ae3809163c9c271f959ce83ea3&",
+              "width": 270,
+              "height": 110
+            }
+          ],
+          "fields": [
+            {
+              "name": "TG Sitter",
+              "value": "Expires in: `1`d `3`m",
+              "isInline": true
+            },
+            {
+              "name": "TG Cleaner",
+              "value": "Expires in: `1`d `20`m",
+              "isInline": true
+            },
+            {
+              "name": "TG Feeder",
+              "value": "Expires in: `1`d `20`m",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.247
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-17T08:23:57.525000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-17T08:24:07.194000-08:00",
+      "contenido": "🎣  **|**  **you caught: 👞!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.669
+    }
+  },
+  {
+    "usuario": "gyro0101",
+    "usuario_id": "752596443776286861",
+    "fecha_comando": "2020-11-18T12:17:54.023000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T12:18:08.426000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Trabajas como mesero en un restaurante Gourmet, hoy atendiste a una gran cantidad de personas y entre todas las propinas juntaste 🍫656.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "uLux#9781",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/grxH7sXCZyzJ590jGBeuynHXzasElRHwWzHGFGAavs4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/689617219331686469/f6f8bf631d289d060b95b4c181043cc5.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/689617219331686469/f6f8bf631d289d060b95b4c181043cc5.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161555"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 14.403
+    }
+  },
+  {
+    "usuario": "khrani_veru",
+    "usuario_id": "738685691390591029",
+    "fecha_comando": "2020-11-22T13:29:28.844000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T13:29:37.762000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You can play `roulette` again in 2 hours and 57 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "|| ! Stiven 💎 ||#8762",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/xRxjxvNUM5y89TmIfWx_PmuXnvZwFyxn6Tuoa8rStQE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/672954898165268480/61f3e5fa41e450f87e31549af0ffb447.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/672954898165268480/61f3e5fa41e450f87e31549af0ffb447.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.918
+    }
+  },
+  {
+    "usuario": "lennyx129",
+    "usuario_id": "723343958909911091",
+    "fecha_comando": "2020-11-23T15:06:56.394000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T15:06:56.886000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "¡Felicidades LENNYXD129, has subido de nivel! :tada:",
+          "url": null,
+          "timestamp": null,
+          "description": "Ahora eres Verificado :chChocoSugoi:",
+          "color": "#7289DA",
+          "footer": {
+            "text": "ID: 723343958909911091"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "590028032744357907",
+              "name": "chChocoSugoi",
+              "code": "chChocoSugoi",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/590028032744357907.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "👌",
+            "code": "ok_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44c.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "723343958909911091",
+              "name": "lennyx129",
+              "discriminator": "0000",
+              "nickname": "Lenny",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/723343958909911091/d742f727f0e716d8c6f93192fef75624.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.492
+    }
+  },
+  {
+    "usuario": "kmtorta8729",
+    "usuario_id": "784073295125151794",
+    "fecha_comando": "2020-12-31T07:33:42.884000-08:00",
+    "comando_completo": "ch!invite",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T07:33:43.906000-08:00",
+      "contenido": "🎣  **|**  **you caught: 👞!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.022
+    }
+  }
+]

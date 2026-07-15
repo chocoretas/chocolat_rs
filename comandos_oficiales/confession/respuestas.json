@@ -1,0 +1,192 @@
+[
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-05-09T16:40:31.162000-07:00",
+    "comando_completo": "ch!confession",
+    "respuesta_bot": {
+      "fecha": "2019-05-09T16:40:40.866000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You have placed a bet of 🍫1,000 on `red`.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Ᏼᥱℓ.#2042",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/jQCCiU7RxXAlWKkP6iUOlD-fb1y1ElxmozDhQaQBd24/%3Fsize%3D128/https/cdn.discordapp.com/avatars/424812136166981633/573352d82c4b8d095cf9bece00a63afb.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/424812136166981633/573352d82c4b8d095cf9bece00a63afb.png?size=128"
+          },
+          "footer": {
+            "text": "Time remaining: 30 seconds"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.704
+    }
+  },
+  {
+    "usuario": "mrs.b2042",
+    "usuario_id": "424812136166981633",
+    "fecha_comando": "2019-05-09T16:45:21.762000-07:00",
+    "comando_completo": "ch!confession",
+    "respuesta_bot": {
+      "fecha": "2019-05-09T16:45:30.009000-07:00",
+      "contenido": "The ball landed on: **red 3**!\n\n**No Winners  :[**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.247
+    }
+  },
+  {
+    "usuario": "hola077907",
+    "usuario_id": "616361759867011196",
+    "fecha_comando": "2019-09-16T10:41:53.124000-07:00",
+    "comando_completo": "ch!confession",
+    "respuesta_bot": {
+      "fecha": "2019-09-16T10:42:03.586000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2019-09-16T10:42:03.555-07:00",
+          "description": "Leaderboard Rank: 383rd",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Dana#1537",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/419631170074968076",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/llSf2JIvnnyBm27dnifZKME-7QpWPZ2ZHENUvGmc7Uc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/419631170074968076/fea3181968aeac8daf9e0ee6e118486b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/419631170074968076/fea3181968aeac8daf9e0ee6e118486b.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫5,000",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫5,000",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.462
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-11-10T20:03:21.209000-08:00",
+    "comando_completo": "ch!confession Hola, ¿Cómo están?",
+    "respuesta_bot": {
+      "fecha": "2020-11-10T20:03:30.687000-08:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  vaal.#8885  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "Your pet ran around you in circles. It is now resting on your lap!",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/775933702156189696/pet.png?ex=6a585812&is=6a570692&hm=9ac6dc0e918fbcfab24d380c20163d7a6aaed6ce59c0a2f9db5cf92da433a501&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/775933702156189696/pet.png?ex=6a585812&is=6a570692&hm=9ac6dc0e918fbcfab24d380c20163d7a6aaed6ce59c0a2f9db5cf92da433a501&",
+            "width": 64,
+            "height": 72
+          },
+          "footer": {
+            "text": "You can open capsules while having an active pet without getting it replaced!"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_xp: Exp: **245 / 1000** (`+10`)\n:pet_fatigue: Fatigue: **33 / 504** (`+3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.478
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-11-10T20:07:35.460000-08:00",
+    "comando_completo": "ch!confession ya se quien es ray --n",
+    "respuesta_bot": {
+      "fecha": "2020-11-10T20:07:37.862000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-10T20:07:37.768-08:00",
+          "description": "Leaderboard Rank: 254th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Jared#2148",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/714918340874731560",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/SF_xzRuOLGm43oYMrTqujkmGtprqstXe3vtt0ROdiR4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/714918340874731560/59c78309836ffe1c1533bacc38974d1f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/714918340874731560/59c78309836ffe1c1533bacc38974d1f.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫15,000",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫115,060",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫130,060",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.402
+    }
+  }
+]

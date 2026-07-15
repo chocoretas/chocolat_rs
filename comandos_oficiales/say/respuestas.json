@@ -1,0 +1,1147 @@
+[
+  {
+    "usuario": "the_ancient_emperor",
+    "usuario_id": "331566550697902080",
+    "fecha_comando": "2019-01-23T23:12:17.776000-08:00",
+    "comando_completo": "ch!say",
+    "respuesta_bot": {
+      "fecha": "2019-01-23T23:12:17.853000-08:00",
+      "contenido": "Escriba algo para repetir.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.077
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-02-17T13:30:41.673000-08:00",
+    "comando_completo": "ch!say",
+    "respuesta_bot": {
+      "fecha": "2019-02-17T13:30:41.801000-08:00",
+      "contenido": "Escriba algo para repetir.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-13T11:15:26.560000-07:00",
+    "comando_completo": "ch!say",
+    "respuesta_bot": {
+      "fecha": "2019-10-13T11:15:37.324000-07:00",
+      "contenido": "hola",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.764
+    }
+  },
+  {
+    "usuario": "princessezequiel",
+    "usuario_id": "664903308636586023",
+    "fecha_comando": "2020-05-10T17:58:14.955000-07:00",
+    "comando_completo": "ch!say El Red is rial :chLolNayYay:",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T17:58:17.598000-07:00",
+      "contenido": "@Feguillas \nㅤ\n**25** % [████.......] \n**Normal. Es más probable que se queden como amigos y nada más.**\nNombre del Ship: **✧M Red**",
+      "attachments": [
+        {
+          "id": "709207723102961695",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/709207723102961695/ship.png?ex=6a582ca9&is=6a56db29&hm=0d8f058261864c135376111c007e5edfe6102e12a9acf2372243c8bbdd6f1ede&",
+          "fileName": "ship.png",
+          "fileSizeBytes": 162964
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.643
+    }
+  },
+  {
+    "usuario": "sprout03356",
+    "usuario_id": "487014232081170434",
+    "fecha_comando": "2020-05-10T18:21:19.204000-07:00",
+    "comando_completo": "ch!say Me apoyan",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T18:21:27.468000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":8ball: Pregunta 8ball.",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#34B1F2",
+          "images": [],
+          "fields": [
+            {
+              "name": "El melocotón Kawaii pregunta:",
+              "value": "eres :v?",
+              "isInline": false
+            },
+            {
+              "name": "Respuesta:",
+              "value": "¿Por qué la pregunta?",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.264
+    }
+  },
+  {
+    "usuario": "redsita",
+    "usuario_id": "687862731872927782",
+    "fecha_comando": "2020-05-18T08:13:09.357000-07:00",
+    "comando_completo": "ch!Say awacate",
+    "respuesta_bot": {
+      "fecha": "2020-05-18T08:13:20.210000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lady Red** llora >.<",
+          "color": "#5AD513",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/595840821417345024/tenor_16.gif?ex=6a57bc42&is=6a566ac2&hm=fb7e5443f8aab1c532df5f6e03a2beb01adb2ee4ad58c0f399871428297a33ad&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/595840821417345024/tenor_16.gif?ex=6a57bc42&is=6a566ac2&hm=fb7e5443f8aab1c532df5f6e03a2beb01adb2ee4ad58c0f399871428297a33ad&",
+            "width": 498,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/595840821417345024/tenor_16.gif?ex=6a57bc42&is=6a566ac2&hm=fb7e5443f8aab1c532df5f6e03a2beb01adb2ee4ad58c0f399871428297a33ad&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/595840821417345024/tenor_16.gif?ex=6a57bc42&is=6a566ac2&hm=fb7e5443f8aab1c532df5f6e03a2beb01adb2ee4ad58c0f399871428297a33ad&",
+              "width": 498,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.853
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-07T19:11:46.405000-07:00",
+    "comando_completo": "ch!say asd",
+    "respuesta_bot": {
+      "fecha": "2020-06-07T19:11:54.317000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**㊕ Jalonso Itv_ch ㊕** tiene risa de algo xD",
+          "color": "#49445C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/594608755816267777/one_piece_brook_nami_zoro_anime_gif_15.gif?ex=6a57de0e&is=6a568c8e&hm=434abcd4a7479753634a2ad771849645d6d1342870373e15f6040319b6e485e9&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/594608755816267777/one_piece_brook_nami_zoro_anime_gif_15.gif?ex=6a57de0e&is=6a568c8e&hm=434abcd4a7479753634a2ad771849645d6d1342870373e15f6040319b6e485e9&",
+            "width": 500,
+            "height": 360
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/594608755816267777/one_piece_brook_nami_zoro_anime_gif_15.gif?ex=6a57de0e&is=6a568c8e&hm=434abcd4a7479753634a2ad771849645d6d1342870373e15f6040319b6e485e9&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/594608755816267777/one_piece_brook_nami_zoro_anime_gif_15.gif?ex=6a57de0e&is=6a568c8e&hm=434abcd4a7479753634a2ad771849645d6d1342870373e15f6040319b6e485e9&",
+              "width": 500,
+              "height": 360
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.912
+    }
+  },
+  {
+    "usuario": "elkapo0693",
+    "usuario_id": "467113786424164354",
+    "fecha_comando": "2020-06-18T05:30:04.268000-07:00",
+    "comando_completo": "ch!say ;-; me se todo los comanodos secretos xd",
+    "respuesta_bot": {
+      "fecha": "2020-06-18T05:30:04.711000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FC5F05",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/410197118263754753/569083384496783360/image0.jpg?ex=6a57f373&is=6a56a1f3&hm=e4a69950e85a82750c8c18bc08e7d3d168a3b3e47cf7625a754280e56fae3591&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/410197118263754753/569083384496783360/image0.jpg?ex=6a57f373&is=6a56a1f3&hm=e4a69950e85a82750c8c18bc08e7d3d168a3b3e47cf7625a754280e56fae3591&",
+            "width": 720,
+            "height": 960
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/410197118263754753/569083384496783360/image0.jpg?ex=6a57f373&is=6a56a1f3&hm=e4a69950e85a82750c8c18bc08e7d3d168a3b3e47cf7625a754280e56fae3591&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/410197118263754753/569083384496783360/image0.jpg?ex=6a57f373&is=6a56a1f3&hm=e4a69950e85a82750c8c18bc08e7d3d168a3b3e47cf7625a754280e56fae3591&",
+              "width": 720,
+              "height": 960
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.443
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-23T21:02:12.908000-07:00",
+    "comando_completo": "ch!say XD",
+    "respuesta_bot": {
+      "fecha": "2020-06-23T21:02:16.492000-07:00",
+      "contenido": "**Haiiro**, **you received your 💴 200 daily credits!**\n\n**Streak: :b_::o_::nu::uu::su:**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.584
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-06-26T20:41:23.461000-07:00",
+    "comando_completo": "ch!say",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T20:41:30.720000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫500 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Haiiro#2920",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/mmjEAGe17pYCzHDO_qv3pZ-IgU6ek0KDPS6iNmHYJ10/%3Fsize%3D128/https/cdn.discordapp.com/avatars/711025778061475972/7b802f179bff1296b5644f3638f9d923.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/711025778061475972/7b802f179bff1296b5644f3638f9d923.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.259
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-07-03T15:25:58.313000-07:00",
+    "comando_completo": "ch!say XDn't",
+    "respuesta_bot": {
+      "fecha": "2020-07-03T15:25:58.347000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Liria** se ha puesto a llorar por ello :c",
+          "color": "#C70E19",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/8VwLYVkmAptbsg3FWFVfQcOQJqnYzNDSYonkU69YjEQ/https/cdn.weeb.sh/images/HkbPQUQvW.gif",
+            "canonicalUrl": "https://cdn.weeb.sh/images/HkbPQUQvW.gif",
+            "width": 500,
+            "height": 376
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/8VwLYVkmAptbsg3FWFVfQcOQJqnYzNDSYonkU69YjEQ/https/cdn.weeb.sh/images/HkbPQUQvW.gif",
+              "canonicalUrl": "https://cdn.weeb.sh/images/HkbPQUQvW.gif",
+              "width": 500,
+              "height": 376
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.034
+    }
+  },
+  {
+    "usuario": "xhathox51",
+    "usuario_id": "693155551441584178",
+    "fecha_comando": "2020-07-04T12:57:40.820000-07:00",
+    "comando_completo": "ch!say yo soy chocolat y me encanta el webo frito con papas",
+    "respuesta_bot": {
+      "fecha": "2020-07-04T12:57:52.785000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Cᴀᴍʙɪᴇsᴇ ᴀ 𝗠𝗼𝘃𝗶𝘀𝘁𝗮𝗿** se enfadó >:c",
+          "color": "#C3B928",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/609026891143315477/angry3.gif?ex=6a583ebe&is=6a56ed3e&hm=21051adec497a0361e582bb3f510bc2af54e143f1867ae1560846cb98ba8aa5f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/609026891143315477/angry3.gif?ex=6a583ebe&is=6a56ed3e&hm=21051adec497a0361e582bb3f510bc2af54e143f1867ae1560846cb98ba8aa5f&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/609026891143315477/angry3.gif?ex=6a583ebe&is=6a56ed3e&hm=21051adec497a0361e582bb3f510bc2af54e143f1867ae1560846cb98ba8aa5f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/609026891143315477/angry3.gif?ex=6a583ebe&is=6a56ed3e&hm=21051adec497a0361e582bb3f510bc2af54e143f1867ae1560846cb98ba8aa5f&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 11.965
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-07-06T20:10:37.529000-07:00",
+    "comando_completo": "ch!say Black",
+    "respuesta_bot": {
+      "fecha": "2020-07-06T20:10:41.640000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You have placed a bet of 🍫100,000 on `red`.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Jalonso Itv_ch ㊕#0069",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/X__oS3jphzVsDBZKshF_-tJFiAgqbewTfM-RJPpzr78/%3Fsize%3D128/https/cdn.discordapp.com/avatars/293832915450724362/e4f9eee79e8b8dc5185e689157d0e6c7.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/293832915450724362/e4f9eee79e8b8dc5185e689157d0e6c7.png?size=128"
+          },
+          "footer": {
+            "text": "Time remaining: 30 seconds"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.111
+    }
+  },
+  {
+    "usuario": "aymarweon",
+    "usuario_id": "695463392755974245",
+    "fecha_comando": "2020-07-09T16:48:28.961000-07:00",
+    "comando_completo": "ch!say azi ez kap0",
+    "respuesta_bot": {
+      "fecha": "2020-07-09T16:48:35.355000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 3 hours and 52 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "``#0535",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/H4HMzlQIBT0zMk18DJ8oVrZiqBnj1Q0J4YTWSuCPmfk/%3Fsize%3D128/https/cdn.discordapp.com/avatars/700854214837928117/2aecbb749164ad89f5b53a05e73c773f.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/700854214837928117/2aecbb749164ad89f5b53a05e73c773f.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.394
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-15T09:58:14.781000-07:00",
+    "comando_completo": "ch!say a",
+    "respuesta_bot": {
+      "fecha": "2020-07-15T09:58:23.265000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-07-15T09:58:23.159-07:00",
+          "description": "Leaderboard Rank: 268th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Chocolat#8583",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/379757424447455232",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bFMo4B9dD0CDpmKES0SxHsAVNKZ5PFu_oT8819qgnlI/%3Fsize%3D128/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫103,547",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫103,547",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.484
+    }
+  },
+  {
+    "usuario": "t_r_0_l_a",
+    "usuario_id": "600732297951445002",
+    "fecha_comando": "2020-07-27T09:03:53.598000-07:00",
+    "comando_completo": "ch!say XDDDDDDDDDDDDDDDDD",
+    "respuesta_bot": {
+      "fecha": "2020-07-27T09:04:00.389000-07:00",
+      "contenido": "@KARS \nㅤ\n**36** % [████.......] \n**Normal. Es más probable que se queden como amigos y nada más.**\nNombre del Ship: **▄︻nbow Dash**",
+      "attachments": [
+        {
+          "id": "737339518906138724",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/737339518906138724/ship.png?ex=6a57af70&is=6a565df0&hm=619579657f7e601b782210f3f7295005e974ca332a3fe65595c9104232f07b07&",
+          "fileName": "ship.png",
+          "fileSizeBytes": 151301
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 6.791
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-30T18:41:46.426000-07:00",
+    "comando_completo": "ch!say no sirvo",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T18:41:54.965000-07:00",
+      "contenido": "The ball landed on: **red 19**!\n\n**No Winners  :[**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.539
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-08-03T18:28:27.189000-07:00",
+    "comando_completo": "ch!say wii",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T18:28:27.577000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫1,965 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Angel_Sad#8638",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXG-pSV-VzjfboXYVsn5yZrv1JVoQmcEpGBe90dZeFw/%3Fsize%3D128/https/cdn.discordapp.com/avatars/731583874039283795/2efd7726f42f831e9480e19c3c891d61.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/731583874039283795/2efd7726f42f831e9480e19c3c891d61.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.388
+    }
+  },
+  {
+    "usuario": "adolfsoljancic",
+    "usuario_id": "410809826193702912",
+    "fecha_comando": "2020-08-03T20:47:59.553000-07:00",
+    "comando_completo": "ch!say F",
+    "respuesta_bot": {
+      "fecha": "2020-08-03T20:48:00.798000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-08-03T20:48:00.715-07:00",
+          "description": "Leaderboard Rank: 316th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "_Sylvester_Stallone_#8063",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/684530496201293844",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/qdwcJWVVUohJPpLetWQ-Hf9o6DaOtu9GdbK9mBXxzfs/%3Fsize%3D128/https/cdn.discordapp.com/avatars/684530496201293844/3551afa2a692d74fcd6c9941e70d526c.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/684530496201293844/3551afa2a692d74fcd6c9941e70d526c.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫81,458",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫81,458",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.245
+    }
+  },
+  {
+    "usuario": "belcebu_gula",
+    "usuario_id": "318953634626928641",
+    "fecha_comando": "2020-08-08T14:02:53.119000-07:00",
+    "comando_completo": "ch!say hola @[.] Unbelievaboat",
+    "respuesta_bot": {
+      "fecha": "2020-08-08T14:02:54.344000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You have joined this game of Russian Roulette with a bet of 🍫5,000.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Rex#6514",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/AnjwkmmW8tXlS4VNMW_xBj54PtkJEkvmOwmewuQnNY8/%3Fsize%3D128/https/cdn.discordapp.com/avatars/462036618547691531/8d0d24d984175a5b404e91819113634b.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/462036618547691531/8d0d24d984175a5b404e91819113634b.png?size=128"
+          },
+          "footer": {
+            "text": "Time remaining: 4 minutes or 4 more players"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.225
+    }
+  },
+  {
+    "usuario": "justjonatan",
+    "usuario_id": "703446820088447027",
+    "fecha_comando": "2020-08-16T19:33:55.345000-07:00",
+    "comando_completo": "ch!say",
+    "respuesta_bot": {
+      "fecha": "2020-08-16T19:33:55.532000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Te fuiste a minar en lo profundo de una cueva, al volver a la superficie vendes todo lo obtenido y ganaste 🍫1,657.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "tripofobico en apuros#1934",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/wnREDWkqaC4OZlRxk8OvJvL1nq6InVux7G-HoXrEwvM/%3Fsize%3D128/https/cdn.discordapp.com/avatars/600732297951445002/24b2009c3d1e424d135047ac04dee48d.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/600732297951445002/24b2009c3d1e424d135047ac04dee48d.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161574"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-18T09:25:47.252000-07:00",
+    "comando_completo": "ch!say si",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T09:26:00.335000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Masteruwu** ha revivido/curado a **YTGoD_FullHD4K**",
+          "color": "#9D7BC6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/541402053998673950/606206209737097216/6e096d06d5bc7a54dfe09329e596cbe8316559ce_00.gif?ex=6a57df07&is=6a568d87&hm=5d794faf6369f76606b375a87b7b5d71f5cd115b633e6df0d36b8ebe24dbbf1a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/606206209737097216/6e096d06d5bc7a54dfe09329e596cbe8316559ce_00.gif?ex=6a57df07&is=6a568d87&hm=5d794faf6369f76606b375a87b7b5d71f5cd115b633e6df0d36b8ebe24dbbf1a&",
+            "width": 320,
+            "height": 184
+          },
+          "footer": {
+            "text": "Comando secreto: 1/15."
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/541402053998673950/606206209737097216/6e096d06d5bc7a54dfe09329e596cbe8316559ce_00.gif?ex=6a57df07&is=6a568d87&hm=5d794faf6369f76606b375a87b7b5d71f5cd115b633e6df0d36b8ebe24dbbf1a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/606206209737097216/6e096d06d5bc7a54dfe09329e596cbe8316559ce_00.gif?ex=6a57df07&is=6a568d87&hm=5d794faf6369f76606b375a87b7b5d71f5cd115b633e6df0d36b8ebe24dbbf1a&",
+              "width": 320,
+              "height": 184
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 13.083
+    }
+  },
+  {
+    "usuario": "astrachis",
+    "usuario_id": "650725277638328340",
+    "fecha_comando": "2020-08-20T10:14:09.960000-07:00",
+    "comando_completo": "ch!say viva Illuminatille x Get Stick Bugged lol",
+    "respuesta_bot": {
+      "fecha": "2020-08-20T10:14:15.030000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 27 minutes and 24 seconds.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "▪ Camille Cadell ▪#0899",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/lKLJWVYxgibZqV-IEKBp1TpkKZNqiNR1sGI5eqhevxA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/620793752528879627/8a186c5042beb254d152308830013308.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/620793752528879627/8a186c5042beb254d152308830013308.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.07
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-02T07:17:24.668000-07:00",
+    "comando_completo": "ch!say Soy el bot más kawaii del mundo :D",
+    "respuesta_bot": {
+      "fecha": "2020-09-02T07:17:36.217000-07:00",
+      "contenido": "> **‎Viewing daily quests  •  [**  Masteruwu#3201  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Daily Quests",
+          "url": null,
+          "timestamp": "2020-09-02T07:17:36.021-07:00",
+          "description": "**Today's daily quests refresh in `9`h `43`mins.** \nCompleting all daily quests will give you bonus :e: **tokens**!\n  \n **Completion Status**",
+          "color": "#E5C100",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NI1eUPVHm_oh5e-uzz5tYPPlzGMxbTyGZ9j1cvrXAOk/%3Fv%3D1/https/cdn.discordapp.com/emojis/723477074031149126.png",
+            "canonicalUrl": "https://cdn.discordapp.com/emojis/723477074031149126.png?v=1",
+            "width": 128,
+            "height": 128
+          },
+          "footer": {
+            "text": "Daily quests reset at 00:00 UTC"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Catch 14 Fish",
+              "value": ":fish_caught_complete: :e::e::e::e::e::e::e::e: `14/14`\n**Rewards:** :e: `247` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Give 10 Cookies",
+              "value": ":cookies_given_complete: :e::e::e::e::e::e::e::e: `10/10`\n**Rewards:** :e: `148` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Earn 200 Credits",
+              "value": ":credits_earned_complete: :e::e::e::e::e::e::e::e: `200/200`\n**Rewards:** :e: `112` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Earn 362 Chat XP",
+              "value": ":xp_earned_complete: :e::e::e::e::e::e::e::e: `362/362`\n**Rewards:** :e: `159` credits\n‎",
+              "isInline": false
+            },
+            {
+              "name": "Walk Your Pet 8 Times",
+              "value": ":pet_walk_complete: :e::e::e::e::e::e::e::e: `8/8`\n**Rewards:** :e: `245` credits\n‎",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "706219192713740390",
+              "name": "e",
+              "code": "e",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/706219192713740390.gif"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 11.549
+    }
+  },
+  {
+    "usuario": "archive7603",
+    "usuario_id": "529378642912870401",
+    "fecha_comando": "2020-09-23T07:14:21.684000-07:00",
+    "comando_completo": "ch!say nais",
+    "respuesta_bot": {
+      "fecha": "2020-09-23T07:14:25.548000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ᕙ(˵ ಠ ਊ ಠ ˵)ᕗ!-SteveYT-!** está perdidamente triste... -n-",
+          "color": "#A4CBDC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/492119037971791872/632384068557996034/d9.gif?ex=6a582f0f&is=6a56dd8f&hm=cd8cb48be1ca9f5b2cf1593542f183070028e3d0ab50033105e4f88ca6fdb61b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/632384068557996034/d9.gif?ex=6a582f0f&is=6a56dd8f&hm=cd8cb48be1ca9f5b2cf1593542f183070028e3d0ab50033105e4f88ca6fdb61b&",
+            "width": 500,
+            "height": 272
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/492119037971791872/632384068557996034/d9.gif?ex=6a582f0f&is=6a56dd8f&hm=cd8cb48be1ca9f5b2cf1593542f183070028e3d0ab50033105e4f88ca6fdb61b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/492119037971791872/632384068557996034/d9.gif?ex=6a582f0f&is=6a56dd8f&hm=cd8cb48be1ca9f5b2cf1593542f183070028e3d0ab50033105e4f88ca6fdb61b&",
+              "width": 500,
+              "height": 272
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.864
+    }
+  },
+  {
+    "usuario": "repolloahumado",
+    "usuario_id": "498206063405826058",
+    "fecha_comando": "2020-11-13T10:35:53.293000-08:00",
+    "comando_completo": "ch!say ch!8ball ella me quiere?",
+    "respuesta_bot": {
+      "fecha": "2020-11-13T10:35:53.884000-08:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  goonmatias10#6225  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "Your pet ran around you in circles. It is now resting on your lap!",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/776878020849434624/pet.png?ex=6a57d309&is=6a568189&hm=5c5668e3da9af80fabff239c313171d8d1de6d10e34eb37b11a45d32abcf83f6&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/776878020849434624/pet.png?ex=6a57d309&is=6a568189&hm=5c5668e3da9af80fabff239c313171d8d1de6d10e34eb37b11a45d32abcf83f6&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "Be careful when trading items - they stay in your inventory when used in your house!"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_xp: Exp: **1362 / 2000** (`+13`)\n:pet_fatigue: Fatigue: **36 / 523** (`+3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.591
+    }
+  },
+  {
+    "usuario": "justjonatan",
+    "usuario_id": "703446820088447027",
+    "fecha_comando": "2020-11-18T10:52:10.347000-08:00",
+    "comando_completo": "ch!say xd",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T10:52:10.406000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "@♡☆Abyita☆♡ está secuestrada por las garras malvadas de @!UltiMan!🍫✩, @Unknown pide tu ayuda para rescatarla y a cambio te da 🍫1,190.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Rosgon#5178",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/1QtcZByk8LGYMJYX2SntDG1mhKaeKjEgKipCrhEbVoQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/710924731947155488/43529c46664d4ace7490adc42507438e.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/710924731947155488/43529c46664d4ace7490adc42507438e.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #1408835"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.059
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-19T07:02:21.301000-08:00",
+    "comando_completo": "ch!say hola",
+    "respuesta_bot": {
+      "fecha": "2020-11-19T07:02:32.234000-08:00",
+      "contenido": "hola",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.933
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-29T23:03:03.805000-08:00",
+    "comando_completo": "ch!say esta desactivado",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:03:12.681000-08:00",
+      "contenido": "oicogen",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.876
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-29T23:06:59.384000-08:00",
+    "comando_completo": "ch!say a",
+    "respuesta_bot": {
+      "fecha": "2020-11-29T23:07:03.334000-08:00",
+      "contenido": "when haces tus momos en video, el futuro es hoy oíste viejo?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.95
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-12-06T16:14:45.986000-08:00",
+    "comando_completo": "ch!say Esto no estaba desactivado?",
+    "respuesta_bot": {
+      "fecha": "2020-12-06T16:14:47.708000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You obtained the following items: \n\n>>> :e: **`1x` Smooth Green Ornament • `Common`**:common:\n:e: **`4x` Snowball • `Common`**:common:\n:e: **`37x` Candy Cane • `Event`**:event:",
+          "color": "#DC4E4E",
+          "author": {
+            "name": "Thonk... Clunk.. Plop!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZwO5qkALqXNDkxh26cWAid4CcMGTfPWimZAAR-XQKjM/https/cdn.tatsu.gg/core/736bf405fa09fdf2860a04e3d5e903b7c9436986.gif",
+            "canonicalUrl": "https://cdn.tatsu.gg/core/736bf405fa09fdf2860a04e3d5e903b7c9436986.gif",
+            "width": 128,
+            "height": 128
+          },
+          "footer": {
+            "text": "「Zҽɾσ」#5329 has opened a Sparkly Starlight Present!",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/kl2STI6AjS-1raouhMS28U5ht4bONeDYPbOyYyYVT0o/%3Fsize%3D256/https/cdn.discordapp.com/avatars/409147750161317891/a93093d6998d8c94b602f8dcf89d41d9.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/409147750161317891/a93093d6998d8c94b602f8dcf89d41d9.png?size=256"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "779657664330203156",
+              "name": "e",
+              "code": "e",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/779657664330203156.gif"
+            },
+            {
+              "id": "734441009810767883",
+              "name": "common",
+              "code": "common",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/734441009810767883.png"
+            },
+            {
+              "id": "734441009475223611",
+              "name": "event",
+              "code": "event",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/734441009475223611.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.722
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-06T16:33:47.153000-08:00",
+    "comando_completo": "ch!say",
+    "respuesta_bot": {
+      "fecha": "2020-12-06T16:33:50.709000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**franportillo** ha dejado caer sus lágrimas...",
+          "color": "#17B849",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/716738621838852116/Que_sad_wey.gif?ex=6a57e2db&is=6a56915b&hm=76f1c40607d46786806b2709fdbbb0e4d1019bf34b946c7acedbddceaf9ca30b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/716738621838852116/Que_sad_wey.gif?ex=6a57e2db&is=6a56915b&hm=76f1c40607d46786806b2709fdbbb0e4d1019bf34b946c7acedbddceaf9ca30b&",
+            "width": 640,
+            "height": 290
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/716738621838852116/Que_sad_wey.gif?ex=6a57e2db&is=6a56915b&hm=76f1c40607d46786806b2709fdbbb0e4d1019bf34b946c7acedbddceaf9ca30b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/716738621838852116/Que_sad_wey.gif?ex=6a57e2db&is=6a56915b&hm=76f1c40607d46786806b2709fdbbb0e4d1019bf34b946c7acedbddceaf9ca30b&",
+              "width": 640,
+              "height": 290
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.556
+    }
+  },
+  {
+    "usuario": "_youkai_",
+    "usuario_id": "426466586950631444",
+    "fecha_comando": "2020-12-10T12:03:26.842000-08:00",
+    "comando_completo": "ch!say prueba",
+    "respuesta_bot": {
+      "fecha": "2020-12-10T12:03:33.249000-08:00",
+      "contenido": "> **‎Throwing a snowball • [**  || ! Stiven 💎 ||#8762 **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bam!",
+          "url": null,
+          "timestamp": null,
+          "description": "Merry Starlight! For this year's present, **Jared** gets a snowball in the face, courtesy of **|| ! Stiven 💎 ||**..\n\n:snowball:**`Snowball`** **`-1`**",
+          "color": "#FFFFFE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Q6w8-7qtnfuNef8b7yc4MpgeppMzuMoJ0THJKE2hnd4/https/cdn.discordapp.com/emojis/780656357233524787.gif",
+            "canonicalUrl": "https://cdn.discordapp.com/emojis/780656357233524787.gif",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "💎",
+              "code": "gem",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f48e.svg"
+            },
+            {
+              "id": "779977687103569962",
+              "name": "snowball",
+              "code": "snowball",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/779977687103569962.gif"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.407
+    }
+  }
+]

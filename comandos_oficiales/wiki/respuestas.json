@@ -1,0 +1,988 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:49:17.232000-07:00",
+    "comando_completo": "ch!wiki Andrés Manuel López Obrador",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:49:17.499000-07:00",
+      "contenido": "Andrés Manuel López Obrador (Tepetitán, Macuspana, Tabasco, México; 13 de noviembre de 1953), también conocido como AMLO, es un político, politólogo y escritor mexicano. Es presidente de México desde el 1 de diciembre de 2018.[4]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:50:14.930000-07:00",
+    "comando_completo": "ch!wiki Gravity Falls",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:50:15.001000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡Wow, intentabas robarle al banco! desafortunadamente te atraparon y te multan por 🍫982.",
+          "color": "#EF5350",
+          "author": {
+            "name": "Yoh#7150",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ubsAyYqKgbKN3PddU1GwDQjTbai-dKmVNZcA5nC4Mzc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/344414319880175618/25f3ed3348fa66de2bd5bceefa143491.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/344414319880175618/25f3ed3348fa66de2bd5bceefa143491.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #355993"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.071
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:51:29.764000-07:00",
+    "comando_completo": "ch!wiki ☀Darnel♚#4295",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:51:29.978000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:52:23.852000-07:00",
+    "comando_completo": "ch!wiki Entrenador Red Pokémon",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:52:23.970000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:52:31.124000-07:00",
+    "comando_completo": "ch!wiki Pokémon",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:52:31.401000-07:00",
+      "contenido": "Pokémon (ポケモン, Pokemon?) es una franquicia de medios que originalmente comenzó como un videojuego RPG, pero debido a su popularidad ha logrado expandirse a otros medios de entretenimiento como series de televisión, juegos de cartas, ropa, entre otros, convirtiéndose en una marca que es reconocida en el mercado mundial. Las ventas de videojuegos hasta el 1 de diciembre de 2006 habían alcanzado una cantidad de 312 millones de ejemplares (incluyendo la venta de la versión Pikachu de la consola Nintendo 64),[1]​ logrando ocupar el segundo lugar de las sagas de videojuegos más vendidos de Nintendo.[2]​ La franquicia celebró su décimo aniversario el 27 de febrero de 2006.[3]​[4]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:52:58.869000-07:00",
+    "comando_completo": "ch!wiki Ash Ketchum",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:52:59.182000-07:00",
+      "contenido": "Ash Ketchum, conocido en Japón como Satoshi (サトシ, Satoshi?), es el protagonista de la serie de anime Pokémon. Mide 1.65 m y pesa 54 kg. Es un entrenador Pokémon originario de Pueblo Paleta, de la región de Kanto. Tiene un carácter perseverante, entusiasta y distraído, y su máxima ambición es llegar a ser el mejor maestro Pokémon.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.313
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:54:19.116000-07:00",
+    "comando_completo": "ch!wiki Avocado",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:54:19.544000-07:00",
+      "contenido": "Persea americana, conocida comúnmente como aguacate,[2]​[3]​ palto[4]​ (Argentina, Bolivia, Chile, Perú y Uruguay) o aguacatero, es una especie arbórea del género Persea perteneciente a la familia Lauraceae, cuyo fruto, el aguacate o palta,[5]​ es una baya comestible.[6]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.428
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:58:40.445000-07:00",
+    "comando_completo": "ch!wiki Megumin",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:58:40.630000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:58:44.563000-07:00",
+    "comando_completo": "ch!wiki Megumin Boo",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:58:44.810000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.247
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:58:56.279000-07:00",
+    "comando_completo": "ch!wiki cual de todos",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:58:56.398000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.119
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T18:59:05.499000-07:00",
+    "comando_completo": "ch!wiki Minecraft",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T18:59:05.819000-07:00",
+      "contenido": "Minecraft es un videojuego de construcción, de tipo «mundo abierto» o sandbox creado originalmente por el sueco Markus Persson (conocido comúnmente como \"Notch\"),[10]​ y posteriormente desarrollado por su empresa, Mojang AB. Fue lanzado públicamente el 17 de mayo de 2009, después de diversos cambios fue lanzada su versión completa el 18 de noviembre de 2011.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.32
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-25T19:00:24.643000-07:00",
+    "comando_completo": "ch!wiki Karol",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:00:24.858000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-05-25T19:01:24.528000-07:00",
+    "comando_completo": "ch!wiki chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:01:24.890000-07:00",
+      "contenido": "Chocolat (chocolate, en francés) puede referirse a:",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.362
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-25T19:02:14.500000-07:00",
+    "comando_completo": "ch!wiki Red",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:02:28.096000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 13.596
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-25T19:02:27.940000-07:00",
+    "comando_completo": "ch!wiki Reeddo",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:02:28.096000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-25T19:02:40.306000-07:00",
+    "comando_completo": "ch!wiki Sam",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:02:40.625000-07:00",
+      "contenido": "El nombre Sam puede referirse a varias personas y cosas:",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.319
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-25T19:03:34.649000-07:00",
+    "comando_completo": "ch!wiki Ulti",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:03:34.944000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.295
+    }
+  },
+  {
+    "usuario": "magik0801",
+    "usuario_id": "413823007983796225",
+    "fecha_comando": "2019-05-25T19:03:42.491000-07:00",
+    "comando_completo": "ch!wiki Richard",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:03:42.828000-07:00",
+      "contenido": "Richard hace referencia a:",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.337
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-05-25T19:03:45.450000-07:00",
+    "comando_completo": "ch!wiki Karol G",
+    "respuesta_bot": {
+      "fecha": "2019-05-25T19:03:45.790000-07:00",
+      "contenido": "Carolina Giraldo Navarro (Medellín, Antioquia, Colombia; 14 de febrero de 1991), más conocida por su nombre artístico Karol G, es una cantante colombiana. En 2012, debutó con la canción «301» junto con el cantante Reykon, posicionado en el top de varias estaciones de radio y canales de televisión,[1]​ y le permitió realizar conciertos en países como Aruba, Colombia, Ecuador y Estados Unidos.[2]​ Obtuvo mayor reconocimiento en 2013, cuando lanzó la canción «Amor de dos» junto con Nicky Jam.[3]​ En 2016, luego de que lanzó varios sencillos, firmó un contrato con la discográfica Universal Music Latin Entertainment, lo que generó un ascenso en su carrera.[4]​[5]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.34
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-17T10:25:31.433000-07:00",
+    "comando_completo": "ch!wiki Pokémon",
+    "respuesta_bot": {
+      "fecha": "2019-07-17T10:25:31.731000-07:00",
+      "contenido": "Pokémon (ポケモン, Pokemon?) es una franquicia de medios que originalmente comenzó como un videojuego RPG, pero debido a su popularidad ha logrado expandirse a otros medios de entretenimiento como series de televisión, juegos de cartas, ropa, entre otros, convirtiéndose en una marca que es reconocida en el mercado mundial. Las ventas de videojuegos hasta el 1 de diciembre de 2006 habían alcanzado una cantidad de 312 millones de ejemplares (incluyendo la venta de la versión Pikachu de la consola Nintendo 64),[1]​ logrando ocupar el segundo lugar de las sagas de videojuegos más vendidos de Nintendo.[2]​ La franquicia celebró su décimo aniversario el 27 de febrero de 2006.[3]​[4]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.298
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-30T14:40:05.430000-07:00",
+    "comando_completo": "ch!wiki totodile",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T14:40:05.832000-07:00",
+      "contenido": "Esta es una lista de los Pokémon que debutaron por primera vez en los videojuegos Pokémon Oro y Plata, que forman parte de la segunda generación de videojuegos de Pokémon. Para ver una lista en general de las 802 criaturas existentes, véase Anexo:Pokémon.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.402
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-18T22:50:59.631000-07:00",
+    "comando_completo": "ch!wiki pecko",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:51:00.007000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.376
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-18T22:52:25.443000-07:00",
+    "comando_completo": "ch!wiki pecko",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:52:25.737000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.294
+    }
+  },
+  {
+    "usuario": "taby2912",
+    "usuario_id": "559188781132021771",
+    "fecha_comando": "2019-09-18T22:53:02.043000-07:00",
+    "comando_completo": "ch!wiki peeko",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:53:02.257000-07:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.214
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-11-05T13:46:46.865000-08:00",
+    "comando_completo": "ch!wiki Baba Yagá",
+    "respuesta_bot": {
+      "fecha": "2019-11-05T13:46:47.380000-08:00",
+      "contenido": "Baba Yagá (en ruso Баба Яга) es un personaje recurrente en el folclore y la mitología eslava.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.515
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-10T18:54:28.376000-08:00",
+    "comando_completo": "ch!wiki omlet arcade",
+    "respuesta_bot": {
+      "fecha": "2019-11-10T18:54:28.788000-08:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.412
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-13T14:38:01.977000-08:00",
+    "comando_completo": "ch!wiki por que las moscan vuelan ?",
+    "respuesta_bot": {
+      "fecha": "2019-11-13T14:38:02.586000-08:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.609
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-18T17:25:13.038000-08:00",
+    "comando_completo": "ch!wiki Ayuwoki",
+    "respuesta_bot": {
+      "fecha": "2019-11-18T17:25:13.726000-08:00",
+      "contenido": "El artículo que buscas no existe.\nDetalles del error: `Error: No article found`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.688
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-03-18T07:44:45.514000-07:00",
+    "comando_completo": "ch!wiki League of Legends",
+    "respuesta_bot": {
+      "fecha": "2020-03-18T07:44:46.107000-07:00",
+      "contenido": "League of Legends (también conocido por sus siglas LoL) es un videojuego del género multijugador de arena de batalla en línea (MOBA) y deporte electrónico el cual fue desarrollado por Riot Games para Microsoft Windows y OS X. En un principio los servidores estaban alojados en la empresa GOA y fue vendida a la empresa china Tencent Holdings Limited.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.593
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-03-21T10:42:33.237000-07:00",
+    "comando_completo": "ch!wiki Dona",
+    "respuesta_bot": {
+      "fecha": "2020-03-21T10:42:33.996000-07:00",
+      "contenido": "Dona puede hacer referencia a:",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.759
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-03-21T10:42:55.375000-07:00",
+    "comando_completo": "ch!wiki donut",
+    "respuesta_bot": {
+      "fecha": "2020-03-21T10:42:56.202000-07:00",
+      "contenido": "Una dona, también llamada dónut[1]​[2]​[3]​ (del inglés doughnut /ˈdoʊnət/ o /ˈdoʊnʌt/;), rosquilla, berlina o berlín es un toro o rosco de pan dulce que tradicionalmente está frito en grasa de cerdo.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.827
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-03-24T21:33:37.703000-07:00",
+    "comando_completo": "ch!wiki Alpaca",
+    "respuesta_bot": {
+      "fecha": "2020-03-24T21:33:38.458000-07:00",
+      "contenido": "La alpaca (del quechua allpaqa, paqu) (Vicugna pacos) es una especie doméstica de mamífero artiodáctilo de la familia Camelidae. Evolutivamente está emparentada con la vicuña, aunque en las poblaciones actuales hay una fuerte introgresión genética de la llama (Lama glama).[1]​ Su domesticación se viene realizando desde hace miles de años. Podemos encontrar restos arqueológicos de la cultura mochica del Perú con representaciones de alpacas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.755
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-11T13:57:07.929000-07:00",
+    "comando_completo": "ch!wiki trademark",
+    "respuesta_bot": {
+      "fecha": "2020-04-11T13:57:08.875000-07:00",
+      "contenido": "A efectos legales, una marca (®) es un signo que es apto para distinguir un producto o servicio en el mercado[1]​.  Cuando dicha marca ha sido registrada ante la entidad gubernamental, suele denominarse como “marca registrada” (en inglés, trademark)[2]​, la cual se muestra de forma abreviada con los iconos ™, M.R. o ®, aunque esto no es indicativo del registro ante la autoridad competente.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.946
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-12T15:40:56.776000-07:00",
+    "comando_completo": "ch!wiki kouhai",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:41:00.671000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-04-12T15:41:00.585-07:00",
+          "description": "Leaderboard Rank: 6th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Aisuru#3804",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/330095858194579456",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/PLHff7PgPfL3Zm-nxffm_HrmM8Opkg-SgJWn4gAhAEI/%3Fsize%3D128/https/cdn.discordapp.com/avatars/330095858194579456/40f8982d5d53655b280f7a7a9e39b541.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/330095858194579456/40f8982d5d53655b280f7a7a9e39b541.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫1,395,275",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫1,395,275",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.895
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-12T15:53:54.233000-07:00",
+    "comando_completo": "ch!wiki kouha",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:54:02.833000-07:00",
+      "contenido": "Senpai (先輩, ''Senpai''?   literalmente «compañero de antes», también escrito como sempai[1]​) y kōhai (後輩, ''kōhai''?   literalmente «compañero de después») son términos provenientes del idioma japonés que describen una relación interpersonal informal que se encuentra presente en las organizaciones, asociaciones, clubes, empresas y colegios de Japón.[2]​[3]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.6
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-12T15:54:01.890000-07:00",
+    "comando_completo": "ch!wiki Kohai",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:54:02.833000-07:00",
+      "contenido": "Senpai (先輩, ''Senpai''?   literalmente «compañero de antes», también escrito como sempai[1]​) y kōhai (後輩, ''kōhai''?   literalmente «compañero de después») son términos provenientes del idioma japonés que describen una relación interpersonal informal que se encuentra presente en las organizaciones, asociaciones, clubes, empresas y colegios de Japón.[2]​[3]​",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.943
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2020-04-25T14:56:25.474000-07:00",
+    "comando_completo": "ch!wiki Batata",
+    "respuesta_bot": {
+      "fecha": "2020-04-25T14:56:28.965000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi seems to be making progress! It is now paying attention to you.\n**+27 exp [16221/17777]**",
+          "color": "#FFDD2C",
+          "author": {
+            "name": "Success!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5Oj95NkenF1qfKDeovqGxDJNA8cHN5CCx0v-mJb8aPU/https/i-like.blue/emotes/33.png",
+            "canonicalUrl": "https://i-like.blue/emotes/33.png",
+            "width": 51,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.491
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2020-04-25T14:56:56.724000-07:00",
+    "comando_completo": "ch!wiki",
+    "respuesta_bot": {
+      "fecha": "2020-04-25T14:57:06.646000-07:00",
+      "contenido": ":n:  **|**  **please wait 1 seconds before attempting to train your :33: Tatsugotchi again!**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.922
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-07-05T22:41:32.909000-07:00",
+    "comando_completo": "ch!wiki Funaki",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T22:41:37.113000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "View the leaderboard online [here](https://unb.pizza/lb/379197913936429056).\n\n**1311.** [Caro64YT\\_Verlaine#8947](https://unb.pizza/lb/379197913936429056/510921936046391299) • 🍫1,981\n**1312.** [【𝓓ᖇ】\\*\\*\\*¯\\_(ツ)\\_/¯\\*\\*\\*#8891](https://unb.pizza/lb/379197913936429056/614185809830084618) • 🍫1,979\n**1313.** [SlippedMoon670#5529](https://unb.pizza/lb/379197913936429056/621796940471861251) • 🍫1,967\n**1314.** [👑Juantoronja👑 AF Secta]#9343](https://unb.pizza/lb/379197913936429056/683884019431374858) • 🍫1,966\n**1315.** [《( ͡° ͜ʖ ͡°)Juanito\\_VIP》#1052](https://unb.pizza/lb/379197913936429056/657351121622269975) • 🍫1,966\n**1316.** [╲⎝⧹๖̶̶̶ζMenudobeta]⧸⎠╱#4606](https://unb.pizza/lb/379197913936429056/315743986490933248) • 🍫1,965\n**1317.** [Dylanlord#9419](https://unb.pizza/lb/379197913936429056/724339936458702869) • 🍫1,961\n**1318.** [tadeoGamer#3032](https://unb.pizza/lb/379197913936429056/690380358772064267) • 🍫1,957\n**1319.** [🎮𝕮𝖈𝖔𝖕𝖎𝖙𝖆𝖆𝖗𝖒🎮#7195](https://unb.pizza/lb/379197913936429056/513192240537927710) • 🍫1,953\n**1320.** [lyra1310#8999](https://unb.pizza/lb/379197913936429056/691799516508323841) • 🍫1,941",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Chocolat Leaderboard",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056",
+            "iconUrl": "https://media.discordapp.net/attachments/506838906872922145/506899959816126493/h5D6Ei0.png?ex=6a57d3e0&is=6a568260&hm=7ff52f9f42a735e3a87bd31ab159d696f755db3cf5be8ca19bddc8a3306715d5&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/506838906872922145/506899959816126493/h5D6Ei0.png?ex=6a57d3e0&is=6a568260&hm=7ff52f9f42a735e3a87bd31ab159d696f755db3cf5be8ca19bddc8a3306715d5&"
+          },
+          "footer": {
+            "text": "Page 132/3246  •  Your leaderboard rank: 1311th"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            },
+            {
+              "id": "",
+              "name": "👑",
+              "code": "crown",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f451.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.204
+    }
+  },
+  {
+    "usuario": "mr.administrador7936",
+    "usuario_id": "700854214837928117",
+    "fecha_comando": "2020-08-18T13:43:38.496000-07:00",
+    "comando_completo": "ch!wiki ñero",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T13:43:39.866000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You have placed a bet of 🍫14,000 on `red`.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "§✧Moeᴾʰʸ✧§#0003",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/GjFu_OceHi17UXqij3W4JVpESv2zEx76l-cQPmRFAFI/%3Fsize%3D128/https/cdn.discordapp.com/avatars/682088651164745816/a_e81baf692616e9508ccd921c30db1c11.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/682088651164745816/a_e81baf692616e9508ccd921c30db1c11.gif?size=128"
+          },
+          "footer": {
+            "text": "Time remaining: 30 seconds"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.37
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-09-03T09:12:55.707000-07:00",
+    "comando_completo": "ch!wiki abrazen",
+    "respuesta_bot": {
+      "fecha": "2020-09-03T09:13:08.078000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Míster misterio** abrazó a **Latte** uwu",
+          "color": "#E58B22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/698690651642134587/57f89d73b85d50f7f7f0d6c0cb79192e.gif?ex=6a582560&is=6a56d3e0&hm=2007052c4f65b9554f7cb7a39d8b5d865584417149dda5084d9960ae0dfe6d93&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/698690651642134587/57f89d73b85d50f7f7f0d6c0cb79192e.gif?ex=6a582560&is=6a56d3e0&hm=2007052c4f65b9554f7cb7a39d8b5d865584417149dda5084d9960ae0dfe6d93&",
+            "width": 500,
+            "height": 289
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/698690651642134587/57f89d73b85d50f7f7f0d6c0cb79192e.gif?ex=6a582560&is=6a56d3e0&hm=2007052c4f65b9554f7cb7a39d8b5d865584417149dda5084d9960ae0dfe6d93&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/698690651642134587/57f89d73b85d50f7f7f0d6c0cb79192e.gif?ex=6a582560&is=6a56d3e0&hm=2007052c4f65b9554f7cb7a39d8b5d865584417149dda5084d9960ae0dfe6d93&",
+              "width": 500,
+              "height": 289
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 12.371
+    }
+  },
+  {
+    "usuario": ".azusanakano8390",
+    "usuario_id": "710589007548907651",
+    "fecha_comando": "2020-09-11T08:16:35.852000-07:00",
+    "comando_completo": "ch!wiki gibson",
+    "respuesta_bot": {
+      "fecha": "2020-09-11T08:16:37.088000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Gibson Brands es una de las empresas más grandes de fabricación de guitarras. Fue fundada en 1894 por Orville Gibson en la ciudad de Kalamazoo, Míchigan, Estados Unidos. Su sede se encuentra en Nashville, Tennessee.\n\n**Más información:** https://es.wikipedia.org/wiki/Gibson_Guitar_Corporation",
+          "color": "#EDEDED",
+          "author": {
+            "name": "Resultado de la búsqueda de Wikipedia",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.236
+    }
+  },
+  {
+    "usuario": ".azusanakano8390",
+    "usuario_id": "710589007548907651",
+    "fecha_comando": "2020-09-11T08:17:47.112000-07:00",
+    "comando_completo": "ch!wiki peron",
+    "respuesta_bot": {
+      "fecha": "2020-09-11T08:17:48.854000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "El término Perón, Péron o Peron puede referirse a:\n\n**Más información:** https://es.wikipedia.org/wiki/Per%C3%B3n_(desambiguaci%C3%B3n)",
+          "color": "#EDEDED",
+          "author": {
+            "name": "Resultado de la búsqueda de Wikipedia",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&"
+          },
+          "footer": {
+            "text": "¿Te gustaría apoyar a Chocolat? Necesitamos de tu ayuda, para más información use el comando: ch!donate"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.742
+    }
+  },
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2020-11-28T13:18:26.810000-08:00",
+    "comando_completo": "ch!wiki Palta",
+    "respuesta_bot": {
+      "fecha": "2020-11-28T13:18:27.729000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Persea americana, llamado popularmente aguacate,[2]​[3]​[4]​ palto (Argentina, Bolivia, Chile, Perú y Uruguay)[5]​[6]​ o aguacatero (República Dominicana, Puerto Rico y Venezuela),[7]​ es una especie arbórea del género Persea perteneciente a la familia Lauraceae, cuyo fruto, el aguacate[2]​[3]​ o palta,[8]​[9]​ es una baya comestible.[10]​ Es una especie originaria de Mesoamérica, específicamente de las partes altas del centro y este de México y de Guatemala. Las evidencias más antiguas de su uso se encontraron en Coaxcatlán (México) y datan de hace unos 10 000 años.[10]​[11]​[12]​ Actualmente, la especie se cultiva en lugares con climas tropical y mediterráneo en todo el mundo. La gran demanda de aguacate ha hecho que sus plantaciones transformen grandes extensiones de ecosistemas nativos.\n\n**Más información:** https://es.wikipedia.org/wiki/Persea_americana",
+          "color": "#EDEDED",
+          "author": {
+            "name": "Resultado de la búsqueda de Wikipedia",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.919
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-11-28T13:19:29.585000-08:00",
+    "comando_completo": "ch!wiki aguacate",
+    "respuesta_bot": {
+      "fecha": "2020-11-28T13:19:30.556000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Persea americana, llamado popularmente aguacate,[2]​[3]​[4]​ palto (Argentina, Bolivia, Chile, Perú y Uruguay)[5]​[6]​ o aguacatero (República Dominicana, Puerto Rico y Venezuela),[7]​ es una especie arbórea del género Persea perteneciente a la familia Lauraceae, cuyo fruto, el aguacate[2]​[3]​ o palta,[8]​[9]​ es una baya comestible.[10]​ Es una especie originaria de Mesoamérica, específicamente de las partes altas del centro y este de México y de Guatemala. Las evidencias más antiguas de su uso se encontraron en Coaxcatlán (México) y datan de hace unos 10 000 años.[10]​[11]​[12]​ Actualmente, la especie se cultiva en lugares con climas tropical y mediterráneo en todo el mundo. La gran demanda de aguacate ha hecho que sus plantaciones transformen grandes extensiones de ecosistemas nativos.\n\n**Más información:** https://es.wikipedia.org/wiki/Persea_americana",
+          "color": "#EDEDED",
+          "author": {
+            "name": "Resultado de la búsqueda de Wikipedia",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.971
+    }
+  },
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2020-12-03T11:48:04.689000-08:00",
+    "comando_completo": "ch!wiki Mecra Mall",
+    "respuesta_bot": {
+      "fecha": "2020-12-03T11:48:05.170000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-03T11:48:05.107-08:00",
+          "description": "Leaderboard Rank: 19th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "∆~Akiko San 💫💎✨#8176",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/759258735196504105",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/e_01gZP4qQ9wgDCdHlzmxjFwYgJr_q2RaAiy5AlM9mY/%3Fsize%3D128/https/cdn.discordapp.com/avatars/759258735196504105/2ac2652d277bbd0e6ce4d93fd9952174.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/759258735196504105/2ac2652d277bbd0e6ce4d93fd9952174.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫636,313",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫636,313",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.481
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2020-12-12T22:47:02.787000-08:00",
+    "comando_completo": "ch!wiki lares",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T22:47:04.028000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "El término lares (también, Lares) puede referirse, en esta enciclopedia:\n\n**Más información:** https://es.wikipedia.org/wiki/Lares",
+          "color": "#EDEDED",
+          "author": {
+            "name": "Resultado de la búsqueda de Wikipedia",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.241
+    }
+  },
+  {
+    "usuario": "rick8964",
+    "usuario_id": "746773541550031018",
+    "fecha_comando": "2020-12-14T13:32:24.825000-08:00",
+    "comando_completo": "ch!wiki caramelo",
+    "respuesta_bot": {
+      "fecha": "2020-12-14T13:32:25.490000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "El caramelo es un alimento preparado generalmente a base de azúcar fundido. El caramelo se consigue mediante la cocción de azúcares. Este puede consumirse tanto líquido (tal es el caso del caramelo que se añade por encima del flan, en este caso se denomina almíbar), como sólido. El caramelo solidificado se consume habitualmente dejándolo deshacer en la boca. A este se le suelen añadir sabores de frutas, hierbas u otros aromas.\n\n**Más información:** https://es.wikipedia.org/wiki/Caramelo",
+          "color": "#EDEDED",
+          "author": {
+            "name": "Resultado de la búsqueda de Wikipedia",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/624729248921419808/738203826422546462/Wikipedia.png?ex=6a583163&is=6a56dfe3&hm=6e1305cd6d768c33dbd862faf1ff3f126b9ed2923cacbf2a10c4a9f704e3c6c9&"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.665
+    }
+  }
+]

@@ -1,0 +1,19 @@
+use crate::commands::interaction::InteractionCommand;
+use crate::command::CommandRegistration;
+use serenity::all::Colour;
+
+pub static LAUGH: InteractionCommand = InteractionCommand::new(
+    "laugh",
+    "Ríete a carcajadas o ríete con alguien",
+    "Interacción",
+    false,
+    0xE9EB78,
+    "**$User** se ríe junto a **$Target** XD",
+    "**$User** se está partiendo de la risa XD"
+);
+
+inventory::submit! {
+    CommandRegistration {
+        command: &LAUGH
+    }
+}

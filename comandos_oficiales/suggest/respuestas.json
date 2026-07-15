@@ -1,0 +1,444 @@
+[
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-01-07T08:59:41.119000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-01-07T08:59:41.216000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.097
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-01-19T16:16:08.257000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-01-19T16:16:08.389000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.132
+    }
+  },
+  {
+    "usuario": "marco.3385",
+    "usuario_id": "433413879733944320",
+    "fecha_comando": "2019-01-29T11:53:39.471000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-01-29T11:53:39.738000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-01-30T17:55:43.717000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-01-30T17:55:43.830000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.113
+    }
+  },
+  {
+    "usuario": "schindlerz",
+    "usuario_id": "372149313591312384",
+    "fecha_comando": "2019-02-10T01:12:12.743000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T01:12:12.893000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "mdll06_",
+    "usuario_id": "444966840813486080",
+    "fecha_comando": "2019-03-08T05:20:42.312000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-03-08T05:20:42.432000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.12
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-17T17:07:45.940000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-03-17T17:07:46.092000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-06-07T18:26:01.179000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T18:26:01.424000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.245
+    }
+  },
+  {
+    "usuario": "johnavelasquez9830",
+    "usuario_id": "333472433338056705",
+    "fecha_comando": "2019-06-14T11:35:36.999000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-06-14T11:35:37.248000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "leogamer5023",
+    "usuario_id": "553808551882129418",
+    "fecha_comando": "2019-07-06T13:09:25.048000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-07-06T13:09:25.177000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "murvhix",
+    "usuario_id": "475555396610818058",
+    "fecha_comando": "2019-08-08T19:02:06.447000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-08-08T19:02:06.481000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.034
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-30T14:43:57.577000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T14:43:57.755000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.178
+    }
+  },
+  {
+    "usuario": "rin_satsuki",
+    "usuario_id": "491094280962572298",
+    "fecha_comando": "2019-10-13T22:51:47.313000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-10-13T22:51:47.413000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.1
+    }
+  },
+  {
+    "usuario": "cady_canesi",
+    "usuario_id": "398919677830758412",
+    "fecha_comando": "2019-10-14T02:09:42.046000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-10-14T02:09:42.207000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "aarongameryt12",
+    "usuario_id": "589663054879260683",
+    "fecha_comando": "2019-10-14T10:10:03.200000-07:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-10-14T10:10:03.370000-07:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "its_evan26",
+    "usuario_id": "518814322370150422",
+    "fecha_comando": "2019-11-03T06:39:52.816000-08:00",
+    "comando_completo": "ch!suggest\nQue exista un comando llamado: \"ch!hate\" que hace lo mismo como ch!love pero en odio hacia una persona",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T06:40:00.632000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Too many users found, please try being more specific.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Famusche#2790",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/_es2SyHeyAkutIj6oiih78YI6_llX-hIAim_4dDjN-s/%3Fsize%3D128/https/cdn.discordapp.com/avatars/461240054870966303/a_95a08fda430faa9fc07e4e632722211b.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/461240054870966303/a_95a08fda430faa9fc07e4e632722211b.gif?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.816
+    }
+  },
+  {
+    "usuario": "samotbtw",
+    "usuario_id": "513362604140527616",
+    "fecha_comando": "2019-12-04T21:50:38.816000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2019-12-04T21:50:38.978000-08:00",
+      "contenido": "Debes escribir alguna sugerencia.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.162
+    }
+  },
+  {
+    "usuario": "zeydah2709",
+    "usuario_id": "647677775683256320",
+    "fecha_comando": "2020-01-12T03:51:17.823000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2020-01-12T03:51:28.972000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#C1CD46",
+          "author": {
+            "name": "Ayuda detallada de suggest / sgg",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "<> = obligatorio | [] = opcional. | No incluyas estos símbolos al momento de ejecutar el comando."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Grupo",
+              "value": "Comandos Útiles",
+              "isInline": false
+            },
+            {
+              "name": "Permisos de usuario",
+              "value": "Ninguno",
+              "isInline": false
+            },
+            {
+              "name": "Descripción",
+              "value": "Envía una sugerencia al canal de sugerencias del servidor. Antes de enviar una sugerencia, el canal de sugerencias debe estar establecido. Si eres el Administrador, ejecuta el comando `ch!setsuggestions #canal` para establecer el canal de sugerencias.",
+              "isInline": false
+            },
+            {
+              "name": "Uso",
+              "value": "ch!suggest <argumentos>",
+              "isInline": false
+            },
+            {
+              "name": "Ejemplo",
+              "value": "ch!suggest Sugiero que hayan más canales de música.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 11.149
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-08-11T17:30:35.288000-07:00",
+    "comando_completo": "ch!suggest Propongo que el server luego se llegue a llamar `La cafetería de Chocolat` Es un nombre muy genial y queda bien  aparte de se es bonito",
+    "respuesta_bot": {
+      "fecha": "2020-08-11T17:30:35.306000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi seems to respond well to the training! It looks happy.\n**+24 exp [2135/2177]**",
+          "color": "#FFDD2C",
+          "author": {
+            "name": "Success!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/V53uJLx2x1_hHrBYUhmFRtj0OEMDqKs-m0p_UObojAw/https/i-like.blue/emotes/18.png",
+            "canonicalUrl": "https://i-like.blue/emotes/18.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.018
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-11-11T09:51:33.646000-08:00",
+    "comando_completo": "ch!suggest",
+    "respuesta_bot": {
+      "fecha": "2020-11-11T09:51:34.101000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "❖ Mr Limbo ❖ has given @ɪɴᴅᴇᴋ- **5** cookies!\n\n 📥 85 | 📤 142",
+          "color": "#E5BC8C",
+          "author": {
+            "name": "Cookie given!",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/-hrqARU5Q28LGtnU7ibEmXLViL4uBF3iFXlYAhCVyVE/%3Fv%3D1/https/cdn.discordapp.com/emojis/727118108468445204.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/emojis/727118108468445204.png?v=1"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "📥",
+              "code": "inbox_tray",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4e5.svg"
+            },
+            {
+              "id": "",
+              "name": "📤",
+              "code": "outbox_tray",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4e4.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.455
+    }
+  },
+  {
+    "usuario": "frostdelx",
+    "usuario_id": "757248743744471050",
+    "fecha_comando": "2020-11-15T18:02:48.899000-08:00",
+    "comando_completo": "ch!suggest sugiero que usen al bot @[yu!] Yukihira  o algun tercero como bot provisional durante los reinicios y mantenimientos ya que algunas veces suelen tardar dias",
+    "respuesta_bot": {
+      "fecha": "2020-11-15T18:02:51.120000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: @Walbert has received your 🍫2,000",
+          "color": "#66BB6A",
+          "author": {
+            "name": "franportillo#5108",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nmiIoRn2wWp7rKgk3_xhwrTMWIPfrP7MbyTdXA795cc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/422621797934956545/08cd875797f4534a31d62421b578a140.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/422621797934956545/08cd875797f4534a31d62421b578a140.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "773218860840648725",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/773218860840648725.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.221
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "usuario": "ulti_gg",
+    "usuario_id": "241775896518721536",
+    "fecha_comando": "2019-01-11T19:06:52.606000-08:00",
+    "comando_completo": "ch!config",
+    "respuesta_bot": {
+      "fecha": "2019-01-11T19:06:52.739000-08:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.133
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-01-11T19:09:50.434000-08:00",
+    "comando_completo": "ch!config",
+    "respuesta_bot": {
+      "fecha": "2019-01-11T19:09:50.563000-08:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-04-01T16:37:13.676000-07:00",
+    "comando_completo": "ch!config",
+    "respuesta_bot": {
+      "fecha": "2019-04-01T16:37:13.804000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Esta es la configuración actual de servidor.",
+          "color": "#270075",
+          "author": {
+            "name": "Configuración actual del servidor.",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/fPHOyC2jhH2lkTrbEWry55GLw1Demn22jFzbBJoTGt8/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fPHOyC2jhH2lkTrbEWry55GLw1Demn22jFzbBJoTGt8/https/cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+            "canonicalUrl": "https://cdn.discordapp.com/icons/379197913936429056/1f342af42124cae4ab43c436eb13e9ac.jpg",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Canal de bienvenida/despedida",
+              "value": "#⁽🕛⁾┊bienvenida",
+              "isInline": false
+            },
+            {
+              "name": "Canal de Sugerencias",
+              "value": "#📄▸sugerencias-viejas",
+              "isInline": false
+            },
+            {
+              "name": "Canal de Reportes",
+              "value": "#deleted-channel",
+              "isInline": false
+            },
+            {
+              "name": "Mensaje de bienvenida",
+              "value": "*No definido.*",
+              "isInline": false
+            },
+            {
+              "name": "Mensaje de despedida",
+              "value": "*No definido.*",
+              "isInline": false
+            },
+            {
+              "name": "Auto-Role",
+              "value": "a",
+              "isInline": false
+            },
+            {
+              "name": "Prefix del servidor",
+              "value": "ch!",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.128
+    }
+  },
+  {
+    "usuario": "acibascsubcibciasubciuab8273",
+    "usuario_id": "639516143735799818",
+    "fecha_comando": "2019-11-14T10:35:01.978000-08:00",
+    "comando_completo": "ch!config",
+    "respuesta_bot": {
+      "fecha": "2019-11-14T10:35:02.233000-08:00",
+      "contenido": "Este comando requiere permisos administrativos.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.255
+    }
+  },
+  {
+    "usuario": "luckapo089",
+    "usuario_id": "696086845322166414",
+    "fecha_comando": "2020-06-22T15:40:27.067000-07:00",
+    "comando_completo": "ch!config",
+    "respuesta_bot": {
+      "fecha": "2020-06-22T15:40:37.068000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Te dedicas a vender pasteles todos los días en tu humilde hogar, al finalizar tu día cuentas todo lo que has vendido y obtuviste 🍫499.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "SantI#9924",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FoMzERYoMk-YLJcSVXhsH81okooqfDmRfd2H4ZqfPKU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/512419385835651082/a58bac24b8b0f4676656dc5387576dbc.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/512419385835651082/a58bac24b8b0f4676656dc5387576dbc.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161562"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.001
+    }
+  }
+]

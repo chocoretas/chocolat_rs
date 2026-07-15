@@ -1,6 +1,10 @@
 /target
 Cargo.lock
 .env
+# media contiene los gifs
+media 
+# script feo que arregla extensiones de los gif
+extension-fix.sh
 
 # OS
 .DS_Store

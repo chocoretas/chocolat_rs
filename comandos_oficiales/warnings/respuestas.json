@@ -1,0 +1,44 @@
+[
+  {
+    "usuario": "bruki.",
+    "usuario_id": "444665853687103498",
+    "fecha_comando": "2019-09-02T17:05:11.518000-07:00",
+    "comando_completo": "ch!warnings",
+    "respuesta_bot": {
+      "fecha": "2019-09-02T17:05:17.321000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Trabajas de guardaespaldas para un empresario muy reconocido. Hoy tienes una gran misión defensiva y por ello te pagan 🍫1,279 por adelantado, sin embargo, te dispararon en el tobillo. No te preocupes, dolerá sólo un poco decían...",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Miguel#6903",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2ERFo5YmaheIhvSl3oPEFWu_cBrV3HuPB7AcKly3elc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/503674359467081741/1a1371b10bf233f7acdb59396bbf9f83.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/503674359467081741/1a1371b10bf233f7acdb59396bbf9f83.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161567"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.803
+    }
+  }
+]

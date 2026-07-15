@@ -1,0 +1,166 @@
+[
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-03-19T17:25:23.595000-07:00",
+    "comando_completo": "ch!warn",
+    "respuesta_bot": {
+      "fecha": "2019-03-19T17:25:23.753000-07:00",
+      "contenido": "Mencione a alguien para advertir.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.158
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-04-20T08:34:52.178000-07:00",
+    "comando_completo": "ch!warn",
+    "respuesta_bot": {
+      "fecha": "2019-04-20T08:34:53.778000-07:00",
+      "contenido": "Mencione a alguien para advertir.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.6
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-04-20T19:13:37.745000-07:00",
+    "comando_completo": "ch!warn",
+    "respuesta_bot": {
+      "fecha": "2019-04-20T19:13:37.976000-07:00",
+      "contenido": "Mencione a alguien para advertir.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.231
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-04-23T19:31:56.971000-07:00",
+    "comando_completo": "ch!warn",
+    "respuesta_bot": {
+      "fecha": "2019-04-23T19:31:57.089000-07:00",
+      "contenido": "Este comando requiere el permiso \"Expulsar Miembros\".",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-04T08:40:34.383000-07:00",
+    "comando_completo": "ch!warn",
+    "respuesta_bot": {
+      "fecha": "2019-06-04T08:40:35.977000-07:00",
+      "contenido": "Este comando requiere el permiso \"Expulsar Miembros\".",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.594
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-23T17:58:25.754000-07:00",
+    "comando_completo": "ch!warn",
+    "respuesta_bot": {
+      "fecha": "2019-06-23T17:58:26.294000-07:00",
+      "contenido": "Mencione a alguien para advertir.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.54
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-30T19:32:19.870000-07:00",
+    "comando_completo": "ch!warn @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2019-09-30T19:32:28.541000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo** acarició a **ThePsychopath** uwu",
+          "color": "#3AC0B8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/q3k68K7g7n3pzOBR00MkNatDjllZj5UzgbR8OSskyug/https/cdn.weeb.sh/images/SJmW1RKtb.gif",
+            "canonicalUrl": "https://cdn.weeb.sh/images/SJmW1RKtb.gif",
+            "width": 700,
+            "height": 396
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/q3k68K7g7n3pzOBR00MkNatDjllZj5UzgbR8OSskyug/https/cdn.weeb.sh/images/SJmW1RKtb.gif",
+              "canonicalUrl": "https://cdn.weeb.sh/images/SJmW1RKtb.gif",
+              "width": 700,
+              "height": 396
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.671
+    }
+  },
+  {
+    "usuario": "ami007531",
+    "usuario_id": "471047288035213313",
+    "fecha_comando": "2019-12-25T17:40:26.490000-08:00",
+    "comando_completo": "ch!warn @Poche",
+    "respuesta_bot": {
+      "fecha": "2019-12-25T17:40:36.226000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Estabas caminando por la ciudad, mientras ibas entrevistando a personas, de repente se te acercó un vagabundo y te regala 🍫577 sin decirte nada... ¡Pero espera! ¿¡Qué no debía ser yo quien le regale a él!? Lo observas fijamente y te das cuenta que por dentro él no es un vagabundo de verdad.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Ami🎄#2768",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/l1bmWZH6NOnakPYLM-ut9m5_rCJIFPdcTNPcFhbFxOU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/471047288035213313/1b311406934b254dbb901f34783145ab.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/471047288035213313/1b311406934b254dbb901f34783145ab.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #161578"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.736
+    }
+  }
+]

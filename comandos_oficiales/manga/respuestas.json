@@ -1,0 +1,565 @@
+[
+  {
+    "usuario": "raforsitonwn_24418",
+    "usuario_id": "579345671715553290",
+    "fecha_comando": "2019-06-02T18:48:57.559000-07:00",
+    "comando_completo": "ch!manga dragon ball",
+    "respuesta_bot": {
+      "fecha": "2019-06-02T18:48:57.636000-07:00",
+      "contenido": ":arrows_counterclockwise: Buscando...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.077
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-19T17:37:33.553000-07:00",
+    "comando_completo": "ch!manga the promised neverland",
+    "respuesta_bot": {
+      "fecha": "2019-10-19T17:37:33.712000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Yakusoku no Neverland",
+          "url": "https://kitsu.io/manga/yakusoku-no-neverland",
+          "timestamp": null,
+          "description": "",
+          "color": "#037178",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6qZCV-QqV5qfNfYHzZ_mniivqVGYcEO6qnhPSeT4eDg/%3F1490648273/https/media.kitsu.io/manga/poster_images/38047/original.png",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/38047/original.png?1490648273",
+            "width": 600,
+            "height": 942
+          },
+          "footer": {
+            "text": "Emma y sus amigos tienen una buena vida en el orfanato en el que crecieron. Aunque las reglas pueden ser estrictos, el cuidador es una especie. Pero ¿por qué los niños les prohíbe tener que abandonar ...?\r\n\r\n(Fuente: VIZ Media)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "CURRENT",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Mon Aug 01 2016 - ???",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#36",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-08T21:00:55.058000-08:00",
+    "comando_completo": "ch!manga jahy-sama",
+    "respuesta_bot": {
+      "fecha": "2019-11-08T21:00:55.341000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jahy-sama wa Kujikenai!",
+          "url": "https://kitsu.io/manga/jahy-sama-wa-kujikenai",
+          "timestamp": null,
+          "description": "",
+          "color": "#FA975B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ejhc3RT-PL7hyIFme3aNbcTgvpZCaQGDUy_wSg_ri8U/%3F1533049645/https/media.kitsu.io/manga/poster_images/40186/original.jpg",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/40186/original.jpg?1533049645",
+            "width": 844,
+            "height": 1200
+          },
+          "footer": {
+            "text": "Jahy-sama es una existencia a ser temido y respetado en todo el reino de los demonios.\r\n\r\nBueno, lo era.\r\n\r\nEl (ex) Demon Realm Nº 2 ya está ocupado con las tareas del hogar y el trabajo ... en el reino de los humanos! Su cena es sólo brotes de soja, y ella no puede permitirse nada excepto agua en los cafés, pero no se desanime!\r\n\r\n(Fuente: MU)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "CURRENT",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Tue Aug 22 2017 - ???",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#664",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.283
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2020-04-17T20:41:36.808000-07:00",
+    "comando_completo": "ch!manga Jahy-sama",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T20:41:37.063000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jahy-sama wa Kujikenai!",
+          "url": "https://kitsu.io/manga/jahy-sama-wa-kujikenai",
+          "timestamp": null,
+          "description": "",
+          "color": "#7F9F88",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ejhc3RT-PL7hyIFme3aNbcTgvpZCaQGDUy_wSg_ri8U/%3F1533049645/https/media.kitsu.io/manga/poster_images/40186/original.jpg",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/40186/original.jpg?1533049645",
+            "width": 844,
+            "height": 1200
+          },
+          "footer": {
+            "text": "Jahy-sama es una existencia a ser temido y respetado en todo el reino de los demonios.\r\n\r\nBueno, lo era.\r\n\r\nEl (ex) Demon Realm Nº 2 ya está ocupado con las tareas del hogar y el trabajo ... en el reino de los humanos! Su cena es sólo brotes de soja, y ella no puede permitirse nada excepto agua en los cafés, pero no se desanime!\r\n\r\n(Fuente: MU)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "CURRENT",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Tue Aug 22 2017 - ???",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#562",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.255
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-09-14T13:25:37.264000-07:00",
+    "comando_completo": "ch!manga",
+    "respuesta_bot": {
+      "fecha": "2020-09-14T13:25:38.799000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-09-14T13:25:38.756-07:00",
+          "description": "Leaderboard Rank: 1664th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "iluh286#5866",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/693091345509908481",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/3xguANzXQ5xWnumeDqxSkr597pfOyYPavwxeufakm60/%3Fsize%3D128/https/cdn.discordapp.com/avatars/693091345509908481/bbc27e55cada0669602ef00d133f1f63.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/693091345509908481/bbc27e55cada0669602ef00d133f1f63.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫1,829",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫1,829",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.535
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-09-14T13:25:54.914000-07:00",
+    "comando_completo": "ch!manga Act Age",
+    "respuesta_bot": {
+      "fecha": "2020-09-14T13:26:04.569000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-09-14T13:26:04.474-07:00",
+          "description": "Leaderboard Rank: 1340th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "iluh286#5866",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/693091345509908481",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/3xguANzXQ5xWnumeDqxSkr597pfOyYPavwxeufakm60/%3Fsize%3D128/https/cdn.discordapp.com/avatars/693091345509908481/bbc27e55cada0669602ef00d133f1f63.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/693091345509908481/bbc27e55cada0669602ef00d133f1f63.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫3,658",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫3,658",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.655
+    }
+  },
+  {
+    "usuario": "umisan6175",
+    "usuario_id": "743675065102762014",
+    "fecha_comando": "2020-10-11T15:06:59.603000-07:00",
+    "comando_completo": "ch!manga Servamp",
+    "respuesta_bot": {
+      "fecha": "2020-10-11T15:07:04.474000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Servamp",
+          "url": "https://kitsu.io/manga/servamp",
+          "timestamp": null,
+          "description": "",
+          "color": "#BD5BA8",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pwG0MyxA3HIMue35SLhW0ogmHFmzkhEVjdBf8q3yAZI/%3F1436793885/https/media.kitsu.io/manga/poster_images/23704/original.jpg",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/23704/original.jpg?1436793885",
+            "width": 419,
+            "height": 600
+          },
+          "footer": {
+            "text": "Cuando un gato negro callejero llamado Kuro cruza el camino de Mahiru Shirota, la vida de la alta escuela de primer año nunca será igual otra vez. Kuro es, de hecho, ningún felino ordinaria, sino una servamp: un vampiro sirviente. Mientras que la filosofía personal de Mahiru es uno de no intervención, pronto se ve envuelto en un conflicto antiguo, totalmente surrealista entre vampiros y seres humanos.\n\n(Fuente: Seven Seas)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "CURRENT",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Wed Jun 15 2011 - ???",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#601",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.871
+    }
+  },
+  {
+    "usuario": "umisan6175",
+    "usuario_id": "743675065102762014",
+    "fecha_comando": "2020-10-12T21:03:50.303000-07:00",
+    "comando_completo": "ch!manga Youjo Senki",
+    "respuesta_bot": {
+      "fecha": "2020-10-12T21:03:50.584000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Youjo Senki",
+          "url": "https://kitsu.io/manga/youjo-senki-manga",
+          "timestamp": null,
+          "description": "",
+          "color": "#2EF88C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eV7tzOpRgd_LXZjCgFGTI25DuqxKNpQ3Xscow2gPu1s/%3F1492759738/https/media.kitsu.io/manga/poster_images/37906/original.jpg",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/37906/original.jpg?1492759738",
+            "width": 1129,
+            "height": 1600
+          },
+          "footer": {
+            "text": "En primera línea de la guerra, hay una chica poco. cabello rubio, ojos azules y piel blanca porcelana, bajo su mando al ejército con ceceando voz. Su nombre es Tania Degurechaff. Pero, en realidad, ella es uno de los asalariados de élite de Japón, renacer como una niña después de enojar a un ser misterioso X que se hace llamar \"Dios\". Y esta niña, que priorizan sobre la eficiencia otra cosa y su propia carrera, se convertirá en el ser más peligroso entre los hechiceros del ejército imperial ..."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "???",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "CURRENT",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Tue Apr 26 2016 - ???",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#619",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.281
+    }
+  },
+  {
+    "usuario": "umisan6175",
+    "usuario_id": "743675065102762014",
+    "fecha_comando": "2020-10-14T09:02:03.131000-07:00",
+    "comando_completo": "ch!manga K-on",
+    "respuesta_bot": {
+      "fecha": "2020-10-14T09:02:03.445000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "K-On!",
+          "url": "https://kitsu.io/manga/k-on",
+          "timestamp": null,
+          "description": "",
+          "color": "#A6F84A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3MlbE81STd7Uxn8qpEml5PNwnXnV4frN3EruGga1bAk/%3F1477369071/https/media.kitsu.io/manga/poster_images/23542/original.png",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/23542/original.png?1477369071",
+            "width": 1121,
+            "height": 1600
+          },
+          "footer": {
+            "text": "Hirasawa Yui, una muchacha joven, despreocupado entrar a la secundaria, tiene su imaginación al instante capturado cuando ve un cartel publicitario de la ‘Luz Music Club’. Al ser la chica despreocupada que ella es, ella firma rápidamente. Sin embargo, Yui tiene un problema, que no es capaz de tocar un instrumento.\r\n\r\nCuando Yui va al salón del club para explicar, ella ha recibido por los otros miembros: Ritsu, Mio y Tsumugi. Aunque desalentado por la falta de instrumentos musicales, de Yui know-how, que todavía tratan de convencerla de quedarse para evitar la disolución del club. Después de jugar Yui una breve pieza que volviera a encender su imaginación, tienen éxito en mantener su nuevo miembro y guitarrista.\r\n\r\nJunto con las tareas de la escuela y las tareas, Yui comienza a aprender la guitarra con la ayuda de los demás miembros de la banda, experimentando muchos contratiempos en el camino. Sin embargo, con la escuela-fiesta se acerca y Yui se queda pegada con su práctica, estará listo a tiempo para su debut en el club de la música ligera?\r\n\r\n(Fuente: LMA reescritura)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "4",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "57",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "FINISHED",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Mon Apr 09 2007 - Thu Sep 09 2010",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#469",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.314
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-16T12:34:38.651000-08:00",
+    "comando_completo": "ch!manga Tokio Ghouls",
+    "respuesta_bot": {
+      "fecha": "2020-12-16T12:34:38.899000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tokyo Ghoul",
+          "url": "https://kitsu.io/manga/tokyo-ghoul-m",
+          "timestamp": null,
+          "description": "",
+          "color": "#BABB5D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8Jfoh9g5mM9WJer8YUXUORKJIlYPIEujOlKUdi74dek/%3F1541845686/https/media.kitsu.io/manga/poster_images/7176/original.jpg",
+            "canonicalUrl": "https://media.kitsu.io/manga/poster_images/7176/original.jpg?1541845686",
+            "width": 423,
+            "height": 600
+          },
+          "footer": {
+            "text": "Kaneki Ken es un estudiante universitario incasivo que vive en Tokio. Sin embargo, su vida cómoda se enciende sobre su cabeza después de que una cadena de asesinatos violentos lo empuja de mala gana en el ghoul habitado de la ciudad. Un lugar que vive por la regla de comer o ser comido. Ahora, todos los días es una lucha por proteger su vida, a sus seres queridos y su humanidad."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tipo",
+              "value": "MANGA",
+              "isInline": true
+            },
+            {
+              "name": "Volúmenes",
+              "value": "14",
+              "isInline": true
+            },
+            {
+              "name": "Episodios",
+              "value": "144",
+              "isInline": true
+            },
+            {
+              "name": "Estado",
+              "value": "FINISHED",
+              "isInline": true
+            },
+            {
+              "name": "Fecha de Publicación",
+              "value": "Thu Sep 08 2011 - Thu Sep 18 2014",
+              "isInline": true
+            },
+            {
+              "name": "Rango de Popularidad",
+              "value": "#1",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.248
+    }
+  }
+]

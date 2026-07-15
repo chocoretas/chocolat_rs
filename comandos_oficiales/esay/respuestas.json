@@ -1,0 +1,530 @@
+[
+  {
+    "usuario": "qahanaarinalduin",
+    "usuario_id": "487380408434950184",
+    "fecha_comando": "2019-02-06T06:16:18.031000-08:00",
+    "comando_completo": "ch!esay",
+    "respuesta_bot": {
+      "fecha": "2019-02-06T06:16:18.285000-08:00",
+      "contenido": "Escriba un contenido para decir",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.254
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-23T17:04:58.925000-07:00",
+    "comando_completo": "ch!esay help",
+    "respuesta_bot": {
+      "fecha": "2019-07-23T17:05:03.473000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":xmark: You cannot work for 37 seconds.",
+          "color": "#EF5350",
+          "author": {
+            "name": "ღCharlyeღ#7587",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/TZAcOzvX0EGLDjjLmUYZg4yJ0ITFxjIGM5P-pDTAIC4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/574414215247429646/0331f77fb655d131708113d58483ce39.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/574414215247429646/0331f77fb655d131708113d58483ce39.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972330209281",
+              "name": "xmark",
+              "code": "xmark",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972330209281.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.548
+    }
+  },
+  {
+    "usuario": "pipina",
+    "usuario_id": "351741627661942785",
+    "fecha_comando": "2019-09-01T10:21:48.263000-07:00",
+    "comando_completo": "ch!esay JK385",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:22:02.287000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "hola",
+          "color": "#55B6EA",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 14.024
+    }
+  },
+  {
+    "usuario": "mike_chr",
+    "usuario_id": "288785207300194306",
+    "fecha_comando": "2019-09-03T02:45:26.196000-07:00",
+    "comando_completo": "ch!esay Hola",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T02:45:29.690000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: I will remind you in 4 hours",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Dana#1537",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ThGc0ZGPDdXO79rcmjDD0lyqCxpE92iKHLGocBj2SWQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/419631170074968076/5d6c28590b65f3deacb47d0273fdcfd6.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/419631170074968076/5d6c28590b65f3deacb47d0273fdcfd6.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.494
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-11T17:05:13.876000-07:00",
+    "comando_completo": "ch!esay aosdjasd",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T17:05:28.265000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "no c jaja salu2",
+          "color": "#D9391D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 14.389
+    }
+  },
+  {
+    "usuario": "scor.idk",
+    "usuario_id": "551546340602150916",
+    "fecha_comando": "2019-09-11T17:06:36.768000-07:00",
+    "comando_completo": "ch!esay 3 tristes tigres comen trigo en un trigal",
+    "respuesta_bot": {
+      "fecha": "2019-09-11T17:06:47.660000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Buy an item with the `buy-item [quantity] <name>` command.\nFor more information on an item use the `item-info <name>` command.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "ⷢⷢⷴ『ᴳᵀᴰ』۝ ✞ﾌ卂丂ㄖ几✞ⷢ۝ⷢ#1053",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/s8wwm7Sz95O7RC5bk5rjjgm2nWv3wtG9c92rpXDRwz8/%3Fsize%3D128/https/cdn.discordapp.com/avatars/528395415947837440/fb4d1b5dcb7d5be936b303e72176b928.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/528395415947837440/fb4d1b5dcb7d5be936b303e72176b928.png?size=128"
+          },
+          "footer": {
+            "text": "Page 1/1"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "🍫6,000 - Colores",
+              "value": "Fascinantes colores que puedes ponerle a tu nombre en nuestro servidor. Adquiérelo pronto y disfruta de una nueva moda de colores. (Sólo debes adquirir este producto una vez).\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫245,999 - Rol único - Nivel 2",
+              "value": "Este objeto te permite adquirir un Rol único para ti, sólo para ti, puedes hacer cambio de color y nombre de este siempre que lo desees, puesto a que el nombre y el color es personalizado. \nA parte, sólo puedes adquirir uno por persona, por lo que una vez lo compres no deberás volver a comprarlo.\n**...\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫1,299,999 - Función especial para comandos de Reacción o Interacción",
+              "value": "¿Alguna vez quisiste hacer algo con un bot que todos los demás no puedan?\nEsta es tu oportunidad, adquiere este objeto para añadir una nueva función en algún comando de reacción e interacción, para más información al respecto se le recomienda antes de comprarlo.\nEste objeto sólo puede ser adquirido ...\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫1,999,999 - Caja especial Nivel 3",
+              "value": "En esta caja se esconde una sorpresa. ¿La podrás abrir y saber qué se haya en ella?\nSólo puedes adquirirla una vez por persona, a no ser de que la compres y se la des a alguien más, pero entonces aquella persona ya no podrá adquirirla si la desea.\n**PD:** Esta oferta es sólo para personas de Nivel 3...\n:transparent:",
+              "isInline": false
+            },
+            {
+              "name": "🍫2,100,000 - Código premium",
+              "value": "¿Un código premium de qué? Mmm, tiene que ver con Chocolat. ¿Será útil comprarlo?\nPiensa muy bien esto que adquieres, sólo los más avanzados podrán comprarlo (Nivel-4). Además su precio es realmente caro.\n¿Servirá para algo?\n(Puedes comprarlo varias veces).\n:transparent:",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.892
+    }
+  },
+  {
+    "usuario": "j3ff_s",
+    "usuario_id": "281257990701449216",
+    "fecha_comando": "2019-09-26T09:18:54.351000-07:00",
+    "comando_completo": "ch!esay #D7CBE9 hola",
+    "respuesta_bot": {
+      "fecha": "2019-09-26T09:19:05.219000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "hola",
+          "color": "#D7CBE9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.868
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-26T12:23:44.748000-07:00",
+    "comando_completo": "ch!esay help",
+    "respuesta_bot": {
+      "fecha": "2019-09-26T12:23:57.617000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#413661",
+          "author": {
+            "name": "Ayuda detallada de esay",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nvHkpg-T73fmczj7hJahJOD0cCR8zAqCyjaot8eQXGw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/379757424447455232/7c067939283d01ee24b45d95015fabe4.png?size=2048"
+          },
+          "footer": {
+            "text": "<> = obligatorio | [] = opcional. | No incluyas estos símbolos al momento de ejecutar el comando."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Grupo",
+              "value": "Comandos Divertidos.",
+              "isInline": false
+            },
+            {
+              "name": "Permisos de usuario",
+              "value": "Ninguno.",
+              "isInline": false
+            },
+            {
+              "name": "Descripción",
+              "value": "Repite lo que dices en un mensaje Embed con un color hexadecimal que le especifiques y elimina tu mensaje.",
+              "isInline": false
+            },
+            {
+              "name": "Uso",
+              "value": "ch!esay <colorhexadecimal>/<RANDOM> <texto>",
+              "isInline": false
+            },
+            {
+              "name": "Ejemplo",
+              "value": "ch!esay RANDOM Probando, probando uwu. (Para color aleatorio)\nch!esay FFFFFF ¡Blanco!. (Para colores específicos)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 12.869
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2020-01-30T16:09:45.238000-08:00",
+    "comando_completo": "ch!esay Sí @Unknown",
+    "respuesta_bot": {
+      "fecha": "2020-01-30T16:09:53.020000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi doesn't quite understand what you are trying to do. Try again!",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/LS36lbFy2LUb1NfCQd88i9Q4MNsABGsynDPtjlTTFS4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/549006190378745859/69b688c2cb04b2baa489dd077245eaed.jpg",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/549006190378745859/69b688c2cb04b2baa489dd077245eaed.jpg?size=128"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PDbyJ0Yhyjhr0CwlFtIEIFgCi9adQHlOk355zkGzsCo/https/i-like.blue/emotes/4.png",
+            "canonicalUrl": "https://i-like.blue/emotes/4.png",
+            "width": 51,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 7.782
+    }
+  },
+  {
+    "usuario": "jaim3_",
+    "usuario_id": "396514978087305220",
+    "fecha_comando": "2020-03-12T12:09:24.676000-07:00",
+    "comando_completo": "ch!esay",
+    "respuesta_bot": {
+      "fecha": "2020-03-12T12:09:35.041000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "jaja caca",
+          "color": "#648C0D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 10.365
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-09T14:41:36.133000-07:00",
+    "comando_completo": "ch!esay FF000 ¡Hola,",
+    "respuesta_bot": {
+      "fecha": "2020-06-09T14:41:49.177000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¡El servidor está en caos! Tu buena voluntad decide apoyarlo y gracias a ti se logra acabar con dicho caos. Por tu gran ayuda se te recompensa con 🍫1,478, felicidades.",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Bolt569#4125",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/QRxA2WwrExgyKDQ_Z0QZeetAUZS29u-U_Tklqi2vx7M/%3Fsize%3D128/https/cdn.discordapp.com/avatars/487995118536884226/2f6e870e9a05cd408180a11ada7278ba.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/487995118536884226/2f6e870e9a05cd408180a11ada7278ba.png?size=128"
+          },
+          "footer": {
+            "text": "Reply #317628"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 13.044
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-09T14:42:36.307000-07:00",
+    "comando_completo": "ch!esay Random",
+    "respuesta_bot": {
+      "fecha": "2020-06-09T14:42:47.713000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "verde",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 11.406
+    }
+  },
+  {
+    "usuario": "santi090",
+    "usuario_id": "512419385835651082",
+    "fecha_comando": "2020-07-25T17:10:50.429000-07:00",
+    "comando_completo": "ch!esay 0ff000 ya empezaron a usar este comando en exceso",
+    "respuesta_bot": {
+      "fecha": "2020-07-25T17:10:52.350000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Parece que a **Jalonso Itv_ch ㊕** no le importa. e.e",
+          "color": "#0D0E6B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/707748897195294780/ae9a6fce1c6a83d35d85b11eb34ecddc.jpg?ex=6a582406&is=6a56d286&hm=5ad55daaad49467844583151701975c12a16adc0cfd620a381a564bd612a5dfa&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/707748897195294780/ae9a6fce1c6a83d35d85b11eb34ecddc.jpg?ex=6a582406&is=6a56d286&hm=5ad55daaad49467844583151701975c12a16adc0cfd620a381a564bd612a5dfa&",
+            "width": 848,
+            "height": 1200
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/707748897195294780/ae9a6fce1c6a83d35d85b11eb34ecddc.jpg?ex=6a582406&is=6a56d286&hm=5ad55daaad49467844583151701975c12a16adc0cfd620a381a564bd612a5dfa&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/707748897195294780/ae9a6fce1c6a83d35d85b11eb34ecddc.jpg?ex=6a582406&is=6a56d286&hm=5ad55daaad49467844583151701975c12a16adc0cfd620a381a564bd612a5dfa&",
+              "width": 848,
+              "height": 1200
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.921
+    }
+  },
+  {
+    "usuario": "kars1145",
+    "usuario_id": "679096568711872526",
+    "fecha_comando": "2020-08-09T13:07:03.762000-07:00",
+    "comando_completo": "ch!esay",
+    "respuesta_bot": {
+      "fecha": "2020-08-09T13:07:06.111000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-08-09T13:07:05.934-07:00",
+          "description": "Leaderboard Rank: 485th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "❄❄Alex Invernal❄❄Jefe de policía#0535",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/700854214837928117",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/o18GOX_6h46jdi4yW1nmZtYRS9vG_ayMp4QA5H6_xiQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/700854214837928117/469ba7f8b18880fd1eeea8643078ca14.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/700854214837928117/469ba7f8b18880fd1eeea8643078ca14.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫66,407",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫66,407",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.349
+    }
+  },
+  {
+    "usuario": "justjonatan",
+    "usuario_id": "703446820088447027",
+    "fecha_comando": "2020-08-16T19:34:30.371000-07:00",
+    "comando_completo": "ch!esay",
+    "respuesta_bot": {
+      "fecha": "2020-08-16T19:34:36-07:00",
+      "contenido": "🎣  **|**  **you caught: 🔧!** You paid 💴 **10** for casting.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 5.629
+    }
+  },
+  {
+    "usuario": "justjonatan",
+    "usuario_id": "703446820088447027",
+    "fecha_comando": "2020-08-16T19:52:05.553000-07:00",
+    "comando_completo": "ch!esay hola xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-16T19:52:08.020000-07:00",
+      "contenido": "**§✧Moeᴾʰʸ✧§,** has recibido una :cookie: de **Jalonso Itv_ch ㊕**\n\n(づ｡◕‿‿◕｡)づ:･ﾟ✧ :cookie:",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.467
+    }
+  }
+]

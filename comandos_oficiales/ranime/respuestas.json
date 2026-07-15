@@ -1,0 +1,1131 @@
+[
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-03-06T17:25:29.249000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2019-03-06T17:25:29.425000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**๖̶̶̶Zekton ϟ**, te recomiendo el anime: [Kanokon (Ecchi)](https://animeflv.net/anime/694/kanokon)",
+          "color": "#9509DB",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.176
+    }
+  },
+  {
+    "usuario": "dragon_programacion",
+    "usuario_id": "586037100500221952",
+    "fecha_comando": "2019-07-21T12:51:42.161000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2019-07-21T12:51:42.316000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Drago**, te recomiendo el anime: [Mahouka Koukou no Rettousei](https://animeflv.net/anime/3367/mahouka-koukou-no-rettousei)",
+          "color": "#9F84A4",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:36:27.103000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:36:27.378000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**ojo sharingan de kailer**, te recomiendo el anime: [Knight's & Magic](https://animeflv.net/anime/4720/knights-magic)",
+          "color": "#B98DF9",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.275
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:40:37.742000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:40:37.986000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa**, te recomiendo el anime: [Black Bullet](https://animeflv.net/anime/1292/black-bullet)",
+          "color": "#2EF2C1",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.244
+    }
+  },
+  {
+    "usuario": ".gimpact",
+    "usuario_id": "436362446047805440",
+    "fecha_comando": "2020-03-01T14:33:13.326000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-03-01T14:33:13.577000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Galdhor**, te recomiendo el anime: [Hand Shakers](https://animeflv.net/anime/3192/hand-shakers)",
+          "color": "#16528C",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.251
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-03-30T14:53:25.406000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-03-30T14:53:25.611000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Megumin**, te recomiendo el anime: [Danganronpa: The Animation](https://animeflv.net/anime/4689/danganronpa-the-animation)",
+          "color": "#99DD73",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "mr.tierrita",
+    "usuario_id": "673186652893609984",
+    "fecha_comando": "2020-04-01T21:52:25.517000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-04-01T21:52:25.788000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**ELMASTER123(el men Ignorado)**, te recomiendo el anime: [Knight's & Magic](https://animeflv.net/anime/4720/knights-magic)",
+          "color": "#A09792",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.271
+    }
+  },
+  {
+    "usuario": "mr.tierrita",
+    "usuario_id": "673186652893609984",
+    "fecha_comando": "2020-04-04T01:54:53.589000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-04-04T01:54:53.759000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**ELMASTER123nwn**, te recomiendo el anime: [Comet Lucifer](https://animeflv.net/anime/2201/comet-lucifer)",
+          "color": "#0D0CF6",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.17
+    }
+  },
+  {
+    "usuario": "mr.tierrita",
+    "usuario_id": "673186652893609984",
+    "fecha_comando": "2020-04-04T02:00:55.580000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-04-04T02:00:55.906000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**ELMASTER123nwn**, te recomiendo el anime: [Rakudai Kishi No Cavalry (Ecchi)](https://animeflv.net/anime/2924/rakudai-kishi-no-cavalry)",
+          "color": "#F82C69",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.326
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-05T08:10:29.548000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-04-05T08:10:29.961000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lattenyu**, te recomiendo el anime: [Hoshizora e Kakaru Hashi](https://animeflv.net/anime/383/hoshizora-e-kakaru-hoshi)",
+          "color": "#0BB3B4",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.413
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-05T08:11:01.389000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-04-05T08:11:01.754000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lattenyu**, te recomiendo el anime: [Ano Hi Mita no Namae wo Bokutachi wa Mada Shiranai](https://animeflv.net/anime/388/ano-hana)",
+          "color": "#0026B9",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.365
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-05T08:11:18.074000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-04-05T08:11:18.287000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lattenyu**, te recomiendo el anime: [Haruchika: Haruta to Chika wa Seishun Suru](https://animeflv.net/anime/2321/haruchika-haruta-to-chika-wa-seishun-suru)",
+          "color": "#395221",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T21:18:22.556000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T21:18:22.778000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Derich**, te recomiendo el anime: [Guilty Crown](https://animeflv.net/anime/4650/guilty-crown)",
+          "color": "#52E8D9",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-19T12:16:13.375000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-07-19T12:16:13.653000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**D|₹ag0n ฿a\\_\\_ Fa₪**, te recomiendo el anime: [Tales of zestiria the x](https://animeflv.net/anime/2454/tales-of-zestiria-the-x)",
+          "color": "#3C5030",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.278
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-30T08:56:18.714000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T08:56:18.951000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**空『Sora』**, te recomiendo el anime: [Ore No Imouto Ga Konnani Kawaii Wake Ga Nai](https://animeflv.net/anime/116/ore-no-imouto)",
+          "color": "#DA2A75",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.237
+    }
+  },
+  {
+    "usuario": "hanasaki_ai",
+    "usuario_id": "731583874039283795",
+    "fecha_comando": "2020-07-30T08:56:45.859000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T08:56:45.984000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Angel_Sad**, te recomiendo el anime: [Charlotte](https://animeflv.net/anime/3858/charlotte)",
+          "color": "#B9B28C",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.125
+    }
+  },
+  {
+    "usuario": "marimovo9203",
+    "usuario_id": "669747932387606595",
+    "fecha_comando": "2020-09-14T14:00:13.528000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-09-14T14:00:14.590000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mari Movo**, te recomiendo el anime: [Itsuka Tenma no Kuro Usagi](https://animeflv.net/anime/592/itsuka-tenma-no-kuro-usagi)",
+          "color": "#41B69F",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.062
+    }
+  },
+  {
+    "usuario": "kunaeeie",
+    "usuario_id": "716690035675627530",
+    "fecha_comando": "2020-09-21T02:04:12.873000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-09-21T02:04:13.314000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Masteruwu**, te recomiendo el anime: [Aoki Hagane no Arpeggio](https://animeflv.net/anime/1146/aoki-hagane-no-arpeggio)",
+          "color": "#F9C6F2",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.441
+    }
+  },
+  {
+    "usuario": "ayanee1441",
+    "usuario_id": "740338476507201577",
+    "fecha_comando": "2020-10-05T16:04:29.120000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-10-05T16:04:29.464000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Ryu**, te recomiendo el anime: [Fate/Apocrypha](https://animeflv.net/anime/4717/fateapocrypha)",
+          "color": "#ADC064",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "furten",
+    "usuario_id": "493442441752346638",
+    "fecha_comando": "2020-10-10T21:20:13.347000-07:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-10-10T21:20:28.281000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Fúrten**, te recomiendo el anime: [Noucome](https://animeflv.net/anime/2941/noucome)",
+          "color": "#CA2411",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "764191791602728990",
+            "name": "NaniWa",
+            "code": "NaniWa",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/764191791602728990.gif"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "288143032375574538",
+              "name": "reeddo",
+              "discriminator": "0000",
+              "nickname": "Reeddo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/288143032375574538/c578a60bd2d49720186ececa4a16da8e.png?size=512"
+            },
+            {
+              "id": "716690035675627530",
+              "name": "kunaeeie",
+              "discriminator": "0000",
+              "nickname": "panadero'chalant",
+              "color": "#FFFFFF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/716690035675627530/e0f33202fc95e0fff2147334ec00cbc6.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 14.934
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T18:56:19.970000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T18:56:20.746000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "***SpOiLeR***, te recomiendo el anime: [Gekkan Shoujo Nozaki-kun](https://animeflv.net/anime/1402/gekkan-shoujo-nozaki-kun)",
+          "color": "#E3C639",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.776
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T19:26:12.769000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:26:13.033000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "***SpOiLeR***, te recomiendo el anime: [Maji de Watashi ni koi Shinasai (Ecchi)](https://animeflv.net/anime/634/maji-de-watashi-ni-koi-shinasai)",
+          "color": "#68689E",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T19:26:27.515000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:26:27.902000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**AkiraJL**, te recomiendo el anime: [Busou Shoujo Machiavellianism](https://animeflv.net/anime/2744/busou-shoujo-machiavellianism)",
+          "color": "#1B0FEB",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.387
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-01T19:27:36.541000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:27:38.960000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**~Lara 🎃**, te recomiendo el anime: [Re:Zero Kara Hajimeru Isekai Seikatsu](https://animeflv.net/anime/3965/rezero-kara-hajimeru-isekai-seikatsu)",
+          "color": "#16A798",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎃",
+              "code": "jack_o_lantern",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f383.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.419
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T19:27:43.315000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:27:43.645000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "***SpOiLeR***, te recomiendo el anime: [C: The money of soul and possibility control](https://animeflv.net/anime/385/c-the-money-of-soul)",
+          "color": "#F81673",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.33
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T19:27:51.203000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:27:51.535000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**AkiraJL**, te recomiendo el anime: [Chuunibyou demo koi ga Shitai!](https://animeflv.net/anime/1203/chuunibyou-demo-koi-ga-shitai-ren)",
+          "color": "#F54D3E",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.332
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T19:28:02.401000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:28:02.620000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "***SpOiLeR***, te recomiendo el anime: [Log Horizon](https://animeflv.net/anime/3807/log-horizon)",
+          "color": "#B6FB6C",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-11-01T19:28:06.157000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-01T19:28:07.920000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**AkiraJL**, te recomiendo el anime: [Monster Musume no Iru Nichijou](https://animeflv.net/anime/3810/monster-musume-no-iru-nichijou)",
+          "color": "#752D87",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.763
+    }
+  },
+  {
+    "usuario": "vixula16",
+    "usuario_id": "727753831160741918",
+    "fecha_comando": "2020-11-02T06:12:57.321000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-02T06:12:57.646000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kc_vicho**, te recomiendo el anime: [Choujigen Game Neptune The animation](https://animeflv.net/anime/1018/choujigen-game-neptune-animation)",
+          "color": "#2087B8",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.325
+    }
+  },
+  {
+    "usuario": "rosgon",
+    "usuario_id": "710924731947155488",
+    "fecha_comando": "2020-11-02T19:57:04.952000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-02T19:57:09.202000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Rosgon**, te recomiendo el anime: [C3 - Cube x Cursed x Curious](https://animeflv.net/anime/633/c3)",
+          "color": "#6E6EE2",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.25
+    }
+  },
+  {
+    "usuario": "emmu7287",
+    "usuario_id": "555715788334694410",
+    "fecha_comando": "2020-11-18T12:36:54.175000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T12:36:54.449000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Itachi Uwu**, te recomiendo el anime: [Guilty Crown](https://animeflv.net/anime/4650/guilty-crown)",
+          "color": "#5535D2",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.274
+    }
+  },
+  {
+    "usuario": "emmu7287",
+    "usuario_id": "555715788334694410",
+    "fecha_comando": "2020-11-18T12:37:43.626000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T12:37:44.060000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Itachi Uwu**, te recomiendo el anime: [Akiba's Trip The Animation](https://animeflv.net/anime/4597/akibas-trip-the-animation)",
+          "color": "#87771D",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.434
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-24T21:48:43.027000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-24T21:48:43.469000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**EspectroConPan**, te recomiendo el anime: [Clannad](https://animeflv.net/anime/26/clannad)",
+          "color": "#BFCD45",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.442
+    }
+  },
+  {
+    "usuario": "facuz562",
+    "usuario_id": "622203609022464000",
+    "fecha_comando": "2020-11-24T21:48:53.040000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-24T21:48:53.593000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dame tus organos**, te recomiendo el anime: [Ore no Kanojo to Osananajimi Ga Shuraba Sugiru](https://animeflv.net/anime/2835/ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru)",
+          "color": "#FA6689",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.553
+    }
+  },
+  {
+    "usuario": "facuz562",
+    "usuario_id": "622203609022464000",
+    "fecha_comando": "2020-11-25T05:46:32.442000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-25T05:46:32.781000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dame tus organos**, te recomiendo el anime: [C: The money of soul and possibility control](https://animeflv.net/anime/385/c-the-money-of-soul)",
+          "color": "#354ECC",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.339
+    }
+  },
+  {
+    "usuario": "aikphy",
+    "usuario_id": "672954898165268480",
+    "fecha_comando": "2020-11-26T22:39:00.126000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-11-26T22:39:00.328000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**|| ! Stiven 💎 ||**, te recomiendo el anime: [Dog Days](https://animeflv.net/anime/353/dog-days)",
+          "color": "#19D15A",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "💎",
+              "code": "gem",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f48e.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-12-02T10:58:45.199000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-12-02T10:58:46.540000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":desktop: Recomendación de anime aleatoria",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo**, te recomiendo el anime: [Clannad](https://animeflv.net/anime/26/clannad)",
+          "color": "#431F70",
+          "footer": {
+            "text": "Por AnimeFLV: https://animeflv.net"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.341
+    }
+  },
+  {
+    "usuario": "prisma04350",
+    "usuario_id": "538454840519557140",
+    "fecha_comando": "2020-12-05T23:42:11.339000-08:00",
+    "comando_completo": "ch!ranime",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T23:42:11.512000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: @Unknown has received your 🍫74,992",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Chippy#4551",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Y2ZuLjNM4kUhMxTe_drwvBOoe_vpbzjobasCFJnQklg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/552697612332040218/f20d9d8474842fea8a61de934ce35925.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/552697612332040218/f20d9d8474842fea8a61de934ce35925.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "773218860840648725",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/773218860840648725.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.173
+    }
+  }
+]

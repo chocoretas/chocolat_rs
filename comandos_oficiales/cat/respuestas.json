@@ -1,0 +1,4046 @@
+[
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:05:57.114000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:05:57.273000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Juan Molina⚡** nyaa~",
+          "color": "#CB2EC4",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/nOBPTm6QALKMGNhQ3T7RqCRLeVEaq1l4xmsKNMWkJ_Y/http/lorempixel.com/150/450/cats/",
+            "canonicalUrl": "http://lorempixel.com/150/450/cats/",
+            "width": 150,
+            "height": 450
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/nOBPTm6QALKMGNhQ3T7RqCRLeVEaq1l4xmsKNMWkJ_Y/http/lorempixel.com/150/450/cats/",
+              "canonicalUrl": "http://lorempixel.com/150/450/cats/",
+              "width": 150,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⚡",
+              "code": "zap",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/26a1.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-28T16:50:09.390000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:50:09.533000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**I'm your Dash** nyaa~",
+          "color": "#400E71",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/GMgHlj7QiSVdrmXoa4M2L6qLtuKJnOOIbXHDZ4OlAkI/http/lorempixel.com/150/100/cats/",
+            "canonicalUrl": "http://lorempixel.com/150/100/cats/",
+            "width": 150,
+            "height": 100
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/GMgHlj7QiSVdrmXoa4M2L6qLtuKJnOOIbXHDZ4OlAkI/http/lorempixel.com/150/100/cats/",
+              "canonicalUrl": "http://lorempixel.com/150/100/cats/",
+              "width": 150,
+              "height": 100
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.143
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-07-28T16:50:19.851000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:50:20.079000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dana** nyaa~",
+          "color": "#8BA67D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/t6exnIymuMkOMyOV6nRP5UyB5plV05G6Q0zKiYZ60iA/http/lorempixel.com/200/400/cats/",
+            "canonicalUrl": "http://lorempixel.com/200/400/cats/",
+            "width": 200,
+            "height": 400
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/t6exnIymuMkOMyOV6nRP5UyB5plV05G6Q0zKiYZ60iA/http/lorempixel.com/200/400/cats/",
+              "canonicalUrl": "http://lorempixel.com/200/400/cats/",
+              "width": 200,
+              "height": 400
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-12T19:06:06.714000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-08-12T19:06:06.869000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dana** nyaa~",
+          "color": "#280324",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/6GQfi9ysphhj3po8h0pPBG34wdNtfTP6eJm_bXTxIf8/http/lorempixel.com/100/250/cats/",
+            "canonicalUrl": "http://lorempixel.com/100/250/cats/",
+            "width": 0,
+            "height": 0
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/6GQfi9ysphhj3po8h0pPBG34wdNtfTP6eJm_bXTxIf8/http/lorempixel.com/100/250/cats/",
+              "canonicalUrl": "http://lorempixel.com/100/250/cats/",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.155
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-08-13T12:00:51.239000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-08-13T12:00:51.424000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dana** nyaa~",
+          "color": "#3F910B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/zzIgu0zUj4quqdjEtiv9f_7NGWoUyfSQ9pRLvCvR10M/http/lorempixel.com/450/250/cats/",
+            "canonicalUrl": "http://lorempixel.com/450/250/cats/",
+            "width": 450,
+            "height": 250
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/zzIgu0zUj4quqdjEtiv9f_7NGWoUyfSQ9pRLvCvR10M/http/lorempixel.com/450/250/cats/",
+              "canonicalUrl": "http://lorempixel.com/450/250/cats/",
+              "width": 450,
+              "height": 250
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-25T17:02:18.848000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-08-25T17:02:18.944000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**JuanXander** nyaa~",
+          "color": "#20C7D9",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/baGhs3j4achfSMHbDBU1I7Zb9V0RL8VghTJqUKJmbHA/http/lorempixel.com/150/500/cats/",
+            "canonicalUrl": "http://lorempixel.com/150/500/cats/",
+            "width": 150,
+            "height": 500
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/baGhs3j4achfSMHbDBU1I7Zb9V0RL8VghTJqUKJmbHA/http/lorempixel.com/150/500/cats/",
+              "canonicalUrl": "http://lorempixel.com/150/500/cats/",
+              "width": 150,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.096
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-17T10:02:45.423000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-09-17T10:02:45.638000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Karmic Annihilation.~ [Dust 🐍]** nyaa~",
+          "color": "#5807C0",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/qEo-GVuAF6-z9R5enF1zmtTLOQlvmhc_5e-HWrIe92Y/http/lorempixel.com/500/500/cats/",
+            "canonicalUrl": "http://lorempixel.com/500/500/cats/",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/qEo-GVuAF6-z9R5enF1zmtTLOQlvmhc_5e-HWrIe92Y/http/lorempixel.com/500/500/cats/",
+              "canonicalUrl": "http://lorempixel.com/500/500/cats/",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐍",
+              "code": "snake",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f40d.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-17T10:02:59.194000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-09-17T10:02:59.264000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Karmic Annihilation.~ [Dust 🐍]** nyaa~",
+          "color": "#1D92EB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/qsrNRtN6MUKXugk3LBFmMXrg1JH2X_RIhJJOnXpvFpA/http/lorempixel.com/250/500/cats/",
+            "canonicalUrl": "http://lorempixel.com/250/500/cats/",
+            "width": 250,
+            "height": 500
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/qsrNRtN6MUKXugk3LBFmMXrg1JH2X_RIhJJOnXpvFpA/http/lorempixel.com/250/500/cats/",
+              "canonicalUrl": "http://lorempixel.com/250/500/cats/",
+              "width": 250,
+              "height": 500
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐍",
+              "code": "snake",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f40d.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.07
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-17T10:08:07.395000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-09-17T10:08:08.129000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Karmic Annihilation.~ [Dust 🐍]** nyaa~",
+          "color": "#98C1AF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/tW6kHFFy5PEHNVfeOYQlHz3BXWUwvEX44b1S52HS5EI/http/lorempixel.com/250/550/cats/",
+            "canonicalUrl": "http://lorempixel.com/250/550/cats/",
+            "width": 250,
+            "height": 550
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/tW6kHFFy5PEHNVfeOYQlHz3BXWUwvEX44b1S52HS5EI/http/lorempixel.com/250/550/cats/",
+              "canonicalUrl": "http://lorempixel.com/250/550/cats/",
+              "width": 250,
+              "height": 550
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐍",
+              "code": "snake",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f40d.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "546520890020593676",
+              "name": "deleted_user_7ac6d7d88b57",
+              "discriminator": "0000",
+              "nickname": "deleted_user_7ac6d7d88b57",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.734
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-17T10:08:14.188000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-09-17T10:08:14.336000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Karmic Annihilation.~ [Dust 🐍]** nyaa~",
+          "color": "#2B5577",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/KGmVz68yR26VYnoCHkAq9eEeP8tVgaEKNozu7Gl9GxQ/http/lorempixel.com/350/550/cats/",
+            "canonicalUrl": "http://lorempixel.com/350/550/cats/",
+            "width": 350,
+            "height": 550
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/KGmVz68yR26VYnoCHkAq9eEeP8tVgaEKNozu7Gl9GxQ/http/lorempixel.com/350/550/cats/",
+              "canonicalUrl": "http://lorempixel.com/350/550/cats/",
+              "width": 350,
+              "height": 550
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐍",
+              "code": "snake",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f40d.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.148
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-17T10:08:19.602000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-09-17T10:08:19.742000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Karmic Annihilation.~ [Dust 🐍]** nyaa~",
+          "color": "#A9E179",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/RoIP2EPcECrsdDNpotkvTrCbARp6rSqh2vCSGXJVsLY/http/lorempixel.com/400/200/cats/",
+            "canonicalUrl": "http://lorempixel.com/400/200/cats/",
+            "width": 400,
+            "height": 200
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/RoIP2EPcECrsdDNpotkvTrCbARp6rSqh2vCSGXJVsLY/http/lorempixel.com/400/200/cats/",
+              "canonicalUrl": "http://lorempixel.com/400/200/cats/",
+              "width": 400,
+              "height": 200
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐍",
+              "code": "snake",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f40d.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-13T12:22:30.718000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-10-13T12:22:34.137000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Miguel | 牛** nyaa~",
+          "color": "#31E56D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/EIizhxX7Bs8mJrC-kmd52r-hCezEddbnQN3IMBNidu8/http/lorempixel.com/100/cats/",
+            "canonicalUrl": "http://lorempixel.com//100/cats/",
+            "width": 0,
+            "height": 0
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/EIizhxX7Bs8mJrC-kmd52r-hCezEddbnQN3IMBNidu8/http/lorempixel.com/100/cats/",
+              "canonicalUrl": "http://lorempixel.com//100/cats/",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.419
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-13T12:26:14.474000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-10-13T12:26:15.737000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ᗠᎯѕυвzєяσ** nyaa~",
+          "color": "#B62F8D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/sTCAVf8AeqD2GYfdwUSxwS2bKJjaNUcJYcWBmg-E7PI/http/lorempixel.com/400/300/cats/",
+            "canonicalUrl": "http://lorempixel.com/400/300/cats/",
+            "width": 400,
+            "height": 300
+          },
+          "footer": {
+            "text": "Feed me."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/sTCAVf8AeqD2GYfdwUSxwS2bKJjaNUcJYcWBmg-E7PI/http/lorempixel.com/400/300/cats/",
+              "canonicalUrl": "http://lorempixel.com/400/300/cats/",
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.263
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-23T12:16:22.007000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-10-23T12:16:22.264000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Miguel | 牛** este es tu gato~",
+          "color": "#1C12CA",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/SXmHXa-pzF2bjxfK0Kh9Uy9oBZwn0OKfKQJmz3xDTws/http/lorempixel.com/600/100/cats/",
+            "canonicalUrl": "http://lorempixel.com/600/100/cats/",
+            "width": 600,
+            "height": 100
+          },
+          "footer": {
+            "text": "Cuídalo bien"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/SXmHXa-pzF2bjxfK0Kh9Uy9oBZwn0OKfKQJmz3xDTws/http/lorempixel.com/600/100/cats/",
+              "canonicalUrl": "http://lorempixel.com/600/100/cats/",
+              "width": 600,
+              "height": 100
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.257
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-24T10:30:45.071000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T10:30:45.396000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||JeanFranco24||** aquí tienes un gato 🐈",
+          "color": "#E1728E",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/04AkmE5siKxHhFXVYCcFtSAIytVcngFu15jqY_Rtzaw/%3F5261/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?5261",
+            "width": 600,
+            "height": 602
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/04AkmE5siKxHhFXVYCcFtSAIytVcngFu15jqY_Rtzaw/%3F5261/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?5261",
+              "width": 600,
+              "height": 602
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.325
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-12-24T10:31:03-08:00",
+    "comando_completo": "ch!cat  @Papelera de Reciclaje",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T10:31:03.185000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**🎄｡･Ayanon･｡🎁** aquí tienes un gato 🐈",
+          "color": "#AC918D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/QJCoYuX2Jc7QfVj8XPdkMmB13msiB2K7gFeKxoP02rc/%3F6784/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?6784",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/QJCoYuX2Jc7QfVj8XPdkMmB13msiB2K7gFeKxoP02rc/%3F6784/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?6784",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎄",
+              "code": "christmas_tree",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f384.svg"
+            },
+            {
+              "id": "",
+              "name": "🎁",
+              "code": "gift",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f381.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-24T10:43:33.218000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T10:43:33.405000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Senpai** aquí tienes un gato 🐈",
+          "color": "#CC15CC",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/mZMo8Dnpic_gMcnvSluybsTnEmlW78enuIQvkmWia_c/%3F551/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?551",
+            "width": 600,
+            "height": 400
+          },
+          "footer": {
+            "text": "¡Necesitamos tu ayuda! | Puedes ayudar a que el bot continúe siempre en línea donando, use el comando \"ch!donate\" y reciba información al respecto, muchas gracias."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/mZMo8Dnpic_gMcnvSluybsTnEmlW78enuIQvkmWia_c/%3F551/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?551",
+              "width": 600,
+              "height": 400
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-24T10:43:53.890000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T10:43:54.128000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Senpai** aquí tienes un gato 🐈",
+          "color": "#A9E068",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/s9DdnddiRIjElxIzu0SSibg9nmn0sNPoxeLX3BAcbXU/%3F15367/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?15367",
+            "width": 600,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/s9DdnddiRIjElxIzu0SSibg9nmn0sNPoxeLX3BAcbXU/%3F15367/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?15367",
+              "width": 600,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-24T10:44:28.519000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T10:44:28.789000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Senpai** aquí tienes un gato 🐈",
+          "color": "#E02365",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/4jBIkBFM1u8Vz3OzTMwLq9pfK35gkWhiiBlz-gg9hpY/%3F2758/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?2758",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/4jBIkBFM1u8Vz3OzTMwLq9pfK35gkWhiiBlz-gg9hpY/%3F2758/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?2758",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.27
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-12-24T12:08:03.918000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T12:08:04.127000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Ramiro** aquí tienes un gato 🐈",
+          "color": "#CC2430",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/uRd7zVvcEFHkEdW928RjItFkI4YmPwI6jIbMtEojOHE/%3F15880/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?15880",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/uRd7zVvcEFHkEdW928RjItFkI4YmPwI6jIbMtEojOHE/%3F15880/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?15880",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "agentecalvo471183",
+    "usuario_id": "654029806719074348",
+    "fecha_comando": "2019-12-24T12:10:24.258000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T12:10:24.482000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Javier** aquí tienes un gato 🐈",
+          "color": "#4F5F66",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/ptSwmpyNZ1JcMXpIpbIX10IEJH5ClJxfQtK3olZ07Ag/%3F15471/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?15471",
+            "width": 600,
+            "height": 450
+          },
+          "footer": {
+            "text": "¡Necesitamos tu ayuda! | Puedes ayudar a que el bot continúe siempre en línea donando, use el comando \"ch!donate\" y reciba información al respecto, muchas gracias."
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/ptSwmpyNZ1JcMXpIpbIX10IEJH5ClJxfQtK3olZ07Ag/%3F15471/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?15471",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.224
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-12-24T13:12:31.157000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-24T13:12:31.441000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Takara-Chan** aquí tienes un gato 🐈",
+          "color": "#999E24",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3USBy0pMZteVA9XS3LwNTP1zrD8NrtCqUwkWlP8YVhc/%3F3325/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?3325",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3USBy0pMZteVA9XS3LwNTP1zrD8NrtCqUwkWlP8YVhc/%3F3325/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?3325",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-12-26T16:07:44.675000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2019-12-26T16:07:44.849000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ρα∂σяυ |「ᗠᎯѕυвzєяσ」** aquí tienes un gato 🐈",
+          "color": "#C32E3E",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/91zcRU0iomoXiDcoUw3QupWTQFFIyZ8nzI8t88Nx7vc/%3F17646/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?17646",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/91zcRU0iomoXiDcoUw3QupWTQFFIyZ8nzI8t88Nx7vc/%3F17646/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?17646",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-01-26T16:30:30.946000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-01-26T16:30:31.190000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||JeanFranco24||** aquí tienes un gato 🐈",
+          "color": "#B9B1FB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/HNrin6ICKaez7p9f_F_EX_3IrF6VfHcRCMPe7bDkOKc/%3F10664/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?10664",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/HNrin6ICKaez7p9f_F_EX_3IrF6VfHcRCMPe7bDkOKc/%3F10664/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?10664",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.244
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-01T21:10:20.316000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-01T21:10:20.455000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||JeanFranco24||** aquí tienes un gato 🐈",
+          "color": "#019B94",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/dRuXTsaBXOYDXXQbMoLyttFtHHna_VfbnvSA1rhveEs/%3F10791/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?10791",
+            "width": 600,
+            "height": 400
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/dRuXTsaBXOYDXXQbMoLyttFtHHna_VfbnvSA1rhveEs/%3F10791/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?10791",
+              "width": 600,
+              "height": 400
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.139
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-02-14T18:10:44.147000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-14T18:10:44.370000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||JeanFranco24||** aquí tienes un gato 🐈",
+          "color": "#10601D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/m-kXGRXwTQ62GvZgmUOdYlC-vA5G3JY6ptWlHoWfsu0/%3F17249/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?17249",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/m-kXGRXwTQ62GvZgmUOdYlC-vA5G3JY6ptWlHoWfsu0/%3F17249/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?17249",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.223
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-18T09:12:55.111000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-18T09:12:55.402000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**** **** aquí tienes un gato 🐈",
+          "color": "#EB8FED",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/5j-rP0ZzTZzshN1KlJU42AezVlqOFczwzOVMXzmgY-A/%3F1857/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?1857",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/5j-rP0ZzTZzshN1KlJU42AezVlqOFczwzOVMXzmgY-A/%3F1857/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?1857",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.291
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:23:29.716000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:23:30-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#AD6743",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/tXVaG7A_cFjJ1ASd5hedYLlHBrYG6lnGBy0mYJ0y_X0/%3F5203/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?5203",
+            "width": 600,
+            "height": 744
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/tXVaG7A_cFjJ1ASd5hedYLlHBrYG6lnGBy0mYJ0y_X0/%3F5203/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?5203",
+              "width": 600,
+              "height": 744
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:23:47.730000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:23:47.890000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#EB50B0",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/7i8ajvAeCkrFACG-P5OXDbLHMbksnSPDyR5kwFuWWoU/%3F17763/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?17763",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/7i8ajvAeCkrFACG-P5OXDbLHMbksnSPDyR5kwFuWWoU/%3F17763/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?17763",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:24:03.534000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:24:03.670000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#A8F979",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2O0l-3IV8oVaZUMU9GSavGg9zD1O1rOvFDr2a8pmtfI/%3F19402/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?19402",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2O0l-3IV8oVaZUMU9GSavGg9zD1O1rOvFDr2a8pmtfI/%3F19402/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?19402",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.136
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:24:21.053000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:24:21.252000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#62B191",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/5g3Gnq0v85odEU8TzCMfCWYqKwnj30AiWoSDx18cjdE/%3F6176/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?6176",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/5g3Gnq0v85odEU8TzCMfCWYqKwnj30AiWoSDx18cjdE/%3F6176/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?6176",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.199
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:24:39.785000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:24:39.928000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#97647C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Kd1VsMPMb76bZEJmMEi8Q2ynHj1UG6oaS0wGybNgmwA/%3F19969/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?19969",
+            "width": 600,
+            "height": 449
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Kd1VsMPMb76bZEJmMEi8Q2ynHj1UG6oaS0wGybNgmwA/%3F19969/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?19969",
+              "width": 600,
+              "height": 449
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.143
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:24:43.241000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:24:43.463000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ojo sharingan de kailer** aquí tienes un gato 🐈",
+          "color": "#D197D8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/5P6xUkteFw6JU6Yquel4ah0JVKet3Gp5b6ccgoNEAxY/%3F4095/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?4095",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/5P6xUkteFw6JU6Yquel4ah0JVKet3Gp5b6ccgoNEAxY/%3F4095/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?4095",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:24:59.019000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:24:59.296000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#CE1D58",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/7z7CdFJdIyA8Z0FT-0JF9IiElR7xty-t-Lx0RJB33_0/%3F13622/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?13622",
+            "width": 600,
+            "height": 484
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/7z7CdFJdIyA8Z0FT-0JF9IiElR7xty-t-Lx0RJB33_0/%3F13622/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?13622",
+              "width": 600,
+              "height": 484
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:25:04.308000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:25:04.717000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ojo sharingan de kailer** aquí tienes un gato 🐈",
+          "color": "#57D240",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/rL07DfMtuaLt2Ue2EbpQaFkRO8UFCmUfPYhxXX2tCUA/%3F16984/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?16984",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/rL07DfMtuaLt2Ue2EbpQaFkRO8UFCmUfPYhxXX2tCUA/%3F16984/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?16984",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.409
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:50:37.075000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:50:37.151000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** aquí tienes un gato 🐈",
+          "color": "#7F07AD",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/5hgqSa1IVqjqnCGp93Rovls1o6PyI3-_bD8e8qUuJ_k/%3F12006/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?12006",
+            "width": 600,
+            "height": 720
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/5hgqSa1IVqjqnCGp93Rovls1o6PyI3-_bD8e8qUuJ_k/%3F12006/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?12006",
+              "width": 600,
+              "height": 720
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.076
+    }
+  },
+  {
+    "usuario": "thepyrouwu",
+    "usuario_id": "551875788052496385",
+    "fecha_comando": "2020-04-06T11:32:30.844000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-06T11:32:30.988000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**alexheros._.** aquí tienes un gato 🐈",
+          "color": "#157E36",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/g6hxKZ6njyuzr22nchVVSQsW5n7mV0AS7wFvyDDAoTk/%3F13737/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?13737",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/g6hxKZ6njyuzr22nchVVSQsW5n7mV0AS7wFvyDDAoTk/%3F13737/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?13737",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-11T12:56:39.765000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-11T12:56:40.037000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** aquí tienes un gato 🐈",
+          "color": "#5DFCE8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/y0vLoPMSBh3PZ9mO26CafEUTt8K9iaeO3AU6wMqDAyY/%3F19527/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?19527",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/y0vLoPMSBh3PZ9mO26CafEUTt8K9iaeO3AU6wMqDAyY/%3F19527/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?19527",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.272
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-11T13:00:21.655000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-11T13:00:23.111000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** aquí tienes un gato 🐈",
+          "color": "#DC7F4C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/cmlv-6toXlSPrMgJFGbWf55xWu-0ypvxtYkpvNKGNS4/%3F13681/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?13681",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/cmlv-6toXlSPrMgJFGbWf55xWu-0ypvxtYkpvNKGNS4/%3F13681/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?13681",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.456
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-12T15:57:33.841000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:57:34.102000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** aquí tienes un gato 🐈",
+          "color": "#C58AB1",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/bCSvCiQaM8pwRJTRu-OpNMEEd7087y-Rgo85nWiOawU/%3F12054/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?12054",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/bCSvCiQaM8pwRJTRu-OpNMEEd7087y-Rgo85nWiOawU/%3F12054/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?12054",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-12T15:57:44.147000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:57:44.445000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** aquí tienes un gato 🐈",
+          "color": "#7AF8E8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/xTapFuT_DyjyLPkqaAOyTnTWQ7inl_a8n1ifGtDk3C0/%3F11580/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?11580",
+            "width": 600,
+            "height": 400
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/xTapFuT_DyjyLPkqaAOyTnTWQ7inl_a8n1ifGtDk3C0/%3F11580/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?11580",
+              "width": 600,
+              "height": 400
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.298
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-12T15:58:00.826000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:58:01.140000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** aquí tienes un gato 🐈",
+          "color": "#C6919B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/b7wuwzizhxsPevgjriiyFR_14lr0gpycQqWHNk2nvE0/%3F13570/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?13570",
+            "width": 600,
+            "height": 779
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/b7wuwzizhxsPevgjriiyFR_14lr0gpycQqWHNk2nvE0/%3F13570/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?13570",
+              "width": 600,
+              "height": 779
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.314
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-12T15:58:07.755000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:58:07.962000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Moe萌え** aquí tienes un gato 🐈",
+          "color": "#3AB46B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/V-fzibtznat8DD-HMt6IQJOtRUElP4aA1mppqtdhJ7A/%3F6307/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?6307",
+            "width": 600,
+            "height": 401
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/V-fzibtznat8DD-HMt6IQJOtRUElP4aA1mppqtdhJ7A/%3F6307/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?6307",
+              "width": 600,
+              "height": 401
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-12T15:58:15.058000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T15:58:15.362000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Moe萌え** aquí tienes un gato 🐈",
+          "color": "#B44F98",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/MxVfB-56VifNFBYWU7-iBLmZ7ICOX6x_zHH3u82GDAE/%3F15316/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?15316",
+            "width": 600,
+            "height": 942
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/MxVfB-56VifNFBYWU7-iBLmZ7ICOX6x_zHH3u82GDAE/%3F15316/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?15316",
+              "width": 600,
+              "height": 942
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "530849779404767232",
+            "name": "chLoveu",
+            "code": "chLoveu",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/530849779404767232.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "682088651164745816",
+              "name": "deleted_user_7fc4da38d02b",
+              "discriminator": "0000",
+              "nickname": "deleted_user_7fc4da38d02b",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.304
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-18T13:02:54.299000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-18T13:02:55.024000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Gato19** aquí tienes un gato 🐈",
+          "color": "#9B2552",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/bmCr0DJJmy8VGYc3pDdUMzl35pOylCercuQ0TOFjeng/%3F1104/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?1104",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/bmCr0DJJmy8VGYc3pDdUMzl35pOylCercuQ0TOFjeng/%3F1104/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?1104",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.725
+    }
+  },
+  {
+    "usuario": "ccaja",
+    "usuario_id": "622868064400048154",
+    "fecha_comando": "2020-04-23T17:04:22.423000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-23T17:04:22.657000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**LiveSeb** aquí tienes un gato 🐈",
+          "color": "#9E5871",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/QqLFJPrDd92WCdoRRvJniL8n22dD4j054oU-xAIyfCw/%3F9783/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?9783",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/QqLFJPrDd92WCdoRRvJniL8n22dD4j054oU-xAIyfCw/%3F9783/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?9783",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "winterztrash3076",
+    "usuario_id": "684914980273127484",
+    "fecha_comando": "2020-04-23T17:05:48.089000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-23T17:05:48.300000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**песня *.✧** aquí tienes un gato 🐈",
+          "color": "#A26B3F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3HAbsq5J-nNie4PMfJYmltBAoCRlphH69BpimCniGHw/%3F13858/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?13858",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3HAbsq5J-nNie4PMfJYmltBAoCRlphH69BpimCniGHw/%3F13858/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?13858",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-24T14:18:52.972000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-24T14:18:53.202000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Fuken** aquí tienes un gato 🐈",
+          "color": "#8FFDCC",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/k64ViwJJS0wzmDI_URwAvX5XOqndMTEG4s5v-CicHC4/%3F4246/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?4246",
+            "width": 600,
+            "height": 340
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/k64ViwJJS0wzmDI_URwAvX5XOqndMTEG4s5v-CicHC4/%3F4246/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?4246",
+              "width": 600,
+              "height": 340
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.23
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-25T21:37:12.122000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-25T21:37:12.344000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Fuken** aquí tienes un gato 🐈",
+          "color": "#3A42DC",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/r1PQ8_yu6qDJoHXdDj5qfKf7UjlDzR2Kvnp7q4cFmNI/%3F2782/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?2782",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/r1PQ8_yu6qDJoHXdDj5qfKf7UjlDzR2Kvnp7q4cFmNI/%3F2782/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?2782",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.222
+    }
+  },
+  {
+    "usuario": "kioko_u",
+    "usuario_id": "493921933738508288",
+    "fecha_comando": "2020-04-28T11:16:27.417000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-04-28T11:16:27.596000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**●°💛Sally💛°●** aquí tienes un gato 🐈",
+          "color": "#510954",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/kWiTm8ihS1hGmGik0CqRQ_meL7XB51tTcC05FDV68Dw/%3F16386/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?16386",
+            "width": 600,
+            "height": 461
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/kWiTm8ihS1hGmGik0CqRQ_meL7XB51tTcC05FDV68Dw/%3F16386/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?16386",
+              "width": 600,
+              "height": 461
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "💛",
+              "code": "yellow_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49b.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.179
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-05-13T23:29:13.147000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-05-13T23:29:13.382000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Cebolla** aquí tienes un gato 🐈",
+          "color": "#571E81",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/VEXH-DIlMX4iI9XhGHz-QFEZ3yEJb9HQMeDK5NgxAR4/%3F150/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?150",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/VEXH-DIlMX4iI9XhGHz-QFEZ3yEJb9HQMeDK5NgxAR4/%3F150/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?150",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.235
+    }
+  },
+  {
+    "usuario": "teemo1000",
+    "usuario_id": "294329287681507329",
+    "fecha_comando": "2020-05-13T23:45:58.686000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-05-13T23:45:58.960000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Teolink** aquí tienes un gato 🐈",
+          "color": "#900E83",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/SEBsBZdRO1Ln01Bt8xN52_LFtzNHxPfqFvT9wqd1IsQ/%3F152/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?152",
+            "width": 600,
+            "height": 546
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/SEBsBZdRO1Ln01Bt8xN52_LFtzNHxPfqFvT9wqd1IsQ/%3F152/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?152",
+              "width": 600,
+              "height": 546
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.274
+    }
+  },
+  {
+    "usuario": "cebolla0303",
+    "usuario_id": "665264864519782403",
+    "fecha_comando": "2020-05-15T15:24:04.583000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-05-15T15:24:04.858000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Cebolla** aquí tienes un gato 🐈",
+          "color": "#8443C8",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/448-8q2-9f0XMzH9hoZZsu4x9pFX-FjV_QvUu_tv-J8/%3F249/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?249",
+            "width": 600,
+            "height": 802
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/448-8q2-9f0XMzH9hoZZsu4x9pFX-FjV_QvUu_tv-J8/%3F249/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?249",
+              "width": 600,
+              "height": 802
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.275
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-19T04:09:46.432000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T04:09:46.608000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**mi pen*** aquí tienes un gato 🐈",
+          "color": "#D07294",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/lhQxRL9DkoobnF8ZIT7eMaqzDqJtvEYn6bcP4Vfpp4k/%3F123/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?123",
+            "width": 600,
+            "height": 375
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/lhQxRL9DkoobnF8ZIT7eMaqzDqJtvEYn6bcP4Vfpp4k/%3F123/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?123",
+              "width": 600,
+              "height": 375
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.176
+    }
+  },
+  {
+    "usuario": "sukanku_10145",
+    "usuario_id": "391374231616618497",
+    "fecha_comando": "2020-05-24T17:45:29.185000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-05-24T17:45:29.484000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**💙🌊𝓙.𝓡.𝓟.(❀^◡^)🍃💚** aquí tienes un gato 🐈",
+          "color": "#471EAF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/WC36QBvoLFRJuev73uz0kEQkNuQfhsy9MHgKe7h16JY/%3F215/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?215",
+            "width": 600,
+            "height": 601
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/WC36QBvoLFRJuev73uz0kEQkNuQfhsy9MHgKe7h16JY/%3F215/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?215",
+              "width": 600,
+              "height": 601
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "💙",
+              "code": "blue_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f499.svg"
+            },
+            {
+              "id": "",
+              "name": "🌊",
+              "code": "ocean",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f30a.svg"
+            },
+            {
+              "id": "",
+              "name": "🍃",
+              "code": "leaves",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f343.svg"
+            },
+            {
+              "id": "",
+              "name": "💚",
+              "code": "green_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49a.svg"
+            },
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.299
+    }
+  },
+  {
+    "usuario": "sprout03356",
+    "usuario_id": "487014232081170434",
+    "fecha_comando": "2020-05-26T13:49:20.508000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-05-26T13:49:20.699000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Sprout** aquí tienes un gato 🐈",
+          "color": "#C9EB07",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/WgZ-0I3kmenJrbHiUUq5MzIBmXgnYfto8IRGXRiJR_Q/%3F55/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?55",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/WgZ-0I3kmenJrbHiUUq5MzIBmXgnYfto8IRGXRiJR_Q/%3F55/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?55",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.191
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-05-28T07:35:47.637000-07:00",
+    "comando_completo": "ch!cat @Ezequiel ~ 🩵",
+    "respuesta_bot": {
+      "fecha": "2020-05-28T07:35:47.793000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**_Sylvester_Stallone_** aquí tienes un gato 🐈",
+          "color": "#4233BA",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/AYdalgKfbFe7d4OwV4s5NRp5lALd_5N5RZ2ERDtuiC0/%3F60/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?60",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/AYdalgKfbFe7d4OwV4s5NRp5lALd_5N5RZ2ERDtuiC0/%3F60/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?60",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.156
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2020-06-05T16:14:05.907000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-06-05T16:14:06.202000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**「ᗠᎯѕυвzєяσ」** aquí tienes un gato 🐈",
+          "color": "#FF4F64",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/VZq7eV8ZBqeEWkEgL7mJb2QAKOFCONAxaz-4JVApqvg/%3F96/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?96",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/VZq7eV8ZBqeEWkEgL7mJb2QAKOFCONAxaz-4JVApqvg/%3F96/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?96",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.295
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-08T21:23:56.092000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-06-08T21:23:56.267000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangel Has Gone Crazy** aquí tienes un gato 🐈",
+          "color": "#394AC6",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/-LdPNAkZQY-_RIT8-BgUWz9E6Z8f6Lj30p9YW7qME2U/%3F119/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?119",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/-LdPNAkZQY-_RIT8-BgUWz9E6Z8f6Lj30p9YW7qME2U/%3F119/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?119",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.175
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-06-17T16:18:22.975000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-06-17T16:18:23.312000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**_Sylvester_Stallone_** aquí tienes un gato 🐈",
+          "color": "#49B980",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/QWgRPbfEB04dvWjSCH--8nkqYHyKU0Ng-oPNw8Ku2Yc/%3F78/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?78",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/QWgRPbfEB04dvWjSCH--8nkqYHyKU0Ng-oPNw8Ku2Yc/%3F78/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?78",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.337
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-06-20T08:20:14.825000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-06-20T08:20:15.055000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Flora** aquí tienes un gato 🐈",
+          "color": "#2B69EC",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/_uJq_oF4CQFypv-pzVrrV4GSKu6hytXiHhzemw86H9g/%3F288/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?288",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/_uJq_oF4CQFypv-pzVrrV4GSKu6hytXiHhzemw86H9g/%3F288/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?288",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.23
+    }
+  },
+  {
+    "usuario": "joderuxue",
+    "usuario_id": "666672176669130752",
+    "fecha_comando": "2020-06-20T08:20:20.151000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-06-20T08:20:20.512000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Flora** aquí tienes un gato 🐈",
+          "color": "#6DE25F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/HL_BQRBUUCiswXraUWbAAGaBC1CHPfosFgGSTvxh3UA/%3F320/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?320",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/HL_BQRBUUCiswXraUWbAAGaBC1CHPfosFgGSTvxh3UA/%3F320/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?320",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "371317556734197761",
+            "name": "GWmythicalGrandCat",
+            "code": "GWmythicalGrandCat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/371317556734197761.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "288143032375574538",
+              "name": "reeddo",
+              "discriminator": "0000",
+              "nickname": "Reeddo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/288143032375574538/c578a60bd2d49720186ececa4a16da8e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.361
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-27T22:48:57.622000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-06-27T22:48:58.105000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**空 (Sora)** aquí tienes un gato 🐈",
+          "color": "#722DBB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/reHhSPOz4vijFqe8sU7f3OgKGCZkdqpBvlBmPreDvMk/%3F41/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?41",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/reHhSPOz4vijFqe8sU7f3OgKGCZkdqpBvlBmPreDvMk/%3F41/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?41",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.483
+    }
+  },
+  {
+    "usuario": "asanhz",
+    "usuario_id": "481504990150524930",
+    "fecha_comando": "2020-07-04T04:03:33.302000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-07-04T04:03:33.492000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Hybirich (Feneka)** aquí tienes un gato 🐈",
+          "color": "#1B70FF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/pI3n9FckQq-DFVqa2B50PYRE8DNYeiNRd3dCrdETs-o/%3F33/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?33",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/pI3n9FckQq-DFVqa2B50PYRE8DNYeiNRd3dCrdETs-o/%3F33/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?33",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "benjamin2146",
+    "usuario_id": "682454168082186240",
+    "fecha_comando": "2020-07-24T16:47:20.639000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-07-24T16:47:20.852000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**!                       ᴍᴀʏᴏɴᴇsᴀ** aquí tienes un gato 🐈",
+          "color": "#B6DB33",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/-uMvUH_kO-Cha9UWDLExYSCixIXTf7BV40zlIdt_z7Q/%3F7/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?7",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/-uMvUH_kO-Cha9UWDLExYSCixIXTf7BV40zlIdt_z7Q/%3F7/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?7",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "annto.o",
+    "usuario_id": "433617258867195914",
+    "fecha_comando": "2020-08-04T20:18:45.852000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-08-04T20:18:46.086000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mochocolato** aquí tienes un gato 🐈",
+          "color": "#98C21C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/L_m8CT0b6Eo2cjNmsEjEl5Vonha6hYiiAMwuR8F34p0/%3F360/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?360",
+            "width": 600,
+            "height": 687
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/L_m8CT0b6Eo2cjNmsEjEl5Vonha6hYiiAMwuR8F34p0/%3F360/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?360",
+              "width": 600,
+              "height": 687
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "iggy3.1",
+    "usuario_id": "676586069470478357",
+    "fecha_comando": "2020-08-05T09:27:32.703000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T09:27:32.964000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iggy ガベージ** aquí tienes un gato 🐈",
+          "color": "#D8C2F2",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/XeLxwKDCcXFaYbyMo2cZ43dBUtKE7TAQzM9eHwtJ06M/%3F126/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?126",
+            "width": 599,
+            "height": 399
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/XeLxwKDCcXFaYbyMo2cZ43dBUtKE7TAQzM9eHwtJ06M/%3F126/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?126",
+              "width": 599,
+              "height": 399
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-08-06T10:23:55.872000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T10:23:56.309000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Paco** aquí tienes un gato 🐈",
+          "color": "#94E872",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/b5QzoL789kVcL3rGT93y45BdJQIhuyw2jRMbeoCraNc/%3F397/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?397",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/b5QzoL789kVcL3rGT93y45BdJQIhuyw2jRMbeoCraNc/%3F397/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?397",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.437
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-18T08:02:57.894000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T08:02:58.068000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**SONIC747RE** aquí tienes un gato 🐈",
+          "color": "#AC8AFB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/PpcWSpItwpg8wxfCyoVeIniDge8Vk5ID1he43dfjVh4/%3F212/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?212",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/PpcWSpItwpg8wxfCyoVeIniDge8Vk5ID1he43dfjVh4/%3F212/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?212",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-08-18T21:47:17.975000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-08-18T21:47:18.277000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mr. Red** aquí tienes un gato 🐈",
+          "color": "#97CD3C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/ECu79H6UIQsHhlfS9UxBedQSee5xl_SNwF_xcOdmujY/%3F304/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?304",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/ECu79H6UIQsHhlfS9UxBedQSee5xl_SNwF_xcOdmujY/%3F304/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?304",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.302
+    }
+  },
+  {
+    "usuario": "danielssj4595",
+    "usuario_id": "681654900543062027",
+    "fecha_comando": "2020-08-24T22:36:29.604000-07:00",
+    "comando_completo": "ch!cat @Xiam  🦇",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T22:36:32.031000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**𝕏𝕚𝕒𝕞** aquí tienes un gato 🐈",
+          "color": "#DCF283",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/KEpuqNAqziSR4ORGXeHysiiHc3WxPTbqcdrqn-6MsEA/%3F254/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?254",
+            "width": 600,
+            "height": 592
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/KEpuqNAqziSR4ORGXeHysiiHc3WxPTbqcdrqn-6MsEA/%3F254/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?254",
+              "width": 600,
+              "height": 592
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.427
+    }
+  },
+  {
+    "usuario": "danielssj4595",
+    "usuario_id": "681654900543062027",
+    "fecha_comando": "2020-08-24T22:39:47.572000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T22:39:47.774000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**𝕏𝕚𝕒𝕞** aquí tienes un gato 🐈",
+          "color": "#B13592",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/JVmUL4eq5nZdx0yxUVPCWVw7FlytXUrPBrr2IKo_eu4/%3F315/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?315",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/JVmUL4eq5nZdx0yxUVPCWVw7FlytXUrPBrr2IKo_eu4/%3F315/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?315",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "escarlet04670",
+    "usuario_id": "755563998157471824",
+    "fecha_comando": "2020-10-12T22:22:15.606000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-10-12T22:22:15.979000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**FernandaR** aquí tienes un gato 🐈",
+          "color": "#288221",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/4SOWVKwEW6aFIvNk_zmhRJKwwUGLxvvb0k4qQcsq-mo/%3F240/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?240",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/4SOWVKwEW6aFIvNk_zmhRJKwwUGLxvvb0k4qQcsq-mo/%3F240/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?240",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.373
+    }
+  },
+  {
+    "usuario": "dantiado",
+    "usuario_id": "706003879359152219",
+    "fecha_comando": "2020-10-28T08:32:35.335000-07:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-10-28T08:32:35.644000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Dantiado** aquí tienes un gato 🐈",
+          "color": "#ACE469",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/y-Jyck4GDmeaw4nILSgVoyCddjLgznOA_RivngiN5cQ/%3F74/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?74",
+            "width": 600,
+            "height": 450
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/y-Jyck4GDmeaw4nILSgVoyCddjLgznOA_RivngiN5cQ/%3F74/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?74",
+              "width": 600,
+              "height": 450
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "rosgon",
+    "usuario_id": "710924731947155488",
+    "fecha_comando": "2020-11-07T13:06:32.488000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-11-07T13:06:32.729000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Rosgon** aquí tienes un gato 🐈",
+          "color": "#406E70",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/-LdPNAkZQY-_RIT8-BgUWz9E6Z8f6Lj30p9YW7qME2U/%3F119/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?119",
+            "width": 600,
+            "height": 1068
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/-LdPNAkZQY-_RIT8-BgUWz9E6Z8f6Lj30p9YW7qME2U/%3F119/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?119",
+              "width": 600,
+              "height": 1068
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.241
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-11-22T21:23:10.872000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T21:23:11.133000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**~☆ᴀᴋɪᴋᴏ☆~** aquí tienes un gato 🐈",
+          "color": "#D9316B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/nkdpEMn1MgqON8NmT2aXahq7ANdDPHMpIpfBxn4O0Pw/%3F31/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?31",
+            "width": 600,
+            "height": 601
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/nkdpEMn1MgqON8NmT2aXahq7ANdDPHMpIpfBxn4O0Pw/%3F31/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?31",
+              "width": 600,
+              "height": 601
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "matayito",
+    "usuario_id": "530201580415352853",
+    "fecha_comando": "2020-11-23T14:12:00.857000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-11-23T14:12:01.096000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**matayito** aquí tienes un gato 🐈",
+          "color": "#7FD015",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/WgZ-0I3kmenJrbHiUUq5MzIBmXgnYfto8IRGXRiJR_Q/%3F55/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?55",
+            "width": 600,
+            "height": 338
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/WgZ-0I3kmenJrbHiUUq5MzIBmXgnYfto8IRGXRiJR_Q/%3F55/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?55",
+              "width": 600,
+              "height": 338
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.239
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-11-26T22:36:13.229000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-11-26T22:36:14.117000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Chippy** aquí tienes un gato 🐈",
+          "color": "#4CF4BA",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/VBTAaKwIQrD4UgBi652u0wa9PE-GlcL2OXJCBjjT0z0/%3F151/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?151",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/VBTAaKwIQrD4UgBi652u0wa9PE-GlcL2OXJCBjjT0z0/%3F151/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?151",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.888
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-11-26T22:36:36.828000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-11-26T22:36:37.539000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Chippy** aquí tienes un gato 🐈",
+          "color": "#082391",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/zD11_Cp3mzX8Pv4RG695hjeEiY-R0NwofpDOEnuKUdU/%3F50/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?50",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/zD11_Cp3mzX8Pv4RG695hjeEiY-R0NwofpDOEnuKUdU/%3F50/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?50",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.711
+    }
+  },
+  {
+    "usuario": "cocacolaespuma8468",
+    "usuario_id": "770035503507832834",
+    "fecha_comando": "2020-12-09T08:48:20.372000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T08:48:20.583000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**CoCa CoLa EsPuMa** aquí tienes un gato 🐈",
+          "color": "#C7660B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Anj543wd81HKjBf9ZRMIVEI5cbp59SO2aLG-v8fw23E/%3F163/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?163",
+            "width": 600,
+            "height": 902
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Anj543wd81HKjBf9ZRMIVEI5cbp59SO2aLG-v8fw23E/%3F163/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?163",
+              "width": 600,
+              "height": 902
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.211
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-15T17:16:47.451000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-15T17:16:47.790000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Didi. ᵕ᷄≀ ̠˘᷅** aquí tienes un gato 🐈",
+          "color": "#C07DBC",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/GntFkPdNsnjyoEka6vnuZeMr43bENSbqvqiHFysFNV8/%3F166/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?166",
+            "width": 600,
+            "height": 401
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/GntFkPdNsnjyoEka6vnuZeMr43bENSbqvqiHFysFNV8/%3F166/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?166",
+              "width": 600,
+              "height": 401
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.339
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-15T17:17:46.051000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-15T17:17:46.357000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Didi. ᵕ᷄≀ ̠˘᷅** aquí tienes un gato 🐈",
+          "color": "#714A35",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/jb3SxC7dVho4XzySIo3JGK9FxYSHStQ8vva-sBy_-Ts/%3F106/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?106",
+            "width": 600,
+            "height": 802
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/jb3SxC7dVho4XzySIo3JGK9FxYSHStQ8vva-sBy_-Ts/%3F106/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?106",
+              "width": 600,
+              "height": 802
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.306
+    }
+  },
+  {
+    "usuario": "deleteuser8552",
+    "usuario_id": "711392685004554331",
+    "fecha_comando": "2020-12-15T17:20:23.723000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-15T17:20:23.936000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**!        a PAPITOMIREY MS2O** aquí tienes un gato 🐈",
+          "color": "#68284F",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/FsX4vkAJa_ofXuzAo5GSWuad3HYykeWNeFLtiSnwjm0/%3F191/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?191",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/FsX4vkAJa_ofXuzAo5GSWuad3HYykeWNeFLtiSnwjm0/%3F191/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?191",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.213
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-16T14:32:07.654000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-16T14:32:07.886000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**kebintxu** aquí tienes un gato 🐈",
+          "color": "#E63B29",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/_B1w7sWCfzKL4QwrZTrGieskfmhul2RgTVMmlxpbZ6I/%3F367/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?367",
+            "width": 600,
+            "height": 800
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/_B1w7sWCfzKL4QwrZTrGieskfmhul2RgTVMmlxpbZ6I/%3F367/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?367",
+              "width": 600,
+              "height": 800
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-31T16:59:19.171000-08:00",
+    "comando_completo": "ch!cat",
+    "respuesta_bot": {
+      "fecha": "2020-12-31T16:59:19.405000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mikasa Ackerman** aquí tienes un gato 🐈",
+          "color": "#656554",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/7G32kBwPbuOQkWc26B5X3RDsoTFNXiA5QkMA_5xnm2U/%3F143/https/cataas.com/cat",
+            "canonicalUrl": "https://cataas.com/cat?143",
+            "width": 600,
+            "height": 400
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/7G32kBwPbuOQkWc26B5X3RDsoTFNXiA5QkMA_5xnm2U/%3F143/https/cataas.com/cat",
+              "canonicalUrl": "https://cataas.com/cat?143",
+              "width": 600,
+              "height": 400
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐈",
+              "code": "cat2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f408.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  }
+]

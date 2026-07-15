@@ -1,0 +1,2052 @@
+[
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-16T09:55:31.890000-07:00",
+    "comando_completo": "ch!license matar a Nep definitivamente",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T09:55:32.817000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "634071947688411146",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/634071947688411146/License.png?ex=6a57bb84&is=6a566a04&hm=f6e701c0160c4c989c0068c6371449678a22ab2cb378ce1ca98be597a2361763&",
+          "fileName": "License.png",
+          "fileSizeBytes": 396189
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.927
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-16T09:55:54.976000-07:00",
+    "comando_completo": "ch!license matar a nyaka definitivamente",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T09:55:55.953000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "634072043993825282",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/634072043993825282/License.png?ex=6a57bb9b&is=6a566a1b&hm=0f08d46141af3bd5cdc86e2231aba7a6ba8e52c7359fe36d43bd87fbe90c744b&",
+          "fileName": "License.png",
+          "fileSizeBytes": 381178
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.977
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-16T09:56:05.497000-07:00",
+    "comando_completo": "ch!license no morir",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T09:56:05.754000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep Nep halloween** mató a **Hououin Kyouma** D':",
+          "color": "#D32121",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/BoUNqMtX4iiMjXOZVhTjjMWr3undnTWfClYhQc2ziI8/https/media.giphy.com/media/20KSmo8aJ7HYu5L0rf/giphy.gif",
+            "canonicalUrl": "https://media.giphy.com/media/20KSmo8aJ7HYu5L0rf/giphy.gif",
+            "width": 536,
+            "height": 302
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/BoUNqMtX4iiMjXOZVhTjjMWr3undnTWfClYhQc2ziI8/https/media.giphy.com/media/20KSmo8aJ7HYu5L0rf/giphy.gif",
+              "canonicalUrl": "https://media.giphy.com/media/20KSmo8aJ7HYu5L0rf/giphy.gif",
+              "width": 536,
+              "height": 302
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.257
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-16T09:56:26.581000-07:00",
+    "comando_completo": "ch!license hacer que se dejen de matar",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T09:56:27.368000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "634072176495951872",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/634072176495951872/License.png?ex=6a57bbbb&is=6a566a3b&hm=092be57ec4bb90f1a064ff07a3a19ad497fe1b213c77564bca1da612e56d3d73&",
+          "fileName": "License.png",
+          "fileSizeBytes": 384862
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.787
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-16T09:56:49.012000-07:00",
+    "comando_completo": "ch!license para no morir",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T09:56:49.894000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "634072270209286155",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/634072270209286155/License.png?ex=6a57bbd1&is=6a566a51&hm=309df903ba9af0f987f0f58476e92fa0c28870908090236dca60b6e89d29c1f9&",
+          "fileName": "License.png",
+          "fileSizeBytes": 379280
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.882
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-17T12:00:52.920000-07:00",
+    "comando_completo": "ch!license No morir",
+    "respuesta_bot": {
+      "fecha": "2019-10-17T12:01:01.370000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nyakrészes Hódok** ha muerto D:",
+          "color": "#E76BD0",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/541402053998673950/633086370335817729/dnk2.gif?ex=6a581a20&is=6a56c8a0&hm=29dede86ee7b0c85e5dd0e10a02de63c43f2dd613c89b3749bd697fa8040d17b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/633086370335817729/dnk2.gif?ex=6a581a20&is=6a56c8a0&hm=29dede86ee7b0c85e5dd0e10a02de63c43f2dd613c89b3749bd697fa8040d17b&",
+            "width": 500,
+            "height": 288
+          },
+          "footer": {
+            "text": "Comando secreto: #2."
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/541402053998673950/633086370335817729/dnk2.gif?ex=6a581a20&is=6a56c8a0&hm=29dede86ee7b0c85e5dd0e10a02de63c43f2dd613c89b3749bd697fa8040d17b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/633086370335817729/dnk2.gif?ex=6a581a20&is=6a56c8a0&hm=29dede86ee7b0c85e5dd0e10a02de63c43f2dd613c89b3749bd697fa8040d17b&",
+              "width": 500,
+              "height": 288
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.45
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-17T12:01:02.489000-07:00",
+    "comando_completo": "ch!license No morir",
+    "respuesta_bot": {
+      "fecha": "2019-10-17T12:01:04.049000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "634465923834839060",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/634465923834839060/License.png?ex=6a57d8f0&is=6a568770&hm=97a034aae19d6fa435835e926b951579fc1229b4aeb37bebc6d4d989d2ae78af&",
+          "fileName": "License.png",
+          "fileSizeBytes": 395718
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.56
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-24T18:55:35.361000-07:00",
+    "comando_completo": "ch!license inmortalidad",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T18:55:36.826000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "637106962881839114",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/637106962881839114/License.png?ex=6a583a18&is=6a56e898&hm=e33f4739b8ffb267ad5d2fee61d2dfa7cb6ee6b3f220b520b957c5518946524b&",
+          "fileName": "License.png",
+          "fileSizeBytes": 375560
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.465
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-24T18:55:46.858000-07:00",
+    "comando_completo": "ch!license anti inmortalidad",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T18:55:48.220000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "637107010672001210",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/637107010672001210/License.png?ex=6a583a24&is=6a56e8a4&hm=54898c89779fd3f98e5e1f35766576856034c7d291456254bc984377b5330614&",
+          "fileName": "License.png",
+          "fileSizeBytes": 368934
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.362
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2019-10-24T20:03:39.677000-07:00",
+    "comando_completo": "ch!license ABOGADO Y JUEZ",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T20:03:41.128000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "637124093686054946",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/637124093686054946/License.png?ex=6a57a14d&is=6a564fcd&hm=e4caec4d66e14e1642c7b0cf4b23051b0a72dece5c9f5fa34c055fc36ac95c74&",
+          "fileName": "License.png",
+          "fileSizeBytes": 391976
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.451
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-25T05:59:16.496000-07:00",
+    "comando_completo": "ch!license inmortalidad",
+    "respuesta_bot": {
+      "fecha": "2019-10-25T05:59:17.931000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "637273984202964992",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/637273984202964992/License.png?ex=6a582ce5&is=6a56db65&hm=db8b177a1cf70bf3a419bf1c0049e72a485dc863d198a030f42eda9352c79f3c&",
+          "fileName": "License.png",
+          "fileSizeBytes": 360087
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.435
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-26T08:28:34.236000-07:00",
+    "comando_completo": "ch!license inmortalidad total para Nyakrases",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T08:28:37.500000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Alx** huye de **Nep puddin** D:",
+          "color": "#5ACFEE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541468995552018442/5m9a.gif?ex=6a57af8c&is=6a565e0c&hm=f721f661a5a2f2d64eb079365ecb1347d044f91a6e81c113b1be6afff83b0c6d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541468995552018442/5m9a.gif?ex=6a57af8c&is=6a565e0c&hm=f721f661a5a2f2d64eb079365ecb1347d044f91a6e81c113b1be6afff83b0c6d&",
+            "width": 500,
+            "height": 232
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541468995552018442/5m9a.gif?ex=6a57af8c&is=6a565e0c&hm=f721f661a5a2f2d64eb079365ecb1347d044f91a6e81c113b1be6afff83b0c6d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541468995552018442/5m9a.gif?ex=6a57af8c&is=6a565e0c&hm=f721f661a5a2f2d64eb079365ecb1347d044f91a6e81c113b1be6afff83b0c6d&",
+              "width": 500,
+              "height": 232
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.264
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-26T08:28:53.595000-07:00",
+    "comando_completo": "ch!license control sobre los límites",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T08:28:54.526000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "637674023135739944",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/637674023135739944/License.png?ex=6a57a736&is=6a5655b6&hm=807eaca19c3b12c2e5fb26a007f65ea2eb75d1ea5b887d262a3aebd12fe7ba97&",
+          "fileName": "License.png",
+          "fileSizeBytes": 387364
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.931
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-26T08:28:57.592000-07:00",
+    "comando_completo": "ch!license anti inmortalidad para nyaka y sin licensia",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T08:28:58.484000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "637674039737057291",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/637674039737057291/License.png?ex=6a57a73a&is=6a5655ba&hm=caf25ee9a901b8eccea350fea141cda6574e580daca5b3bbc8c8fd974ab8f797&",
+          "fileName": "License.png",
+          "fileSizeBytes": 364660
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.892
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-10-27T12:33:32.554000-07:00",
+    "comando_completo": "ch!license ⠀⠀",
+    "respuesta_bot": {
+      "fecha": "2019-10-27T12:33:33.850000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "638097979991130123",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/638097979991130123/License.png?ex=6a57e08d&is=6a568f0d&hm=e2d753b8841cac278865d440ad07e01468129c7db716d687346ad25b1bad16df&",
+          "fileName": "License.png",
+          "fileSizeBytes": 394184
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.296
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-28T11:57:59.287000-07:00",
+    "comando_completo": "ch!license Ban para el que borra la deathnote",
+    "respuesta_bot": {
+      "fecha": "2019-10-28T11:58:08.717000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.43
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-30T08:45:04.578000-07:00",
+    "comando_completo": "ch!license no morir, no borrar.",
+    "respuesta_bot": {
+      "fecha": "2019-10-30T08:45:14.542000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nyakrases Hodok** ha muerto D:",
+          "color": "#4D905A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+            "width": 474,
+            "height": 266
+          },
+          "footer": {
+            "text": "Comando secreto: #2."
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+              "width": 474,
+              "height": 266
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.964
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-30T08:45:13.363000-07:00",
+    "comando_completo": "ch!license no morir, no borrar.",
+    "respuesta_bot": {
+      "fecha": "2019-10-30T08:45:14.542000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nyakrases Hodok** ha muerto D:",
+          "color": "#4D905A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+            "width": 474,
+            "height": 266
+          },
+          "footer": {
+            "text": "Comando secreto: #2."
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/541402053998673950/633086313804988428/dnk1.gif?ex=6a581a13&is=6a56c893&hm=7e51d36c849da40c5bc253b3d3316546dcd043152c318a007146dfda269fe7bb&",
+              "width": 474,
+              "height": 266
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.179
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-01T00:14:17.728000-07:00",
+    "comando_completo": "ch!license inmune a los robos papu ;v",
+    "respuesta_bot": {
+      "fecha": "2019-11-01T00:14:20.947000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "639723890318508032",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/639723890318508032/License.png?ex=6a57dc0c&is=6a568a8c&hm=cd8a31c961bb4b070d8eead9097ef848e483b970d4d8e24f94c82dc55bd51dbd&",
+          "fileName": "License.png",
+          "fileSizeBytes": 384411
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.219
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-03T11:18:39.371000-08:00",
+    "comando_completo": "ch!license no morir",
+    "respuesta_bot": {
+      "fecha": "2019-11-03T11:18:42.192000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 3 hours and 1 minute.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Reeddo#4278",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/4Fb3TfijZEfEGDLH1tgyp-ZJihkyOgntpxelt0Q0U8Y/%3Fsize%3D128/https/cdn.discordapp.com/avatars/288143032375574538/b53fcba62ce460b4db729835bbfd85a4.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/288143032375574538/b53fcba62ce460b4db729835bbfd85a4.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.821
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-04T08:29:56.724000-08:00",
+    "comando_completo": "ch!license inmune a la deathnote",
+    "respuesta_bot": {
+      "fecha": "2019-11-04T08:29:58.023000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "640950879746392064",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/640950879746392064/License.png?ex=6a57b586&is=6a566406&hm=5b8d62848d8f1de7ebec9d62d1d3edc8f4395e878eab5e44b7bd294d89f0ea5c&",
+          "fileName": "License.png",
+          "fileSizeBytes": 387527
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.299
+    }
+  },
+  {
+    "usuario": "canetickk",
+    "usuario_id": "480939268911661056",
+    "fecha_comando": "2019-11-04T08:32:28.386000-08:00",
+    "comando_completo": "ch!license Robar todas las licencias v:",
+    "respuesta_bot": {
+      "fecha": "2019-11-04T08:32:29.671000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "640951515372191785",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/640951515372191785/License.png?ex=6a57b61d&is=6a56649d&hm=c2682aff9cba248a557bce90340a928cbd5c261829c3c6acba0f988f340d7fb9&",
+          "fileName": "License.png",
+          "fileSizeBytes": 377098
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.285
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-05T13:34:03.982000-08:00",
+    "comando_completo": "ch!license no morir, y esta licencia no puede ser negada",
+    "respuesta_bot": {
+      "fecha": "2019-11-05T13:34:05.329000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "641389802360537088",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/641389802360537088/License.png?ex=6a57fccd&is=6a56ab4d&hm=9dc209f4514b9c13d2b893c7c5de25b757654e8560bda4fefe54cf756e4b90ea&",
+          "fileName": "License.png",
+          "fileSizeBytes": 400500
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.347
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-07T08:23:29.718000-08:00",
+    "comando_completo": "ch!license mmmm totodiles",
+    "respuesta_bot": {
+      "fecha": "2019-11-07T08:23:30.940000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "642036419799285773",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/642036419799285773/License.png?ex=6a57b402&is=6a566282&hm=af5303b85116d9e5363bf20d68d343fc6576949ba75af513f02393bf4dd09a17&",
+          "fileName": "License.png",
+          "fileSizeBytes": 378406
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.222
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-09T06:36:42-08:00",
+    "comando_completo": "ch!license no morir por nada",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T06:36:43.230000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "642734319647064124",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/642734319647064124/License.png?ex=6a579afb&is=6a56497b&hm=fad49f924e06bc0314d64a341319ccfe7ec44c373335309a4eeaf3545ab46fb1&",
+          "fileName": "License.png",
+          "fileSizeBytes": 401916
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.23
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-11-09T06:36:54.691000-08:00",
+    "comando_completo": "ch!license no morir por algo",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T06:36:55.713000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "642734371534798863",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/642734371534798863/License.png?ex=6a579b07&is=6a564987&hm=cc6e3f07f6ce8f0c687400e75b809575b4ef4d5fa2190639bd81ca0c6133f05d&",
+          "fileName": "License.png",
+          "fileSizeBytes": 401993
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.022
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-23T22:45:36.292000-08:00",
+    "comando_completo": "ch!license no morir",
+    "respuesta_bot": {
+      "fecha": "2019-11-23T22:45:37.366000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "648051582004363284",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/648051582004363284/License.png?ex=6a57d551&is=6a5683d1&hm=29adf48dc33c8c70d9104ddb85bc6c30256ce34072b10e4fb4fa27943e12abaa&",
+          "fileName": "License.png",
+          "fileSizeBytes": 393282
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.074
+    }
+  },
+  {
+    "usuario": "iwanttetas",
+    "usuario_id": "577621049814810661",
+    "fecha_comando": "2019-11-23T22:46:16.388000-08:00",
+    "comando_completo": "ch!license morir",
+    "respuesta_bot": {
+      "fecha": "2019-11-23T22:46:17.618000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "648051750833618974",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/648051750833618974/License.png?ex=6a57d579&is=6a5683f9&hm=428dca066895417114a60f6b929fbc3b51cb5e8e65a9794633547ee30fbcfbcd&",
+          "fileName": "License.png",
+          "fileSizeBytes": 375666
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.23
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-11-26T19:18:03.808000-08:00",
+    "comando_completo": "ch!license no morir",
+    "respuesta_bot": {
+      "fecha": "2019-11-26T19:18:12.822000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "649086549400485889",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/649086549400485889/License.png?ex=6a57a4b4&is=6a565334&hm=5fdcfcac548543821a5f74c8063711f774ca06e4bb50c100d21268401edf51ea&",
+          "fileName": "License.png",
+          "fileSizeBytes": 407609
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.014
+    }
+  },
+  {
+    "usuario": "merki27",
+    "usuario_id": "545641312867844096",
+    "fecha_comando": "2019-11-26T19:18:23.722000-08:00",
+    "comando_completo": "ch!license matar a los que no pueden morir",
+    "respuesta_bot": {
+      "fecha": "2019-11-26T19:18:28.348000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "649086614521380929",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/649086614521380929/License.png?ex=6a57a4c4&is=6a565344&hm=06626350c619893478e353f4988118c029a8f318633a0f3e75167d03ac3c08bc&",
+          "fileName": "License.png",
+          "fileSizeBytes": 406692
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.626
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-01T15:41:55.717000-08:00",
+    "comando_completo": "ch!license tener hacks",
+    "respuesta_bot": {
+      "fecha": "2019-12-01T15:41:57.249000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "650844065230880787",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/650844065230880787/License.png?ex=6a581ac5&is=6a56c945&hm=3f6823f64101f02401f9e1074996875e2c97faf082988ed0205b9e79ca0ea0bb&",
+          "fileName": "License.png",
+          "fileSizeBytes": 387417
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.532
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-03T20:06:38.720000-08:00",
+    "comando_completo": "ch!license ser inmortal",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T20:06:40.661000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "651635460258660382",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/651635460258660382/License.png?ex=6a57b010&is=6a565e90&hm=b148f10006a3724244270f3fd39f7868e65ff1a5619f6be4cb339a29db69c53a&",
+          "fileName": "License.png",
+          "fileSizeBytes": 387515
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.941
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-12-08T15:43:04.959000-08:00",
+    "comando_completo": "ch!license :GWossuKannaSip:",
+    "respuesta_bot": {
+      "fecha": "2019-12-08T15:43:08.134000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "653381077091745813",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/653381077091745813/License.png?ex=6a581b0c&is=6a56c98c&hm=c38a50cc8ee639fb5846a2599ccbdfe4d9d5517f69d8bdd98610c23ed40bbd4b&",
+          "fileName": "License.png",
+          "fileSizeBytes": 371959
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 3.175
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-12-08T15:44:01.408000-08:00",
+    "comando_completo": "ch!license :chNepSip:",
+    "respuesta_bot": {
+      "fecha": "2019-12-08T15:44:02.624000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "653381305488375868",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/653381305488375868/License.png?ex=6a581b42&is=6a56c9c2&hm=b38b62e0f9037e3866d9c9aee20e02c354f458b85d6acd984bf8469275d30e54&",
+          "fileName": "License.png",
+          "fileSizeBytes": 370185
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.216
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-12-08T20:45:57.329000-08:00",
+    "comando_completo": "ch!license comer taquitos",
+    "respuesta_bot": {
+      "fecha": "2019-12-08T20:45:59.617000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "653457293836288050",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/653457293836288050/License.png?ex=6a57b947&is=6a5667c7&hm=d9adf8b9e44227006c612b6fe758fd9043f607763eae83ec6bda8b4277797a2b&",
+          "fileName": "License.png",
+          "fileSizeBytes": 363563
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.288
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-11T13:36:06.481000-08:00",
+    "comando_completo": "ch!license",
+    "respuesta_bot": {
+      "fecha": "2019-12-11T13:36:06.687000-08:00",
+      "contenido": "Por favor introduzca la utilidad de su licencia. Máximo 26 carácteres.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "ami007531",
+    "usuario_id": "471047288035213313",
+    "fecha_comando": "2019-12-11T13:36:37.170000-08:00",
+    "comando_completo": "ch!license t!tg train",
+    "respuesta_bot": {
+      "fecha": "2019-12-11T13:36:38.938000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "654436409322635264",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/654436409322635264/License.png?ex=6a57fd66&is=6a56abe6&hm=8967b49c35ab785bdba2fde55c5bf476eaa34c3657a9a518770e74aa7bac8490&",
+          "fileName": "License.png",
+          "fileSizeBytes": 388680
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.768
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2019-12-25T17:13:11.185000-08:00",
+    "comando_completo": "ch!license no morir por la deathnote",
+    "respuesta_bot": {
+      "fecha": "2019-12-25T17:13:12.151000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You wonder why your Tatsugotchi won't listen. Maybe you should give it a few more tries.",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/MNv6icVMuBJQHdqoj7xo8qk0xm6p1JbJKM0LFQx1E1I/%3Fsize%3D128/https/cdn.discordapp.com/avatars/460489146922958849/f8c2370a9ffafc556096f4f0a9ca788b.jpg",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/460489146922958849/f8c2370a9ffafc556096f4f0a9ca788b.jpg?size=128"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tMI24Lo3FPMHD1W7Iuxbw5oQBn7b_DC-ggPtS7_oC70/https/i-like.blue/emotes/2.png",
+            "canonicalUrl": "https://i-like.blue/emotes/2.png",
+            "width": 51,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.966
+    }
+  },
+  {
+    "usuario": "mr_blackberry",
+    "usuario_id": "516254256404103168",
+    "fecha_comando": "2020-04-16T14:51:41.408000-07:00",
+    "comando_completo": "ch!license tener lolis",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T14:51:43.352000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700463462114918498",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700463462114918498/Chocolicense.png?ex=6a5800ef&is=6a56af6f&hm=2f23efbf583deb3d9f1bc43498bc06ca0313cb5d9bbd6295e5e3af9b5c274b63&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 368522
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.944
+    }
+  },
+  {
+    "usuario": "benja30_",
+    "usuario_id": "679661697689976890",
+    "fecha_comando": "2020-04-16T23:38:22.823000-07:00",
+    "comando_completo": "ch!license FBI",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:38:24.033000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700596005070045225",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700596005070045225/Chocolicense.png?ex=6a57d3a0&is=6a568220&hm=76e2e25405c87c521d8f93783dd7a7b5b9a5330dc04a12a40acf2d9253e21c7a&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 386910
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.21
+    }
+  },
+  {
+    "usuario": "peke5015",
+    "usuario_id": "658131567356411905",
+    "fecha_comando": "2020-04-16T23:39:59.299000-07:00",
+    "comando_completo": "ch!license Yes",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:40:00.750000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700596410709573652",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700596410709573652/Chocolicense.png?ex=6a57d400&is=6a568280&hm=a409923cba2eacb94b24a5bcbb06847573d32387509b960285406555398c3a37&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 369626
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.451
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-04-16T23:40:30.541000-07:00",
+    "comando_completo": "ch!license Robar Momos",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:40:31.839000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700596540665888788",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700596540665888788/Chocolicense.png?ex=6a57d41f&is=6a56829f&hm=2ca13f3b3cca8f97f35f5a5fd019bb5c08ea6207e1736bc33344f3e038082e9e&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 429293
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.298
+    }
+  },
+  {
+    "usuario": "takemebacktotexas",
+    "usuario_id": "344414319880175618",
+    "fecha_comando": "2020-04-16T23:43:24.049000-07:00",
+    "comando_completo": "ch!license Reclamo de Waifus",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:43:25.296000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700597268503461958",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700597268503461958/Chocolicense.png?ex=6a57d4cd&is=6a56834d&hm=e44592044a8e17e0a61e22809c05b08677ec92da912070ec752bb1e47a3cb120&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 402512
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.247
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-04-16T23:43:38.873000-07:00",
+    "comando_completo": "ch!license profanado experto",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:43:40.043000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700597330138890290",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700597330138890290/Chocolicense.png?ex=6a57d4db&is=6a56835b&hm=b4e907aa3d351fac2e7c078639372c09054be174349426b179371b5e2c30ef66&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 429682
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.17
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-16T23:46:50.107000-07:00",
+    "comando_completo": "ch!license FBI",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:46:51.244000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700598132081426432",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700598132081426432/Chocolicense.png?ex=6a57d59b&is=6a56841b&hm=ad2cdb60b898dce1fce62d73f5658f09a1940cb554af4f167abf25890b4d258b&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 376920
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.137
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-04-16T23:47:59.519000-07:00",
+    "comando_completo": "ch!license tener sueldo infinito",
+    "respuesta_bot": {
+      "fecha": "2020-04-16T23:48:00.580000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700598423052877884",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700598423052877884/Chocolicense.png?ex=6a57d5e0&is=6a568460&hm=e4bb6c8f48730641330e545cb0ef956bb2f0b6b96434be939b2e20f8039b68d4&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 429668
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.061
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-17T09:15:59.437000-07:00",
+    "comando_completo": "ch!license FBI",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T09:16:00.687000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700741365306359808",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700741365306359808/Chocolicense.png?ex=6a57b240&is=6a5660c0&hm=b538c1c45a4b7b4b5b87e0bdf54bc7d4623a193bc14623185e1751b6c22b21be&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 375979
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.25
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-17T09:59:31.003000-07:00",
+    "comando_completo": "ch!license Ghost Buster",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T09:59:33.026000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700752322300608622",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700752322300608622/Chocolicense.png?ex=6a57bc74&is=6a566af4&hm=281a4dcd83afd40107c554d66f47d05733065e5e888160bc1263f79766af621a&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 379244
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.023
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-04-17T23:12:35.850000-07:00",
+    "comando_completo": "ch!license amigo de chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T23:12:37.341000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700951904888291398",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700951904888291398/Chocolicense.png?ex=6a57cd95&is=6a567c15&hm=55765298dc6e3e98b9ee5b709d7e9f2680f4b0436b48ab17b9b15b365eef7ae8&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 430338
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.491
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-17T23:13:03.176000-07:00",
+    "comando_completo": "ch!license Obey me",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T23:13:04.488000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700952019225280612",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700952019225280612/Chocolicense.png?ex=6a57cdb0&is=6a567c30&hm=a4c7709244ae993c0271b36c6b4b04a237fc8aa2a2d819f17adf4442e4695a40&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 393638
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.312
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-04-17T23:13:23.719000-07:00",
+    "comando_completo": "ch!license tener amigos XD jajajaja",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T23:13:24.738000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700952104092696576",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700952104092696576/Chocolicense.png?ex=6a57cdc4&is=6a567c44&hm=68ba06a75bb16d9f8ea2b745f8dcafe777a723742412497102261693d3ab9a1c&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 432457
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.019
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-17T23:13:28.246000-07:00",
+    "comando_completo": "ch!license reverse",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T23:13:29.229000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700952123277443132",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700952123277443132/Chocolicense.png?ex=6a57cdc9&is=6a567c49&hm=29ff40fe3731bf9663b811a72f40da9b112f54c8f24aea687a14f435dfd34a96&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 399019
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.983
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2020-04-17T23:13:36.159000-07:00",
+    "comando_completo": "ch!license flip",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T23:13:37.490000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700952157586718720",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700952157586718720/Chocolicense.png?ex=6a57cdd1&is=6a567c51&hm=f9665c3fa9364e1ea810501ee848ce351e5d3172d6f1b552ee4ff28d662f5908&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 396236
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.331
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-17T23:14:12.409000-07:00",
+    "comando_completo": "ch!license Se acabo la cuarentena, ahora entreguenme sus papeles higienicos.",
+    "respuesta_bot": {
+      "fecha": "2020-04-17T23:14:13.737000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "700952309470855168",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/700952309470855168/Chocolicense.png?ex=6a57cdf5&is=6a567c75&hm=a55004a6cc7e3ce0c9ba1efe3aabc766d5797aef21badebcaaab1750e7e4e982&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 396967
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.328
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-04-23T16:57:29.068000-07:00",
+    "comando_completo": "ch!license FBI",
+    "respuesta_bot": {
+      "fecha": "2020-04-23T16:57:30.558000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "703031832278597702",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/703031832278597702/Chocolicense.png?ex=6a581e6a&is=6a56ccea&hm=a9175f3a2e8291d74b02c733184af31c57807a59b67a10852e0b4f65321a1944&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 373984
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.49
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-04-23T16:57:45.449000-07:00",
+    "comando_completo": "ch!license putin",
+    "respuesta_bot": {
+      "fecha": "2020-04-23T16:57:47.856000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "703031904538198086",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/703031904538198086/Chocolicense.png?ex=6a581e7b&is=6a56ccfb&hm=af437f8cd6c897a244dcb7b74557d95caad53b664d9d50c93e5d216fc1f2242b&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 426537
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.407
+    }
+  },
+  {
+    "usuario": "sep.11",
+    "usuario_id": "224619540263337984",
+    "fecha_comando": "2020-05-19T12:18:02.589000-07:00",
+    "comando_completo": "ch!license Yes.",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T12:18:03.441000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "712383590364741632",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/712383590364741632/Chocolicense.png?ex=6a57dceb&is=6a568b6b&hm=c63cb721da37fc93bafa1af872c7ec695183a2a3d17e512d8f151c827acb06d7&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83868
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.852
+    }
+  },
+  {
+    "usuario": "abyita.",
+    "usuario_id": "656860233402023946",
+    "fecha_comando": "2020-05-19T12:26:42.624000-07:00",
+    "comando_completo": "ch!license Waifu",
+    "respuesta_bot": {
+      "fecha": "2020-05-19T12:26:43.344000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "712385770895442000",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/712385770895442000/Chocolicense.png?ex=6a57def3&is=6a568d73&hm=3c1a5676cd157e500a5088e2af3595896401d2273d2d4f7c1dd889c6686771c2&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83101
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.72
+    }
+  },
+  {
+    "usuario": "caja._.",
+    "usuario_id": "647803965534240778",
+    "fecha_comando": "2020-05-20T01:25:32.008000-07:00",
+    "comando_completo": "ch!license minecraft player",
+    "respuesta_bot": {
+      "fecha": "2020-05-20T01:25:32.874000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "712581768791851009",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/712581768791851009/Chocolicense.png?ex=6a57ecbc&is=6a569b3c&hm=50d50ae78b46e4cc7d3f5001859d00289d205c699e50b9884558c81036316515&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80703
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.866
+    }
+  },
+  {
+    "usuario": "nombre2888",
+    "usuario_id": "615656576090636359",
+    "fecha_comando": "2020-05-20T04:05:36.431000-07:00",
+    "comando_completo": "ch!license onu",
+    "respuesta_bot": {
+      "fecha": "2020-05-20T04:05:36.943000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "712622051071885412",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/712622051071885412/Chocolicense.png?ex=6a581240&is=6a56c0c0&hm=57550c6cfb197e72e68ae69de25a03ebffe650da1bd79ce166aa855a709b8bdf&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 79468
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.512
+    }
+  },
+  {
+    "usuario": "nombre2888",
+    "usuario_id": "615656576090636359",
+    "fecha_comando": "2020-05-25T08:48:51.266000-07:00",
+    "comando_completo": "ch!license la onu prro",
+    "respuesta_bot": {
+      "fecha": "2020-05-25T08:48:52.114000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "714505273502597210",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/714505273502597210/Chocolicense.png?ex=6a57abe4&is=6a565a64&hm=98f4a484de5e56df7980a25336cbdf46e52b0c7ec96ccc6613517eb620696804&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80196
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "😂",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "709393206432890881",
+              "name": "deleted_user_10de7c84d3b4",
+              "discriminator": "0000",
+              "nickname": "deleted_user_10de7c84d3b4",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 0.848
+    }
+  },
+  {
+    "usuario": "llacasito03",
+    "usuario_id": "426099570972426260",
+    "fecha_comando": "2020-06-04T07:49:05.873000-07:00",
+    "comando_completo": "ch!license Para ser digerida",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:49:06.680000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "718114113699577876",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/718114113699577876/Chocolicense.png?ex=6a5846a2&is=6a56f522&hm=f871fd29c5565286496e6d2c3aa0de5f9d7853ce06affe974bcb64267c9759b6&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 82749
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.807
+    }
+  },
+  {
+    "usuario": "nnafta",
+    "usuario_id": "637807504478306356",
+    "fecha_comando": "2020-06-23T15:41:51.722000-07:00",
+    "comando_completo": "ch!license say the n-word",
+    "respuesta_bot": {
+      "fecha": "2020-06-23T15:41:52.186000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "725118457007308952",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/725118457007308952/Chocolicense.png?ex=6a580cb0&is=6a56bb30&hm=0c66741956323a903030ee2d0effb07a058dd46c65dcefe7a46340213c2886db&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83099
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.464
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-01T22:35:33.267000-07:00",
+    "comando_completo": "ch!license FBI",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T22:35:39.561000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "728121693234528256",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/728121693234528256/Chocolicense.png?ex=6a57c4eb&is=6a56736b&hm=8cff5f3a58a22def5a2d8b9bd09cb67804aa49379462c482f677dbcc02f115d3&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 82483
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 6.294
+    }
+  },
+  {
+    "usuario": "melvingamerx6865",
+    "usuario_id": "650130402652192800",
+    "fecha_comando": "2020-07-01T22:40:35.620000-07:00",
+    "comando_completo": "ch!license poyo",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T22:40:37.421000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "728122942575345694",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/728122942575345694/Chocolicense.png?ex=6a57c615&is=6a567495&hm=5183f253c7225607b01d98a36dd6beb7dddd63fc055bb1fabdd43105989f4f77&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 84789
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.801
+    }
+  },
+  {
+    "usuario": "_00lucky00_",
+    "usuario_id": "687433264138682539",
+    "fecha_comando": "2020-07-01T22:40:57.285000-07:00",
+    "comando_completo": "ch!license acosador",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T22:40:58.286000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "728123030257139783",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/728123030257139783/Chocolicense.png?ex=6a57c62a&is=6a5674aa&hm=bd0dbdcffa78e33c74bb2ff01f6b496b01b5580e1a42c7d214bbb6b1974d961b&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83861
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.001
+    }
+  },
+  {
+    "usuario": "_00lucky00_",
+    "usuario_id": "687433264138682539",
+    "fecha_comando": "2020-07-01T23:09:47.890000-07:00",
+    "comando_completo": "ch!license acosador",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T23:09:48.679000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "728130287867002953",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/728130287867002953/Chocolicense.png?ex=6a57ccec&is=6a567b6c&hm=d775bced08af2f697ab9f95c6e7cabd79882fb7ae73924f8971c12e2d9dd8b3c&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83943
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.789
+    }
+  },
+  {
+    "usuario": "antonia08635",
+    "usuario_id": "725880643279650846",
+    "fecha_comando": "2020-07-01T23:09:59.049000-07:00",
+    "comando_completo": "ch!license ser Acosadan't",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T23:10:00.025000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "728130335266832394",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/728130335266832394/Chocolicense.png?ex=6a57ccf7&is=6a567b77&hm=44cd15fba0f8e0d100f29c16f98be42f649cef91b8ff098ec3ff59f27c41c682&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 84682
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.976
+    }
+  },
+  {
+    "usuario": "_00lucky00_",
+    "usuario_id": "687433264138682539",
+    "fecha_comando": "2020-07-01T23:21:07.691000-07:00",
+    "comando_completo": "ch!license acosador",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T23:21:09.079000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "728133141847343174",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/728133141847343174/Chocolicense.png?ex=6a57cf95&is=6a567e15&hm=ca0181506371ff55a1cadc0b199f32986d8b98331ca04b43480aaa12bce0017f&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83981
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.388
+    }
+  },
+  {
+    "usuario": "min.hlts",
+    "usuario_id": "684530496201293844",
+    "fecha_comando": "2020-07-16T11:37:04.793000-07:00",
+    "comando_completo": "ch!license Derrotar a Baltic en Ajedrez",
+    "respuesta_bot": {
+      "fecha": "2020-07-16T11:37:05.711000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "733391777989656667",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/733391777989656667/Chocolicense.png?ex=6a57d351&is=6a5681d1&hm=92a55c3c0d8682538440163b3f75e1d88c4c4c96ef397d8d6add81db06ceaec6&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 88109
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.918
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-07-28T20:00:59.132000-07:00",
+    "comando_completo": "ch!license UwU 7w7",
+    "respuesta_bot": {
+      "fecha": "2020-07-28T20:00:59.927000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "737867243962237048",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/737867243962237048/Chocolicense.png?ex=6a58496b&is=6a56f7eb&hm=08bfb56603fbf3751b5b02e1456fe6cd3d7ae4d964238b638ac2ad307584283c&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 86990
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.795
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-07-28T20:01:22.823000-07:00",
+    "comando_completo": "ch!license Otaku",
+    "respuesta_bot": {
+      "fecha": "2020-07-28T20:01:24.604000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "737867347590905907",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/737867347590905907/Chocolicense.png?ex=6a584984&is=6a56f804&hm=fc50b8d5e2ca309aefbc00a922e968722266a64bac47ef77deebfbb6796c85a7&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 87179
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.781
+    }
+  },
+  {
+    "usuario": "iluh.",
+    "usuario_id": "693091345509908481",
+    "fecha_comando": "2020-07-28T20:01:47.316000-07:00",
+    "comando_completo": "ch!license maestro del ajedrez",
+    "respuesta_bot": {
+      "fecha": "2020-07-28T20:01:48.493000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "737867447704616960",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/737867447704616960/Chocolicense.png?ex=6a58499c&is=6a56f81c&hm=ade9757bc2462f2420b6928ca0370cbfaeb0a68f4ca464a3335a4ba37db411c6&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 78417
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.177
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-05T14:14:09.237000-07:00",
+    "comando_completo": "ch!license para ser Jesucristo",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T14:14:10.405000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "740679065123553391",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/740679065123553391/Chocolicense.png?ex=6a57f822&is=6a56a6a2&hm=991a744ed323016b5c7f4b3d646403858206308ff88210dd8354f2b2a50a94e1&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83891
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.168
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-05T14:14:39.238000-07:00",
+    "comando_completo": "ch!license ser Jesucristo",
+    "respuesta_bot": {
+      "fecha": "2020-08-05T14:14:39.909000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "740679189216100373",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/740679189216100373/Chocolicense.png?ex=6a57f83f&is=6a56a6bf&hm=50b869ce622e0d8a87b98ff5f88978321f64934c53f2c0783a655852d58eae01&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 83497
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.671
+    }
+  },
+  {
+    "usuario": "kingofthecum0437",
+    "usuario_id": "589783661185073154",
+    "fecha_comando": "2020-08-06T03:01:19.463000-07:00",
+    "comando_completo": "ch!license para comer pan uwu xd",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T03:01:20.129000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "740872128320241734",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/740872128320241734/Chocolicense.png?ex=6a580330&is=6a56b1b0&hm=ae225bdee9ef9df4b9847a0fef75c546685dd1395127cfc49c6ed1e80ccba45d&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80920
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.666
+    }
+  },
+  {
+    "usuario": "iluh.",
+    "usuario_id": "693091345509908481",
+    "fecha_comando": "2020-08-06T03:02:07.022000-07:00",
+    "comando_completo": "ch!license hacer el UwU",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T03:02:07.634000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "740872327373520986",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/740872327373520986/Chocolicense.png?ex=6a58035f&is=6a56b1df&hm=6bff6785bae3e78002ad62ab5825c72293b5dc95e3e34250fab799aeb4c7189f&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 81530
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.612
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-09-22T06:21:12.649000-07:00",
+    "comando_completo": "ch!license No assist to class",
+    "respuesta_bot": {
+      "fecha": "2020-09-22T06:21:13.289000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "757954660681252894",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/757954660681252894/Chocolicense.png?ex=6a583209&is=6a56e089&hm=434de4b6f1661d9c81fa631520fbcbc895912b2b537656fc663c970c80e5587d&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 81455
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.64
+    }
+  },
+  {
+    "usuario": "ayanee1441",
+    "usuario_id": "740338476507201577",
+    "fecha_comando": "2020-09-22T06:22:11.200000-07:00",
+    "comando_completo": "ch!license Tener Reptiles",
+    "respuesta_bot": {
+      "fecha": "2020-09-22T06:22:12.312000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "757954908069822544",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/757954908069822544/Chocolicense.png?ex=6a583244&is=6a56e0c4&hm=205adef127338bbbacb468611be9d9b0e29fb015c36d1658766ec8eebe20e195&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80218
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.112
+    }
+  },
+  {
+    "usuario": "mayeutik",
+    "usuario_id": "497750506328817664",
+    "fecha_comando": "2020-09-22T06:22:50.965000-07:00",
+    "comando_completo": "ch!license License to: License to: License to:",
+    "respuesta_bot": {
+      "fecha": "2020-09-22T06:22:57.444000-07:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  ZTLeo#1500  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Training Success!",
+          "url": null,
+          "timestamp": null,
+          "description": "You helped your pet to practice doing a front flip! Good job!",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/757955097706758255/pet.png?ex=6a583271&is=6a56e0f1&hm=397665cbd5a279799285a0d06e527ea9ab6c6cf028fa3027189cc193e348d304&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/757955097706758255/pet.png?ex=6a583271&is=6a56e0f1&hm=397665cbd5a279799285a0d06e527ea9ab6c6cf028fa3027189cc193e348d304&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "Enter \"t!tg carer\" to hire a carer to watch your pet while you're busy."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_xp: Exp: **934 / 3400** (`+10`)\n:pet_fatigue: Fatigue: **5 / 522** (`+3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.479
+    }
+  },
+  {
+    "usuario": "mayeutik",
+    "usuario_id": "497750506328817664",
+    "fecha_comando": "2020-09-22T06:23:07.011000-07:00",
+    "comando_completo": "ch!license License to: License to:",
+    "respuesta_bot": {
+      "fecha": "2020-09-22T06:23:07.817000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "757955140836917378",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/757955140836917378/Chocolicense.png?ex=6a58327b&is=6a56e0fb&hm=4a84f2aaf7089cf9d16ec23e05f1698761f28670de15d003a0f3b629d7900cc1&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80169
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.806
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-10-04T07:00:50.009000-07:00",
+    "comando_completo": "ch!license permiso para tomar Clorox",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T07:00:50.939000-07:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "762313287705559081",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/762313287705559081/Chocolicense.png?ex=6a583b52&is=6a56e9d2&hm=85b700d2b8a40c2a1811481e5c2708493c0ee1c4026139b219686926addea852&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 87601
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.93
+    }
+  },
+  {
+    "usuario": "katsuhitokamado.",
+    "usuario_id": "683652819181633566",
+    "fecha_comando": "2020-11-12T08:12:01.401000-08:00",
+    "comando_completo": "ch!license",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T08:12:01.962000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-12T08:12:01.919-08:00",
+          "description": "Leaderboard Rank: 72346th",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Jeanpy#5329",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/657394073438650402",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/6VbzFCxQtfoG4o2UxnyWpQzrJZARzEcg0QRavqf_lAE/%3Fsize%3D128/https/cdn.discordapp.com/avatars/657394073438650402/ea10bcf6efb9c3ae268aebe58b77a1f5.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/657394073438650402/ea10bcf6efb9c3ae268aebe58b77a1f5.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫274",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫0",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫274",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.561
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-12T06:16:29.642000-08:00",
+    "comando_completo": "ch!license ser manco",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T06:16:30.275000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "787321990322585610",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/787321990322585610/Chocolicense.png?ex=6a583efe&is=6a56ed7e&hm=1ab96d1e5ded6c2f83a2da74389d5cc7561ae6fd55a523eed91227554df0bebb&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 79697
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.633
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-12T21:48:45.196000-08:00",
+    "comando_completo": "ch!license Diplomático",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T21:48:45.685000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "787556600830754866",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/787556600830754866/Chocolicense.png?ex=6a5870bd&is=6a571f3d&hm=2acba69e2663c06fc2790d3c1947c198c9655267e9eb5092692fea6645255fae&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80006
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.489
+    }
+  },
+  {
+    "usuario": "stare00262",
+    "usuario_id": "759258735196504105",
+    "fecha_comando": "2020-12-12T21:49:24.040000-08:00",
+    "comando_completo": "ch!license Diplomático",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T21:49:25.279000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "787556766484791316",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/787556766484791316/Chocolicense.png?ex=6a5870e5&is=6a571f65&hm=f801db171a2618c8947f2a7c2770193eb2cdda450e20851a0006d301628abb59&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 85670
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.239
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-12T21:50:45.498000-08:00",
+    "comando_completo": "ch!license Embajador Chocolat-Narnia",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T21:50:45.979000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "787557104931176488",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/787557104931176488/Chocolicense.png?ex=6a587135&is=6a571fb5&hm=66cf8d58bf4ec9c49d0a623fc79834a878311df0c23186e436f69f07c10adefd&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 80803
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.481
+    }
+  },
+  {
+    "usuario": "didi2528",
+    "usuario_id": "649317137998938183",
+    "fecha_comando": "2020-12-12T21:53:00.119000-08:00",
+    "comando_completo": "ch!license diplomático",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T21:53:00.850000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "787557670961938442",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/787557670961938442/Chocolicense.png?ex=6a5871bc&is=6a57203c&hm=91c51dc27788738810d3c60ce0f9e5e13991b27834d52f9c559c60a02c659e84&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 84166
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.731
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-19T15:52:20.095000-08:00",
+    "comando_completo": "ch!license Diplomático",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T15:52:20.790000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "790003620627742740",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/790003620627742740/Chocolicense.png?ex=6a581d34&is=6a56cbb4&hm=4fbe0f15f78f2132dd9400cfea0886c9ef282155083a901031bfa3aec8cb4a24&",
+          "fileName": "Chocolicense.png",
+          "fileSizeBytes": 82132
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.695
+    }
+  }
+]

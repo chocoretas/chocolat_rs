@@ -1,0 +1,1060 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-07T12:18:19.553000-07:00",
+    "comando_completo": "ch!rate Richard",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T12:18:19.734000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Richard** un **8/10**",
+          "color": "#A2293F",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.181
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-07T12:18:44.900000-07:00",
+    "comando_completo": "ch!rate Anime Gasm",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T12:18:45.490000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Anime Gasm** un **5/10**",
+          "color": "#C5D79E",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.59
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-06-07T12:19:03.207000-07:00",
+    "comando_completo": "ch!rate owo",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T12:19:03.422000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **owo** un **4/10**",
+          "color": "#F12D01",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-06-07T12:19:10.883000-07:00",
+    "comando_completo": "ch!rate Mizuki",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T12:19:11.037000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Mizuki** un **3/10**",
+          "color": "#7AA29A",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "edufran2019",
+    "usuario_id": "418454459337801728",
+    "fecha_comando": "2019-06-07T12:19:23.346000-07:00",
+    "comando_completo": "ch!rate edufran",
+    "respuesta_bot": {
+      "fecha": "2019-06-07T12:19:26.827000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **edufran** un **7/10**",
+          "color": "#39E882",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.481
+    }
+  },
+  {
+    "usuario": "ezeviciokal",
+    "usuario_id": "307632805469224970",
+    "fecha_comando": "2019-07-13T20:57:34.487000-07:00",
+    "comando_completo": "ch!rate Hola",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:57:34.631000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Hola** un **7/10**",
+          "color": "#489CC6",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.144
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-27T21:03:20.689000-07:00",
+    "comando_completo": "ch!rate",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T21:03:20.807000-07:00",
+      "contenido": "Debes decir algo para puntuar.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.118
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-27T21:03:40.665000-07:00",
+    "comando_completo": "ch!rate Patas",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T21:03:40.828000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Patas** un **7/10**",
+          "color": "#E6CD6B",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-27T21:03:52.177000-07:00",
+    "comando_completo": "ch!rate Mi depresión",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T21:03:52.259000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Mi depresión** un **4/10**",
+          "color": "#74ED7B",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.082
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-27T21:03:58.938000-07:00",
+    "comando_completo": "ch!rate <Hola>",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T21:03:59.083000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **<Hola>** un **4/10**",
+          "color": "#3ECACC",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.145
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T13:28:17.533000-07:00",
+    "comando_completo": "ch!rate ser un alien",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T13:28:18.048000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **ser un alien** un **2/10**",
+          "color": "#F4F04C",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.515
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-09-01T13:30:24.078000-07:00",
+    "comando_completo": "ch!rate Olah o Hola?",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T13:30:24.264000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Olah o Hola?** un **7/10**",
+          "color": "#926199",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T13:32:52.004000-07:00",
+    "comando_completo": "ch!rate  @zoW",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T13:32:52.078000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a ** @zoW** un **7/10**",
+          "color": "#277A69",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.074
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T13:33:23.351000-07:00",
+    "comando_completo": "ch!rate @Deleted User",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T13:33:26.229000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **@Unknown** un **7/10**",
+          "color": "#574F5A",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.878
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-02T13:52:41.433000-07:00",
+    "comando_completo": "ch!rate ser un humano",
+    "respuesta_bot": {
+      "fecha": "2019-09-02T13:52:41.718000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **ser un humano** un **8/10**",
+          "color": "#595CD1",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.285
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-18T22:56:35.910000-07:00",
+    "comando_completo": "ch!rate yaoi",
+    "respuesta_bot": {
+      "fecha": "2019-09-18T22:56:36.019000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **yaoi** un **8/10**",
+          "color": "#E96B9D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.109
+    }
+  },
+  {
+    "usuario": "ramboxd4240",
+    "usuario_id": "661737611056119820",
+    "fecha_comando": "2020-01-04T11:48:01.739000-08:00",
+    "comando_completo": "ch!rate @Rambo xD",
+    "respuesta_bot": {
+      "fecha": "2020-01-04T11:48:05.431000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **@Rambo xD** un **9/10**",
+          "color": "#4DB2A9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 3.692
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:26:52.311000-08:00",
+    "comando_completo": "ch!rate",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:27:03.673000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **1** un **3/10**",
+          "color": "#FEC3F5",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 11.362
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:27:03.470000-08:00",
+    "comando_completo": "ch!rate 1",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:27:03.673000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **1** un **3/10**",
+          "color": "#FEC3F5",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:27:24.853000-08:00",
+    "comando_completo": "ch!rate  @Lapa",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:27:25.463000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a ** @Lapa** un **0/10**",
+          "color": "#A229A9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.61
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T13:27:49.404000-08:00",
+    "comando_completo": "ch!rate  @kailersito",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:27:49.569000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a ** @kailersito** un **9/10**",
+          "color": "#381309",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.165
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-05-09T20:20:03.936000-07:00",
+    "comando_completo": "ch!rate Jhosep Joestar",
+    "respuesta_bot": {
+      "fecha": "2020-05-09T20:20:04.067000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 2 hours and 29 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Reeddo#4278",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/k3Dx6sigI-LLHHrf2i6q74Lf2bnF1u5db5FsdMGn-xw/%3Fsize%3D128/https/cdn.discordapp.com/avatars/288143032375574538/b3ba55f7d4f054e34fa74e53a42d50da.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/288143032375574538/b3ba55f7d4f054e34fa74e53a42d50da.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.131
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-05-09T20:20:52.852000-07:00",
+    "comando_completo": "ch!rate Pornaleff",
+    "respuesta_bot": {
+      "fecha": "2020-05-09T20:20:55.252000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Pornaleff** un **2/10**",
+          "color": "#7141DE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.4
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-05-09T20:23:29.102000-07:00",
+    "comando_completo": "ch!rate Reeddo",
+    "respuesta_bot": {
+      "fecha": "2020-05-09T20:23:31.194000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Reeddo** un **9/10**",
+          "color": "#B31EA9",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.092
+    }
+  },
+  {
+    "usuario": "zuru1605",
+    "usuario_id": "661323608139890720",
+    "fecha_comando": "2020-05-09T20:23:47.950000-07:00",
+    "comando_completo": "ch!rate Avy",
+    "respuesta_bot": {
+      "fecha": "2020-05-09T20:23:48.373000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Avy** un **1/10**",
+          "color": "#F4A308",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.423
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-05-23T01:13:49.838000-07:00",
+    "comando_completo": "ch!rate que tan guapo soy xd?",
+    "respuesta_bot": {
+      "fecha": "2020-05-23T01:13:50.007000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **que tan guapo soy xd?** un **3/10**",
+          "color": "#AE1ECC",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.169
+    }
+  },
+  {
+    "usuario": "mocchi1902",
+    "usuario_id": "635632669409148929",
+    "fecha_comando": "2020-05-23T06:29:55.994000-07:00",
+    "comando_completo": "ch!rate illegalisimo",
+    "respuesta_bot": {
+      "fecha": "2020-05-23T06:29:56.181000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **illegalisimo** un **3/10**",
+          "color": "#2300EE",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "lucaspm2240",
+    "usuario_id": "699060186052034621",
+    "fecha_comando": "2020-05-31T20:29:56.228000-07:00",
+    "comando_completo": "ch!rate el amor de Darth Vader hacia mi",
+    "respuesta_bot": {
+      "fecha": "2020-05-31T20:29:56.413000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **el amor de Darth Vader hacia mi** un **4/10**",
+          "color": "#D0AFED",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "gavi.zdnm",
+    "usuario_id": "709228579736780864",
+    "fecha_comando": "2020-05-31T20:30:20.428000-07:00",
+    "comando_completo": "ch!rate el amor de Lucas hacia mí",
+    "respuesta_bot": {
+      "fecha": "2020-05-31T20:30:20.602000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **el amor de Lucas hacia mí** un **8/10**",
+          "color": "#CDDC7F",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "lucaspm2240",
+    "usuario_id": "699060186052034621",
+    "fecha_comando": "2020-06-01T14:47:47.415000-07:00",
+    "comando_completo": "ch!rate el porcentaje de amor que tiene @Deleted User hacia mi",
+    "respuesta_bot": {
+      "fecha": "2020-06-01T14:47:48.078000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **el porcentaje de amor que tiene @Unknown hacia mi** un **1/10**",
+          "color": "#12FDD1",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.663
+    }
+  },
+  {
+    "usuario": "lucaspm2240",
+    "usuario_id": "699060186052034621",
+    "fecha_comando": "2020-06-03T18:45:22.642000-07:00",
+    "comando_completo": "ch!rate que tan trash es este server",
+    "respuesta_bot": {
+      "fecha": "2020-06-03T18:45:22.851000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **que tan trash es este server** un **6/10**",
+          "color": "#587FC5",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "santi090",
+    "usuario_id": "512419385835651082",
+    "fecha_comando": "2020-06-24T18:36:10.442000-07:00",
+    "comando_completo": "ch!rate lo que mostró ese man",
+    "respuesta_bot": {
+      "fecha": "2020-06-24T18:36:10.645000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **lo que mostró ese man** un **6/10**",
+          "color": "#B11475",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2020-11-12T20:19:48.139000-08:00",
+    "comando_completo": "ch!rate Kimy",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T20:19:48.375000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Kimy** un **4/10**",
+          "color": "#C6929A",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2020-11-12T20:19:52.665000-08:00",
+    "comando_completo": "ch!rate Nina",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T20:19:52.769000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-12T20:19:52.694-08:00",
+          "description": "Leaderboard Rank: 63rd",
+          "color": "#03A9F4",
+          "author": {
+            "name": "franportillo#5108",
+            "url": "https://unbelievaboat.com/leaderboard/379197913936429056/422621797934956545",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nmiIoRn2wWp7rKgk3_xhwrTMWIPfrP7MbyTdXA795cc/%3Fsize%3D128/https/cdn.discordapp.com/avatars/422621797934956545/08cd875797f4534a31d62421b578a140.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/422621797934956545/08cd875797f4534a31d62421b578a140.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Cash:",
+              "value": "🍫15,000",
+              "isInline": true
+            },
+            {
+              "name": "Bank:",
+              "value": "🍫290,035",
+              "isInline": true
+            },
+            {
+              "name": "Net Worth:",
+              "value": "🍫305,035",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.104
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-12T20:20:01.779000-08:00",
+    "comando_completo": "ch!rate H",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T20:20:09.812000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **H** un **1/10**",
+          "color": "#93A209",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 8.033
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-14T11:39:35.343000-08:00",
+    "comando_completo": "ch!rate Espectro",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T11:39:35.705000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **Espectro** un **1/10**",
+          "color": "#776471",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.362
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-14T11:39:50.714000-08:00",
+    "comando_completo": "ch!rate facha de espectro",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T11:39:51.006000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **facha de espectro** un **6/10**",
+          "color": "#F473E2",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.292
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-11-14T11:39:53.303000-08:00",
+    "comando_completo": "ch!rate @☆Mateo☆",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T11:39:53.711000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **@☆Mateo☆** un **6/10**",
+          "color": "#1090C8",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.408
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-14T11:40:08.578000-08:00",
+    "comando_completo": "ch!rate facha de @franportillo :chNezukoSit:",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T11:40:09.103000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **facha de @franportillo :chNezukoSit:** un **2/10**",
+          "color": "#07F30D",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "757354934269378707",
+              "name": "chNezukoSit",
+              "code": "chNezukoSit",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/757354934269378707.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.525
+    }
+  },
+  {
+    "usuario": "espectroconpan",
+    "usuario_id": "695087192619352095",
+    "fecha_comando": "2020-11-14T11:40:17.631000-08:00",
+    "comando_completo": "ch!rate EspectroConFacha",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T11:40:19.318000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **EspectroConFacha** un **5/10**",
+          "color": "#2B4648",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.687
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-14T11:40:55.450000-08:00",
+    "comando_completo": "ch!rate espectrosimp",
+    "respuesta_bot": {
+      "fecha": "2020-11-14T11:40:55.730000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":question: Evaluación",
+          "url": null,
+          "timestamp": null,
+          "description": "Le doy a **espectrosimp** un **0/10**",
+          "color": "#E88DC2",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.28
+    }
+  }
+]

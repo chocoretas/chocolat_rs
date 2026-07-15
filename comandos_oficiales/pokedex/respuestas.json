@@ -1,0 +1,5115 @@
+[
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-01-07T08:13:33.812000-08:00",
+    "comando_completo": "ch!pokedex Pichu",
+    "respuesta_bot": {
+      "fecha": "2019-01-07T08:13:34.021000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+          "color": "#D9371A",
+          "author": {
+            "name": "Pokédex de Pichu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7vCBPELRMyRqoh-Cn_nzvopUAeM6habp7f9mHdV-qG0/https/pokeres.bastionbot.org/images/pokemon/172.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/172.png",
+            "width": 680,
+            "height": 680
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/7vCBPELRMyRqoh-Cn_nzvopUAeM6habp7f9mHdV-qG0/https/pokeres.bastionbot.org/images/pokemon/172.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/172.png",
+            "width": 680,
+            "height": 680
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/7vCBPELRMyRqoh-Cn_nzvopUAeM6habp7f9mHdV-qG0/https/pokeres.bastionbot.org/images/pokemon/172.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/172.png",
+              "width": 680,
+              "height": 680
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "4.4 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "donneeveen",
+    "usuario_id": "369312195483271168",
+    "fecha_comando": "2019-05-16T08:15:55.849000-07:00",
+    "comando_completo": "ch!pokedex snubull",
+    "respuesta_bot": {
+      "fecha": "2019-05-16T08:15:56.427000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.578
+    }
+  },
+  {
+    "usuario": "donneeveen",
+    "usuario_id": "369312195483271168",
+    "fecha_comando": "2019-05-16T08:16:08.037000-07:00",
+    "comando_completo": "ch!pokedex snubbul",
+    "respuesta_bot": {
+      "fecha": "2019-05-16T08:16:08.326000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.289
+    }
+  },
+  {
+    "usuario": "deleteduser7399",
+    "usuario_id": "566001362979127296",
+    "fecha_comando": "2019-07-05T20:05:59.806000-07:00",
+    "comando_completo": "ch!pokedex type:null",
+    "respuesta_bot": {
+      "fecha": "2019-07-05T20:06:00.129000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.323
+    }
+  },
+  {
+    "usuario": "deleteduser7399",
+    "usuario_id": "566001362979127296",
+    "fecha_comando": "2019-07-05T20:06:35.140000-07:00",
+    "comando_completo": "ch!pokedex Type: null",
+    "respuesta_bot": {
+      "fecha": "2019-07-05T20:06:35.342000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+          "color": "#83144F",
+          "author": {
+            "name": "Pokédex de Type: Null",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/liZWPAPktGpWiOH_tIfGW9YtlUKnfTYjNa-PvMVxPDc/https/pokeres.bastionbot.org/images/pokemon/772.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/772.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/liZWPAPktGpWiOH_tIfGW9YtlUKnfTYjNa-PvMVxPDc/https/pokeres.bastionbot.org/images/pokemon/772.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/772.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/liZWPAPktGpWiOH_tIfGW9YtlUKnfTYjNa-PvMVxPDc/https/pokeres.bastionbot.org/images/pokemon/772.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/772.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "6'03\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "265.7 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "7 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Type: Null, Silvally",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Battle Armor",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Ninguna.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-15T16:27:49.130000-07:00",
+    "comando_completo": "ch!pokedex",
+    "respuesta_bot": {
+      "fecha": "2019-07-15T16:27:49.185000-07:00",
+      "contenido": "Debes poner el nombre del Pokémon que quieras buscar.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.055
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-15T16:28:03.120000-07:00",
+    "comando_completo": "ch!pokedex random",
+    "respuesta_bot": {
+      "fecha": "2019-07-15T16:28:03.424000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.304
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-15T16:28:05.211000-07:00",
+    "comando_completo": "ch!pokedex Pikachu",
+    "respuesta_bot": {
+      "fecha": "2019-07-15T16:28:05.449000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+          "color": "#E1E6EC",
+          "author": {
+            "name": "Pokédex de Pikachu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/D_KpeyHkYjJh-R5Xlavxy6KDxxh4J7VzFT-QJW7ohGA/https/pokeres.bastionbot.org/images/pokemon/25.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/D_KpeyHkYjJh-R5Xlavxy6KDxxh4J7VzFT-QJW7ohGA/https/pokeres.bastionbot.org/images/pokemon/25.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/D_KpeyHkYjJh-R5Xlavxy6KDxxh4J7VzFT-QJW7ohGA/https/pokeres.bastionbot.org/images/pokemon/25.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/25.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "13.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "crazy_3101",
+    "usuario_id": "443804416718536714",
+    "fecha_comando": "2019-07-20T20:04:30.437000-07:00",
+    "comando_completo": "ch!pokedex Yanmega",
+    "respuesta_bot": {
+      "fecha": "2019-07-20T20:04:30.646000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+          "color": "#C164FD",
+          "author": {
+            "name": "Pokédex de Yanmega",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/azLaBnk9o0SaHUDQTkOf7VOHNZ4IB_fqQLukU4SihgI/https/pokeres.bastionbot.org/images/pokemon/469.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/469.png",
+            "width": 431,
+            "height": 431
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/azLaBnk9o0SaHUDQTkOf7VOHNZ4IB_fqQLukU4SihgI/https/pokeres.bastionbot.org/images/pokemon/469.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/469.png",
+            "width": 431,
+            "height": 431
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/azLaBnk9o0SaHUDQTkOf7VOHNZ4IB_fqQLukU4SihgI/https/pokeres.bastionbot.org/images/pokemon/469.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/469.png",
+              "width": 431,
+              "height": 431
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Bug, Poison",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "6'03\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "113.5 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "4 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Yanma, Yanmega",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Speed Boost, Tinted Lens",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Frisk",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "crazy_3101",
+    "usuario_id": "443804416718536714",
+    "fecha_comando": "2019-07-20T20:04:47.515000-07:00",
+    "comando_completo": "ch!pokedex Yanma",
+    "respuesta_bot": {
+      "fecha": "2019-07-20T20:04:47.624000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away",
+          "color": "#4B64EC",
+          "author": {
+            "name": "Pokédex de Yanma",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/X4Asopmk3hTsixAfeLlHANrlz13FZCRqG1-ZFmm_8GM/https/pokeres.bastionbot.org/images/pokemon/193.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/193.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/X4Asopmk3hTsixAfeLlHANrlz13FZCRqG1-ZFmm_8GM/https/pokeres.bastionbot.org/images/pokemon/193.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/193.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/X4Asopmk3hTsixAfeLlHANrlz13FZCRqG1-ZFmm_8GM/https/pokeres.bastionbot.org/images/pokemon/193.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/193.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Bug, Flying",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'11\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "83.8 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Yanma, Yanmega",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Speed Boost, Compound Eyes",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Frisk",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.109
+    }
+  },
+  {
+    "usuario": "mmmm02458",
+    "usuario_id": "609453889007124480",
+    "fecha_comando": "2019-08-19T20:37:14.989000-07:00",
+    "comando_completo": "ch!pokedex umbreon",
+    "respuesta_bot": {
+      "fecha": "2019-08-19T20:37:15.332000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+          "color": "#0DBE88",
+          "author": {
+            "name": "Pokédex de Umbreon",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sF-cK8bGqRufkFUQ1RPetF2EX6ajyVToGT6tB5pP_Fg/https/pokeres.bastionbot.org/images/pokemon/197.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/197.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/sF-cK8bGqRufkFUQ1RPetF2EX6ajyVToGT6tB5pP_Fg/https/pokeres.bastionbot.org/images/pokemon/197.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/197.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/sF-cK8bGqRufkFUQ1RPetF2EX6ajyVToGT6tB5pP_Fg/https/pokeres.bastionbot.org/images/pokemon/197.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/197.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Dark",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'03\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "59.5 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Eevee, Umbreon",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Synchronize",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Inner Focus",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.343
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T09:23:41.193000-07:00",
+    "comando_completo": "ch!pokedex Totodile",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:23:41.552000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.",
+          "color": "#012642",
+          "author": {
+            "name": "Pokédex de Totodile",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e2J5Bm6diDCTgPGddiZMqIVqT2EtLR9sgBghZ7EoiRI/https/pokeres.bastionbot.org/images/pokemon/158.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/158.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/e2J5Bm6diDCTgPGddiZMqIVqT2EtLR9sgBghZ7EoiRI/https/pokeres.bastionbot.org/images/pokemon/158.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/158.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/e2J5Bm6diDCTgPGddiZMqIVqT2EtLR9sgBghZ7EoiRI/https/pokeres.bastionbot.org/images/pokemon/158.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/158.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "20.9 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Totodile, Croconaw, Feraligatr",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.359
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T09:24:58.695000-07:00",
+    "comando_completo": "ch!pokedex eevee",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:24:58.874000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+          "color": "#A5E6FC",
+          "author": {
+            "name": "Pokédex de Eevee",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jb9ODqNE6maXkb1FUq1w0mWb_20U3AheU0SO4t96KAs/https/pokeres.bastionbot.org/images/pokemon/133.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/133.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/jb9ODqNE6maXkb1FUq1w0mWb_20U3AheU0SO4t96KAs/https/pokeres.bastionbot.org/images/pokemon/133.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/133.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/jb9ODqNE6maXkb1FUq1w0mWb_20U3AheU0SO4t96KAs/https/pokeres.bastionbot.org/images/pokemon/133.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/133.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "14.3 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Eevee, Vaporeon/Jolteon/Flareon/Espeon/Umbreon/Leafeon/Glaceon/Sylveon",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Run Away, Adaptability",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Anticipation",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.179
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T09:25:35.909000-07:00",
+    "comando_completo": "ch!pokedex Feraligatr",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:25:36.086000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
+          "color": "#2FEFF7",
+          "author": {
+            "name": "Pokédex de Feraligatr",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yQYIfj6leeayoYsWLlUVqFwE8-Kgt14QmJdONC2ZURc/https/pokeres.bastionbot.org/images/pokemon/160.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/160.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/yQYIfj6leeayoYsWLlUVqFwE8-Kgt14QmJdONC2ZURc/https/pokeres.bastionbot.org/images/pokemon/160.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/160.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/yQYIfj6leeayoYsWLlUVqFwE8-Kgt14QmJdONC2ZURc/https/pokeres.bastionbot.org/images/pokemon/160.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/160.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "7'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "195.8 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Totodile, Croconaw, Feraligatr",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T09:26:14.096000-07:00",
+    "comando_completo": "ch!pokedex Croconaw",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:26:14.340000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+          "color": "#111DAB",
+          "author": {
+            "name": "Pokédex de Croconaw",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QwzvKiEx5uZHdSS0jdGKIz2QfCEQ442KGGrlZd1NR_g/https/pokeres.bastionbot.org/images/pokemon/159.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/159.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/QwzvKiEx5uZHdSS0jdGKIz2QfCEQ442KGGrlZd1NR_g/https/pokeres.bastionbot.org/images/pokemon/159.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/159.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/QwzvKiEx5uZHdSS0jdGKIz2QfCEQ442KGGrlZd1NR_g/https/pokeres.bastionbot.org/images/pokemon/159.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/159.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "55.1 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Totodile, Croconaw, Feraligatr",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.244
+    }
+  },
+  {
+    "usuario": "duck.a",
+    "usuario_id": "510948675321593886",
+    "fecha_comando": "2019-08-28T09:28:18.680000-07:00",
+    "comando_completo": "ch!pokedex psyduck",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:28:19.064000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
+          "color": "#C0D2B9",
+          "author": {
+            "name": "Pokédex de Psyduck",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/j3FRaheIf9oCHs2Xat0rKLabOl33HMigCbPVCqHsMJs/https/pokeres.bastionbot.org/images/pokemon/54.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/54.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/j3FRaheIf9oCHs2Xat0rKLabOl33HMigCbPVCqHsMJs/https/pokeres.bastionbot.org/images/pokemon/54.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/54.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/j3FRaheIf9oCHs2Xat0rKLabOl33HMigCbPVCqHsMJs/https/pokeres.bastionbot.org/images/pokemon/54.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/54.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "43.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Psyduck, Golduck",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Damp, Cloud Nine",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Swift Swim",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.384
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T09:43:30.738000-07:00",
+    "comando_completo": "ch!pokedex latias",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:43:31.174000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "LATIAS is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The POKéMON enfolds its body with its down and refracts light to alter its appearance.",
+          "color": "#1EADA5",
+          "author": {
+            "name": "Pokédex de Latias",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VbzoXq4LVLMHjzzwYSeHkOfbSit6EVewQEmXkfykVpA/https/pokeres.bastionbot.org/images/pokemon/380.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/380.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/VbzoXq4LVLMHjzzwYSeHkOfbSit6EVewQEmXkfykVpA/https/pokeres.bastionbot.org/images/pokemon/380.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/380.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/VbzoXq4LVLMHjzzwYSeHkOfbSit6EVewQEmXkfykVpA/https/pokeres.bastionbot.org/images/pokemon/380.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/380.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Dragon, Psychic",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "4'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "88.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "3 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Latias",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Levitate",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Ninguna.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.436
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T09:44:20.149000-07:00",
+    "comando_completo": "ch!pokedex latios",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T09:44:20.856000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "LATIOS will only open its heart to a TRAINER with a compassionate spirit. This POKéMON can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+          "color": "#D0C2AA",
+          "author": {
+            "name": "Pokédex de Latios",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/rFUJSrtZexEPiUFiB6odt05QG-nqKD0zcRkfX1KpKGo/https/pokeres.bastionbot.org/images/pokemon/381.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/381.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/rFUJSrtZexEPiUFiB6odt05QG-nqKD0zcRkfX1KpKGo/https/pokeres.bastionbot.org/images/pokemon/381.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/381.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/rFUJSrtZexEPiUFiB6odt05QG-nqKD0zcRkfX1KpKGo/https/pokeres.bastionbot.org/images/pokemon/381.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/381.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Dragon, Psychic",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "6'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "132.3 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "3 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Latios",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Levitate",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Ninguna.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.707
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-28T17:20:58.591000-07:00",
+    "comando_completo": "ch!pokedex Mareanie",
+    "respuesta_bot": {
+      "fecha": "2019-08-28T17:20:58.835000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+          "color": "#F29083",
+          "author": {
+            "name": "Pokédex de Mareanie",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R0aqxNwT_ZI_rnjzCdh6mMTDIqdA-44Bz3oimWxi4eQ/https/pokeres.bastionbot.org/images/pokemon/747.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/747.png",
+            "width": 376,
+            "height": 376
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/R0aqxNwT_ZI_rnjzCdh6mMTDIqdA-44Bz3oimWxi4eQ/https/pokeres.bastionbot.org/images/pokemon/747.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/747.png",
+            "width": 376,
+            "height": 376
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/R0aqxNwT_ZI_rnjzCdh6mMTDIqdA-44Bz3oimWxi4eQ/https/pokeres.bastionbot.org/images/pokemon/747.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/747.png",
+              "width": 376,
+              "height": 376
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Poison, Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "17.6 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "7 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Mareanie, Toxapex",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Merciless, Limber",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Regenerator",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.244
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-29T09:33:28.119000-07:00",
+    "comando_completo": "ch!pokedex mudkip",
+    "respuesta_bot": {
+      "fecha": "2019-08-29T09:33:28.343000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
+          "color": "#DC818B",
+          "author": {
+            "name": "Pokédex de Mudkip",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hW6pqTteSdW4wm4aN78aXCGRTwdkk2cDeJz-oZmoY4Y/https/pokeres.bastionbot.org/images/pokemon/258.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/258.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/hW6pqTteSdW4wm4aN78aXCGRTwdkk2cDeJz-oZmoY4Y/https/pokeres.bastionbot.org/images/pokemon/258.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/258.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/hW6pqTteSdW4wm4aN78aXCGRTwdkk2cDeJz-oZmoY4Y/https/pokeres.bastionbot.org/images/pokemon/258.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/258.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "16.8 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "3 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Mudkip, Marshtomp, Swampert",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Damp",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.224
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-30T03:20:32.520000-07:00",
+    "comando_completo": "ch!pokedex croconaw",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T03:20:32.762000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+          "color": "#B6414B",
+          "author": {
+            "name": "Pokédex de Croconaw",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QwzvKiEx5uZHdSS0jdGKIz2QfCEQ442KGGrlZd1NR_g/https/pokeres.bastionbot.org/images/pokemon/159.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/159.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/QwzvKiEx5uZHdSS0jdGKIz2QfCEQ442KGGrlZd1NR_g/https/pokeres.bastionbot.org/images/pokemon/159.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/159.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/QwzvKiEx5uZHdSS0jdGKIz2QfCEQ442KGGrlZd1NR_g/https/pokeres.bastionbot.org/images/pokemon/159.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/159.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "55.1 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Totodile, Croconaw, Feraligatr",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-08-30T13:18:28.621000-07:00",
+    "comando_completo": "ch!pokedex Totodile",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T13:18:28.905000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.",
+          "color": "#92AA3F",
+          "author": {
+            "name": "Pokédex de Totodile",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e2J5Bm6diDCTgPGddiZMqIVqT2EtLR9sgBghZ7EoiRI/https/pokeres.bastionbot.org/images/pokemon/158.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/158.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/e2J5Bm6diDCTgPGddiZMqIVqT2EtLR9sgBghZ7EoiRI/https/pokeres.bastionbot.org/images/pokemon/158.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/158.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/e2J5Bm6diDCTgPGddiZMqIVqT2EtLR9sgBghZ7EoiRI/https/pokeres.bastionbot.org/images/pokemon/158.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/158.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "20.9 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Totodile, Croconaw, Feraligatr",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.284
+    }
+  },
+  {
+    "usuario": "duck.a",
+    "usuario_id": "510948675321593886",
+    "fecha_comando": "2019-08-30T13:18:54.575000-07:00",
+    "comando_completo": "ch!pokedex Psyduck",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T13:18:54.782000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
+          "color": "#3FC2AE",
+          "author": {
+            "name": "Pokédex de Psyduck",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/j3FRaheIf9oCHs2Xat0rKLabOl33HMigCbPVCqHsMJs/https/pokeres.bastionbot.org/images/pokemon/54.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/54.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/j3FRaheIf9oCHs2Xat0rKLabOl33HMigCbPVCqHsMJs/https/pokeres.bastionbot.org/images/pokemon/54.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/54.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/j3FRaheIf9oCHs2Xat0rKLabOl33HMigCbPVCqHsMJs/https/pokeres.bastionbot.org/images/pokemon/54.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/54.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "43.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Psyduck, Golduck",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Damp, Cloud Nine",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Swift Swim",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-30T13:42:07.935000-07:00",
+    "comando_completo": "ch!pokedex charizard",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T13:42:08.258000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle.",
+          "color": "#CDAF06",
+          "author": {
+            "name": "Pokédex de Charizard",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RTokoGGC4ciwoB1Tn6f8igQN-rcHCgajS1awZFFLf0E/https/pokeres.bastionbot.org/images/pokemon/6.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/6.png",
+            "width": 600,
+            "height": 600
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/RTokoGGC4ciwoB1Tn6f8igQN-rcHCgajS1awZFFLf0E/https/pokeres.bastionbot.org/images/pokemon/6.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/6.png",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/RTokoGGC4ciwoB1Tn6f8igQN-rcHCgajS1awZFFLf0E/https/pokeres.bastionbot.org/images/pokemon/6.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/6.png",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fire, Flying",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "5'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "199.5 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Charmander, Charmeleon, Charizard",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Blaze",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Solar Power",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.323
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-01T10:40:03.793000-07:00",
+    "comando_completo": "ch!pokedex loppuny",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:40:04.076000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.283
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-01T10:40:22.637000-07:00",
+    "comando_completo": "ch!pokedex vaporeon",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:40:22.843000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
+          "color": "#4B387E",
+          "author": {
+            "name": "Pokédex de Vaporeon",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/rEleD4YlhBa4iOEsuFXJTh0_1BBWCq2b303PYDf9MLk/https/pokeres.bastionbot.org/images/pokemon/134.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/134.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/rEleD4YlhBa4iOEsuFXJTh0_1BBWCq2b303PYDf9MLk/https/pokeres.bastionbot.org/images/pokemon/134.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/134.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/rEleD4YlhBa4iOEsuFXJTh0_1BBWCq2b303PYDf9MLk/https/pokeres.bastionbot.org/images/pokemon/134.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/134.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'03\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "63.9 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Eevee, Vaporeon",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Water Absorb",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Hydration",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-01T10:40:35.734000-07:00",
+    "comando_completo": "ch!pokedex lopunny",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:40:35.953000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+          "color": "#8C3FEC",
+          "author": {
+            "name": "Pokédex de Lopunny",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GSGqzEG7OwDw5Lo4zG5cP6RiMc-ypbQ7JxIyhlcu_ds/https/pokeres.bastionbot.org/images/pokemon/428.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/428.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/GSGqzEG7OwDw5Lo4zG5cP6RiMc-ypbQ7JxIyhlcu_ds/https/pokeres.bastionbot.org/images/pokemon/428.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/428.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/GSGqzEG7OwDw5Lo4zG5cP6RiMc-ypbQ7JxIyhlcu_ds/https/pokeres.bastionbot.org/images/pokemon/428.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/428.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'11\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "73.4 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "4 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Buneary, Lopunny",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Cute Charm, Klutz",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Limber",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.219
+    }
+  },
+  {
+    "usuario": "pipina",
+    "usuario_id": "351741627661942785",
+    "fecha_comando": "2019-09-01T10:41:05.679000-07:00",
+    "comando_completo": "ch!pokedex Missigno",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:41:06.007000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.328
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T10:41:14.725000-07:00",
+    "comando_completo": "ch!pokedex missingno",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:41:14.925000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.2
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T10:41:30.792000-07:00",
+    "comando_completo": "ch!pokedex Missing.no",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:41:31.058000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.266
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-01T10:41:45.207000-07:00",
+    "comando_completo": "ch!pokedex mewtwo",
+    "respuesta_bot": {
+      "fecha": "2019-09-01T10:41:45.488000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Said to rest quietly in an undiscovered cave, this POKéMON was created solely for battling.",
+          "color": "#00AC53",
+          "author": {
+            "name": "Pokédex de Mewtwo",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2DZBSOh1bbwrwSI1fcj_Cv6MCVjMZAE8tDMnm47VAfc/https/pokeres.bastionbot.org/images/pokemon/150.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/150.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2DZBSOh1bbwrwSI1fcj_Cv6MCVjMZAE8tDMnm47VAfc/https/pokeres.bastionbot.org/images/pokemon/150.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/150.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2DZBSOh1bbwrwSI1fcj_Cv6MCVjMZAE8tDMnm47VAfc/https/pokeres.bastionbot.org/images/pokemon/150.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/150.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Psychic",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "6'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "269 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Mewtwo",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Pressure",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Unnerve",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.281
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-03T03:41:41.351000-07:00",
+    "comando_completo": "ch!pokedex feraligart",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T03:41:41.617000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.266
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-03T03:42:03.661000-07:00",
+    "comando_completo": "ch!pokedex Felarigart",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T03:42:03.895000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.234
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-09-03T03:42:49.259000-07:00",
+    "comando_completo": "ch!pokedex Feraligatr",
+    "respuesta_bot": {
+      "fecha": "2019-09-03T03:42:49.401000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
+          "color": "#D0AB9E",
+          "author": {
+            "name": "Pokédex de Feraligatr",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yQYIfj6leeayoYsWLlUVqFwE8-Kgt14QmJdONC2ZURc/https/pokeres.bastionbot.org/images/pokemon/160.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/160.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/yQYIfj6leeayoYsWLlUVqFwE8-Kgt14QmJdONC2ZURc/https/pokeres.bastionbot.org/images/pokemon/160.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/160.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/yQYIfj6leeayoYsWLlUVqFwE8-Kgt14QmJdONC2ZURc/https/pokeres.bastionbot.org/images/pokemon/160.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/160.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "7'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "195.8 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Totodile, Croconaw, Feraligatr",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.142
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-09-09T22:42:40.093000-07:00",
+    "comando_completo": "ch!pokedex 34",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T22:42:40.483000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.",
+          "color": "#08B70E",
+          "author": {
+            "name": "Pokédex de Nidoking",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xf9Ebjb_Bavqwj24U4zAs4DejNUwS4IA1n_1SPRgonw/https/pokeres.bastionbot.org/images/pokemon/34.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/34.png",
+            "width": 431,
+            "height": 431
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/xf9Ebjb_Bavqwj24U4zAs4DejNUwS4IA1n_1SPRgonw/https/pokeres.bastionbot.org/images/pokemon/34.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/34.png",
+            "width": 431,
+            "height": 431
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/xf9Ebjb_Bavqwj24U4zAs4DejNUwS4IA1n_1SPRgonw/https/pokeres.bastionbot.org/images/pokemon/34.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/34.png",
+              "width": 431,
+              "height": 431
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Poison, Ground",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "4'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "136.7 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Nidoran♂, Nidorino, Nidoking",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Poison Point, Rivalry",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Sheer Force",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.39
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-10-30T12:35:35.599000-07:00",
+    "comando_completo": "ch!pokedex mimikyu",
+    "respuesta_bot": {
+      "fecha": "2019-10-30T12:35:36.733000-07:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.134
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-11-23T07:32:45.298000-08:00",
+    "comando_completo": "ch!pokedex Poocheyenna",
+    "respuesta_bot": {
+      "fecha": "2019-11-23T07:32:46.070000-08:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.772
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-23T07:58:21.012000-08:00",
+    "comando_completo": "ch!pokedex pochyena",
+    "respuesta_bot": {
+      "fecha": "2019-11-23T07:58:22.105000-08:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.093
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-11-23T08:10:19.102000-08:00",
+    "comando_completo": "ch!pokedex pochyena",
+    "respuesta_bot": {
+      "fecha": "2019-11-23T08:10:19.759000-08:00",
+      "contenido": "El pokémon que has escrito no existe.\nError: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.657
+    }
+  },
+  {
+    "usuario": "ram_ozora",
+    "usuario_id": "477544812862636032",
+    "fecha_comando": "2019-11-23T08:10:35.492000-08:00",
+    "comando_completo": "ch!pokedex poochyena",
+    "respuesta_bot": {
+      "fecha": "2019-11-23T08:10:36.569000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Poochyena es un omnívoro - se va a comer cualquier cosa. Una característica distintiva es lo grande que sus colmillos se comparan con su cuerpo. Este POKéMON intenta intimidar a sus enemigos, haciendo que el pelo en su fuera de la cola de cerdas.",
+          "color": "#349F53",
+          "author": {
+            "name": "Pokédex de Poochyena",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yh4ejp-SItCAuTNZCR6Y46cxCEJ-VX8_plT1apT-UbU/https/pokeres.bastionbot.org/images/pokemon/261.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/261.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/yh4ejp-SItCAuTNZCR6Y46cxCEJ-VX8_plT1apT-UbU/https/pokeres.bastionbot.org/images/pokemon/261.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/261.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/yh4ejp-SItCAuTNZCR6Y46cxCEJ-VX8_plT1apT-UbU/https/pokeres.bastionbot.org/images/pokemon/261.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/261.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Dark",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'08\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "30 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "3 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Poochyena, Mightyena",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Run Away, Quick Feet",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Rattled",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.077
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-12-03T12:40:06.969000-08:00",
+    "comando_completo": "ch!pokedex",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T12:40:07.144000-08:00",
+      "contenido": "Debes poner el nombre del Pokémon que quieras buscar.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.175
+    }
+  },
+  {
+    "usuario": "c1276",
+    "usuario_id": "427692173039894531",
+    "fecha_comando": "2019-12-03T12:40:53.709000-08:00",
+    "comando_completo": "ch!pokedex Latios",
+    "respuesta_bot": {
+      "fecha": "2019-12-03T12:40:54.605000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "LATIOS sólo abrirá su corazón a un entrenador con un espíritu compasivo. Este POKéMON puede volar más rápido que un avión de reacción por plegado de las patas delanteras para reducir al mínimo la resistencia del aire.",
+          "color": "#29ABBD",
+          "author": {
+            "name": "Pokédex de Latios",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/rFUJSrtZexEPiUFiB6odt05QG-nqKD0zcRkfX1KpKGo/https/pokeres.bastionbot.org/images/pokemon/381.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/381.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/rFUJSrtZexEPiUFiB6odt05QG-nqKD0zcRkfX1KpKGo/https/pokeres.bastionbot.org/images/pokemon/381.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/381.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/rFUJSrtZexEPiUFiB6odt05QG-nqKD0zcRkfX1KpKGo/https/pokeres.bastionbot.org/images/pokemon/381.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/381.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Dragon, Psychic",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "6'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "132.3 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "3 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Latios",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Levitate",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Ninguna.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.896
+    }
+  },
+  {
+    "usuario": "raimondrawz",
+    "usuario_id": "451232903028932617",
+    "fecha_comando": "2020-02-10T05:20:46.492000-08:00",
+    "comando_completo": "ch!pokedex popplio",
+    "respuesta_bot": {
+      "fecha": "2020-02-10T05:20:47.300000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+          "color": "#5B920F",
+          "author": {
+            "name": "Pokédex de Popplio",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vCz9FbuhuKJs67LaIphPEbMqi5awY2ul0Z3Cenx-JyI/https/pokeres.bastionbot.org/images/pokemon/728.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/728.png",
+            "width": 382,
+            "height": 382
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/vCz9FbuhuKJs67LaIphPEbMqi5awY2ul0Z3Cenx-JyI/https/pokeres.bastionbot.org/images/pokemon/728.png",
+            "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/728.png",
+            "width": 382,
+            "height": 382
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/vCz9FbuhuKJs67LaIphPEbMqi5awY2ul0Z3Cenx-JyI/https/pokeres.bastionbot.org/images/pokemon/728.png",
+              "canonicalUrl": "https://pokeres.bastionbot.org/images/pokemon/728.png",
+              "width": 382,
+              "height": 382
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "16.5 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "7 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Popplio, Brionne, Primarina",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Liquid Voice",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.808
+    }
+  },
+  {
+    "usuario": "nombre2888",
+    "usuario_id": "615656576090636359",
+    "fecha_comando": "2020-06-05T04:58:41.169000-07:00",
+    "comando_completo": "ch!pokedex furret",
+    "respuesta_bot": {
+      "fecha": "2020-06-05T04:58:42.021000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Vive en madrigueras estrechas que se ajustan a su cuerpo delgado. Cuanto más profundo de los nidos van, más laberínticas que se conviertan.",
+          "color": "#18528A",
+          "author": {
+            "name": "Información del Pokémon Furret",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/H7qv7fITzQN3MkOQPqLQiDER8vCR6PO0wSt19Nu1Smk/https/cdn.traction.one/pokedex/pokemon/162.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/162.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/H7qv7fITzQN3MkOQPqLQiDER8vCR6PO0wSt19Nu1Smk/https/cdn.traction.one/pokedex/pokemon/162.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/162.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/H7qv7fITzQN3MkOQPqLQiDER8vCR6PO0wSt19Nu1Smk/https/cdn.traction.one/pokedex/pokemon/162.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/162.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "5'11\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "71.6 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "2 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Sentret, Furret",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Run Away, Keen Eye",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Frisk",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.852
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T16:53:23.589000-07:00",
+    "comando_completo": "ch!pokedex @pikachu",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T16:53:25.152000-07:00",
+      "contenido": ":x: | Ocurrió un error al intentar buscar al Pokémon.\nDetalles del error: `HTTPError: Response code 404 (Not Found)`",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.563
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T16:54:11.280000-07:00",
+    "comando_completo": "ch!pokedex pikachu",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T16:54:13.599000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Cuando se irrita, se descarga de inmediato la energía almacenada en las bolsas en sus mejillas.",
+          "color": "#10CC7C",
+          "author": {
+            "name": "Información del Pokémon Pikachu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "13.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.319
+    }
+  },
+  {
+    "usuario": "_00lucky00_",
+    "usuario_id": "687433264138682539",
+    "fecha_comando": "2020-07-01T20:16:29.268000-07:00",
+    "comando_completo": "ch!pokedex arceus",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T20:16:30.814000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Se describe en la mitología como el Pokémon que dio forma al universo con sus 1.000 brazos.",
+          "color": "#275588",
+          "author": {
+            "name": "Información del Pokémon Arceus",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/88wYnELGyhbjSao7xtWN_wkHJ5jkMT4XneSH_28AErs/https/cdn.traction.one/pokedex/pokemon/493.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/493.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/88wYnELGyhbjSao7xtWN_wkHJ5jkMT4XneSH_28AErs/https/cdn.traction.one/pokedex/pokemon/493.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/493.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/88wYnELGyhbjSao7xtWN_wkHJ5jkMT4XneSH_28AErs/https/cdn.traction.one/pokedex/pokemon/493.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/493.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "10'06\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "705.5 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "4 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Arceus",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Multitype",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Ninguna.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.546
+    }
+  },
+  {
+    "usuario": "_00lucky00_",
+    "usuario_id": "687433264138682539",
+    "fecha_comando": "2020-07-01T21:31:22.393000-07:00",
+    "comando_completo": "ch!pokedex pidove",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T21:31:22.870000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**antonia🐣** empezó a reírse ^u^",
+          "color": "#6613C3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/594608835814096938/273.gif?ex=6a57de21&is=6a568ca1&hm=9b2f963846a88a4d4c5b1cca82d8ff4280ac313e4b5a3a142c8d37de2b421cb2&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/594608835814096938/273.gif?ex=6a57de21&is=6a568ca1&hm=9b2f963846a88a4d4c5b1cca82d8ff4280ac313e4b5a3a142c8d37de2b421cb2&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/594608835814096938/273.gif?ex=6a57de21&is=6a568ca1&hm=9b2f963846a88a4d4c5b1cca82d8ff4280ac313e4b5a3a142c8d37de2b421cb2&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/594608835814096938/273.gif?ex=6a57de21&is=6a568ca1&hm=9b2f963846a88a4d4c5b1cca82d8ff4280ac313e4b5a3a142c8d37de2b421cb2&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🐣",
+              "code": "hatching_chick",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f423.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.477
+    }
+  },
+  {
+    "usuario": "lapibaautotune2573",
+    "usuario_id": "707311280393945210",
+    "fecha_comando": "2020-08-30T01:56:51.007000-07:00",
+    "comando_completo": "ch!pokedex charmander",
+    "respuesta_bot": {
+      "fecha": "2020-08-30T01:56:52.208000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Si es saludable, la llama en la punta de su cola se quemará vigorosamente, incluso si se pone un poco húmedo.",
+          "color": "#0676EE",
+          "author": {
+            "name": "Información del Pokémon Charmander",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0CTJcPhOnm7B0bqEDYPzO720EXsjlAD1ETnmjHJ3AHY/https/cdn.traction.one/pokedex/pokemon/4.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/4.png",
+            "width": 600,
+            "height": 600
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/0CTJcPhOnm7B0bqEDYPzO720EXsjlAD1ETnmjHJ3AHY/https/cdn.traction.one/pokedex/pokemon/4.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/4.png",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/0CTJcPhOnm7B0bqEDYPzO720EXsjlAD1ETnmjHJ3AHY/https/cdn.traction.one/pokedex/pokemon/4.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/4.png",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fire",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "18.7 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "Sí.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Charmander, Charmeleon, Charizard",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Blaze",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Solar Power",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.201
+    }
+  },
+  {
+    "usuario": "thonyplayxd",
+    "usuario_id": "585348545427537921",
+    "fecha_comando": "2020-08-30T03:18:15.189000-07:00",
+    "comando_completo": "ch!pokedex pikachu",
+    "respuesta_bot": {
+      "fecha": "2020-08-30T03:18:16.767000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Cuando se irrita, se descarga de inmediato la energía almacenada en las bolsas en sus mejillas.",
+          "color": "#E5B5CB",
+          "author": {
+            "name": "Información del Pokémon Pikachu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "13.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.578
+    }
+  },
+  {
+    "usuario": "lapibaautotune2573",
+    "usuario_id": "707311280393945210",
+    "fecha_comando": "2020-08-30T03:20:55.113000-07:00",
+    "comando_completo": "ch!pokedex psyduck",
+    "respuesta_bot": {
+      "fecha": "2020-08-30T03:20:55.870000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "El único momento en que puede usar su poder psíquico es cuando sus células cerebrales de sueño ocurren a paso.",
+          "color": "#D93D5A",
+          "author": {
+            "name": "Información del Pokémon Psyduck",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-LJefdCIQ3h4d_iLZI8cn6naocHJIEaug_4O1Eeywd8/https/cdn.traction.one/pokedex/pokemon/54.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/54.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/-LJefdCIQ3h4d_iLZI8cn6naocHJIEaug_4O1Eeywd8/https/cdn.traction.one/pokedex/pokemon/54.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/54.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/-LJefdCIQ3h4d_iLZI8cn6naocHJIEaug_4O1Eeywd8/https/cdn.traction.one/pokedex/pokemon/54.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/54.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "43.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Psyduck, Golduck",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Damp, Cloud Nine",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Swift Swim",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.757
+    }
+  },
+  {
+    "usuario": "lapibaautotune2573",
+    "usuario_id": "707311280393945210",
+    "fecha_comando": "2020-08-30T03:21:34.752000-07:00",
+    "comando_completo": "ch!pokedex raichu",
+    "respuesta_bot": {
+      "fecha": "2020-08-30T03:21:35.868000-07:00",
+      "contenido": "> **‎Viewing your House  •  [**  Masteruwu#3201  **]**",
+      "attachments": [
+        {
+          "id": "749574535900168273",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/749574535900168273/room_view.png?ex=6a5807ef&is=6a56b66f&hm=8396a9faaf2fa1cd0dce72a32a3082abfead2440779a61c5389947aea131ed95&",
+          "fileName": "room_view.png",
+          "fileSizeBytes": 11996
+        }
+      ],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#99C8FF",
+          "author": {
+            "name": "Masteruwu's Mask",
+            "url": "https://tatsubot.com"
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/749574536067809360/profile_view.png?ex=6a5807ef&is=6a56b66f&hm=d2846d2badc6dd513440942c77c079fe3577db23861af323097a9be712d8efcf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/749574536067809360/profile_view.png?ex=6a5807ef&is=6a56b66f&hm=d2846d2badc6dd513440942c77c079fe3577db23861af323097a9be712d8efcf&",
+            "width": 270,
+            "height": 110
+          },
+          "footer": {
+            "text": "Wrapped Tatsugotchis are tradable, but not unwrapped ones."
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/508766213405540361/749574536067809360/profile_view.png?ex=6a5807ef&is=6a56b66f&hm=d2846d2badc6dd513440942c77c079fe3577db23861af323097a9be712d8efcf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/749574536067809360/profile_view.png?ex=6a5807ef&is=6a56b66f&hm=d2846d2badc6dd513440942c77c079fe3577db23861af323097a9be712d8efcf&",
+              "width": 270,
+              "height": 110
+            }
+          ],
+          "fields": [
+            {
+              "name": "TG Sitter",
+              "value": "Expires in: `3`d `11`h",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.116
+    }
+  },
+  {
+    "usuario": "lapibaautotune2573",
+    "usuario_id": "707311280393945210",
+    "fecha_comando": "2020-08-30T03:22:08.757000-07:00",
+    "comando_completo": "ch!pokedex eevee",
+    "respuesta_bot": {
+      "fecha": "2020-08-30T03:22:09.557000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Su capacidad de evolucionar en muchas formas le permite adaptarse sin problemas y perfectamente a cualquier entorno.",
+          "color": "#DF68E8",
+          "author": {
+            "name": "Información del Pokémon Eevee",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NG0Q917Kmlw4z4E1AH6ACuZDMDYNvy_LT3vKabSkR3Y/https/cdn.traction.one/pokedex/pokemon/133.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/133.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/NG0Q917Kmlw4z4E1AH6ACuZDMDYNvy_LT3vKabSkR3Y/https/cdn.traction.one/pokedex/pokemon/133.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/133.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/NG0Q917Kmlw4z4E1AH6ACuZDMDYNvy_LT3vKabSkR3Y/https/cdn.traction.one/pokedex/pokemon/133.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/133.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "14.3 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Eevee, Vaporeon/Jolteon/Flareon/Espeon/Umbreon/Leafeon/Glaceon/Sylveon",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Run Away, Adaptability",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Anticipation",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.8
+    }
+  },
+  {
+    "usuario": "zekhiroy.one",
+    "usuario_id": "466386435021209611",
+    "fecha_comando": "2020-09-11T17:26:08.887000-07:00",
+    "comando_completo": "ch!pokedex greninja",
+    "respuesta_bot": {
+      "fecha": "2020-09-11T17:26:19.986000-07:00",
+      "contenido": ":x: | Ocurrió un error al intentar buscar al Pokémon.\nEs posible que la imagen no se haya logrado a cargar correctamente.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.099
+    }
+  },
+  {
+    "usuario": "albee_0049",
+    "usuario_id": "389928298622484483",
+    "fecha_comando": "2020-10-26T23:58:26.032000-07:00",
+    "comando_completo": "ch!pokedex pikachu",
+    "respuesta_bot": {
+      "fecha": "2020-10-26T23:58:27.154000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Cuando se irrita, se descarga de inmediato la energía almacenada en las bolsas en sus mejillas.",
+          "color": "#56E08F",
+          "author": {
+            "name": "Información del Pokémon Pikachu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "13.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.122
+    }
+  },
+  {
+    "usuario": "frndez1853",
+    "usuario_id": "695691904884408349",
+    "fecha_comando": "2020-11-12T20:24:32.910000-08:00",
+    "comando_completo": "ch!pokedex pikachu",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T20:24:33.823000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Cuando se irrita, se descarga de inmediato la energía almacenada en las bolsas en sus mejillas.",
+          "color": "#415E15",
+          "author": {
+            "name": "Información del Pokémon Pikachu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/fUaQHKuhEcdWGbe_0nHhMfE-xjoVY8PJjTsn5UwkPLc/https/cdn.traction.one/pokedex/pokemon/25.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/25.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'04\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "13.2 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.913
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-18T16:20:53.643000-08:00",
+    "comando_completo": "ch!pokedex vulpix",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T16:20:53.830000-08:00",
+      "contenido": "> **‎Interacting with Pet  •  [**  ||♣🎭🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮🎪♠||#1216  **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cleaning your pet...",
+          "url": null,
+          "timestamp": null,
+          "description": "You stroke your pet's head gently with your hands, and it makes a happy sound.",
+          "color": "#17A167",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/508766213405540361/778776781951860776/pet.png?ex=6a5823e5&is=6a56d265&hm=20ef2bcf1295e4b9940b6110f5ee7037908f3c5b1d4565dc5f1ca2cdf7341d95&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/508766213405540361/778776781951860776/pet.png?ex=6a5823e5&is=6a56d265&hm=20ef2bcf1295e4b9940b6110f5ee7037908f3c5b1d4565dc5f1ca2cdf7341d95&",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "Be careful when trading items - they stay in your inventory when used in your house!"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Updated Attributes",
+              "value": ":pet_dirtiness: Dirtiness: **0 / 10** (`-3`)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.187
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-18T16:21:28.474000-08:00",
+    "comando_completo": "ch!pokedex ninetales",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T16:21:29.264000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Se dice que vivir mil años, y cada una de sus colas se carga con poderes sobrenaturales.",
+          "color": "#1C2DDF",
+          "author": {
+            "name": "Información del Pokémon Ninetales",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1M3Q6JdyjOiCQDCv-ULGJuhtk8-ZNsnGPlYeYBTQuao/https/cdn.traction.one/pokedex/pokemon/38.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/38.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/1M3Q6JdyjOiCQDCv-ULGJuhtk8-ZNsnGPlYeYBTQuao/https/cdn.traction.one/pokedex/pokemon/38.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/38.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/1M3Q6JdyjOiCQDCv-ULGJuhtk8-ZNsnGPlYeYBTQuao/https/cdn.traction.one/pokedex/pokemon/38.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/38.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fire",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "43.9 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Vulpix, Ninetales",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Flash Fire",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Drought",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.79
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-18T16:22:32.873000-08:00",
+    "comando_completo": "ch!pokedex ninetales",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T16:22:33.641000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Se dice que vivir mil años, y cada una de sus colas se carga con poderes sobrenaturales.",
+          "color": "#C36A5A",
+          "author": {
+            "name": "Información del Pokémon Ninetales",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1M3Q6JdyjOiCQDCv-ULGJuhtk8-ZNsnGPlYeYBTQuao/https/cdn.traction.one/pokedex/pokemon/38.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/38.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/1M3Q6JdyjOiCQDCv-ULGJuhtk8-ZNsnGPlYeYBTQuao/https/cdn.traction.one/pokedex/pokemon/38.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/38.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/1M3Q6JdyjOiCQDCv-ULGJuhtk8-ZNsnGPlYeYBTQuao/https/cdn.traction.one/pokedex/pokemon/38.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/38.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fire",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "3'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "43.9 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Vulpix, Ninetales",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Flash Fire",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Drought",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.768
+    }
+  },
+  {
+    "usuario": "diegold",
+    "usuario_id": "718852779451482174",
+    "fecha_comando": "2020-11-18T16:23:02.753000-08:00",
+    "comando_completo": "ch!pokedex Empoleon",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T16:23:03.458000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Puede nadar tan rápido como una lancha. Los bordes de sus alas son afilados y pueden cortar aparte hielo a la deriva.",
+          "color": "#9B943E",
+          "author": {
+            "name": "Información del Pokémon Empoleon",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8geFgxZIhZ-pAMKdWEhWbyOWIQD0BQ9pInKmXn9k5Xs/https/cdn.traction.one/pokedex/pokemon/395.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/395.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/8geFgxZIhZ-pAMKdWEhWbyOWIQD0BQ9pInKmXn9k5Xs/https/cdn.traction.one/pokedex/pokemon/395.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/395.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/8geFgxZIhZ-pAMKdWEhWbyOWIQD0BQ9pInKmXn9k5Xs/https/cdn.traction.one/pokedex/pokemon/395.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/395.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Water, Steel",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "5'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "186.3 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "4 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Piplup, Prinplup, Empoleon",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Torrent",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Defiant",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.705
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-18T16:23:37.724000-08:00",
+    "comando_completo": "ch!pokedex arcanine",
+    "respuesta_bot": {
+      "fecha": "2020-11-18T16:23:38.542000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Una antigua foto de desplazamiento muestra que las personas se sintieron atraídas por su movimiento mientras corría por las praderas.",
+          "color": "#00C6CB",
+          "author": {
+            "name": "Información del Pokémon Arcanine",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zoOBYdvXkxNE7bTWMWaST1VXV531redZJqz7XfurNQs/https/cdn.traction.one/pokedex/pokemon/59.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/59.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/zoOBYdvXkxNE7bTWMWaST1VXV531redZJqz7XfurNQs/https/cdn.traction.one/pokedex/pokemon/59.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/59.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/zoOBYdvXkxNE7bTWMWaST1VXV531redZJqz7XfurNQs/https/cdn.traction.one/pokedex/pokemon/59.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/59.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fire",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "6'03\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "341.7 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Growlithe, Arcanine",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Intimidate, Flash Fire",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Justified",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.818
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-22T17:47:03.310000-08:00",
+    "comando_completo": "ch!pokedex machop",
+    "respuesta_bot": {
+      "fecha": "2020-11-22T17:47:08.537000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Se trena levantando las rocas en las montañas. Incluso puede recoger un grava con facilidad.",
+          "color": "#0CFDA2",
+          "author": {
+            "name": "Información del Pokémon Machop",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/lijtaz5JzvtSXzsG-9e8OgIJlNTDCcrveZQ3oSpfDxk/https/cdn.traction.one/pokedex/pokemon/66.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/66.png",
+            "width": 431,
+            "height": 431
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/lijtaz5JzvtSXzsG-9e8OgIJlNTDCcrveZQ3oSpfDxk/https/cdn.traction.one/pokedex/pokemon/66.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/66.png",
+            "width": 431,
+            "height": 431
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/lijtaz5JzvtSXzsG-9e8OgIJlNTDCcrveZQ3oSpfDxk/https/cdn.traction.one/pokedex/pokemon/66.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/66.png",
+              "width": 431,
+              "height": 431
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fighting",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "43 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Machop, Machoke, Machamp",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Guts, No Guard",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Steadfast",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 5.227
+    }
+  },
+  {
+    "usuario": "runickrs",
+    "usuario_id": "314594887330693121",
+    "fecha_comando": "2020-12-15T19:54:38.593000-08:00",
+    "comando_completo": "ch!pokedex",
+    "respuesta_bot": {
+      "fecha": "2020-12-15T19:54:47.800000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":stopwatch: You cannot work for 2 hours and 11 minutes.",
+          "color": "#03A9F4",
+          "author": {
+            "name": "Parther#9223",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Z58xonutu55Eskr_40eP73g-Ftast91Yf64Z7AmmXwU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/550451103813337115/da7eb0567bbc52edff74036e0a08acce.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/550451103813337115/da7eb0567bbc52edff74036e0a08acce.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "630927808843218945",
+              "name": "stopwatch",
+              "code": "stopwatch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/630927808843218945.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 9.207
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-19T23:41:52.917000-08:00",
+    "comando_completo": "ch!pokedex Charizard",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T23:41:54.748000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Utiliza sus alas para volar altas. La temperatura de su incendio aumenta a medida que gana experiencia en la batalla.",
+          "color": "#9D4060",
+          "author": {
+            "name": "Información del Pokémon Charizard",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6t-QDgwmGzpVTGQoEQT_hmAWATxNwVyWhCedYO_cfH0/https/cdn.traction.one/pokedex/pokemon/6.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/6.png",
+            "width": 600,
+            "height": 600
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/6t-QDgwmGzpVTGQoEQT_hmAWATxNwVyWhCedYO_cfH0/https/cdn.traction.one/pokedex/pokemon/6.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/6.png",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/6t-QDgwmGzpVTGQoEQT_hmAWATxNwVyWhCedYO_cfH0/https/cdn.traction.one/pokedex/pokemon/6.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/6.png",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Fire, Flying",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "5'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "199.5 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Charmander, Charmeleon, Charizard",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Blaze",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Solar Power",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.831
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-19T23:42:05.320000-08:00",
+    "comando_completo": "ch!pokedex Raichu",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T23:42:06.784000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Si sus bolsas eléctricas corren vacías, levanta su cola para recoger la electricidad de la atmósfera.",
+          "color": "#D34C90",
+          "author": {
+            "name": "Información del Pokémon Raichu",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sRO4-iYFR6sups-9Kcly9CCReLCls0E2QsSSxph-AZI/https/cdn.traction.one/pokedex/pokemon/26.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/26.png",
+            "width": 1016,
+            "height": 1016
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/sRO4-iYFR6sups-9Kcly9CCReLCls0E2QsSSxph-AZI/https/cdn.traction.one/pokedex/pokemon/26.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/26.png",
+            "width": 1016,
+            "height": 1016
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/sRO4-iYFR6sups-9Kcly9CCReLCls0E2QsSSxph-AZI/https/cdn.traction.one/pokedex/pokemon/26.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/26.png",
+              "width": 1016,
+              "height": 1016
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Electric",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "2'07\"",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "66.1 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Pichu, Pikachu, Raichu",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Static",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Lightning Rod",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.464
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-12-19T23:42:13.215000-08:00",
+    "comando_completo": "ch!pokedex si",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T23:42:13.902000-08:00",
+      "contenido": ":x: | Ocurrió un error al intentar buscar al Pokémon.\nEs posible que la imagen no se haya logrado a cargar correctamente.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.687
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-12-19T23:43:09.058000-08:00",
+    "comando_completo": "ch!pokedex eevee",
+    "respuesta_bot": {
+      "fecha": "2020-12-19T23:43:10.474000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Su capacidad para evolucionar en muchas formas le permite adaptarse de manera suave y perfecta a cualquier entorno.",
+          "color": "#DC33A3",
+          "author": {
+            "name": "Información del Pokémon Eevee",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/O5MAsgGu9D58Otz9OTdOjgaomrPJASHh78CTKSMcwRM/https/img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%25C3%25A9dex-300x229.png",
+            "iconCanonicalUrl": "https://img.rankedboost.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NG0Q917Kmlw4z4E1AH6ACuZDMDYNvy_LT3vKabSkR3Y/https/cdn.traction.one/pokedex/pokemon/133.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/133.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/NG0Q917Kmlw4z4E1AH6ACuZDMDYNvy_LT3vKabSkR3Y/https/cdn.traction.one/pokedex/pokemon/133.png",
+            "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/133.png",
+            "width": 1280,
+            "height": 1280
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/NG0Q917Kmlw4z4E1AH6ACuZDMDYNvy_LT3vKabSkR3Y/https/cdn.traction.one/pokedex/pokemon/133.png",
+              "canonicalUrl": "https://cdn.traction.one/pokedex/pokemon/133.png",
+              "width": 1280,
+              "height": 1280
+            }
+          ],
+          "fields": [
+            {
+              "name": "Tipo(s)",
+              "value": "Normal",
+              "isInline": true
+            },
+            {
+              "name": "Altura",
+              "value": "1'",
+              "isInline": true
+            },
+            {
+              "name": "Peso",
+              "value": "14.3 lbs.",
+              "isInline": true
+            },
+            {
+              "name": "Generación",
+              "value": "1 Generación.",
+              "isInline": true
+            },
+            {
+              "name": "Inicial",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Legendario",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Místico",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Mega Evolución",
+              "value": "No.",
+              "isInline": true
+            },
+            {
+              "name": "Línea evolutiva",
+              "value": "Eevee, Vaporeon/Jolteon/Flareon/Espeon/Umbreon/Leafeon/Glaceon/Sylveon",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades normales",
+              "value": "Run Away, Adaptability",
+              "isInline": true
+            },
+            {
+              "name": "Habilidades ocultas",
+              "value": "Anticipation",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.416
+    }
+  }
+]

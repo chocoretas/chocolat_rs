@@ -1,0 +1,16 @@
+[
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-22T10:34:15.984000-07:00",
+    "comando_completo": "ch!unban",
+    "respuesta_bot": {
+      "fecha": "2019-07-22T10:34:18.930000-07:00",
+      "contenido": "Debes proporcionar la ID del usuario baneado.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.946
+    }
+  }
+]

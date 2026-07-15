@@ -1,0 +1,2322 @@
+[
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-19T16:53:59.469000-08:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-02-19T16:53:59.586000-08:00",
+      "contenido": "@Deleted User, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.117
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-19T16:54:20.078000-08:00",
+    "comando_completo": "ch!rps roca",
+    "respuesta_bot": {
+      "fecha": "2019-02-19T16:54:30.699000-08:00",
+      "contenido": "@Deleted User, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.621
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-19T16:54:30.632000-08:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-02-19T16:54:30.699000-08:00",
+      "contenido": "@Deleted User, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.067
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T07:57:26.276000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T07:57:26.459000-07:00",
+      "contenido": "@Kikyo, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.183
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T07:58:16.016000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T07:58:16.137000-07:00",
+      "contenido": "@Kikyo, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.121
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T07:58:54.692000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T07:58:54.875000-07:00",
+      "contenido": "@Kikyo, he ganado :D/. Has elejido `tijera` y yo elegí `piedra`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.183
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T07:59:07.537000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T07:59:07.711000-07:00",
+      "contenido": "@Kikyo, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:00:12.143000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:00:12.461000-07:00",
+      "contenido": "@Kikyo, he ganado :D/. Has elejido `tijera` y yo elegí `piedra`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.318
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:00:32.776000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:00:32.977000-07:00",
+      "contenido": "@Kikyo, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:00:45.144000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:00:46.570000-07:00",
+      "contenido": "@Kikyo, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.426
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:00:57.919000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:00:58.168000-07:00",
+      "contenido": "@Kikyo, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:01:12.866000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:01:14.874000-07:00",
+      "contenido": "@Kikyo, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.008
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:01:22.788000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:01:22.825000-07:00",
+      "contenido": "@Kikyo, has ganado :heart: . Has elejido `piedra` y yo elegí `tijera`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.037
+    }
+  },
+  {
+    "usuario": "kikyo8108",
+    "usuario_id": "371342030934245378",
+    "fecha_comando": "2019-06-06T08:01:43.231000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-06-06T08:01:43.467000-07:00",
+      "contenido": "@Kikyo, he ganado :D/. Has elejido `tijera` y yo elegí `piedra`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-09T20:32:20.279000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:32:20.428000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.149
+    }
+  },
+  {
+    "usuario": "juanxd00658",
+    "usuario_id": "596931148114952194",
+    "fecha_comando": "2019-07-09T20:32:38.855000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:32:39.018000-07:00",
+      "contenido": "@Juanxd, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T20:33:41.007000-07:00",
+    "comando_completo": "ch!rps Tijera",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:33:53.628000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**JuanXander** tiene sueño o ya se durmió... zZz",
+          "color": "#695126",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/HrajDv85P_VjJ9pVzZTm9kxa8nSZXE5Zt1oNWUo5p_4/https/cdn.weeb.sh/images/rkxkM41tPW.gif",
+            "canonicalUrl": "https://cdn.weeb.sh/images/rkxkM41tPW.gif",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/HrajDv85P_VjJ9pVzZTm9kxa8nSZXE5Zt1oNWUo5p_4/https/cdn.weeb.sh/images/rkxkM41tPW.gif",
+              "canonicalUrl": "https://cdn.weeb.sh/images/rkxkM41tPW.gif",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 12.621
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T20:33:51.414000-07:00",
+    "comando_completo": "ch!rps Papel",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:33:53.628000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**JuanXander** tiene sueño o ya se durmió... zZz",
+          "color": "#695126",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/HrajDv85P_VjJ9pVzZTm9kxa8nSZXE5Zt1oNWUo5p_4/https/cdn.weeb.sh/images/rkxkM41tPW.gif",
+            "canonicalUrl": "https://cdn.weeb.sh/images/rkxkM41tPW.gif",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/HrajDv85P_VjJ9pVzZTm9kxa8nSZXE5Zt1oNWUo5p_4/https/cdn.weeb.sh/images/rkxkM41tPW.gif",
+              "canonicalUrl": "https://cdn.weeb.sh/images/rkxkM41tPW.gif",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 2.214
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T20:34:17.075000-07:00",
+    "comando_completo": "ch!rps Papel",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:34:23.604000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":xmark: You cannot commit a crime for 9 minutes and 2 seconds.",
+          "color": "#EF5350",
+          "author": {
+            "name": "Shikamaru nara#3814",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/nD4lkX9rIXWoGr2lxGc9VSqYVQcYmO-kBWwVcr0fxG0/%3Fsize%3D128/https/cdn.discordapp.com/avatars/475507092393033729/05d759a723378acc0987bd36be5b7879.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/475507092393033729/05d759a723378acc0987bd36be5b7879.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972330209281",
+              "name": "xmark",
+              "code": "xmark",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972330209281.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.529
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T20:34:26.150000-07:00",
+    "comando_completo": "ch!rps Tijera",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:34:30.658000-07:00",
+      "contenido": "The ball landed on: **black 8**!\n\n**No Winners  :[**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.508
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T20:34:35.107000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:34:35.293000-07:00",
+      "contenido": "@Deleted User, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.186
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-09T20:34:46.009000-07:00",
+    "comando_completo": "ch!rps Papel",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T20:34:46.515000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":xmark: Invalid `<amount or all>` argument given.\n\nUsage:\n`deposit <amount or all>`",
+          "color": "#EF5350",
+          "author": {
+            "name": "Dana#1537",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/oDgS8_DVp64_P8K9iEOTxIWbVzbB8JnuPBSOKyy3PY4/%3Fsize%3D128/https/cdn.discordapp.com/avatars/419631170074968076/0a9ab554b4b807ab0d23eafac5f39b98.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/419631170074968076/0a9ab554b4b807ab0d23eafac5f39b98.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972330209281",
+              "name": "xmark",
+              "code": "xmark",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972330209281.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.506
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:04:44.154000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:04:44.228000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.074
+    }
+  },
+  {
+    "usuario": "juan036547",
+    "usuario_id": "603053299767443466",
+    "fecha_comando": "2019-07-28T16:04:55.155000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:04:55.182000-07:00",
+      "contenido": "@juan☆, has ganado :heart: . Has elejido `piedra` y yo elegí `tijera`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.027
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-28T16:05:18.598000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:05:18.926000-07:00",
+      "contenido": "@Auroraaa, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.328
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-28T16:05:41.840000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:05:42.076000-07:00",
+      "contenido": "@Auroraaa, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.236
+    }
+  },
+  {
+    "usuario": "stephanie.arv",
+    "usuario_id": "592099905737195576",
+    "fecha_comando": "2019-07-28T16:06:18.101000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-07-28T16:06:18.340000-07:00",
+      "contenido": "@Auroraaa, he ganado :D/. Has elejido `tijera` y yo elegí `piedra`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.239
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-30T20:20:45.705000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T20:20:45.866000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "darkix2031",
+    "usuario_id": "614204764728852480",
+    "fecha_comando": "2019-08-30T20:20:54.694000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-08-30T20:20:54.735000-07:00",
+      "contenido": "@Darkix, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.041
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:09:16.968000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:09:17.758000-07:00",
+      "contenido": "@Daomi✿, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.79
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:09:32.478000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:09:32.557000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.079
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:10:05.760000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:05.919000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.159
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:10:16.262000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:17.700000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.438
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:10:27.472000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:27.717000-07:00",
+      "contenido": "@Daomi✿, has ganado :heart: . Has elejido `tijera` y yo elegí `papel`. Las tijeras cortan el papel.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.245
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:10:35.835000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:36.060000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.225
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:10:46.729000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:46.930000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.201
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:10:54.287000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:54.384000-07:00",
+      "contenido": "@Daomi✿, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.097
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-08T08:10:56.530000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:10:56.748000-07:00",
+      "contenido": "@Official_Javee, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.218
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:11:05.194000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:06.787000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.593
+    }
+  },
+  {
+    "usuario": "official_javee",
+    "usuario_id": "503149403368849418",
+    "fecha_comando": "2019-09-08T08:11:06.500000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:06.787000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.287
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:11:16.591000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:16.769000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.178
+    }
+  },
+  {
+    "usuario": "lumy._",
+    "usuario_id": "465179299964649495",
+    "fecha_comando": "2019-09-08T08:11:20.255000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:20.407000-07:00",
+      "contenido": "@Lucy <3, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:11:26.548000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:26.677000-07:00",
+      "contenido": "@Daomi✿, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "lumy._",
+    "usuario_id": "465179299964649495",
+    "fecha_comando": "2019-09-08T08:11:37.587000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:37.718000-07:00",
+      "contenido": "@Lucy <3, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.131
+    }
+  },
+  {
+    "usuario": "daomi",
+    "usuario_id": "419631170074968076",
+    "fecha_comando": "2019-09-08T08:11:38.213000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:38.336000-07:00",
+      "contenido": "@Daomi✿, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "peke_lu",
+    "usuario_id": "579008712975581196",
+    "fecha_comando": "2019-09-08T08:11:41.964000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-09-08T08:11:42.075000-07:00",
+      "contenido": "The ball landed on: **black 33**!\n\n**No Winners  :[**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.111
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-10-05T14:56:49.162000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-10-05T14:56:49.336000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-10-09T13:18:53.446000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:18:53.630000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.184
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-10-09T13:19:03.894000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:19:04.287000-07:00",
+      "contenido": "@zoW, he ganado :D/. Has elejido `tijera` y yo elegí `piedra`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.393
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-10-09T13:19:35.336000-07:00",
+    "comando_completo": "ch!rps :chSataniaGun:",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:19:47.322000-07:00",
+      "contenido": "@zoW, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.986
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-10-09T13:19:37.433000-07:00",
+    "comando_completo": "ch!rps roca",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:19:47.322000-07:00",
+      "contenido": "@zoW, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.889
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-10-09T13:19:47.027000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:19:47.322000-07:00",
+      "contenido": "@zoW, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.295
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-10-09T13:20:14.716000-07:00",
+    "comando_completo": "ch!rps paper",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:20:23.518000-07:00",
+      "contenido": "@zoW, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.802
+    }
+  },
+  {
+    "usuario": "zow.e",
+    "usuario_id": "587062493034315779",
+    "fecha_comando": "2019-10-09T13:20:23.316000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:20:23.518000-07:00",
+      "contenido": "@zoW, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T13:20:30.043000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:20:30.220000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T13:20:39.069000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:20:39.220000-07:00",
+      "contenido": "@Deleted User, he ganado :D/. Has elejido `tijera` y yo elegí `piedra`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T13:20:55.939000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:20:56.147000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.208
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T13:21:02.343000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T13:21:02.548000-07:00",
+      "contenido": "@Deleted User, he ganado :D/. Has elejido `papel` y yo elegí `tijera`. Las tijeras cortan el papel.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T14:02:42.439000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T14:02:42.599000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.16
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T14:02:54.028000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T14:02:54.287000-07:00",
+      "contenido": "@Deleted User, has ganado :heart: . Has elejido `papel` y yo elegí `piedra`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.259
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T14:05:30.989000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T14:05:31.250000-07:00",
+      "contenido": "Debes seleccionar entre `piedra` `papel` o `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T14:05:48.318000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T14:05:48.583000-07:00",
+      "contenido": "@Deleted User, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.265
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-09T14:06:21.906000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2019-10-09T14:06:22.790000-07:00",
+      "contenido": "@Deleted User, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.884
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:53:30.173000-08:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:53:40.095000-08:00",
+      "contenido": "@Who?, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.922
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:53:39.444000-08:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:53:40.095000-08:00",
+      "contenido": "@Who?, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.651
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:53:47.303000-08:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:53:47.466000-08:00",
+      "contenido": "@Who?, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.163
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-02-24T15:53:53.343000-08:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-02-24T15:53:53.558000-08:00",
+      "contenido": "@Who?, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T14:07:26.807000-08:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:07:38.569000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "683435238751600688",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/683435238751600688/file.jpg?ex=6a5804aa&is=6a56b32a&hm=d313a02760f34a6aa357cb499a8286ad0af2e060336252fd7b111ba8b5ea6e19&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 1095
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 11.762
+    }
+  },
+  {
+    "usuario": "gatroim",
+    "usuario_id": "673320718452260895",
+    "fecha_comando": "2020-02-29T14:07:37.799000-08:00",
+    "comando_completo": "ch!rps  @Lapa",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:07:38.569000-08:00",
+      "contenido": "",
+      "attachments": [
+        {
+          "id": "683435238751600688",
+          "url": "https://cdn.discordapp.com/attachments/508766213405540361/683435238751600688/file.jpg?ex=6a5804aa&is=6a56b32a&hm=d313a02760f34a6aa357cb499a8286ad0af2e060336252fd7b111ba8b5ea6e19&",
+          "fileName": "file.jpg",
+          "fileSizeBytes": 1095
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.77
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T14:08:38.057000-08:00",
+    "comando_completo": "ch!rps @kailersito",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:08:52.662000-08:00",
+      "contenido": "💝 ¿**Charlotte Dunois**?",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Infinite Stratos",
+          "color": "#6AE523",
+          "author": {
+            "name": "Charlotte Dunois",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/477271155166674956/499624361947562015/JPEG_20181004_143315.jpg?ex=6a57b9f2&is=6a566872&hm=9bb4eec00ee82053dd9a2fcf73f7cfacaf9fd617af9f77d6ca29f1b8625c2f21&",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/attachments/477271155166674956/499624361947562015/JPEG_20181004_143315.jpg?ex=6a57b9f2&is=6a566872&hm=9bb4eec00ee82053dd9a2fcf73f7cfacaf9fd617af9f77d6ca29f1b8625c2f21&"
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/477271155166674956/499624361947562015/JPEG_20181004_143315.jpg?ex=6a57b9f2&is=6a566872&hm=9bb4eec00ee82053dd9a2fcf73f7cfacaf9fd617af9f77d6ca29f1b8625c2f21&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/477271155166674956/499624361947562015/JPEG_20181004_143315.jpg?ex=6a57b9f2&is=6a566872&hm=9bb4eec00ee82053dd9a2fcf73f7cfacaf9fd617af9f77d6ca29f1b8625c2f21&",
+            "width": 436,
+            "height": 600
+          },
+          "footer": {
+            "text": "Número: 355"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/477271155166674956/499624361947562015/JPEG_20181004_143315.jpg?ex=6a57b9f2&is=6a566872&hm=9bb4eec00ee82053dd9a2fcf73f7cfacaf9fd617af9f77d6ca29f1b8625c2f21&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/477271155166674956/499624361947562015/JPEG_20181004_143315.jpg?ex=6a57b9f2&is=6a566872&hm=9bb4eec00ee82053dd9a2fcf73f7cfacaf9fd617af9f77d6ca29f1b8625c2f21&",
+              "width": 436,
+              "height": 600
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "👎",
+            "code": "thumbsdown",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44e.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "379757424447455232",
+              "name": "Chocolat",
+              "discriminator": "8583",
+              "nickname": "[ch!] Chocolat",
+              "color": "#FCF7D7",
+              "isBot": true,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/379757424447455232/228e0178aa08f9988143ec440ab0557e.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "👍",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "379757424447455232",
+              "name": "Chocolat",
+              "discriminator": "8583",
+              "nickname": "[ch!] Chocolat",
+              "color": "#FCF7D7",
+              "isBot": true,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/379757424447455232/228e0178aa08f9988143ec440ab0557e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "delta_segundos": 14.605
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T14:09:10.827000-08:00",
+    "comando_completo": "ch!rps papel @[ch!] Chocolat",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:09:13.355000-08:00",
+      "contenido": "@Paco, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.528
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-29T14:09:13.088000-08:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:09:13.355000-08:00",
+      "contenido": "@Paco, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "gatroim",
+    "usuario_id": "673320718452260895",
+    "fecha_comando": "2020-02-29T14:09:32.911000-08:00",
+    "comando_completo": "ch!rps pierdra  @Lapa",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:09:37.272000-08:00",
+      "contenido": "@kailersito, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.361
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T14:09:36.921000-08:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:09:37.272000-08:00",
+      "contenido": "@kailersito, el resultado es un empate. Has elejido: `piedra` Y yo elegí `piedra`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.351
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T14:09:47.440000-08:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:09:47.741000-08:00",
+      "contenido": "@Lapa, el resultado es un empate. Has elejido: `papel` Y yo elegí `papel`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.301
+    }
+  },
+  {
+    "usuario": "kailersito",
+    "usuario_id": "485066067408846850",
+    "fecha_comando": "2020-02-29T14:09:52.392000-08:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:09:52.655000-08:00",
+      "contenido": "@kailersito, has ganado :heart: . Has elejido `piedra` y yo elegí `tijera`. Las tijeras no pueden cortar rocas.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.263
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-29T14:10:03.148000-08:00",
+    "comando_completo": "ch!rps tijeras",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:10:09.669000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Oh, gracias por la comida n.n **gatroim**",
+          "color": "#EEEBE1",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/kmA1Ay6Y_qtfTOH7WuaElerKAUOYOwYjA6s3_-9luiA/https/cdn.nekos.life/feed/feed_012.gif",
+            "canonicalUrl": "https://cdn.nekos.life/feed/feed_012.gif",
+            "width": 500,
+            "height": 258
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/kmA1Ay6Y_qtfTOH7WuaElerKAUOYOwYjA6s3_-9luiA/https/cdn.nekos.life/feed/feed_012.gif",
+              "canonicalUrl": "https://cdn.nekos.life/feed/feed_012.gif",
+              "width": 500,
+              "height": 258
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 6.521
+    }
+  },
+  {
+    "usuario": "paco_el_alpaco",
+    "usuario_id": "526990106347831304",
+    "fecha_comando": "2020-02-29T14:10:13.651000-08:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:10:13.886000-08:00",
+      "contenido": "@Paco, el resultado es un empate. Has elejido: `tijera` Y yo elegí `tijera`.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.235
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T14:10:43.972000-08:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T14:10:44.316000-08:00",
+      "contenido": "@Lapa, he ganado :D/. Has elejido `piedra` y yo elegí `papel`. El papel cubre a la roca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.344
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:25:43.941000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:25:56.340000-07:00",
+      "contenido": "Astlx Nahl: **papel**\nChocolat: **papel**\nResultado: **Empate.**\nComentario de Chocolat: Oh, empatamos esta vez, no pasa nada :3 Vuelve a jugar conmigo, ¿sí?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 12.399
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:25:56.193000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:25:56.340000-07:00",
+      "contenido": "Astlx Nahl: **papel**\nChocolat: **papel**\nResultado: **Empate.**\nComentario de Chocolat: Oh, empatamos esta vez, no pasa nada :3 Vuelve a jugar conmigo, ¿sí?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:26:12.148000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:26:12.441000-07:00",
+      "contenido": "Astlx Nahl: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Jajaja, te gané, ¿viste?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.293
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-05-12T22:26:31.946000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:26:32.231000-07:00",
+      "contenido": "||JeanFranco24||: **papel**\nChocolat: **tijera**\nResultado: **¡Has perdido!** Las tijeras cortan el papel.\nComentario de Chocolat: ¡Ajá, he ganado :D!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.285
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-05-12T22:27:10.645000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:27:10.852000-07:00",
+      "contenido": "||JeanFranco24||: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: Me temo que tu elección no fue la correcta.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:27:19.679000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:27:20.049000-07:00",
+      "contenido": "Astlx Nahl: **papel**\nChocolat: **tijera**\nResultado: **¡Has perdido!** Las tijeras cortan el papel.\nComentario de Chocolat: Jajaja, te gané, ¿viste?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.37
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-05-12T22:27:26.402000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:27:26.523000-07:00",
+      "contenido": "||JeanFranco24||: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: Te digo, las IAs como yo somos invencibles, jajaja.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.121
+    }
+  },
+  {
+    "usuario": "jeanfranco24",
+    "usuario_id": "502570366011441167",
+    "fecha_comando": "2020-05-12T22:27:41.615000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:27:41.805000-07:00",
+      "contenido": "||JeanFranco24||: **piedra**\nChocolat: **tijera**\nResultado: **¡Has ganado!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Maravillosa jugada, **||JeanFranco24||**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:27:48.281000-07:00",
+    "comando_completo": "ch!rps roca",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:28:00.875000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Despite your best attempts, your Tatsugotchi does not want to learn. Persistence is key!",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M7Tnthgcex3hHHyvgKoHgrcXkrK7VliFzLmYno6WMmU/https/i-like.blue/emotes/19.png",
+            "canonicalUrl": "https://i-like.blue/emotes/19.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 12.594
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:28:21.584000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:28:21.782000-07:00",
+      "contenido": "Astlx Nahl: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: Jajaja, te gané, ¿viste?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.198
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-12T22:30:52.573000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:30:52.822000-07:00",
+      "contenido": "SlainCrawl: **papel**\nChocolat: **tijera**\nResultado: **¡Has perdido!** Las tijeras cortan el papel.\nComentario de Chocolat: Lamento informarte que has perdido en mi juego favorito :3",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.249
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:31:32.183000-07:00",
+    "comando_completo": "ch!rps 🧻",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:31:42.694000-07:00",
+      "contenido": "Astlx Nahl: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Me ganaste! :heart: Felicidades por tu logro. ~~A la próxima no me dejaré vencer tan fácil~~",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.511
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:31:42.479000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:31:42.694000-07:00",
+      "contenido": "Astlx Nahl: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Me ganaste! :heart: Felicidades por tu logro. ~~A la próxima no me dejaré vencer tan fácil~~",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:31:58.897000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:32:00.264000-07:00",
+      "contenido": "Astlx Nahl: **tijera**\nChocolat: **tijera**\nResultado: **Empate.**\nComentario de Chocolat: Tengo un mal presentimiento...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.367
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:32:08.767000-07:00",
+    "comando_completo": "ch!rps paper",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:32:09.587000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "You wonder why your Tatsugotchi won't listen. Maybe you should give it a few more tries.",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M7Tnthgcex3hHHyvgKoHgrcXkrK7VliFzLmYno6WMmU/https/i-like.blue/emotes/19.png",
+            "canonicalUrl": "https://i-like.blue/emotes/19.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.82
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:32:23.399000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:32:23.624000-07:00",
+      "contenido": "Astlx Nahl: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: Muy pocos me han derrotado aquí.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.225
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:32:48.534000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:32:48.675000-07:00",
+      "contenido": "Astlx Nahl: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: Me temo que tu elección no fue la correcta.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.141
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:32:54.286000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:32:54.530000-07:00",
+      "contenido": "Astlx Nahl: **piedra**\nChocolat: **piedra**\nResultado: **Empate.**\nComentario de Chocolat: Elegiste lo mismo que yo, vaya coincidencia o.o",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.244
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:33:02.337000-07:00",
+    "comando_completo": "ch!rps paper",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:33:06.619000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Tatsugotchi sits down and looks excited, but doesn't do what you wanted.",
+          "color": "#FF2C2C",
+          "author": {
+            "name": "Try again!",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M7Tnthgcex3hHHyvgKoHgrcXkrK7VliFzLmYno6WMmU/https/i-like.blue/emotes/19.png",
+            "canonicalUrl": "https://i-like.blue/emotes/19.png",
+            "width": 48,
+            "height": 45
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 4.282
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:33:09.221000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:33:09.437000-07:00",
+      "contenido": "Astlx Nahl: **papel**\nChocolat: **papel**\nResultado: **Empate.**\nComentario de Chocolat: Y yo que pensaba que con esta elección ganaba...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "modosecso9914",
+    "usuario_id": "698924386207662121",
+    "fecha_comando": "2020-05-12T22:33:24.032000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:33:24.278000-07:00",
+      "contenido": "Astlx Nahl: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: -bosteza- Fue tan fácil vencerte...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.246
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-12T22:34:32.029000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-05-12T22:34:32.154000-07:00",
+      "contenido": "SlainCrawl: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: -bosteza- Fue tan fácil vencerte...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.125
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-31T10:16:24.681000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-05-31T10:16:25.271000-07:00",
+      "contenido": "HateForAll: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Te digo, las IAs como yo somos invencibles, jajaja.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.59
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T20:39:00.335000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:39:00.654000-07:00",
+      "contenido": "Derich: **piedra**\nChocolat: **piedra**\nResultado: **Empate.**\nComentario de Chocolat: Aw, ¿un empate? ¿es en serio?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.319
+    }
+  },
+  {
+    "usuario": "peke5015",
+    "usuario_id": "658131567356411905",
+    "fecha_comando": "2020-06-10T20:40:06.870000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:40:07.220000-07:00",
+      "contenido": "Peke: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: Maravillosa jugada, **Peke**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.35
+    }
+  },
+  {
+    "usuario": "znanyy",
+    "usuario_id": "589896577754071041",
+    "fecha_comando": "2020-06-10T20:54:44.046000-07:00",
+    "comando_completo": "ch!rps tijeras",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:54:44.310000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: I will remind you in 4 hours",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Fuken#9740",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/s7NGGg4gzvlv2VoLEmMzEmsptCysw2-XeqJrKcm9wOQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/703109819573469225/6f4051c05a90f84c0e0c922d7cbb9555.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/703109819573469225/6f4051c05a90f84c0e0c922d7cbb9555.png?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "znanyy",
+    "usuario_id": "589896577754071041",
+    "fecha_comando": "2020-06-10T20:55:11.900000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:55:12.095000-07:00",
+      "contenido": "Mirella.: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Me siento inspirada, volvamos a jugar!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "znanyy",
+    "usuario_id": "589896577754071041",
+    "fecha_comando": "2020-06-10T20:55:30.304000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:55:30.512000-07:00",
+      "contenido": "Mirella.: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: Y yo que pensaba que iba a ganar seguro...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.208
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T20:56:19.433000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:56:19.609000-07:00",
+      "contenido": "Derich: **tijera**\nChocolat: **papel**\nResultado: **¡Has ganado!** Las tijeras cortan el papel.\nComentario de Chocolat: ¡Me ganaste! :heart: Felicidades por tu logro. ~~A la próxima no me dejaré vencer tan fácil~~",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.176
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-16T08:20:19.440000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-07-16T08:20:19.760000-07:00",
+      "contenido": "SnowHoshi: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: Lamento informarte que has perdido en mi juego favorito :3",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.32
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-16T08:20:43.404000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-07-16T08:20:43.575000-07:00",
+      "contenido": "SnowHoshi: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: No creas que esto es todo, apenas calentaba. ¡Volvamos a jugar!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.171
+    }
+  },
+  {
+    "usuario": "chikichurrumicanelitapro24",
+    "usuario_id": "565875134209196038",
+    "fecha_comando": "2020-08-06T01:39:09.552000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-08-06T01:39:09.770000-07:00",
+      "contenido": "El vendedor de helados(❄): **tijera**\nChocolat: **tijera**\nResultado: **Empate.**\nComentario de Chocolat: Y yo que pensaba que con esta elección ganaba...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.218
+    }
+  },
+  {
+    "usuario": "danielssj4595",
+    "usuario_id": "681654900543062027",
+    "fecha_comando": "2020-08-24T22:17:26.409000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T22:17:34.985000-07:00",
+      "contenido": "𝕏𝕚𝕒𝕞: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Sí, te he ganado! >:D",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.576
+    }
+  },
+  {
+    "usuario": "danielssj4595",
+    "usuario_id": "681654900543062027",
+    "fecha_comando": "2020-08-24T22:17:34.655000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T22:17:34.985000-07:00",
+      "contenido": "𝕏𝕚𝕒𝕞: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Sí, te he ganado! >:D",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.33
+    }
+  },
+  {
+    "usuario": "danielssj4595",
+    "usuario_id": "681654900543062027",
+    "fecha_comando": "2020-08-24T22:17:46.975000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T22:17:47.274000-07:00",
+      "contenido": "𝕏𝕚𝕒𝕞: **papel**\nChocolat: **tijera**\nResultado: **¡Has perdido!** Las tijeras cortan el papel.\nComentario de Chocolat: Te digo, las IAs como yo somos invencibles, jajaja.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.299
+    }
+  },
+  {
+    "usuario": "danielssj4595",
+    "usuario_id": "681654900543062027",
+    "fecha_comando": "2020-08-24T22:17:58.808000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-08-24T22:17:59.132000-07:00",
+      "contenido": "𝕏𝕚𝕒𝕞: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Ajá, he ganado :D!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.324
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-09-24T09:47:12.484000-07:00",
+    "comando_completo": "ch!rps",
+    "respuesta_bot": {
+      "fecha": "2020-09-24T09:47:22.051000-07:00",
+      "contenido": "me voy 18d más ឵឵ ឵ᴸʰ: **tijera**\nChocolat: **papel**\nResultado: **¡Has ganado!** Las tijeras cortan el papel.\nComentario de Chocolat: Y yo que pensaba que iba a ganar seguro...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 9.567
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-09-24T09:47:21.285000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-09-24T09:47:22.051000-07:00",
+      "contenido": "me voy 18d más ឵឵ ឵ᴸʰ: **tijera**\nChocolat: **papel**\nResultado: **¡Has ganado!** Las tijeras cortan el papel.\nComentario de Chocolat: Y yo que pensaba que iba a ganar seguro...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.766
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-09-24T09:47:36.094000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-09-24T09:47:42.608000-07:00",
+      "contenido": "me voy 18d más ឵឵ ឵ᴸʰ: **tijera**\nChocolat: **tijera**\nResultado: **Empate.**\nComentario de Chocolat: Y yo que pensaba que con esta elección ganaba...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 6.514
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-09-24T09:47:49.813000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-09-24T09:47:52.138000-07:00",
+      "contenido": "me voy 18d más ឵឵ ឵ᴸʰ: **papel**\nChocolat: **tijera**\nResultado: **¡Has perdido!** Las tijeras cortan el papel.\nComentario de Chocolat: Te digo, las IAs como yo somos invencibles, jajaja.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 2.325
+    }
+  },
+  {
+    "usuario": "agresion",
+    "usuario_id": "607291548161277953",
+    "fecha_comando": "2020-09-24T09:48:04.509000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-09-24T09:48:05.589000-07:00",
+      "contenido": "me voy 18d más ឵឵ ឵ᴸʰ: **piedra**\nChocolat: **piedra**\nResultado: **Empate.**\nComentario de Chocolat: Eso... estuvo cerca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.08
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:48:56.282000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:48:56.302000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":check: Deposited 🍫1,316 to your bank!",
+          "color": "#66BB6A",
+          "author": {
+            "name": "606 🎃#0800",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/GUFpyZmSqbR1IHPRf2j4ss-C4Npts9_YAogL1kF1ozY/%3Fsize%3D128/https/cdn.discordapp.com/avatars/666672176669130752/a_838abafd35b80d654d9d3a11c65d193e.gif",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/666672176669130752/a_838abafd35b80d654d9d3a11c65d193e.gif?size=128"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "338071972476878848",
+              "name": "check",
+              "code": "check",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/338071972476878848.png"
+            },
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.02
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:49:37.076000-07:00",
+    "comando_completo": "ch!rps tijeras",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:49:47.573000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Me temo que tu elección no fue la correcta.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 10.497
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:49:47.320000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:49:47.573000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Me temo que tu elección no fue la correcta.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.253
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:50:00.118000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:50:00.356000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **tijera**\nChocolat: **papel**\nResultado: **¡Has ganado!** Las tijeras cortan el papel.\nComentario de Chocolat: Maravillosa jugada, **⌘‡Moe‡⌘ᴸʰ**",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:50:11.410000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:50:11.709000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **papel**\nChocolat: **papel**\nResultado: **Empate.**\nComentario de Chocolat: Eso... estuvo cerca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.299
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:50:24.242000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:50:24.581000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **piedra**\nChocolat: **piedra**\nResultado: **Empate.**\nComentario de Chocolat: Oh, empatamos esta vez, no pasa nada :3 Vuelve a jugar conmigo, ¿sí?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.339
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:51:55.244000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:51:56.030000-07:00",
+      "contenido": "Jalonso Itv_ch ㊕: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Lamento informarte que has perdido en mi juego favorito :3",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.786
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:52:06.937000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:52:07.965000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **tijera**\nChocolat: **papel**\nResultado: **¡Has ganado!** Las tijeras cortan el papel.\nComentario de Chocolat: Y decían que las IAs eran invencibles... vaya representación de \"IA\" acabo de hacer.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.028
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:52:36.820000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:52:37.093000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **piedra**\nChocolat: **tijera**\nResultado: **¡Has ganado!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: Y yo que pensaba que iba a ganar seguro...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.273
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:52:53.470000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:52:53.879000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: ¡Otra vez! ¡Esta ronda no vale! >-<",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.409
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-04T09:53:57.203000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-10-04T09:53:57.478000-07:00",
+      "contenido": "⌘‡Moe‡⌘ᴸʰ: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: Y decían que las IAs eran invencibles... vaya representación de \"IA\" acabo de hacer.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.275
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:14:19.970000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:14:28.125000-07:00",
+      "contenido": "Lays Clásicas: **papel**\nChocolat: **tijera**\nResultado: **¡Has perdido!** Las tijeras cortan el papel.\nComentario de Chocolat: ¡Ajá, he ganado :D!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 8.155
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:14:38.601000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:14:42.753000-07:00",
+      "contenido": "Lays Clásicas: **piedra**\nChocolat: **tijera**\nResultado: **¡Has ganado!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: He perdido :c ...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 4.152
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:14:55.060000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:15:07.988000-07:00",
+      "contenido": "Lays Clásicas: **tijera**\nChocolat: **tijera**\nResultado: **Empate.**\nComentario de Chocolat: Eso... estuvo cerca.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 12.928
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:15:30.704000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:15:32.507000-07:00",
+      "contenido": "Lays Clásicas: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: ¿Ves? Nadie puede vencerme o7",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.803
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:16:00.707000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:16:01.162000-07:00",
+      "contenido": "Lays Clásicas: **papel**\nChocolat: **papel**\nResultado: **Empate.**\nComentario de Chocolat: Y yo que pensaba que con esta elección ganaba...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.455
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:16:11.301000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:16:11.665000-07:00",
+      "contenido": "Lays Clásicas: **piedra**\nChocolat: **piedra**\nResultado: **Empate.**\nComentario de Chocolat: Elegiste lo mismo que yo, vaya coincidencia o.o",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.364
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:16:18.768000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:16:19.168000-07:00",
+      "contenido": "Lays Clásicas: **tijera**\nChocolat: **papel**\nResultado: **¡Has ganado!** Las tijeras cortan el papel.\nComentario de Chocolat: Y yo que pensaba que iba a ganar seguro...",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.4
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:16:22.987000-07:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:16:24.186000-07:00",
+      "contenido": "Lays Clásicas: **piedra**\nChocolat: **papel**\nResultado: **¡Has perdido!** El papel cubre a la piedra.\nComentario de Chocolat: ¿Y eso es todo lo que tienes? Me resultó bastante fácil.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 1.199
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:16:28.545000-07:00",
+    "comando_completo": "ch!rps papel",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:16:29.108000-07:00",
+      "contenido": "Lays Clásicas: **papel**\nChocolat: **piedra**\nResultado: **¡Has ganado!** El papel cubre a la piedra.\nComentario de Chocolat: Y decían que las IAs eran invencibles... vaya representación de \"IA\" acabo de hacer.",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.563
+    }
+  },
+  {
+    "usuario": "laysclasicassaborketchup",
+    "usuario_id": "609928752486416384",
+    "fecha_comando": "2020-10-18T19:16:35.813000-07:00",
+    "comando_completo": "ch!rps tijera",
+    "respuesta_bot": {
+      "fecha": "2020-10-18T19:16:36.463000-07:00",
+      "contenido": "Lays Clásicas: **tijera**\nChocolat: **piedra**\nResultado: **¡Has perdido!** Las tijeras no pueden cortar piedras.\nComentario de Chocolat: ¡Ajá, he ganado :D!",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.65
+    }
+  },
+  {
+    "usuario": "noname7612",
+    "usuario_id": "192756779573051392",
+    "fecha_comando": "2020-11-27T21:30:31.865000-08:00",
+    "comando_completo": "ch!rps piedra",
+    "respuesta_bot": {
+      "fecha": "2020-11-27T21:30:32.093000-08:00",
+      "contenido": "Noname7612: **piedra**\nChocolat: **piedra**\nResultado: **Empate.**\nComentario de Chocolat: Aw, ¿un empate? ¿es en serio?",
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "delta_segundos": 0.228
+    }
+  }
+]

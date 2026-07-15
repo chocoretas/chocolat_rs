@@ -1,0 +1,2883 @@
+[
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-02-10T21:12:34.241000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-02-10T21:12:34.355000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**⭐abyita⭐** vomitó.",
+          "color": "#65C0B2",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+            "width": 220,
+            "height": 124
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+              "width": 220,
+              "height": 124
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "⭐",
+              "code": "star",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2b50.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.114
+    }
+  },
+  {
+    "usuario": "the_ancient_emperor",
+    "usuario_id": "331566550697902080",
+    "fecha_comando": "2019-02-20T09:01:51.586000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-02-20T09:01:51.771000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Daniel3521281** vomitó.",
+          "color": "#D12F17",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "width": 320,
+            "height": 263
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "width": 320,
+              "height": 263
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.185
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-03-02T12:28:50.028000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-03-02T12:28:50.130000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo** vomitó.",
+          "color": "#33198D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "width": 320,
+            "height": 263
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "width": 320,
+              "height": 263
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.102
+    }
+  },
+  {
+    "usuario": "ulti_gg",
+    "usuario_id": "241775896518721536",
+    "fecha_comando": "2019-03-04T08:18:26.552000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-03-04T08:18:26.702000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Ulti!** vomitó.",
+          "color": "#03A1D3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+            "width": 500,
+            "height": 228
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+              "width": 500,
+              "height": 228
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "reeddo",
+    "usuario_id": "288143032375574538",
+    "fecha_comando": "2019-04-23T19:25:44.715000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-04-23T19:25:44.887000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Reeddo** vomitó.",
+          "color": "#EEBE38",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "d.arcus",
+    "usuario_id": "398658092021055511",
+    "fecha_comando": "2019-04-23T19:47:49.816000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-04-23T19:47:49.880000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**☀Darnel♚** vomitó.",
+          "color": "#49CFC8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.064
+    }
+  },
+  {
+    "usuario": "raforsitonwn_24418",
+    "usuario_id": "579345671715553290",
+    "fecha_comando": "2019-06-02T18:43:52.624000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-06-02T18:43:52.777000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**🌙𝐂𝐚𝐭 𝐌𝐚𝐧🌙** vomitó del asco.",
+          "color": "#162063",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "width": 500,
+            "height": 230
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "width": 500,
+              "height": 230
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌙",
+              "code": "crescent_moon",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f319.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.153
+    }
+  },
+  {
+    "usuario": "deficitneuronal",
+    "usuario_id": "339427530702323722",
+    "fecha_comando": "2019-07-09T12:20:01.954000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-07-09T12:20:02.210000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**ayudau** vomitó. Bleh.",
+          "color": "#6DA17B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "elelectro97",
+    "usuario_id": "547601715470270476",
+    "fecha_comando": "2019-07-13T20:46:35.098000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-07-13T20:46:35.194000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**sebaspro2090** vomitó. Bleh.",
+          "color": "#144AAD",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "width": 500,
+            "height": 230
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "width": 500,
+              "height": 230
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.096
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-07-27T21:02:49.302000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-07-27T21:02:49.431000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**¡Roger Pizarro!** vomitó. Bleh.",
+          "color": "#CA292C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+            "width": 500,
+            "height": 228
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+              "width": 500,
+              "height": 228
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.129
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-08-15T10:13:26.710000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-08-15T10:13:26.815000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Ikerex** vomitó. Bleh.",
+          "color": "#DAFA69",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.105
+    }
+  },
+  {
+    "usuario": "ayano3038",
+    "usuario_id": "460489146922958849",
+    "fecha_comando": "2019-09-09T04:47:10.765000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-09-09T04:47:10.861000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Ayano🌟🌙** vomitó. Bleh.",
+          "color": "#83688E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+            "width": 512,
+            "height": 287
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+              "width": 512,
+              "height": 287
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌟",
+              "code": "star2",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f31f.svg"
+            },
+            {
+              "id": "",
+              "name": "🌙",
+              "code": "crescent_moon",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f319.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.096
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-09-20T15:16:55.821000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-09-20T15:16:56.077000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**𝓖𝓪𝓵𝓵𝓮𝓽𝓪 𝓓𝓸𝔀𝓷** vomitó. Bleh.",
+          "color": "#AFE2D2",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+            "width": 220,
+            "height": 124
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816394/unnamed_2.gif?ex=6a57b299&is=6a566119&hm=10c9dface20714823f4c5c6597965c096526e164915244293b10b25027dac6fe&",
+              "width": 220,
+              "height": 124
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.256
+    }
+  },
+  {
+    "usuario": "userdeleted2219",
+    "usuario_id": "620056072568438794",
+    "fecha_comando": "2019-09-26T21:12:42.782000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-09-26T21:12:42.972000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Juansmeiden★** vomitó. Bleh.",
+          "color": "#70D1D7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.19
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-16T04:54:42.814000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-16T04:54:42.966000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep Nep halloween** vomitó. Bleh.",
+          "color": "#C27D5F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.152
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-19T12:12:31.681000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-19T12:12:31.858000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep Nep halloween** vomitó. Bleh.",
+          "color": "#E77762",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.177
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-24T06:29:56.020000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T06:29:56.358000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Aeon the hedgehog** vomitó. Bleh.",
+          "color": "#13D632",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "width": 480,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.338
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-24T16:08:02.927000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-24T16:08:03.169000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Senpai** vomitó. Bleh.",
+          "color": "#445F58",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "width": 500,
+            "height": 268
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "width": 500,
+              "height": 268
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-25T15:33:23.360000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-25T15:33:23.668000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nohaypantsus Hot-dog** vomitó. Bleh.",
+          "color": "#6D3230",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "width": 480,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.308
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-25T15:35:36.228000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-25T15:35:36.470000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nohaypantsus Hot-dog** vomitó. Bleh.",
+          "color": "#43132E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.242
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-25T15:35:50.442000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-25T15:35:50.658000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nohaypantsus Hot-dog** vomitó. Bleh.",
+          "color": "#E89815",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "width": 480,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-26T08:24:05.005000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T08:24:05.121000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep puddin** vomitó. Bleh.",
+          "color": "#BD064C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.116
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-26T08:26:35.808000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T08:26:36.778000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep puddin** vomitó. Bleh.",
+          "color": "#9B796B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.97
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-10-26T09:40:47.469000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-26T09:40:47.695000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Baba Yagá Slayer** vomitó. Bleh.",
+          "color": "#4BE2C5",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.226
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-28T05:10:19.352000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-28T05:10:19.544000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep halloween** vomitó. Bleh.",
+          "color": "#FB2D27",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "width": 320,
+            "height": 263
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "width": 320,
+              "height": 263
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.192
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-10-31T09:55:44.073000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-31T09:55:44.280000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Iris heart halloween** vomitó. Bleh.",
+          "color": "#9B540E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "width": 500,
+            "height": 230
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "width": 500,
+              "height": 230
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-10-31T21:27:17.182000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-10-31T21:27:17.355000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Senpai** vomitó. Bleh.",
+          "color": "#FBEAAB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.173
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-01T09:16:47.899000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-01T09:16:48.163000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep nep Adult** vomitó. Bleh.",
+          "color": "#3618ED",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.264
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2019-11-04T05:48:12.145000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-04T05:48:12.352000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**TheRealDaffy** vomitó. Bleh.",
+          "color": "#570038",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.207
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-04T19:54:28.652000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-04T19:54:28.861000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**「ᗠᎯѕυвzєяσ🎃」** vomitó. Bleh.",
+          "color": "#56102D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "width": 500,
+            "height": 268
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "width": 500,
+              "height": 268
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎃",
+              "code": "jack_o_lantern",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f383.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.209
+    }
+  },
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2019-11-04T19:54:51.858000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-04T19:54:51.992000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**「ᗠᎯѕυвzєяσ🎃」** vomitó. Bleh.",
+          "color": "#937723",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "width": 480,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎃",
+              "code": "jack_o_lantern",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f383.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.134
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-06T04:43:31.643000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-06T04:43:31.920000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep nep espera la navidad** vomitó. Bleh.",
+          "color": "#84E283",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+            "width": 500,
+            "height": 230
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472143481765888/unnamed_12.gif?ex=6a57b27b&is=6a5660fb&hm=9997ed1a6b011c73af36afa31014d7ddd104affb497e4587b5280ef03dbb228c&",
+              "width": 500,
+              "height": 230
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.277
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-07T06:35:53.547000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-07T06:35:53.682000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep nep espera la navidad** vomitó. Bleh.",
+          "color": "#018936",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.135
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-08T03:42:01.029000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-08T03:42:01.235000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep nep espera la navidad** vomitó. Bleh.",
+          "color": "#72C51C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+            "width": 512,
+            "height": 287
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+              "width": 512,
+              "height": 287
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.206
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-09T05:56:52.461000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-09T05:56:52.764000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Nep nep espera la navidad** vomitó. Bleh.",
+          "color": "#4FD3D4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.303
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-12T05:07:16.613000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-12T05:07:16.721000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Risum the best** vomitó. Bleh.",
+          "color": "#9D8416",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472141527482399/unnamed_9.gif?ex=6a57b27a&is=6a5660fa&hm=0182989d97449030260460dd7d84c272f376192c0f86707652761c8b05fcde99&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.108
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-17T18:47:05.516000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-17T18:47:05.751000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Risum the best** vomitó. Bleh.",
+          "color": "#ACA204",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.235
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-11-17T18:49:50.794000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-11-17T18:49:51.117000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Risum the best** vomitó. Bleh.",
+          "color": "#79FF0A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.323
+    }
+  },
+  {
+    "usuario": "bossuss",
+    "usuario_id": "456840549001854988",
+    "fecha_comando": "2019-12-12T15:47:17.615000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-12-12T15:47:17.848000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Merry Merry Merry Christmas** vomitó. Bleh.",
+          "color": "#46277C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "width": 480,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.233
+    }
+  },
+  {
+    "usuario": "whtvr.",
+    "usuario_id": "272782529155694594",
+    "fecha_comando": "2019-12-12T18:09:31.107000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2019-12-12T18:09:31.444000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Sesnyákra** vomitó. Bleh.",
+          "color": "#FC6486",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+            "width": 500,
+            "height": 228
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a57b27b&is=6a5660fb&hm=876234f94ef5395aceea62f56f5064145ba40f45ea39025d5fe7f8a729e241f0&",
+              "width": 500,
+              "height": 228
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.337
+    }
+  },
+  {
+    "usuario": "peke5015",
+    "usuario_id": "658131567356411905",
+    "fecha_comando": "2020-02-28T16:52:49.440000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-02-28T16:52:49.590000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Peke** vomitó. Bleh.",
+          "color": "#6F0510",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "lapa7084",
+    "usuario_id": "478296798037803015",
+    "fecha_comando": "2020-02-29T13:43:39.747000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-02-29T13:43:39.962000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Lapa** vomitó. Bleh.",
+          "color": "#DB7149",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.215
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-03-27T01:52:58.950000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-03-27T01:52:59.073000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**DK Diamond96** vomitó. Bleh.",
+          "color": "#053629",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472267461328908/unnamed_1.gif?ex=6a57b298&is=6a566118&hm=cbbd89320ffac974446294779e6c12d1ad88870694461819aa537512fe428308&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.123
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-12T10:38:39.010000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T10:38:39.365000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** vomitó. Bleh.",
+          "color": "#B4013D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.355
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-04-12T10:38:50.075000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-04-12T10:38:50.340000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mangu 🤤** vomitó. Bleh.",
+          "color": "#296520",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+            "width": 600,
+            "height": 338
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+              "width": 600,
+              "height": 338
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🤤",
+              "code": "drooling_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f924.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.265
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-04-13T17:19:53.794000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-04-13T17:19:54.081000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Rex** vomitó. Bleh.",
+          "color": "#E971AC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.287
+    }
+  },
+  {
+    "usuario": "alyko.",
+    "usuario_id": "439981853970268181",
+    "fecha_comando": "2020-04-27T09:02:06.657000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-04-27T09:02:07.014000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**『 Mr Limbo 』** vomitó. Bleh.",
+          "color": "#0D9721",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "width": 500,
+            "height": 268
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "width": 500,
+              "height": 268
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.357
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-05-06T19:26:15.187000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-06T19:26:15.403000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**[??] Lattenyu BOT** no pudo contenerse y vomitó >n<",
+          "color": "#D5F7BA",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "width": 320,
+            "height": 263
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "width": 320,
+              "height": 263
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.216
+    }
+  },
+  {
+    "usuario": "dontcallmesol",
+    "usuario_id": "525864182302638081",
+    "fecha_comando": "2020-05-07T21:11:43.973000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-07T21:11:44.287000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **🌈Lerel🌈** le pareció muy asqueroso, y vomitó...",
+          "color": "#BE98B9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+            "width": 320,
+            "height": 263
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472269260816395/unnamed_3.gif?ex=6a57b299&is=6a566119&hm=7a25bb6f7768931bc8c428e48d538e3d293f61e2d23d245c311a1d59b388130d&",
+              "width": 320,
+              "height": 263
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🌈",
+              "code": "rainbow",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f308.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.314
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-08T01:08:58.713000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-08T01:08:58.885000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **Brandon 7w7** le pareció muy asqueroso, y vomitó...",
+          "color": "#2F41BC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.172
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-16T17:29:57.297000-07:00",
+    "comando_completo": "ch!vomit :v",
+    "respuesta_bot": {
+      "fecha": "2020-05-16T17:29:57.917000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**㊕ Jalonso Itv_ch ㊕** no pudo contenerse y vomitó >n<",
+          "color": "#F9BFD9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+            "width": 600,
+            "height": 338
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/620253137537728531/dabe32c7-eb55-4793-a864-759d25cc4c6d.gif?ex=6a58377f&is=6a56e5ff&hm=ee35d54be6eaccfd27ed69496e6f8246eddee8aa9b3f420958d1db1908c77020&",
+              "width": 600,
+              "height": 338
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.62
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-16T17:59:29.187000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-16T17:59:29.643000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**㊕ Jalonso Itv_ch ㊕** no pudo contenerse y vomitó >n<",
+          "color": "#1F71B6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+            "width": 540,
+            "height": 362
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+              "width": 540,
+              "height": 362
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.456
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-18T22:04:57.887000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-18T22:04:58.038000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**㊕ Jalonso Itv_ch ㊕** no pudo contenerse y vomitó >n<",
+          "color": "#A92D57",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.151
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-05-29T21:04:28.826000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T21:04:28.987000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **Rex¦ᴿᵡ¦** le pareció muy asqueroso, y vomitó...",
+          "color": "#A81002",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.161
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-29T21:05:18.207000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T21:05:18.415000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**㊕ Jalonso Itv_ch ㊕** vomitó. Bleh.",
+          "color": "#A73C15",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.208
+    }
+  },
+  {
+    "usuario": "rex11000",
+    "usuario_id": "462036618547691531",
+    "fecha_comando": "2020-05-29T21:06:05.752000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T21:06:05.882000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **Rex¦ᴿᵡ¦** le pareció muy asqueroso, y vomitó...",
+          "color": "#53EF02",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+            "width": 540,
+            "height": 362
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+              "width": 540,
+              "height": 362
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.13
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-29T21:07:33.205000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T21:07:33.425000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **㊕ Jalonso Itv_ch ㊕** le pareció muy asqueroso, y vomitó...",
+          "color": "#6300A8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.22
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-05-29T21:11:31.158000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-29T21:11:31.290000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **㊕ Jalonso Itv_ch ㊕** le pareció muy asqueroso, y vomitó...",
+          "color": "#51C2C6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+            "width": 500,
+            "height": 268
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203766497282/unnamed_7.gif?ex=6a57b289&is=6a566109&hm=028ae59e3691edc2fdf204e7ecba010482097f45815b5748f4cc8c50e0e9a647&",
+              "width": 500,
+              "height": 268
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.132
+    }
+  },
+  {
+    "usuario": "lucaspm2240",
+    "usuario_id": "699060186052034621",
+    "fecha_comando": "2020-05-31T16:51:17.434000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-31T16:51:17.914000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **🔥Lucaspm🔥** le pareció muy asqueroso, y vomitó...",
+          "color": "#1DDE00",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔥",
+              "code": "fire",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.48
+    }
+  },
+  {
+    "usuario": "lucaspm2240",
+    "usuario_id": "699060186052034621",
+    "fecha_comando": "2020-05-31T18:29:16.748000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-05-31T18:29:16.972000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **🔥Lucaspm🔥** le pareció muy asqueroso, y vomitó...",
+          "color": "#7154F6",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+            "width": 480,
+            "height": 270
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984258/unnamed_11.gif?ex=6a57b27a&is=6a5660fa&hm=cc536a05d5446fea72d1a5d402e34990e65f6c2328452567efae34167dbcb194&",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔥",
+              "code": "fire",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.224
+    }
+  },
+  {
+    "usuario": "lucaspm2240",
+    "usuario_id": "699060186052034621",
+    "fecha_comando": "2020-06-01T14:57:25.042000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-06-01T14:57:25.282000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**🔥Lucaspm🔥** vomitó. Bleh.",
+          "color": "#A7FE65",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🔥",
+              "code": "fire",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.24
+    }
+  },
+  {
+    "usuario": "bill004",
+    "usuario_id": "458587602170413066",
+    "fecha_comando": "2020-06-04T07:45:31.669000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-06-04T07:45:31.864000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Bill** vomitó. Bleh.",
+          "color": "#33FC88",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+            "width": 540,
+            "height": 362
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/664065221689868288/e2b02a688c82113848c16a1ebd0f39a9.gif?ex=6a58152e&is=6a56c3ae&hm=60111585aa8aa5baca22687705b420cb9389093eb29c9b4824d156a58cab1f2e&",
+              "width": 540,
+              "height": 362
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.195
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-13T20:45:35.336000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-06-13T20:45:35.541000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **Jalonso Itv_ch ㊕** le pareció muy asqueroso, y vomitó...",
+          "color": "#F52ACC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.205
+    }
+  },
+  {
+    "usuario": "belcebu_gula",
+    "usuario_id": "318953634626928641",
+    "fecha_comando": "2020-06-14T14:44:08.473000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-06-14T14:44:08.676000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **belcebú gula (nanen15)** le pareció muy asqueroso, y vomitó...",
+          "color": "#9E0625",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472268094537739/unnamed.gif?ex=6a57b298&is=6a566118&hm=d77486b4a6a6cf741b5de8a0f85571d089dc9b1f4d078522203b01a8ecf3aaca&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-23T10:26:01.188000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-06-23T10:26:01.335000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Jalonso Itv_ch ㊕** no pudo contenerse y vomitó >n<",
+          "color": "#7AACBB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472295902904320/unnamed_4.gif?ex=6a57b29f&is=6a56611f&hm=1cbe83752daca6f0f07f04307c6051878c843db9b90ad143917de24ef4ec491c&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.147
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-26T21:22:30.596000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-06-26T21:22:30.746000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Owao Kun!** vomitó. Bleh.",
+          "color": "#76382E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472204886638602/unnamed_5.gif?ex=6a57b289&is=6a566109&hm=99623e9e2e57c7985a0be3d2304fcc5f26493ecf35a57fb23aa17d2cb32c45c5&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.15
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-07-01T01:14:29.716000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T01:14:29.870000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Jalonso Itv_ch ㊕** vomitó. Bleh.",
+          "color": "#237BC8",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/571452648063107083/tenor_6.gif?ex=6a580040&is=6a56aec0&hm=7a677c0b8ae8018ebd5c3e883042f5b5b6168d532a5adaaa4d5c86502a06dc8f&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "huhwho_",
+    "usuario_id": "552697612332040218",
+    "fecha_comando": "2020-07-01T01:24:25.153000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T01:24:27.022000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Latte** vomitó. Bleh.",
+          "color": "#11844F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+            "width": 500,
+            "height": 284
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472142533984256/unnamed_10.gif?ex=6a57b27a&is=6a5660fa&hm=1c9b296fed833378c83d81768251060079b430444551d6a1abec2c559d620d70&",
+              "width": 500,
+              "height": 284
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.869
+    }
+  },
+  {
+    "usuario": "m4df0xx",
+    "usuario_id": "356946316531597334",
+    "fecha_comando": "2020-07-05T20:04:43.392000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-07-05T20:04:43.427000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Result: Win 🍫150",
+          "color": "#66BB6A",
+          "author": {
+            "name": "Nikolozsal#7181",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/a0iP0jYoX60fDQXM6GB_cI-7HbFd4CPOW0NcQGw6vCA/%3Fsize%3D128/https/cdn.discordapp.com/avatars/614611759361163264/5a69edfaf4970b34d6ac266a476f5fa5.png",
+            "iconCanonicalUrl": "https://cdn.discordapp.com/avatars/614611759361163264/5a69edfaf4970b34d6ac266a476f5fa5.png?size=128"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "**Your Hand**",
+              "value": ":9C: :10D:\n\nValue: 19",
+              "isInline": true
+            },
+            {
+              "name": "**Dealer Hand**",
+              "value": ":6S: :aC:\n\nValue: 17",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🍫",
+              "code": "chocolate_bar",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36b.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.035
+    }
+  },
+  {
+    "usuario": "hanasaki_ai",
+    "usuario_id": "731583874039283795",
+    "fecha_comando": "2020-07-30T08:48:23.224000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T08:48:23.478000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Angel_Sad** no pudo contenerse y vomitó >n<",
+          "color": "#485A57",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+            "width": 512,
+            "height": 287
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472203095539712/unnamed_8.gif?ex=6a57b289&is=6a566109&hm=f9d87f87fd7443b284188b1ca1f327b14f3beff35ca3c49609ca2dd159b183ca&",
+              "width": 512,
+              "height": 287
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.254
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-10-27T00:59:30.693000-07:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-10-27T00:59:31.045000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **Geodaro** le pareció muy asqueroso, y vomitó...",
+          "color": "#823A22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+            "width": 500,
+            "height": 228
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+              "width": 500,
+              "height": 228
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.352
+    }
+  },
+  {
+    "usuario": "evil_yakui",
+    "usuario_id": "422621797934956545",
+    "fecha_comando": "2020-11-30T04:34:34.745000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-11-30T04:34:34.899000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**franportillo** vomitó. Bleh.",
+          "color": "#4F8D07",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/728971446445146122/wP56O.gif?ex=6a583950&is=6a56e7d0&hm=a1dba0216569f2847948d3b5bc8d743173e9a17c5e8150750decb872ce348ff6&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/728971446445146122/wP56O.gif?ex=6a583950&is=6a56e7d0&hm=a1dba0216569f2847948d3b5bc8d743173e9a17c5e8150750decb872ce348ff6&",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/728971446445146122/wP56O.gif?ex=6a583950&is=6a56e7d0&hm=a1dba0216569f2847948d3b5bc8d743173e9a17c5e8150750decb872ce348ff6&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/728971446445146122/wP56O.gif?ex=6a583950&is=6a56e7d0&hm=a1dba0216569f2847948d3b5bc8d743173e9a17c5e8150750decb872ce348ff6&",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.154
+    }
+  },
+  {
+    "usuario": "umi_04",
+    "usuario_id": "714918340874731560",
+    "fecha_comando": "2020-12-02T17:42:49.079000-08:00",
+    "comando_completo": "ch!vomit",
+    "respuesta_bot": {
+      "fecha": "2020-12-02T17:42:49.522000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "A **Jared** le pareció muy asqueroso, y vomitó...",
+          "color": "#5F282F",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+            "width": 500,
+            "height": 228
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/541472145805410360/unnamed_13.gif?ex=6a585b3b&is=6a5709bb&hm=323a16705095de8198c25a340a9cc9c9ef9d32eedd0ad83d60bf9e476276c258&",
+              "width": 500,
+              "height": 228
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.443
+    }
+  }
+]

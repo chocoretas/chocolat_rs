@@ -1,0 +1,1562 @@
+[
+  {
+    "usuario": "zero5329",
+    "usuario_id": "409147750161317891",
+    "fecha_comando": "2020-05-06T18:02:12.256000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-05-06T18:02:12.513000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**「ᗠᎯѕυвzєяσ」** está jugando algo divertido.",
+          "color": "#99853B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+            "width": 422,
+            "height": 233
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+              "width": 422,
+              "height": 233
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.257
+    }
+  },
+  {
+    "usuario": "_alekxey",
+    "usuario_id": "583827320952061952",
+    "fecha_comando": "2020-05-06T18:03:11.564000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-05-06T18:03:12.017000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**DK Diamond96** está jugando algo divertido.",
+          "color": "#DCC625",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.453
+    }
+  },
+  {
+    "usuario": "aprocrack",
+    "usuario_id": "523930209729118220",
+    "fecha_comando": "2020-05-06T18:14:14.548000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-05-06T18:14:14.857000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**aprocrack** juega un poco para entretenerse uwu",
+          "color": "#0993BD",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490710091792440/5.gif?ex=6a57c922&is=6a5677a2&hm=1dc50dd46c1074131e57e8682559d35cccb4c02a470ad5b236fa7162006241f1&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490710091792440/5.gif?ex=6a57c922&is=6a5677a2&hm=1dc50dd46c1074131e57e8682559d35cccb4c02a470ad5b236fa7162006241f1&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490710091792440/5.gif?ex=6a57c922&is=6a5677a2&hm=1dc50dd46c1074131e57e8682559d35cccb4c02a470ad5b236fa7162006241f1&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490710091792440/5.gif?ex=6a57c922&is=6a5677a2&hm=1dc50dd46c1074131e57e8682559d35cccb4c02a470ad5b236fa7162006241f1&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.309
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-05-10T17:52:27.293000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T17:52:27.973000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Miguel | 牛** está adicto a los videojuegos O.o",
+          "color": "#9A8696",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.68
+    }
+  },
+  {
+    "usuario": "feguillas",
+    "usuario_id": "691201366777135146",
+    "fecha_comando": "2020-05-10T17:54:04.064000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T17:54:04.194000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Feguillas** está adicto a los videojuegos O.o",
+          "color": "#3A2E84",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+            "width": 500,
+            "height": 269
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+              "width": 500,
+              "height": 269
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.13
+    }
+  },
+  {
+    "usuario": "feguillas",
+    "usuario_id": "691201366777135146",
+    "fecha_comando": "2020-05-10T18:07:26.614000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-05-10T18:07:26.817000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Feguillas** se puso a jugar >u<",
+          "color": "#D4737D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+            "width": 498,
+            "height": 404
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+              "width": 498,
+              "height": 404
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.203
+    }
+  },
+  {
+    "usuario": "llacasito03",
+    "usuario_id": "426099570972426260",
+    "fecha_comando": "2020-06-03T11:42:47.189000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-03T11:42:47.355000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Llacasito03** tiene una adicción por los videojuegos O.o",
+          "color": "#A0DD44",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.166
+    }
+  },
+  {
+    "usuario": ".ronaudo",
+    "usuario_id": "720166160347299843",
+    "fecha_comando": "2020-06-10T20:35:45.890000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-10T20:35:46.122000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Derich** juega un poco para entretenerse uwu",
+          "color": "#B280C7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490707755565056/8.gif?ex=6a57c921&is=6a5677a1&hm=abac4954b6599833dff7753ea7314da4c3acdf721e64a9b07b92e6d6711da849&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490707755565056/8.gif?ex=6a57c921&is=6a5677a1&hm=abac4954b6599833dff7753ea7314da4c3acdf721e64a9b07b92e6d6711da849&",
+            "width": 320,
+            "height": 180
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490707755565056/8.gif?ex=6a57c921&is=6a5677a1&hm=abac4954b6599833dff7753ea7314da4c3acdf721e64a9b07b92e6d6711da849&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490707755565056/8.gif?ex=6a57c921&is=6a5677a1&hm=abac4954b6599833dff7753ea7314da4c3acdf721e64a9b07b92e6d6711da849&",
+              "width": 320,
+              "height": 180
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.232
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-06-13T18:00:43.701000-07:00",
+    "comando_completo": "ch!game @Flora (de Shelly) (y Ghost) 🎀",
+    "respuesta_bot": {
+      "fecha": "2020-06-13T18:00:43.928000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Jalonso Itv_ch ㊕** se puso a jugar >u<",
+          "color": "#CEF418",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+            "width": 480,
+            "height": 161
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+              "width": 480,
+              "height": 161
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.227
+    }
+  },
+  {
+    "usuario": "sprout03356",
+    "usuario_id": "487014232081170434",
+    "fecha_comando": "2020-06-19T16:56:33.294000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-19T16:56:33.687000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugar **Sprout**?",
+          "color": "#80F103",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.393
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-27T10:22:04.117000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-27T10:22:04.428000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**空 (Sora)** tiene una adicción por los videojuegos O.o",
+          "color": "#B8FFE4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.311
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-27T23:04:31.452000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-27T23:04:31.713000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**空 (Sora)** se puso a jugar >u<",
+          "color": "#582E9B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+            "width": 498,
+            "height": 350
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+              "width": 498,
+              "height": 350
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.261
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-29T08:51:55.883000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-29T08:51:56.351000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugar **空 (Sora)**?",
+          "color": "#53079D",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490699530535376/1.gif?ex=6a57c91f&is=6a56779f&hm=4e6a944516dcf1029e10ea6ff341ba3c870d1595bf626be36192c229158ede34&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490699530535376/1.gif?ex=6a57c91f&is=6a56779f&hm=4e6a944516dcf1029e10ea6ff341ba3c870d1595bf626be36192c229158ede34&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490699530535376/1.gif?ex=6a57c91f&is=6a56779f&hm=4e6a944516dcf1029e10ea6ff341ba3c870d1595bf626be36192c229158ede34&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490699530535376/1.gif?ex=6a57c91f&is=6a56779f&hm=4e6a944516dcf1029e10ea6ff341ba3c870d1595bf626be36192c229158ede34&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.468
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-06-29T13:32:16.798000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-06-29T13:32:17.084000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugar **空 (Sora)**?",
+          "color": "#88F6F4",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+            "width": 498,
+            "height": 404
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490723886858381/6.gif?ex=6a57c925&is=6a5677a5&hm=ed3781025de2c6758207b2f272c49864b1bc8ff814d70a644ca069fc01458b17&",
+              "width": 498,
+              "height": 404
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.286
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-01T19:54:53.870000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-01T19:54:54.137000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**空 (Sora)** está jugando algo divertido.",
+          "color": "#31481B",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602144169492492/58ad6e3fa6c0742be9eac74d78d67fa246daa616_hq.gif?ex=6a57e42c&is=6a5692ac&hm=9fbd52048ea3750b259eab256f4b0cabbbe840f053005d4a91acddb906d0ca60&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.267
+    }
+  },
+  {
+    "usuario": "parther_p",
+    "usuario_id": "550451103813337115",
+    "fecha_comando": "2020-07-02T13:55:52.260000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-02T13:55:52.400000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**PartherMr** juega un poco para entretenerse uwu",
+          "color": "#62FA61",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+            "width": 422,
+            "height": 233
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490788873535499/14.gif?ex=6a57c935&is=6a5677b5&hm=351defccfeaf1ce8ca42c2f50749a1cd72f9037fca922a6db97af4da8edc1c7b&",
+              "width": 422,
+              "height": 233
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.14
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-03T10:02:28.662000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-03T10:02:28.836000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugar **空 (Sora)**?",
+          "color": "#BB35A2",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "parther_p",
+    "usuario_id": "550451103813337115",
+    "fecha_comando": "2020-07-03T10:14:08.311000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-03T10:14:08.485000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Parther** está jugando algo divertido.",
+          "color": "#314487",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+            "width": 366,
+            "height": 206
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+              "width": 366,
+              "height": 206
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.174
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-30T08:47:52.124000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T08:47:52.440000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**空『Sora』** está jugando algo divertido.",
+          "color": "#5FBE8A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490670346567751/4.gif?ex=6a57c918&is=6a567798&hm=b547546922e6c88ceea6675cb57448667b76efc90afbbcfadd4e3d2c8293c2fb&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490670346567751/4.gif?ex=6a57c918&is=6a567798&hm=b547546922e6c88ceea6675cb57448667b76efc90afbbcfadd4e3d2c8293c2fb&",
+            "width": 500,
+            "height": 281
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490670346567751/4.gif?ex=6a57c918&is=6a567798&hm=b547546922e6c88ceea6675cb57448667b76efc90afbbcfadd4e3d2c8293c2fb&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490670346567751/4.gif?ex=6a57c918&is=6a567798&hm=b547546922e6c88ceea6675cb57448667b76efc90afbbcfadd4e3d2c8293c2fb&",
+              "width": 500,
+              "height": 281
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.316
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-07-30T08:48:06.964000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T08:48:07.202000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Anober** tiene una adicción por los videojuegos O.o",
+          "color": "#8EC887",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.238
+    }
+  },
+  {
+    "usuario": "apoleia364",
+    "usuario_id": "666730557207740446",
+    "fecha_comando": "2020-07-30T11:06:32.374000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T11:06:32.600000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugarlos **空『Sora』**?",
+          "color": "#58C6F3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.226
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-07-30T11:07:05.423000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T11:07:05.810000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Anober** está jugando algo divertido.",
+          "color": "#62C6EC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+            "width": 366,
+            "height": 206
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490804559970345/15.gif?ex=6a57c938&is=6a5677b8&hm=6a36c9e77d51a960277e76178d78041a5e22cf3960a48ef9de96702d0b1f349f&",
+              "width": 366,
+              "height": 206
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.387
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-07-30T11:08:00.074000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T11:08:00.439000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Anober** se puso a jugar >u<",
+          "color": "#DFBF50",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490776106074160/11.gif?ex=6a57c932&is=6a5677b2&hm=2f7057df5da8d21371deb3fb839c521dd329f1c9c3bb2629674daf193b7b7368&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776106074160/11.gif?ex=6a57c932&is=6a5677b2&hm=2f7057df5da8d21371deb3fb839c521dd329f1c9c3bb2629674daf193b7b7368&",
+            "width": 500,
+            "height": 282
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490776106074160/11.gif?ex=6a57c932&is=6a5677b2&hm=2f7057df5da8d21371deb3fb839c521dd329f1c9c3bb2629674daf193b7b7368&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776106074160/11.gif?ex=6a57c932&is=6a5677b2&hm=2f7057df5da8d21371deb3fb839c521dd329f1c9c3bb2629674daf193b7b7368&",
+              "width": 500,
+              "height": 282
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.365
+    }
+  },
+  {
+    "usuario": "hans.07",
+    "usuario_id": "710607324770729985",
+    "fecha_comando": "2020-07-30T11:08:17.271000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-07-30T11:08:17.521000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Anober** juega un poco para entretenerse uwu",
+          "color": "#06EAC3",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "width": 494,
+            "height": 277
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "width": 494,
+              "height": 277
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.25
+    }
+  },
+  {
+    "usuario": "Deleted User",
+    "usuario_id": "456226577798135808",
+    "fecha_comando": "2020-08-08T14:38:33.664000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-08-08T14:38:33.936000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**SONIC747RE** se puso a jugar >u<",
+          "color": "#1222E7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+            "width": 500,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490642525749288/10.gif?ex=6a57c912&is=6a567792&hm=78e40736550fa0aea772bfd160f3aff6da2442795275c5c28da28ce55dbb03bc&",
+              "width": 500,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.272
+    }
+  },
+  {
+    "usuario": "illuminti0899",
+    "usuario_id": "620793752528879627",
+    "fecha_comando": "2020-08-21T18:10:52.364000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-08-21T18:10:52.604000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**▪ Camille Cadell ▪** está jugando algo divertido.",
+          "color": "#2FC2D9",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "width": 494,
+            "height": 277
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "width": 494,
+              "height": 277
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.24
+    }
+  },
+  {
+    "usuario": "illuminti0899",
+    "usuario_id": "620793752528879627",
+    "fecha_comando": "2020-08-29T08:42:37.806000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-08-29T08:42:38.127000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**▪ Camille Cadell ▪** tiene una adicción por los videojuegos O.o",
+          "color": "#FCBF5E",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "width": 494,
+            "height": 277
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "width": 494,
+              "height": 277
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.321
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-09-17T22:53:45.134000-07:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-09-17T22:53:45.425000-07:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮||** está jugando algo divertido.",
+          "color": "#CC4BA7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+            "width": 500,
+            "height": 269
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677601970252414996/7caf27b212c8a8a5edde4fa285e6aad4.gif?ex=6a57e402&is=6a569282&hm=2e76cbb33b3e636173551218a8db1d1594c102d30dc64db6535c19f63d4a0901&",
+              "width": 500,
+              "height": 269
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎤",
+              "code": "microphone",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🖤",
+              "code": "black_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.291
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-11-12T18:42:03.763000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-11-12T18:42:05.518000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||♣🎭🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮🎪♠||** está jugando algo divertido.",
+          "color": "#A07324",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎭",
+              "code": "performing_arts",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ad.svg"
+            },
+            {
+              "id": "",
+              "name": "🎤",
+              "code": "microphone",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🖤",
+              "code": "black_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            },
+            {
+              "id": "",
+              "name": "🎪",
+              "code": "circus_tent",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3aa.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 1.755
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-11-16T21:24:07.839000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-11-16T21:24:08.258000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugarlos **||♣🎭🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮🎪♠||**?",
+          "color": "#0B73DE",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+            "width": 498,
+            "height": 280
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490776919769088/12.gif?ex=6a57c932&is=6a5677b2&hm=73da3cb75cc7ab1b4bb4877c466e1e49df69499512ffdc35dee05416809efccf&",
+              "width": 498,
+              "height": 280
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎭",
+              "code": "performing_arts",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ad.svg"
+            },
+            {
+              "id": "",
+              "name": "🎤",
+              "code": "microphone",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🖤",
+              "code": "black_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            },
+            {
+              "id": "",
+              "name": "🎪",
+              "code": "circus_tent",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3aa.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.419
+    }
+  },
+  {
+    "usuario": "estrellitamateoestrellita",
+    "usuario_id": "706230113544700024",
+    "fecha_comando": "2020-11-28T21:28:20.808000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-11-28T21:28:21.091000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Mateo☆** se puso a jugar >u<",
+          "color": "#DDA8AC",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+            "width": 480,
+            "height": 161
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490803784024134/16.gif?ex=6a57c938&is=6a5677b8&hm=5dea27abbb78e335331a0d044a2ebc861bd432d1c887c7a6a48c576bc9c88cfe&",
+              "width": 480,
+              "height": 161
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.283
+    }
+  },
+  {
+    "usuario": "rayitito",
+    "usuario_id": "503674359467081741",
+    "fecha_comando": "2020-12-05T01:44:53.618000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-12-05T01:44:53.886000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "¿Te encantan jugarlos **Ray | 牛**?",
+          "color": "#3AB060",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+            "width": 498,
+            "height": 350
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/676592808009793556/tenor_2.gif?ex=6a582ca7&is=6a56db27&hm=9e5ccdd15cdaaeeca52ffeba4e11b1052244f653225747af7ae174ff72f88bc4&",
+              "width": 498,
+              "height": 350
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.268
+    }
+  },
+  {
+    "usuario": "cocacolaespuma8468",
+    "usuario_id": "770035503507832834",
+    "fecha_comando": "2020-12-09T08:52:53.685000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-12-09T08:52:53.968000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**CoCa CoLa EsPuMa** juega un poco para entretenerse uwu",
+          "color": "#6386EB",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/737764788091748383/b4d17dbf-9457-47a3-91fd-432c8b00750a.gif?ex=6a57ea00&is=6a569880&hm=36bcf63ac5d4973264fe99403a0bf9a55aa8ff3104424edbb83ae14cc8cfddf0&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/737764788091748383/b4d17dbf-9457-47a3-91fd-432c8b00750a.gif?ex=6a57ea00&is=6a569880&hm=36bcf63ac5d4973264fe99403a0bf9a55aa8ff3104424edbb83ae14cc8cfddf0&",
+            "width": 600,
+            "height": 338
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/737764788091748383/b4d17dbf-9457-47a3-91fd-432c8b00750a.gif?ex=6a57ea00&is=6a569880&hm=36bcf63ac5d4973264fe99403a0bf9a55aa8ff3104424edbb83ae14cc8cfddf0&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/737764788091748383/b4d17dbf-9457-47a3-91fd-432c8b00750a.gif?ex=6a57ea00&is=6a569880&hm=36bcf63ac5d4973264fe99403a0bf9a55aa8ff3104424edbb83ae14cc8cfddf0&",
+              "width": 600,
+              "height": 338
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.283
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-12-10T12:36:03.804000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-12-10T12:36:04.006000-08:00",
+      "contenido": "> **‎Throwing a snowball • [**  Jared#2148 **]**",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bang!",
+          "url": null,
+          "timestamp": null,
+          "description": "Surprise! **Jeanpy ✝** was ambushed by **Jared**'s snowball..\n\n:snowball:**`Snowball`** **`-1`**",
+          "color": "#FFFFFE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Q6w8-7qtnfuNef8b7yc4MpgeppMzuMoJ0THJKE2hnd4/https/cdn.discordapp.com/emojis/780656357233524787.gif",
+            "canonicalUrl": "https://cdn.discordapp.com/emojis/780656357233524787.gif",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "779977687103569962",
+              "name": "snowball",
+              "code": "snowball",
+              "isAnimated": true,
+              "imageUrl": "https://cdn.discordapp.com/emojis/779977687103569962.gif"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.202
+    }
+  },
+  {
+    "usuario": "winter507_",
+    "usuario_id": "752997948190883920",
+    "fecha_comando": "2020-12-12T10:08:32.992000-08:00",
+    "comando_completo": "ch!game Danganrompa V3",
+    "respuesta_bot": {
+      "fecha": "2020-12-12T10:08:33.285000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Kusami** tiene una adicción por los videojuegos O.o",
+          "color": "#B82E08",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+            "width": 494,
+            "height": 277
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/399448944889036801/677602245361008643/giphy_4.gif?ex=6a57e444&is=6a5692c4&hm=b301b1c14bafa5069770f1f40b8135af7c747bbe39e4e6bf138c5c8d0700e98a&",
+              "width": 494,
+              "height": 277
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.293
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-12-18T11:02:01.490000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-12-18T11:02:01.929000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||♣🎭🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮🎪♠||** está jugando algo divertido.",
+          "color": "#C554E5",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490788873535499/14.gif?ex=6a5871f5&is=6a572075&hm=f0af573089f73a3a39823f1d7ead10262d823a42ece238ad96ad467fb5959d3d&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490788873535499/14.gif?ex=6a5871f5&is=6a572075&hm=f0af573089f73a3a39823f1d7ead10262d823a42ece238ad96ad467fb5959d3d&",
+            "width": 422,
+            "height": 233
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490788873535499/14.gif?ex=6a5871f5&is=6a572075&hm=f0af573089f73a3a39823f1d7ead10262d823a42ece238ad96ad467fb5959d3d&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490788873535499/14.gif?ex=6a5871f5&is=6a572075&hm=f0af573089f73a3a39823f1d7ead10262d823a42ece238ad96ad467fb5959d3d&",
+              "width": 422,
+              "height": 233
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎭",
+              "code": "performing_arts",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ad.svg"
+            },
+            {
+              "id": "",
+              "name": "🎤",
+              "code": "microphone",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🖤",
+              "code": "black_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            },
+            {
+              "id": "",
+              "name": "🎪",
+              "code": "circus_tent",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3aa.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.439
+    }
+  },
+  {
+    "usuario": "emildark",
+    "usuario_id": "326487063379574794",
+    "fecha_comando": "2020-12-20T06:39:26.532000-08:00",
+    "comando_completo": "ch!game",
+    "respuesta_bot": {
+      "fecha": "2020-12-20T06:39:26.630000-08:00",
+      "contenido": "",
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**||♣🎭🎤❤𝐸𝓂𝒾𝓁𝒟𝒶𝓇𝓀🖤🎮🎪♠||** tiene una adicción por los videojuegos O.o",
+          "color": "#C8AC3C",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/694005107083313252/701490695642546266/3.gif?ex=6a5871de&is=6a57205e&hm=61c05b197830fd21ae5a699d5468f6b8c9ccd13abba8c8c424500b098f87c881&",
+            "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490695642546266/3.gif?ex=6a5871de&is=6a57205e&hm=61c05b197830fd21ae5a699d5468f6b8c9ccd13abba8c8c424500b098f87c881&",
+            "width": 498,
+            "height": 278
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/694005107083313252/701490695642546266/3.gif?ex=6a5871de&is=6a57205e&hm=61c05b197830fd21ae5a699d5468f6b8c9ccd13abba8c8c424500b098f87c881&",
+              "canonicalUrl": "https://cdn.discordapp.com/attachments/694005107083313252/701490695642546266/3.gif?ex=6a5871de&is=6a57205e&hm=61c05b197830fd21ae5a699d5468f6b8c9ccd13abba8c8c424500b098f87c881&",
+              "width": 498,
+              "height": 278
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "🎭",
+              "code": "performing_arts",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ad.svg"
+            },
+            {
+              "id": "",
+              "name": "🎤",
+              "code": "microphone",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🖤",
+              "code": "black_heart",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a4.svg"
+            },
+            {
+              "id": "",
+              "name": "🎮",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            },
+            {
+              "id": "",
+              "name": "🎪",
+              "code": "circus_tent",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3aa.svg"
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "delta_segundos": 0.098
+    }
+  }
+]
