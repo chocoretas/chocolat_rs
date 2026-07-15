@@ -16,7 +16,7 @@ impl Command for TRUMP {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🐦 Tweet generado con éxito.");
+            .description("Debes poner un texto para que sea aprobado.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

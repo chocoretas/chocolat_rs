@@ -16,7 +16,7 @@ impl Command for JUMBO {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🐘 Emoji en grande.");
+            .description("Por favor, introduce un emoji válido.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

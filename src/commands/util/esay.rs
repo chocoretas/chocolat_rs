@@ -16,7 +16,7 @@ impl Command for ESAY {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📑 Embed enviado.");
+            .description("Escriba un contenido para decir");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

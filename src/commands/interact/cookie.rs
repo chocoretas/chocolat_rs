@@ -7,8 +7,8 @@ pub static COOKIE: InteractionCommand = InteractionCommand::new(
     "Regala una galleta a alguien",
     "Interacción",
     true,
-    "**$User** le regaló una galleta a **$Target** 🍪",
-    ""
+    "**$Target,** has recibido una :cookie: de **$User**",
+    "**$User** tiene una :cookie:"
 );
 
 inventory::submit! {

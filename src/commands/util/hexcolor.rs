@@ -16,7 +16,7 @@ impl Command for HEXCOLOR {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🎨 Color Hex de muestra.");
+            .description("El código hexadecimal está mal.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

@@ -16,7 +16,7 @@ impl Command for SDM {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📨 Mensaje enviado por DM.");
+            .description("Mencione al usuario y especifique un mensaje para enviar.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

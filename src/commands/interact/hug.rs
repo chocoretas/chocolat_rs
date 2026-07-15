@@ -7,8 +7,8 @@ pub static HUG: InteractionCommand = InteractionCommand::new(
     "abraza a otro usuario",
     "Interacción",
     true,
-    "**$User** le dio un abrazo a **$Target** owo",
-    ""
+    "**$User** le dio un abrazo a **$Target**",
+    "**$User** da un abrazo"
 );
 
 inventory::submit! {

@@ -7,8 +7,8 @@ pub static SLAP: InteractionCommand = InteractionCommand::new(
     "Dale una bofetada a alguien",
     "Interacción",
     true,
-    "**$User** le dio una bofetada a **$Target** D:",
-    ""
+    "**$User** le dio una bofetada a **$Target**",
+    "**$User** da una bofetada"
 );
 
 inventory::submit! {

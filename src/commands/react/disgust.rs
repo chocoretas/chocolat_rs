@@ -7,8 +7,8 @@ pub static DISGUST: InteractionCommand = InteractionCommand::new(
     "Muestra tu disgusto hacia algo o alguien",
     "Reacción",
     false,
-    "A **$User** no le agrada **$Target** e.e",
-    "**$User** esta disgustado."
+    "**$User** está disgustado.",
+    "**$User** está disgustado."
 );
 
 inventory::submit! {

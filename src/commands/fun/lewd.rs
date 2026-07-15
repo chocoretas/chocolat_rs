@@ -16,7 +16,7 @@ impl Command for LEWD {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("😳 ¡Eso es muy lewd! o///O");
+            .description("se ha puesto lascivo. o///o");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

@@ -16,7 +16,7 @@ impl Command for LIKE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("👍 ¡Le ha dado like!");
+            .description("aprueba esto! :D/");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

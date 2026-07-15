@@ -7,8 +7,8 @@ pub static ANGRY: InteractionCommand = InteractionCommand::new(
     "Muestra tu enfado o enfádate con alguien",
     "Reacción",
     false,
-    "**$User** se ha enfadado con **$Target** >:C",
-    "**$User** se ha enfadado >:C"
+    "**$User** está enfadado >:C",
+    "**$User** está enfadado >:C"
 );
 
 inventory::submit! {

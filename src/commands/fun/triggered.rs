@@ -16,7 +16,7 @@ impl Command for TRIGGERED {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("⚠️ **TRIGGERED**");
+            .description("Leaderboard Rank: 1st");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

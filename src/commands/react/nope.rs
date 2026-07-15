@@ -7,8 +7,8 @@ pub static NOPE: InteractionCommand = InteractionCommand::new(
     "Niega algo rotundamente",
     "Reacción",
     false,
-    "**$User** le dice que NO a **$Target**",
-    "**$User** dice que no rotundamente."
+    "NOPE!",
+    "NOPE!"
 );
 
 inventory::submit! {

@@ -7,8 +7,8 @@ pub static SING: InteractionCommand = InteractionCommand::new(
     "Ponte a cantar una cancion",
     "Reacción",
     false,
-    "**$User** le canta a **$Target**",
-    "**$User** esta cantando."
+    "**$User** Está cantando. ＾3＾♪",
+    "**$User** Está cantando. ＾3＾♪"
 );
 
 inventory::submit! {

@@ -16,7 +16,7 @@ impl Command for MEME {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("😂 Aquí tienes un buen meme.");
+            .description("estás en la lista negra, no puedes usar este comando.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

@@ -7,8 +7,8 @@ pub static SIP: InteractionCommand = InteractionCommand::new(
     "Bebe aca algo no se",
     "Interacción",
     false,
-    "**$User** está bebiendo de forma atenta.",
-    "**$User** está bebiendo de forma atenta."
+    "**$User** Está bebiendo de forma atenta.",
+    "**$User** Está bebiendo de forma atenta."
 );
 
 inventory::submit! {

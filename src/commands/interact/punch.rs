@@ -7,8 +7,8 @@ pub static PUNCH: InteractionCommand = InteractionCommand::new(
     "Dale un puñetazo a alguien",
     "Interacción",
     true,
-    "**$User** le dio un puñetazo a **$Target** 👊",
-    ""
+    "**$User** le dio un golpe a **$Target**",
+    "**$User** da un golpe"
 );
 
 inventory::submit! {

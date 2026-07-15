@@ -16,7 +16,7 @@ impl Command for REPORTUSER {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🚨 Reporte de usuario enviado a los moderadores.");
+            .description("Debes mencionar al usuario que quieres reportar.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

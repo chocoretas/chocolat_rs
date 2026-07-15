@@ -7,8 +7,8 @@ pub static SHRUG: InteractionCommand = InteractionCommand::new(
     "Muestra que no lo sabes o no te importa",
     "Reacción",
     false,
-    "A **$User** no le importa **$Target**",
-    "**$User** no lo sabe..."
+    "A **$User** le vale madres.",
+    "A **$User** le vale madres."
 );
 
 inventory::submit! {

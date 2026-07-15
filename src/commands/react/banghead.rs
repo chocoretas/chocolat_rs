@@ -7,8 +7,8 @@ pub static BANGHEAD: InteractionCommand = InteractionCommand::new(
     "Golpeate la cabeza contra la pared",
     "Reacción",
     false,
-    "**$User** se golpea la cabeza por **$Target**",
-    "**$User** se esta golpeando la cabeza."
+    "**$User** se está golpeando la cabeza.",
+    "**$User** se está golpeando la cabeza."
 );
 
 inventory::submit! {

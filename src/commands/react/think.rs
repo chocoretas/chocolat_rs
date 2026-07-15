@@ -7,8 +7,8 @@ pub static THINK: InteractionCommand = InteractionCommand::new(
     "Ponte a pensar profundamente",
     "Reacción",
     false,
-    "**$User** piensa en **$Target**",
-    "**$User** se puso a pensar"
+    "**$User** Se puso a pensar.",
+    "**$User** Se puso a pensar."
 );
 
 inventory::submit! {

@@ -16,7 +16,7 @@ impl Command for OSU {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🎯 Estadísticas de osu!");
+            .description("Especifica el modo de juego y el usuario.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

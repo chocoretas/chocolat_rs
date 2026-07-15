@@ -16,7 +16,7 @@ impl Command for SETPREFIX {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🔑 Prefijo del servidor actualizado a `ch!`.");
+            .description("Este comando requiere permisos administrativos.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

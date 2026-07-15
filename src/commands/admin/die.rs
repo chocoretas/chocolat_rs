@@ -16,7 +16,7 @@ impl Command for DIE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("💀 Proceso finalizado.");
+            .description(":check: Deposited 🍫1,577 to your bank!");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

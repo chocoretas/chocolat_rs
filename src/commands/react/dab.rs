@@ -7,8 +7,8 @@ pub static DAB: InteractionCommand = InteractionCommand::new(
     "Haz un dab genial",
     "Reacción",
     false,
-    "**$User** le hizo un dab a **$Target**",
-    "**$User** hizo un dab."
+    "**$User** hizo un dab",
+    "**$User** hizo un dab"
 );
 
 inventory::submit! {

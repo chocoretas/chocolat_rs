@@ -7,8 +7,8 @@ pub static LICK: InteractionCommand = InteractionCommand::new(
     "Lame a un usuario",
     "Interacción",
     true,
-    "**$User** lamió a **$Target** :P",
-    ""
+    "**$User** lamió a **$Target** o///o",
+    "**$User** lamió a alguien o///o"
 );
 
 inventory::submit! {

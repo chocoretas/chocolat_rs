@@ -7,8 +7,8 @@ pub static BORED: InteractionCommand = InteractionCommand::new(
     "Muestra que tan aburrido estas",
     "Reacción",
     false,
-    "**$User** se aburre de **$Target**",
-    "**$User** esta aburrido."
+    "**$User** Está aburrido",
+    "**$User** Está aburrido"
 );
 
 inventory::submit! {

@@ -8,7 +8,7 @@ pub static KILL: InteractionCommand = InteractionCommand::new(
     "Interacción",
     true,
     "**$User** mató a **$Target** D':",
-    ""
+    "**$User** mató a alguien D':"
 );
 
 inventory::submit! {

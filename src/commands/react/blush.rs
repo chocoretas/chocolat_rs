@@ -7,8 +7,8 @@ pub static BLUSH: InteractionCommand = InteractionCommand::new(
     "Sonrojate o muestra tu pena",
     "Reacción",
     false,
-    "**$User** se sonrojo por **$Target** o///O",
-    "**$User** esta sonrojado o///O"
+    "**$User** está sonrojado o///O",
+    "**$User** está sonrojado o///O"
 );
 
 inventory::submit! {

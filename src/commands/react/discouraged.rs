@@ -7,8 +7,8 @@ pub static DISCOURAGED: InteractionCommand = InteractionCommand::new(
     "Siente decaimiento o desanimo",
     "Reacción",
     false,
-    "**$User** se siente decaido por **$Target** :(",
-    "**$User** se siente decaido. :("
+    "**$User** se siente decaído. :(",
+    "**$User** se siente decaído. :("
 );
 
 inventory::submit! {

@@ -7,8 +7,8 @@ pub static KICKBUTTS: InteractionCommand = InteractionCommand::new(
     "Patea a alguien",
     "Interacción",
     true,
-    "**$User** ha pateado a **$Target** :c",
-    ""
+    "**$User** pateó a **$Target**.",
+    "**$User** patea traseros."
 );
 
 inventory::submit! {

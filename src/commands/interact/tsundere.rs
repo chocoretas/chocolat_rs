@@ -7,8 +7,8 @@ pub static TSUNDERE: InteractionCommand = InteractionCommand::new(
     "Sé tsundere con alguien",
     "Interacción",
     true,
-    "¬¬" ¡Hmm! tonto, **$Target**",
-    ""
+    "**$User** le está siendo tsundere a **$Target**",
+    "**$User** es tsundere"
 );
 
 inventory::submit! {

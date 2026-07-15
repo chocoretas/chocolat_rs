@@ -16,7 +16,7 @@ impl Command for WIKI {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📖 Artículo de Wikipedia encontrado.");
+            .description("Andrés Manuel López Obrador (Tepetitán, México)");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

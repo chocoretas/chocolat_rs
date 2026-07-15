@@ -16,7 +16,7 @@ impl Command for USERINFO {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("👤 Información del usuario.");
+            .description(":stopwatch: You cannot work for 1 hour and 34 minutes.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

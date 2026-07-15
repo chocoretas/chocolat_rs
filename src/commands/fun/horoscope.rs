@@ -16,7 +16,7 @@ impl Command for HOROSCOPE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("⭐ Hoy es un excelente día para aprender cosas nuevas.");
+            .description("Tu horóscopo es el siguiente");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

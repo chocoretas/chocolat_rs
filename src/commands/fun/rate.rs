@@ -16,7 +16,7 @@ impl Command for RATE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("⭐ Le doy una calificación de **8/10**.");
+            .description("Le doy un **8/10**");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

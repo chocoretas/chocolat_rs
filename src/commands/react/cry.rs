@@ -7,8 +7,8 @@ pub static CRY: InteractionCommand = InteractionCommand::new(
     "Ponte a llorar",
     "Reacción",
     false,
-    "**$User** llora por **$Target**",
-    "**$User** esta llorando"
+    "**$User** está llorando.",
+    "**$User** está llorando."
 );
 
 inventory::submit! {

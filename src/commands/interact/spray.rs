@@ -7,8 +7,8 @@ pub static SPRAY: InteractionCommand = InteractionCommand::new(
     "Rocía con agua a alguien",
     "Interacción",
     true,
-    "**$User** roció a **$Target** 💦",
-    ""
+    "**$User** ha rociado a **$Target** >n<",
+    "**$User** rocía agua >n<"
 );
 
 inventory::submit! {

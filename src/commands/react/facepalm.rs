@@ -7,8 +7,8 @@ pub static FACEPALM: InteractionCommand = InteractionCommand::new(
     "Haz un facepalm por algo absurdo",
     "Reacción",
     false,
-    "**$User** hace un facepalm por **$Target**",
-    "**$User** se ha decepcionado..."
+    "**$User** está decepcionado.",
+    "**$User** está decepcionado."
 );
 
 inventory::submit! {

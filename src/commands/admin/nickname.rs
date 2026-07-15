@@ -16,7 +16,7 @@ impl Command for NICKNAME {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🏷️ Apodo actualizado.");
+            .description("No tienes permisos para ejecutar este comando.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

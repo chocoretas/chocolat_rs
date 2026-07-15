@@ -16,7 +16,7 @@ impl Command for HUSBANDO {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("💖 Aquí está tu husbando.");
+            .description("One Piece");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

@@ -7,8 +7,8 @@ pub static BYE: InteractionCommand = InteractionCommand::new(
     "byebye",
     "Interacción",
     false,
-    "**$User** le dice adiós a **$Target**",
-    "**$User** se retira del lugar, ¡adiós!"
+    "**$User** acarició a **$Target** uwu",
+    "**$User** se despide"
 );
 
 inventory::submit! {

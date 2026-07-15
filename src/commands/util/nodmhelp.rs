@@ -16,7 +16,7 @@ impl Command for NODMHELP {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📜 Aquí tienes la lista de comandos en el canal.");
+            .description("Holii~, me llamo Chocolat n.n, y esta es mi lista de comandos~.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

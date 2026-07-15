@@ -16,7 +16,7 @@ impl Command for LICENSE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🪪 Licencia oficial certificada por Chocolat.");
+            .description("Licencia certificada.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

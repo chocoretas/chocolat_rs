@@ -7,8 +7,8 @@ pub static HI: InteractionCommand = InteractionCommand::new(
     "Saluda a alguien o a todos",
     "Interacción",
     false,
-    "**$User** saluda a **$Target** 👋",
-    "**$User** saluda a todo el mundo 👋"
+    "**$User** Saluda a **$Target**",
+    "**$User** saluda a todos"
 );
 
 inventory::submit! {

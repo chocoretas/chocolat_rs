@@ -7,7 +7,7 @@ pub static SLEEP: InteractionCommand = InteractionCommand::new(
     "Vete a dormir o duerme junto a alguien",
     "Interacción",
     false,
-    "**$User** se durmió junto a **$Target** zZz",
+    "**$User** tiene sueño o ya se durmió... zZz",
     "**$User** tiene sueño o ya se durmió... zZz"
 );
 

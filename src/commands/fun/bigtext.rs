@@ -16,7 +16,7 @@ impl Command for BIGTEXT {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🇧 🇮 🇬 🇹 🇪 🇽 🇹");
+            .description("Escriba algo para agrandar en letras grandes.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

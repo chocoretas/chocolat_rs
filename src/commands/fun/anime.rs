@@ -16,7 +16,7 @@ impl Command for ANIME {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📺 Información de anime.");
+            .description("Debes poner el nombre del anime a buscar.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

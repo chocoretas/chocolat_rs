@@ -7,8 +7,8 @@ pub static CLAPS: InteractionCommand = InteractionCommand::new(
     "Aplaudir por algo o alguien",
     "Interacción",
     false,
-    "**$User** le aplaude a **$Target** 👏",
-    "**$User** comenzó a aplaudir 👏"
+    "**$User** Le aplaude a **$Target**",
+    "**$User** comenzó a aplaudir."
 );
 
 inventory::submit! {

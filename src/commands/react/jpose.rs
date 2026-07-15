@@ -7,8 +7,8 @@ pub static JPOSE: InteractionCommand = InteractionCommand::new(
     "Posa con estilo como en JoJos",
     "Reacción",
     false,
-    "**$User** le hace una pose de JoJos a **$Target**",
-    "**$User** se puso a posar como los JoJos."
+    "**$User** se puso a posar como los Jojo's.",
+    "**$User** se puso a posar como los Jojo's."
 );
 
 inventory::submit! {

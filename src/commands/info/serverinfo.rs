@@ -16,7 +16,7 @@ impl Command for SERVERINFO {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📊 Información del servidor.");
+            .description(":stopwatch: You cannot work for 59 minutes and 2 seconds.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

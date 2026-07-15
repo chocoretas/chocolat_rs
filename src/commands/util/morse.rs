@@ -16,7 +16,7 @@ impl Command for MORSE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📻 ... --- ...");
+            .description("**Texto a cifrar:** Te amo\n**Texto cifrado:** - . / .- -- ---");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

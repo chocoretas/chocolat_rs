@@ -16,7 +16,7 @@ impl Command for RANIME {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📺 Te recomiendo ver este anime.");
+            .description("Te recomiendo el anime: [Kanokon]");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

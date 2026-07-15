@@ -7,8 +7,8 @@ pub static HANDHOLDING: InteractionCommand = InteractionCommand::new(
     "Toma de la mano a alguien",
     "Interacción",
     true,
-    "**$User** le ha agarrado la mano a **$Target** 🤝",
-    ""
+    "**$User** le ha agarrado la mano a **$Target**",
+    "**$User** busca una mano"
 );
 
 inventory::submit! {

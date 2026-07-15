@@ -7,8 +7,8 @@ pub static BITE: InteractionCommand = InteractionCommand::new(
     "Muerde al usuario mencionado, o deja que Chocolat te muerda.",
     "Interacción",
     false,
-    "**$User** ha mordido a **$Target** >n<",
-    "ñam... *muerde a **$User***"
+    "**$User** ha mordido a **$Target**",
+    "**$User** ha mordido a **$Target**"
 );
 
 inventory::submit! {

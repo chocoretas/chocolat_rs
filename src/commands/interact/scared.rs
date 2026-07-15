@@ -7,8 +7,8 @@ pub static SCARED: InteractionCommand = InteractionCommand::new(
     "Muestra tu miedo o asústate de alguien",
     "Interacción",
     false,
-    "A **$User** le aterroriza **$Target** D:",
-    "**$User** tiene miedo de algo D:"
+    "**$User** Tiene miedo de algo. D:",
+    "**$User** Tiene miedo de algo. D:"
 );
 
 inventory::submit! {

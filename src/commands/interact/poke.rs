@@ -7,8 +7,8 @@ pub static POKE: InteractionCommand = InteractionCommand::new(
     "Molesta o toca con el dedo a alguien",
     "Interacción",
     true,
-    "**$User** le dio un toque a **$Target** 👉👈",
-    ""
+    "**$User** fastidia a **$Target** e.e",
+    "**$User** molesta e.e"
 );
 
 inventory::submit! {

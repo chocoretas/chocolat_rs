@@ -16,7 +16,7 @@ impl Command for LOVE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("💖 Compatibilidad de amor: **85%**");
+            .description("**74** % [████████...]");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

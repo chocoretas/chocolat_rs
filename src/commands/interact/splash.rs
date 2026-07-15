@@ -7,8 +7,8 @@ pub static SPLASH: InteractionCommand = InteractionCommand::new(
     "Moja a alguien con agua",
     "Interacción",
     true,
-    "**$User** moja a **$Target** owo",
-    ""
+    "**$User** moja a **$Target**",
+    "**$User** salpica agua"
 );
 
 inventory::submit! {

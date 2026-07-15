@@ -16,7 +16,7 @@ impl Command for ASCII {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("```\n  /\_/\\ \n ( o.o )\n  > ^ <\n```");
+            .description("Escriba algo para transformar en ascii");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

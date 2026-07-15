@@ -7,7 +7,7 @@ pub static DANCE: InteractionCommand = InteractionCommand::new(
     "Ponte a bailar o baila con alguien",
     "Interacción",
     false,
-    "**$User** se puso a bailar con **$Target** 💃",
+    "**$User** misteriosamente se puso a bailar o.o",
     "**$User** misteriosamente se puso a bailar o.o"
 );
 

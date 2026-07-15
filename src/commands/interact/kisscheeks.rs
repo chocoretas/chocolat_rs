@@ -8,7 +8,7 @@ pub static KISSCHEEKS: InteractionCommand = InteractionCommand::new(
     "Interacción",
     true,
     "**$User** le dio un beso en la mejilla a **$Target** n.n",
-    ""
+    "**$User** besa mejillas n.n"
 );
 
 inventory::submit! {

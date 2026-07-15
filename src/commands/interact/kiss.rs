@@ -8,7 +8,7 @@ pub static KISS: InteractionCommand = InteractionCommand::new(
     "Interacción",
     true,
     "**$User** le dio un beso a **$Target** o////o",
-    ""
+    "**$User** da un beso o////o"
 );
 
 inventory::submit! {

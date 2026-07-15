@@ -7,8 +7,8 @@ pub static VOMIT: InteractionCommand = InteractionCommand::new(
     "Vomita de algo desagradable",
     "Reacción",
     false,
-    "**$User** vomito en **$Target**",
-    "**$User** vomito. Bleh."
+    "**$User** vomitó.",
+    "**$User** vomitó."
 );
 
 inventory::submit! {

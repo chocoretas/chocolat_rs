@@ -7,8 +7,8 @@ pub static POUT: InteractionCommand = InteractionCommand::new(
     "Haz un puchero o berrinche",
     "Reacción",
     false,
-    "**$User** le hace un puchero a **$Target** >3<",
-    "**$User** esta haciendo un puchero >3<"
+    "**$User** hace puchero.",
+    "**$User** hace puchero."
 );
 
 inventory::submit! {

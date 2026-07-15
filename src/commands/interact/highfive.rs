@@ -7,8 +7,8 @@ pub static HIGHFIVE: InteractionCommand = InteractionCommand::new(
     "Choca los 5 con alguien",
     "Interacción",
     true,
-    "¡**$User** choca esos 5 con **$Target**! 🙌",
-    ""
+    "**$User** le dio los 5 a **$Target**",
+    "**$User** choca los 5"
 );
 
 inventory::submit! {

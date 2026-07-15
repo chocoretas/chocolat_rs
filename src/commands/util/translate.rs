@@ -16,7 +16,7 @@ impl Command for TRANSLATE {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("🌐 Traducción realizada con éxito.");
+            .description(":warning: El comando ha sido desactivado temporalmente.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

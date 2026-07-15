@@ -7,8 +7,8 @@ pub static CONFUSED: InteractionCommand = InteractionCommand::new(
     "Muestra tu confusion",
     "Reacción",
     false,
-    "**$User** esta confundido con **$Target** o.O",
-    "**$User** esta confundido o.O"
+    "**$User** está confundido o.O",
+    "**$User** está confundido o.O"
 );
 
 inventory::submit! {

@@ -8,7 +8,7 @@ pub static CUDDLE: InteractionCommand = InteractionCommand::new(
     "Interacción",
     true,
     "**$User** se acurrucó con **$Target** uwu",
-    ""
+    "**$User** quiere acurrucarse"
 );
 
 inventory::submit! {

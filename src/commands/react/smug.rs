@@ -7,8 +7,8 @@ pub static SMUG: InteractionCommand = InteractionCommand::new(
     "Presume con una cara presumida",
     "Reacción",
     false,
-    "**$User** le presume a **$Target**",
-    "**$User** esta presumiendo"
+    "**$User** está presumiendo.",
+    "**$User** está presumiendo."
 );
 
 inventory::submit! {

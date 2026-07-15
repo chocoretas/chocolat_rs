@@ -7,8 +7,8 @@ pub static HAPPY: InteractionCommand = InteractionCommand::new(
     "Muestra tu felicidad",
     "Reacción",
     false,
-    "**$User** esta feliz con **$Target** :D/",
-    "**$User** esta feliz :D/"
+    "**$User** está feliz :D/",
+    "**$User** está feliz :D/"
 );
 
 inventory::submit! {

@@ -16,7 +16,7 @@ impl Command for POKEDEX {
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
         let embed = CreateEmbed::new()
-            .description("📱 Pokédex: información cargada.");
+            .description("It is unskilled at storing electric power.");
 
         msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
         Ok(())

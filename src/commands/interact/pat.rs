@@ -7,8 +7,8 @@ pub static PAT: InteractionCommand = InteractionCommand::new(
     "Acaricia la cabeza de alguien",
     "Interacción",
     true,
-    "**$User** acarició a **$Target** uwu",
-    ""
+    "**$User** acarició a **$Target**",
+    "**$User** acaricia"
 );
 
 inventory::submit! {
