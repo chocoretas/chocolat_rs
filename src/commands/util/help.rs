@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{CreateMessage, Mentionable};
+use serenity::all::{CreateMessage, CreateEmbed, CreateEmbedAuthor, Colour, Mentionable};
 use async_trait::async_trait;
 use std::collections::HashMap;
 
@@ -10,7 +10,7 @@ impl Command for Help {
     fn info(&self) -> CommandInfo {
         CommandInfo {
             name: "help",
-            description: "Manda la lista de comandos a tus DMs", //texto hecho por chatgpt pq no se pensar
+            description: "Manda la lista de comandos a tus DMs",
             category: "Util",
         }
     }
@@ -21,6 +21,34 @@ impl Command for Help {
         msg: &serenity::all::Message,
         _args: Vec<String>,
     ) -> serenity::Result<()> {
+        if !_args.is_empty() {
+            let cmd_name = &_args[0];
+            let mut found_info = None;
+            for reg in inventory::iter::<CommandRegistration> {
+                if reg.command.info().name.eq_ignore_ascii_case(cmd_name) {
+                    found_info = Some(reg.command.info());
+                    break;
+                }
+            }
+
+            if let Some(info) = found_info {
+                let embed = CreateEmbed::new()
+                    .colour(Colour::from_rgb(0x70, 0xE3, 0x70)) // color:#70E370
+                    .author(CreateEmbedAuthor::new(format!("Ayuda detallada de {}", info.name)))
+                    .field("Grupo", format!("Comandos {}", info.category), false)
+                    .field("Permisos", "Ninguno.", false)
+                    .field("Descripción", info.description, false)
+                    .field("Uso", format!("ch!{} [@usuario]", info.name), false)
+                    .field("Ejemplo", "Ninguno.", false)
+                    .footer(serenity::all::CreateEmbedFooter::new("<> = obligatorio | [] = opcional. | No incluyas estos símbolos al momento de ejecutar el comando."));
+
+                msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
+            } else {
+                let _ = msg.channel_id.say(&ctx.http, "No se encontró ayuda para ese comando.").await;
+            }
+            return Ok(());
+        }
+
         let mut categories: HashMap<&str, Vec<String>> = HashMap::new();
 
         for reg in inventory::iter::<CommandRegistration> {
@@ -30,21 +58,19 @@ impl Command for Help {
                 .push(info.name.to_string());
         }
 
-        // Construir texto
         let mut help_text = String::from("**Lista de Comandos**\n\n");
 
         let mut cat_vec: Vec<(&&str, &Vec<String>)> = categories.iter().collect();
-        cat_vec.sort_by_key(|(cat, _)| **cat);   // doble * porque es &&str
+        cat_vec.sort_by_key(|(cat, _)| **cat);
 
         for (category, commands) in cat_vec {
             let mut cmds = commands.clone();
             cmds.sort();
 
             help_text.push_str(&format!("**{}**\n", category));
-            help_text.push_str(&format!("`{}`\n\n", cmds.join("` • `"))); //ngl no se si esto se ve lo suficientemente bien
+            help_text.push_str(&format!("`{}`\n\n", cmds.join("` • `")));
         }
 
-        // Enviar DM
         let dm_builder = CreateMessage::new().content(help_text);
         
         match msg.author.id.direct_message(&ctx.http, dm_builder).await {
@@ -55,7 +81,6 @@ impl Command for Help {
                 ).await;
             }
             Err(_) => {
-                // Not sure si esto funciona tho
                 let _ = msg.channel_id.say(
                     &ctx.http,
                     "No pude enviarte mensaje privado. ¿Tienes los DMs abiertos?"

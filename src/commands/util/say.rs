@@ -1,5 +1,5 @@
 use crate::command::{Command, CommandInfo, CommandRegistration};
-use serenity::all::{Context, Message, CreateMessage, CreateEmbed};
+use serenity::all::{Context, Message, CreateMessage};
 use async_trait::async_trait;
 
 pub struct SAY;
@@ -9,16 +9,19 @@ impl Command for SAY {
     fn info(&self) -> CommandInfo {
         CommandInfo {
             name: "say",
-            description: "Haz que el bot repita un mensaje en el canal",
+            description: "Haz que el bot repita un mensaje",
             category: "Util",
         }
     }
 
     async fn execute(&self, ctx: &Context, msg: &Message, _args: Vec<String>) -> serenity::Result<()> {
-        let embed = CreateEmbed::new()
-            .description("Escriba algo para repetir.");
+        if _args.is_empty() {
+            msg.channel_id.send_message(&ctx.http, CreateMessage::new().content("Escriba algo para repetir.")).await?;
+            return Ok(());
+        }
 
-        msg.channel_id.send_message(&ctx.http, CreateMessage::new().embed(embed)).await?;
+        let text = _args.join(" ");
+        msg.channel_id.send_message(&ctx.http, CreateMessage::new().content(text)).await?;
         Ok(())
     }
 }
