@@ -31,9 +31,8 @@ impl Command for PING {
         &self,
         ctx: &serenity::all::Context,
         msg: &serenity::all::Message,
-        _args: Vec<String>,//Since no lo usamos
+        _args: Vec<String>,
     ) -> serenity::Result<()> {
-        //Logica del comando
         let start = Instant::now();
 
         let mut calculating = msg
@@ -41,16 +40,16 @@ impl Command for PING {
             .send_message(
                 &ctx.http,
                 CreateMessage::new()
-                    .content("⏳ Calculando latencia..."),
+                    .content("Calculando latencia..."),
             )
             .await?;
 
         let latency = start.elapsed().as_millis();
 
         let embed = CreateEmbed::new()
-            .title("🏓 Pong!")
+            .title("Pong!")
             .description(format!(
-                "📡 Latencia: `{latency}` ms"
+                "Latencia: `{latency}` ms"
             ))
             .footer(
                 CreateEmbedFooter::new(
